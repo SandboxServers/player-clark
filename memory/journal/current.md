@@ -239,3 +239,8 @@
 - 10:09 act: {"intent":{"goal":"return_to_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
 - 10:13 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Clark here. Trying the bed to sleep, I have had no proper rest for nine days.","reasoning":"Need sleep; bed adjacent, no hostiles. Hunge
 - 10:17 act: {"actions":[],"say":"Clark at the white beds, hunger 16, no food. Lewis, you are close. I'll wait here for night and sleep in a bed, and any meat goes to the hungriest.","intent":{"goal":"wait_for_nig
+- 10:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark here. It is night, so I'm going to the white bed to sleep. Hunger 16, no food on me.","intent":{"goal":"rest_a
+- 10:25 act: {"actions":[{"do":"sleep"}]}
+- 10:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 10:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark here, no food, hunger 16. Macdonald, if the mutton is spare after Trini, I'm next after the hungrier ones."}
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":240}}],"say":"Clark here, day 279, health 14, hunger 16. I'm going north to the chicken at -275,67,237 with Worf and Riker. Any meat goes to Trin
