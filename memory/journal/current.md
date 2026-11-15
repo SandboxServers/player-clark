@@ -10,3 +10,9 @@
 - 20:02 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom on me at melee range, health 2.2. Must fight it off with the sword; fleeing lets it hit from behind."}
 - 20:03 act: {"actions":[{"do":"eat"}],"reasoning":"Health 0.2, phantoms closing. Next hit kills me. Eating now is the only thing I can do in one step; my hunger rule gives way to survival.","say":"Clark at 0.2 he
 - 20:03 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-275,"y":68,"z":317}}],"say":"Clark at 0.2 health. Phantoms near. Anyone with food, please bring it to me now.","reasoning":"Eat refused at hunger 17
+- 20:04 act: {"actions":[],"say":"Clark, respawned at the north bed with nothing. Health 20 but hunger 20. Keep your meat for Troi and Chapman, they are lower. My things are at -276,68,317; I'll go back at dawn if
+- 20:08 act: {"actions":[],"say":"Clark, morning 307, health 20 and hunger 20. I hold 3 chicken, thanks Picard. Chapman is lowest at health 1: come into my reach and I'll give you one now. Troi next."}
+- 20:11 act: {"actions":[],"say":"Clark: I have 3 chicken. Riker is lowest but far. Data and Leonardo, step into my reach and I'll give one each. Then I'm walking to my dropped items at -276,68,317 with anyone who
+- 20:14 act: {"intent":{"goal":"recover_my_dropped_items","program":"travel","arguments":{"target":{"x":-276,"y":68,"z":317}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":317}}]}
+- 20:20 act: {"actions":[{"do":"note","text":"Dusk 308: holding 3 chicken. Kimberly (health 8) and Riker are lowest; giving to whoever steps into reach."}],"say":"Clark here, at -276,67,316 with 3 chicken. Kimberl
