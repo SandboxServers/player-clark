@@ -6,3 +6,7 @@
 - 19:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"reasoning":"Three blocks from the bed. Step next to it on the north side."}
 - 19:44 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, night, seven days unslept. Try sleep."}
 - 19:49 act: {"actions":[],"say":"Clark at the north beds, dawn 307. Health 4, hunger 17. I'll hunt with the group. Call out any meat and I'll come.","reasoning":"Dawn; group hunting. Low health, so I join them an
+- 19:59 act: {"say":"Clark here, at the white beds. I hold one chicken and two rotten flesh for whoever is lowest. Still hungry-ish, not yet eating. Any meat found, bring it to the beds.","intent":{"goal":"hold_at
+- 20:02 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom on me at melee range, health 2.2. Must fight it off with the sword; fleeing lets it hit from behind."}
+- 20:03 act: {"actions":[{"do":"eat"}],"reasoning":"Health 0.2, phantoms closing. Next hit kills me. Eating now is the only thing I can do in one step; my hunger rule gives way to survival.","say":"Clark at 0.2 he
+- 20:03 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-275,"y":68,"z":317}}],"say":"Clark at 0.2 health. Phantoms near. Anyone with food, please bring it to me now.","reasoning":"Eat refused at hunger 17
