@@ -59,3 +59,4 @@
 - 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Clark: trying the yellow bed right here at -241,69,344 for the night."}
 - 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the white bed with Worf and Zack. Clicking the bed to sleep."}
 - 03:26 act: {"actions":[{"do":"sleep"}]}
+- 03:30 act: {"say":"Clark, dawn of day 258. No food, health 7, hunger 15. Staying by the yellow bed with Billy and will search the grass nearby for animals. Meat goes to Data, then Trini.","intent":{"goal":"searc
