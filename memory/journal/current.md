@@ -43,3 +43,5 @@
 - 02:56 act: {"say":"Clark, day 256. Health 7, hunger 17, three rotten flesh kept until hunger is 6 or below. I'm joining the search for animals in the grass in sight of the beds. Meat goes to Trini first.","inten
 - 02:57 say: {"text":"Clark: no food on me but three rotten flesh, which I'll eat only at hunger 6 or below. I'm holding by the beds and will search the grass near camp for animals. Meat goes to Trini first."}
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Clark here, night of day 256. Health 7, hunger 17, still no meat. I'm going to bed by the yellow beds. Meat goes to Data, then Trin
+- 03:03 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm going straight to the bed by the crafting table and sleeping there."}
