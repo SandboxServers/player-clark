@@ -45,3 +45,7 @@
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Clark here, night of day 256. Health 7, hunger 17, still no meat. I'm going to bed by the yellow beds. Meat goes to Data, then Trin
 - 03:03 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
 - 03:03 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm going straight to the bed by the crafting table and sleeping there."}
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Clark here, health 7, hunger 16, no meat. Heading to the yellow bed to try sleeping again.","reasoning":"Yellow bed is about 25 blo
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"Previous goto was interrupted. I'm perched on air at -239,69,345. Retry the walk once to the yellow bed."}
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Clark at the yellow bed with Trini beside me. Trying to sleep now. Meat still goes to Data and Trini first.","reason
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":338}}],"say":"Clark, day 257, woke at the yellow bed. Sleep worked. Health 7, hunger 16. Going east on the grass with Trini and Jason to look for
