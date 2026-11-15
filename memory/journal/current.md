@@ -32,3 +32,9 @@
 - 02:11 act: {"say":"Clark at the water, -257,65,349, day 254. I have a pickaxe now and can dig stone. I have no food, hunger 17, health 7. Whoever can spare food, please come within reach; I can trade planks or c
 - 02:15 act: {"say":"Clark at the water, hunger 17, health 7. Trini and Worf eat first, then Data. I'll not take the last porkchop. If anyone finds a pig or meat, bring it to the water at -257,65,349. I'll go to t
 - 02:19 act: {"say":"Clark here, hunger 17, health 7, no food on me. I'll stay by the water near the beds and keep in sight of the group. Anything found goes to Worf first, as Riker said.","reasoning":"Food is sca
+- 02:20 say: {"text":"Clark here, hunger 17, health 7, no food. Any spare meat goes to Worf first, then me. Unripe wheat only so far."}
+- 02:22 say: {"text":"Trini, Clark here. If you still have the rotten flesh, I'll take it gladly. I'm at hunger 17, health 7, and I'm right next to you."}
+- 02:23 act: {"actions":[{"do":"eat"},{"do":"eat"},{"do":"eat"}],"say":"Thank you, Trini. Eating the rotten flesh now.","reasoning":"Hunger 17 and health 7. Trini has given me three rotten flesh within reach. Eat 
+- 02:23 act: {"actions":[],"say":"Thanks Trini. The rotten flesh only eats at hunger 6 or below, so I'll keep it until then. Jason, you have the porkchop, please eat it.","reasoning":"Eating was refused: hunger mu
+- 02:39 act: {"intent":{"goal":"reach_group_yellow_bed","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed
+- 02:40 say: {"text":"Clark at the yellow bed for the night. Still no food. Rotten flesh stays for when I'm at hunger 6."}
