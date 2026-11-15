@@ -26,3 +26,14 @@
 - 15:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Clark here, still in the stone pit at x -214 z 350. I have dirt and no pickaxe. Lewis, I have no pigs or cows to report, only a raw chicke
 - 15:23 say: {"text":"Thank you Lewis. I'll stay in the pit and wait for first light. Worf, keep your chicken for yourself."}
 - 15:31 say: {"text":"Clark, still in the pit at -213,60,350, health 8, hunger 13. I hold one raw chicken, but others are weaker, so it goes to whoever is weakest. Anyone with a pickaxe, please dig me out."}
+- 15:34 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Clark here, still in the pit at -213,60,350. I have one raw chicken for whoever is weakest. Worf, I am boxed in; I will climb out.","reaso
+- 15:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Body is awake now. One more dirt step up."}
+- 15:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still enclosed, with a gap ahead and to the right. Keep raising the floor under me."}
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":-226,"y":64,"z":346}}],"say":"I'm out of the pit, Clark. Worf, I'm coming to you with the chicken; you are weaker than I am.","reasoning":"Out of the pit at y 64
+- 15:35 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"chicken","count":1}],"say":"Worf, here is my raw chicken. Eat it; you are weaker than I am.","reasoning":"Worf is in reach at health 4, and I have th
+- 15:37 act: {"actions":[],"say":"Clark here, at -229,67,346. I also hold one raw chicken. Whoever is weakest and within reach, call out and I'll hand it over.","reasoning":"Others are sharing one chicken. Offer m
+- 15:40 act: {"actions":[],"say":"Riker, I'm here at -229,67,346. Come into reach and I'll give you the chicken.","reasoning":"Riker is at health 3 and asked for the chicken. Wait for him to come into reach."}
+- 15:42 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, here is the chicken. Eat it. Phantom to the west, night is here.","reasoning":"Riker is in reach at health 3 and 
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":351}}],"reasoning":"Gave the chicken. A phantom is closing from the west at night. Move east, away from it, toward the pig area."}
+- 15:43 act: {"intent":{"goal":"night_wall","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
+- 15:47 act: {"actions":[],"say":"Worf, hold on. I am at -215,69,351, with a wooden sword and health 8. Tell me where you are and I'll come if it's safe.","reasoning":"Worf at health 2 with a phantom. I'm weak too
