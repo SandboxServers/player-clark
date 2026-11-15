@@ -28,3 +28,4 @@
 - 20:43 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":317}},{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Clark here, night 309, health 20, hunger 20. I died earlier; my drop is at -276,68
 - 20:43 act: {"actions":[{"do":"sleep"}],"say":"Clark at the white bed, night 309, health 20, hunger 20. My dropped pack did not come back to my hands; I will try the bed now.","reasoning":"Dropped items are not p
 - 20:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep progressed to 4 of 10 earlier; try again at the bed."}
+- 20:46 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white bed, night 309, health 20, hunger 20. Holding 3 chicken for whoever drops to 6 in my reach. Trying sleep.","reasoning":"Night, bed under me,
