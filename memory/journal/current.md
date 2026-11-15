@@ -99,3 +99,14 @@
 - 04:52 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":320}}],"say":"Worf, I'm at -273,67,320 with your rotten flesh. Say where you are."}
 - 04:52 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"rotten_flesh","count":3}],"say":"Worf, here are my 3 rotten flesh. Eat them. Trini is next for any meat."}
 - 04:52 act: {"actions":[],"say":"The flesh is with Worf now. I'm going west with the group to search for animals, in sight of everyone."}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":-299,"y":66,"z":319}}],"say":"Clark here, health 7, hunger 14, no food. Heading west to Data's group to search for animals. Worf, Tommy, Picard, keep your rotten
+- 04:55 say: {"text":"Clark here with Data and the group at -298,66,319. Health 7, hunger 14, no food. I'll stay in sight and call out any animal I see."}
+- 04:57 act: {"actions":[],"say":"Clark with Data and Chapman at -298,66,319. Health 7, hunger 14, no food. I hear bows drawn to the north, so I'll stay close to the group and watch.","intent":{"goal":"hold_with_g
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark: night is coming. Going to the white bed at -271,67,318 with Riker
+- 04:59 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark going to the white bed at -271,67,318 for the night, with Data and
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":351}},{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"Bed at -271,318 refused twice. Yellow bed at -263,67,353 accepted sleep on earlie
+- 05:11 act: {"actions":[],"say":"Clark, dawn of day 263. Health 7, hunger 13, no food. Chapman, your pork goes to Worf, then Trini as agreed. I can take any scraps after them.","intent":{"goal":"follow_chapman_to
+- 05:11 act: {"actions":[],"say":"Chapman, I can't see Worf from here. I'm at the yellow beds, -263,67,350. Trini is the next one, I think. Golems are closing in from the west, so be careful."}
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":339}}],"reasoning":"Golems close to the west and north-west, phantoms out west. Worf and the group are at the white beds near -271,336. Move back
+- 05:23 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":337}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night of day 263. Have not tried the north white bed at -270,67,33
