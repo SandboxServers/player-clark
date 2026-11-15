@@ -169,3 +169,8 @@
 - 07:10 act: {"say":"Clark back at the yellow bed with Trini and Zack. No animals in the west; I have nothing to give. I'll wait here for night and try to sleep.","intent":{"goal":"wait_for_night_at_yellow_bed","p
 - 07:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, I am at the yellow bed, health and hunger full, and two days since sleep. Time to sleep here.","say":"Clark here, going to sleep at the yellow bed for th
 - 07:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night now, I am at my bed. Sleep again to get the sleep to take."}
+- 07:27 act: {"say":"Clark here, awake at the yellow bed. Health and hunger are both full. Worf, thanks for the warning about the golems. I'll stay close to the beds and wait for daylight.","intent":{"goal":"wait_
+- 07:27 act: {"say":"It's still night and I'm at the yellow bed with full health and hunger. I'll try sleeping here until morning.","actions":[{"do":"sleep"}]}
+- 07:31 act: {"say":"Clark, dawn of day 270. Health 20, hunger 20, so I'm fine for now. I'll join the west search for cows and pigs. Meat goes to Trini, Chapman and Kimberly first. Two iron golems are west of the 
+- 07:35 act: {"say":"Clark: no animals at this spot. I'm moving north to the group at -268,67,322, away from the golem to the south-west. Still health 20, hunger 20.","intent":{"goal":"rejoin_group_north","program
+- 07:35 say: {"text":"Clark with the group at -268,67,322. I have no food, health 20, hunger 20. Trini, I'll keep watch with you and call any animal I see."}
