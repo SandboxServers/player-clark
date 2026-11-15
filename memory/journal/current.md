@@ -49,3 +49,7 @@
 - 16:12 act: {"intent":{"goal":"return_to_beds_for_wheat","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 16:13 act: {"actions":[{"do":"note","text":"Back at the beds. Everyone reports no food: Chapman hunger 18, Picard scouted north with nothing. Waiting for LaForge's wheat or an animal sighting."}],"say":"Clark he
 - 16:17 act: {"actions":[{"do":"note","text":"Wesley at health 2 near the beds. Chicken from Trini and rotten flesh from Troi and Billy are headed to him. I have no food to add, only a red mushroom and an oak log.
+- 16:19 act: {"say":"Clark here, dawn 296, no food, hunger 13. Zack, I'll scout east with you. Wesley, I'll bring any meat I find to you first.","intent":{"goal":"scout_east_for_animals","program":"travel","argume
+- 16:19 act: {"intent":{"goal":"scout_further_east_for_animals","program":"travel","arguments":{"target":{"x":-205,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 16:19 act: {"intent":{"goal":"return_to_beds_before_night","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":317}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 16:23 act: {"say":"Clark at the north beds, night 296, no food, hunger 13. Going to try the bed now.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":317}}]}
