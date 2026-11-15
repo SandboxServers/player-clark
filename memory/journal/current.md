@@ -149,3 +149,7 @@
 - 06:36 act: {"intent":{"goal":"scout_south_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":445}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
 - 06:36 act: {"intent":{"goal":"return_to_yellow_beds_for_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
 - 06:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Clark: night, going to try the yellow bed to sleep. No food here."}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Night. Heading to the yellow bed with the group. Health and hunger are full. Meat goes to Trini at dawn.","intent":{"goal":"reach_y
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"intent":{"goal":"reach_yellow_bed_b","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed",
+- 06:45 act: {"actions":[{"do":"sleep"}]}
+- 06:50 say: {"text":"Clark at dawn day 268. Health and hunger full, so I give my turn to those who are hungry. I'll scout the west grass with the group and give any meat to Trini, then Kimberly, then Worf."}
