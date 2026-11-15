@@ -8,3 +8,14 @@
 - 14:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":318}}],"say":"Clark, dawn 292, hunger 14, no food. Trying the west side for animals, away from the east pig hunt.","reasoning":"East had no pigs.
 - 14:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Clark: sun is setting and I'm alone out west. Going back to the north beds now.","reasoning":"Night is coming and I am alone far fr
 - 14:53 act: {"say":"Clark here, hunger 14, no food. Going east to the pig area with Macdonald and Trini. Call out any pig or cow.","actions":[{"do":"goto","target":{"x":-214,"y":69,"z":351}}]}
+- 14:55 act: {"actions":[{"do":"note","text":"Day 292 midday at pig area (-215,69,351). Hunger 14, health 8. No food in pack. Waiting for a pig or cow call."}],"say":"Clark here, hunger 14, no food. I'll follow an
+- 14:59 act: {"actions":[{"do":"note","text":"Waited at pig area. Picard holds 2 porkchop, 1 beef; those go to Macdonald and Leonardo first. I have no food, hunger 14. Still waiting for a call."}],"say":"Picard, w
+- 15:03 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 15:03 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 15:03 act: {"actions":[{"do":"note","text":"Night 292 at pig area. Shelter partly built (21 of 25 solid); walls blocked by people standing in them. Hunger 14, health 8, no food. Staying with Leonardo and Data. W
+- 15:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. I'm eating the chicken now. If Macdonald comes into sight, he gets whatever I can spare."}
+- 15:07 act: {"actions":[{"do":"note","text":"Got a raw chicken from Leonardo. Eat only at hunger 6 or below. Holding it for now; Macdonald is at 1 health and out of sight. Night at pig area with Leonardo."}]}
+- 15:11 act: {"actions":[{"do":"note","text":"Dawn 293. Macdonald died and respawned with nothing; he is going to his drop spot. I hold one raw chicken (hunger 14). Will give it to whoever is weakest in sight."}],
+- 15:15 act: {"actions":[{"do":"unstick"}]}
+- 15:16 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 15:16 act: {"actions":[{"do":"note","text":"Stuck in a stone pit at (-214,62,350), walled by stone on all sides. Hand-mining stone changed nothing. Need someone with a pickaxe to dig me out, or wait. Holding one
