@@ -24,3 +24,4 @@
 - 20:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, need rest; stand beside bed and sleep alone.","say":"Clark going to bed beside the north white bed at du
 - 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Night now; try sleep beside bed."}
 - 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Continue sleep to reach full rest."}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white bed, night 309. Health 20, hunger 20. Trying sleep.","reasoning":"Night, have a bed, 10 days since sleep. Sleep now."}
