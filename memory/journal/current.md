@@ -85,3 +85,8 @@
 - 04:21 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
 - 04:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, where are you? I have a porkchop for you. Come to the white beds.","reasoning":"Trini is out of sight, so the give
 - 04:21 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Trini is out of sight, so the porkchop goes to Worf, who is right here and needs food too.","reasoning":"Trini cannot be
+- 04:28 act: {"say":"Clark at dawn, day 261. Health 7, hunger 14, no food but 3 rotten flesh. Kimberly, Trini is still the first claim on Troi's porkchop; when she is in reach, please hand it over.","intent":{"goa
+- 04:29 act: {"say":"Tommy, Kimberly says the porkchop is with you. Trini is not in sight, so please keep it safe for her and hand it over the moment she is in reach. I'll check the yellow beds for her.","intent":
+- 04:29 act: {"say":"Clark, in the water at the yellow beds. Trini and Worf, I'm walking to the white beds to find you; I have no food, only rotten flesh for hunger 6.","intent":{"goal":"reach_white_beds_for_trini
+- 04:29 act: {"say":"Clark at the white beds. Worf, you're weakest: I have 3 rotten flesh. Come within reach and I'll give them to you now, since my hunger is still too high to eat them.","intent":{"goal":"wait_fo
+- 04:32 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"rotten_flesh","count":3}],"say":"Worf, here is my rotten flesh, all 3. It is yours; eat it when your hunger allow
