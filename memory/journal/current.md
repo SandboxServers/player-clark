@@ -271,3 +271,4 @@
 - 11:17 act: {"say":"Thank you Jason. Tell me the exact spot of the tilled patch and I will walk there and plant my 8 seeds.","reasoning":"Jason is tilling a patch for my seeds. I need the location before I move, 
 - 11:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the north white bed for the night, hunger 14, health 14. Still no food. Food goes to LaForge, then Trini, then P
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Use-bed was refused as the block is a bed. Try a plain sleep at the other white bed after stepping beside it."
+- 11:27 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Clark here at the north beds, night of day 281. No food, hunger 14, health 14. Going to sleep with the group."}
