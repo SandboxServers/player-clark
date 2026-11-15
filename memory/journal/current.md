@@ -257,3 +257,13 @@
 - 10:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 10:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 10:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:51 act: {"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":326}},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_b
+- 10:51 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_b
+- 10:51 act: {"say":"Back at the beds. No animals in the south-west grass, and I have no food. I'll wait here with the group and watch the wheat. Any meat or ripe wheat goes to LaForge, then Trini."}
+- 11:03 act: {"intent":{"goal":"reach_white_bed_for_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600,"max_
+- 11:03 act: {"actions":[{"do":"sleep"}]}
+- 11:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed \"way was blocked\" at 337; the bed at 336 is one block north. Retry once there, then move on."}
+- 11:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 11:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep at 336 was blocked; golems 10 blocks south. Try the 318 bed once, a new place."}
+- 11:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Creeper 11 blocks away blocks sleep. Move to the 318 bed and wait there before another try."}
+- 11:07 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now, I am at the bed at 318. Try sleep."}
