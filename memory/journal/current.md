@@ -52,3 +52,10 @@
 - 03:14 day 257: at -225,69,330 on grass, midday, health 7, hunger 16, no animals in view, no entities near. Searching east for animals.
 - 03:14 act: {"actions":[{"do":"goto","target":{"x":-225,"y":68,"z":330}}],"say":"Clark: no animals here yet. Trying the grass to the north-east at -225,68,330, staying close to Trini.","reasoning":"Nothing visibl
 - 03:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Clark here. Still no food, so I'm heading to the yellow bed at -263,67,353 before night. Meat goes to Data first.","intent":{"goal"
+- 03:19 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Clark: it's night now. Trying the second yellow bed at -263,67,354."}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}]}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Clark: trying the yellow bed right here at -241,69,344 for the night."}
+- 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the white bed with Worf and Zack. Clicking the bed to sleep."}
+- 03:26 act: {"actions":[{"do":"sleep"}]}
