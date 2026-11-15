@@ -19,3 +19,10 @@
 - 15:15 act: {"actions":[{"do":"unstick"}]}
 - 15:16 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 15:16 act: {"actions":[{"do":"note","text":"Stuck in a stone pit at (-214,62,350), walled by stone on all sides. Hand-mining stone changed nothing. Need someone with a pickaxe to dig me out, or wait. Holding one
+- 15:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Pit escape per skill. Try unstick first.","say":"I'm still walled in the stone pit. Trying to get out."}
+- 15:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Position changed to z 351; unstick was interrupted. Try once more."}
+- 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Unstick failed twice. Build up with dirt under my feet to raise myself, then look."}
+- 15:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Keep pillaring dirt up, then try unstick once the walls are lower."}
+- 15:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Clark here, still in the stone pit at x -214 z 350. I have dirt and no pickaxe. Lewis, I have no pigs or cows to report, only a raw chicke
+- 15:23 say: {"text":"Thank you Lewis. I'll stay in the pit and wait for first light. Worf, keep your chicken for yourself."}
+- 15:31 say: {"text":"Clark, still in the pit at -213,60,350, health 8, hunger 13. I hold one raw chicken, but others are weaker, so it goes to whoever is weakest. Anyone with a pickaxe, please dig me out."}
