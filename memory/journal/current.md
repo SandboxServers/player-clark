@@ -342,3 +342,12 @@
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the north white bed with the group for the night. Still no food."}
 - 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Daytime. I have 7 wheat seeds and no food. Whoever has tilled farmland ready, tell me the spot and I'll plant them with you."}
+- 13:54 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Clark, midday 289. Picard, I'm handing you my 7 wheat seeds to plant on the tilled patch. I have no food, hunger 14
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":329}}],"say":"Clark walking to the tilled patch by the wheat, to hand my seeds to Picard in sight."}
+- 13:55 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7},{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Picard, here are my 7 wheat seeds for the tilled patch. Iron golem
+- 14:00 act: {"actions":[],"say":"Clark, midday 289, hunger 14, no food. I'll join Billy and Chapman's west cow search in sight of the group. Call out any meat."}
+- 14:04 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 289, hunger 14. Leonardo, I have your red mushroom from the mix-up; I'll give it back when you are in reach."}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":330}}],"say":"Clark, dawn 290, hunger 14, no food. Leonardo, I'm walking to you to return your red mushroom."}
+- 14:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Clark: iron golems 7 blocks south-west, so I'm moving north to the beds. Leonardo is not in sight; I still hold his red mushroom."}
+- 14:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Clark: no meat on me, hunger 14. Leonardo, I still hold your red mushroom; come into sight and I'll hand it back.","intent":{"goal"
+- 14:19 act: {"actions":[{"do":"sleep"}]}
