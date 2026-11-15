@@ -167,3 +167,5 @@
 - 07:09 act: {"say":"Clark here, full health and hunger, no food. I'll scout the west grass for cows or pigs now. Any meat goes to Chapman, then Trini.","intent":{"goal":"scout_west_grass_for_animals","program":"t
 - 07:10 act: {"say":"Clark: scouted the far west grass to -299,66,300. No cows or pigs in sight. Heading back toward the yellow beds to tell the group and wait for night.","intent":{"goal":"return_to_yellow_bed","
 - 07:10 act: {"say":"Clark back at the yellow bed with Trini and Zack. No animals in the west; I have nothing to give. I'll wait here for night and try to sleep.","intent":{"goal":"wait_for_night_at_yellow_bed","p
+- 07:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, I am at the yellow bed, health and hunger full, and two days since sleep. Time to sleep here.","say":"Clark here, going to sleep at the yellow bed for th
+- 07:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night now, I am at my bed. Sleep again to get the sleep to take."}
