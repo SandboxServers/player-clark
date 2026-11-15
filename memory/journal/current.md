@@ -16,3 +16,7 @@
 - 20:14 act: {"intent":{"goal":"recover_my_dropped_items","program":"travel","arguments":{"target":{"x":-276,"y":68,"z":317}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
 - 20:14 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":317}}]}
 - 20:20 act: {"actions":[{"do":"note","text":"Dusk 308: holding 3 chicken. Kimberly (health 8) and Riker are lowest; giving to whoever steps into reach."}],"say":"Clark here, at -276,67,316 with 3 chicken. Kimberl
+- 20:26 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 20:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Beds reached, group near, health and hunger full. Try sleep as the summary advises.","say":"Clark going to sleep at the north beds. Chickens still held for who
+- 20:27 act: {"intent":{"goal":"sleep_at_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 20:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside bed at -271,336. Golem approaching; one quick sleep try, then reassess."}
