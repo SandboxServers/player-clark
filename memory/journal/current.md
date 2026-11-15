@@ -90,3 +90,12 @@
 - 04:29 act: {"say":"Clark, in the water at the yellow beds. Trini and Worf, I'm walking to the white beds to find you; I have no food, only rotten flesh for hunger 6.","intent":{"goal":"reach_white_beds_for_trini
 - 04:29 act: {"say":"Clark at the white beds. Worf, you're weakest: I have 3 rotten flesh. Come within reach and I'll give them to you now, since my hunger is still too high to eat them.","intent":{"goal":"wait_fo
 - 04:32 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"rotten_flesh","count":3}],"say":"Worf, here is my rotten flesh, all 3. It is yours; eat it when your hunger allow
+- 04:37 act: {"say":"LaForge, I still have 3 rotten flesh. Has anyone seen Worf? I want to get it to him.","intent":{"goal":"find_worf","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_a
+- 04:39 act: {"say":"Worf, Clark here at the north white beds with 3 rotten flesh. Come into reach and it is yours. Beverly, the mutton is yours to give Worf first.","intent":{"goal":"hold_beds_for_worf","program"
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the north white bed for the night. Worf, the 3 rotten flesh is 
+- 04:40 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Clark at dawn, day 262. Worf, I'm heading north to the beds at -270,67,320 with 3 rotten flesh for you. Tell me where you are."}
+- 04:49 act: {"say":"Clark at the north beds, dawn day 262. Worf, I have 3 rotten flesh for you. Beverly, does your mutton reach Worf? Whoever sees Worf first, tell us where he is."}
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":320}}],"say":"Worf, I'm at -273,67,320 with your rotten flesh. Say where you are."}
+- 04:52 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"rotten_flesh","count":3}],"say":"Worf, here are my 3 rotten flesh. Eat them. Trini is next for any meat."}
+- 04:52 act: {"actions":[],"say":"The flesh is with Worf now. I'm going west with the group to search for animals, in sight of everyone."}
