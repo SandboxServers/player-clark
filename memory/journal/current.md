@@ -267,3 +267,7 @@
 - 11:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep at 336 was blocked; golems 10 blocks south. Try the 318 bed once, a new place."}
 - 11:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Creeper 11 blocks away blocks sleep. Move to the 318 bed and wait there before another try."}
 - 11:07 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now, I am at the bed at 318. Try sleep."}
+- 11:15 act: {"say":"Clark here, hunger 14, health 14, no food. I hold 8 wheat seeds and no hoe. Whoever has a hoe near the beds, till a patch and I will plant my seeds there.","reasoning":"No food and no hoe. See
+- 11:17 act: {"say":"Thank you Jason. Tell me the exact spot of the tilled patch and I will walk there and plant my 8 seeds.","reasoning":"Jason is tilling a patch for my seeds. I need the location before I move, 
+- 11:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the north white bed for the night, hunger 14, health 14. Still no food. Food goes to LaForge, then Trini, then P
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Use-bed was refused as the block is a bed. Try a plain sleep at the other white bed after stepping beside it."
