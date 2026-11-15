@@ -1,4 +1,5 @@
 # Journal
+- Day 281 night, north beds with the group. Used the white bed; sleep registered (days since sleep 0). Hunger 14, health 14, no food. Holding 8 wheat seeds for Jason's patch near Wesley at -270,67,327.
 - 01:25 act: {"actions":[],"say":"Night has come and I carry nothing. I will stay put and wait for light."}
 - 01:28 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":354}},{"do":"mine","block":"stripped_oak_log","count":4}],"say":"Dawn. I have no food or tools, so I'm gathering wood from the oak logs to the no
 - 01:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Clark here, empty-handed too. Zack, where are the trees? I'll gather wood with you.","reasoning":"Group is out of food; Zack is going for wood. 
