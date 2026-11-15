@@ -99,3 +99,41 @@
 - 17:18 act: {"actions":[],"say":"I have no chicken in my pack. Jason, you may still hold it. If you have it, please give it to Picard, who has no food.","reasoning":"The give to Picard failed because the chicken 
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the bed at the white beds for the night. Food goes to whoever is weakest.","reasoning":"Dusk, days since sl
 - 17:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dark now. Golems are 12 or more blocks south. Try sleep once more at this bed."}
+- 17:21 act: {"say":"Morning all, I'm up. I have no food, hunger 16. Billy, Picard and Troi are beside me. Anyone low, tell me.","intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on"
+- 17:23 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white bed, night, hunger 16, no food. Trying the bed now. Riker, I'm in reach if you need me."}
+- 17:32 act: {"intent":{"goal":"scout_north_to_chickens","program":"travel","arguments":{"target":{"x":-255,"y":65,"z":187}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 17:32 act: {"intent":{"goal":"scout_north_to_chickens","program":"travel","arguments":{"target":{"x":-262,"y":65,"z":250}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 17:32 act: {"intent":{"goal":"scout_north_to_chickens","program":"travel","arguments":{"target":{"x":-255,"y":65,"z":187}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 17:33 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":65,"z":190}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 17:33 act: {"intent":{"goal":"scout_far_west_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":65,"z":200}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 17:34 act: {"actions":[{"do":"attack","target":"salmon"}],"say":"Salmon in the water to the south-east. Trying to get one for food.","intent":{"goal":"catch_salmon_for_food","program":"travel","arguments":{"targ
+- 17:36 act: {"say":"Clark, hunger 15, no food, in reach at the beds soon. Whoever is lowest first. Going back to the north beds.","intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{
+- 17:37 act: {"say":"Clark at the north beds, hunger 15, health 10, no food. Billy, Bcrusher: Zack and LaForge first, then me. Call me when you are free."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"say":"Billy, I'm stepping clear of the items on the ground. Give me the beef here, thank you."}
+- 17:41 act: {"intent":{"goal":"reach_north_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 17:41 act: {"say":"Billy, I'm in your reach now, Clark, hunger 15. If you still have the beef, hand it over. Zack and LaForge first, if they are lower."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 17:43 act: {"actions":[{"do":"sleep"}]}
+- 17:44 act: {"intent":{"goal":"back_to_bed_for_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 17:44 act: {"actions":[{"do":"sleep"}]}
+- 17:47 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 17:47 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north bed, hunger 14, trying to sleep."}
+- 17:51 act: {"intent":{"goal":"scout_cow_east","program":"travel","arguments":{"target":{"x":-245,"y":68,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 17:51 act: {"intent":{"goal":"scout_cow_riker","program":"travel","arguments":{"target":{"x":-152,"y":100,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":-155,"y":98,"z":330}},{"do":"attack","target":"sheep"}],"say":"Clark found a sheep and a pig south-west of me near -155,98. Going for them."}
+- 17:51 act: {"actions":[{"do":"attack","target":"pig"}]}
+- 17:52 act: {"intent":{"goal":"return_food_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 17:52 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"porkchop","count":1}],"say":"Macdonald, one porkchop for you now. I keep the other porkchop and the mutton for Zack, who is lowest."}
+- 17:56 act: {"intent":{"goal":"hold_food_for_lowest","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":16}},"say":"
+- 18:00 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"porkchop","count":1}],"say":"Bcrusher, here is the porkchop. Eat it now."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Clark going to the north white bed for the night. Holding a porkchop and mutton for whoever calls lowest."}
+- 18:02 act: {"actions":[{"do":"sleep"}]}
+- 18:02 act: {"intent":{"goal":"wait_for_golem_to_leave_then_sleep","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations":8}}}
+- 18:03 act: {"actions":[{"do":"sleep"}]}
+- 18:04 act: {"actions":[{"do":"eat"}],"say":"Clark at hunger 12, eating my own porkchop now, per my rule. Mutton stays for whoever is lowest."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Heading to the north white bed to sleep. Holding one mutton for whoever is lowest.","reasoning":"No golem or hostile
+- 18:09 act: {"actions":[],"say":"Clark, dawn, hunger 15, holding one mutton. Leonardo, you're in reach at 20 so it's not yours yet. Chapman and Trini, I'm going east with Picard to look for pigs and cows.","reaso
+- 18:12 act: {"actions":[],"say":"Clark, day 302, hunger 15, holding one mutton for whoever drops to 6 first. Going north-west with Data, Riker and Chapman for the sheep.","reasoning":"Morning, day 302. Zack ate. 
+- 18:16 act: {"actions":[],"say":"Clark, midday, hunger 15. No sheep seen; phantoms north-west, so I'm holding at the beds with the group. Mutton stays for the lowest.","reasoning":"Phantoms north. Sheep search pu
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark, dusk, hunger 15. Trying the north bed now. Jason, stay close to the group.","reasoning":"Dusk. Golems 18 bloc
+- 18:24 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 302, hunger 15, health 10. Trying the bed now. Jason, if you are in my sight at low health, say so and the mutton is yours.","reasoning":"Night. No gole
