@@ -273,3 +273,44 @@
 - 11:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the north white bed for the night, hunger 14, health 14. Still no food. Food goes to LaForge, then Trini, then P
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Use-bed was refused as the block is a bed. Try a plain sleep at the other white bed after stepping beside it."
 - 11:27 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Clark here at the north beds, night of day 281. No food, hunger 14, health 14. Going to sleep with the group."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":327}}],"say":"Clark at dawn, day 282. Health 14, hunger 14. Walking to Jason's patch at -270,67,327 to plant my 8 wheat seeds.","intent":{"goal":
+- 11:29 act: {"actions":[],"say":"Jason, Clark here at the patch with 8 wheat seeds. Which tilled ground is yours to plant in? I'll sow it now."}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}},{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":332}}],"say":"Clark: going to the free tilled patch at -273,65,332 that Jason
+- 11:30 act: {"actions":[],"say":"Jason, the seeds need farmland below them. Is the tilled block at -273,65,332, with air above it? I'm at -272,66,331 and standing on grass."}
+- 11:31 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":332}}]}
+- 11:31 act: {"actions":[],"say":"Clark: one wheat seed planted at -273,66,332 on Lewis's farmland, thank you Lewis and Jason. It's dry, no water within 4 blocks. I have 7 seeds left. Trini, I hope the flesh reach
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark: dusk at the beds. Going to the white bed to sleep with the group.
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night has come. Stand beside the bed at -271,67,336 and try to use
+- 11:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on a bed fails with \"that block is a bed\". Try sleep directly while adjacent to the bed."}
+- 11:44 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Bed uses at 336 failed. Try the bed at 318 that I now stand beside, then sleep.","say":"Clark going to sleep at the
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"White beds refuse use. The yellow bed at -263,67,353 has worked fo
+- 11:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on beds keeps failing. Earlier sleep worked when I stood beside a bed and sent sleep alone. I'm beside the yellow bed now."}
+- 11:51 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Clark at dawn, day 283. Health 14, hunger 13, no food. I'm joining the pig hunt with the group. I hold 7 wheat seeds for any tilled ground; Data
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":327}}],"say":"Clark joining the group at the crafting tables. No food on me. LaForge, if the chicken comes, you're first; I'll help watch.","reas
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"Clark at dusk, day 283. No food, hunger 13. Going to the yellow bed at -271,67,326 to sleep. Food goes to LaForge, Trini, Picard fi
+- 12:01 act: {"actions":[{"do":"sleep"}]}
+- 12:06 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}}],"say":"Clark, night of day 283. No food, hunger 13. Trying the white bed at -271,67,318 to sleep. Food goes to LaForge, Trini, Picard firs
+- 12:06 act: {"actions":[{"do":"sleep"}]}
+- 12:12 act: {"actions":[],"say":"Clark, day 284. I hold 7 wheat seeds and no hoe. Jason, tell me which tilled patch is free and I'll walk there to plant. Billy, I can come help with the phantom if you call where 
+- 12:14 act: {"actions":[],"say":"Clark: I'm at -271,67,327 by the beds with my wooden sword and 7 seeds. Jason, I'll hold the seeds until you have a free tilled patch. I'll stay in the group against the phantoms.
+- 12:17 act: {"say":"Jason, I'm at -271,67,327. Till the dirt block at -270,66,328 or -272,66,328 if it is dirt or grass, and I'll plant a seed there. I hold 7 seeds.","reasoning":"Jason offered to till near me. N
+- 12:19 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":66,"z":330}}],"say":"Thanks Jason. Planting a seed on the farmland at -272,65,330 now.","reasoning":"Jason tilled the farmland at -27
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":329}},{"do":"use","at":{"x":-272,"y":65,"z":330},"item":"wheat_seeds"}],"reasoning":"Place failed: seeds need farmland below. Try moving closer a
+- 12:20 act: {"say":"Jason, I can't plant on -272,65,330 yet: seeds fail there, and the use on it failed. Can you stand on the farmland, or tell me the exact block that is tilled? I'm at -272,67,328.","reasoning":
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}},{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":66,"z":330}}],"reasoning":"Jason says the tilled block is at -272,65,330 and I shoul
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}],"reasoning":"Night now. Planting failed again, so drop it for tonight. Go to the yellow bed and try sleep; read why if it f
+- 12:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I am one block from the yellow bed. Try to use it, then sleep. If it fails, read the reason."}
+- 12:27 act: {"actions":[{"do":"goto","target":{"x":-281,"y":65,"z":320}}],"say":"Something hit me in the dark. Moving away from the golems to the north-west.","reasoning":"Took damage twice with golems 4 to 5 blo
+- 12:28 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom attacking me at 2.6 blocks, health 8. I have a wooden sword; fight it rather than flee in the open."}
+- 12:28 act: {"actions":[{"do":"goto","target":{"x":-287,"y":65,"z":320}}],"say":"Dawn. Moving west, away from the golems, to get clear of the crowd.","reasoning":"Dawn; phantom gone; golems 4 to 5 blocks east. Ge
+- 12:32 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":322}}],"say":"Clark here, day 285. No food yet, hunger 12. I hold 7 wheat seeds for planting. Heading to the beds to help plant.","reasoning":"Gr
+- 12:32 act: {"actions":[],"say":"Clark: I have 7 wheat seeds. Whoever stands on the tilled farmland, tell me where and I'll bring them. Picard and Trini first for any ripe wheat.","reasoning":"Group is nearby in 
+- 12:35 act: {"actions":[],"say":"Jason, can you check the tilled block at -272,65,330? I hold 7 wheat seeds and want to plant on it. I'll stand at -272,66,331.","reasoning":"Jason tilled the farmland and is in vi
+- 12:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}},{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":65,"z":330}}],"reasoning":"Jason confirmed the dry farmland at -272,65,330. Stand at
+- 12:39 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":66,"z":330}}],"reasoning":"Last place targeted the farmland block itself and it was occupied. Seeds go on the air block above the far
+- 12:39 act: {"actions":[],"say":"Jason, the seeds still say no farmland below at -272,66,330, and placing on -272,65,330 says occupied. Can you check which block is the farmland? Is it at y 66?","reasoning":"Seed
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}},{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":65,"z":330}}],"reasoning":"Jason suggested standing at -272,66,331 and trying seeds 
+- 12:42 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-271,"y":65,"z":330}}],"reasoning":"-272,65,330 is occupied. Jason's fallback is -271,65,330."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"reasoning":"Planting on the tilled spot keeps failing and it is night. Stop planting, go to the yellow bed near -271,67,326 and try sleep
+- 12:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I am at the yellow bed area with the group in reach and the golem 17 blocks away. Try the bed, then sleep."}
+- 12:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use is refused, but the sleep action may still work from here among the group. Try it."}
