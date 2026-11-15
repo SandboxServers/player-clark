@@ -137,3 +137,8 @@
 - 18:16 act: {"actions":[],"say":"Clark, midday, hunger 15. No sheep seen; phantoms north-west, so I'm holding at the beds with the group. Mutton stays for the lowest.","reasoning":"Phantoms north. Sheep search pu
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark, dusk, hunger 15. Trying the north bed now. Jason, stay close to the group.","reasoning":"Dusk. Golems 18 bloc
 - 18:24 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 302, hunger 15, health 10. Trying the bed now. Jason, if you are in my sight at low health, say so and the mutton is yours.","reasoning":"Night. No gole
+- 18:26 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me. Fighting it. Trini, stay close.","reasoning":"Phantom adjacent and attacking; fight with sword before anything else."}
+- 18:26 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Phantom dead; health steady at 6. Golems 15+ south. Hold position near beds and rest."}
+- 18:27 act: {"actions":[{"do":"wait","seconds":60}],"say":"Clark here by the north beds, holding one mutton. Jason, step into my sight and it's yours. Trini, thanks, I'm with you.","reasoning":"Phantom dead. Jaso
+- 18:27 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent, health 4. Must fight."}
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"reasoning":"Move to the bed area to be near the group and try sleep there."}
