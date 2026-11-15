@@ -137,3 +137,15 @@
 - 06:21 say: {"text":"Clark here. Hunger 20, health 20, no food. I have 2 planks and 2 cobblestone, not enough for a shelter. I'll stay near Billy's shelter tonight and search for cows at dawn."}
 - 06:22 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal":"reach_billy_shelter","program":"travel","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","go
 - 06:22 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":2}],"say":"Billy, I'm beside you for the night. I gave you my 2 planks for the shelter. Hunger 20, no food yet."}
+- 06:29 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Skeleton shooting from the south-east. Moving to Tommy's side.","reasoning":"Arrows are hurting me and the skeleton is 12 blocks away. Move beh
+- 06:29 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"attack","target":"skeleton"}],"say":"A skeleton keeps shooting at us from the south-east. I'm going in with my sword.","reasoning":"Still under 
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":248}}],"say":"Health 7. Skeleton is shooting from the south-east. Running north-west out of its sight.","reasoning":"Fighting in the open is losi
+- 06:29 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"place","block":"oak_planks","at":{"x":-304,"y":65,"z":248}},{"do":"place","block":"oak_planks","at":{"x":-304,"y":66,"z":248}},{"do":"pl
+- 06:30 act: {"say":"Clark here, health 4, hunger 17, no food. Tommy is weakest, so the first fish to Tommy. I'll stay on the shore at the water's edge and take the next fish. I'm not going into the water.","actio
+- 06:33 say: {"text":"Clark here, respawned at the yellow bed with nothing. My kit is at the west lake near -305,65,248, where a skeleton is shooting. Trini, are you near?"}
+- 06:35 act: {"say":"Clark: no food, no kit. Golems are 12 blocks west of me, so I am heading south-east to scout grass for animals, away from them.","intent":{"goal":"scout_south_east_grass","program":"travel","a
+- 06:35 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":400}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 06:35 act: {"intent":{"goal":"scout_far_south_for_animals","program":"travel","arguments":{"target":{"x":-260,"y":67,"z":430}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 06:36 act: {"intent":{"goal":"scout_south_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":445}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 06:36 act: {"intent":{"goal":"return_to_yellow_beds_for_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Clark: night, going to try the yellow bed to sleep. No food here."}
