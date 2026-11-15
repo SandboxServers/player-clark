@@ -60,3 +60,6 @@
 - 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark at the white bed with Worf and Zack. Clicking the bed to sleep."}
 - 03:26 act: {"actions":[{"do":"sleep"}]}
 - 03:30 act: {"say":"Clark, dawn of day 258. No food, health 7, hunger 15. Staying by the yellow bed with Billy and will search the grass nearby for animals. Meat goes to Data, then Trini.","intent":{"goal":"searc
+- 03:32 act: {"say":"Thanks Billy. I'll search the grass to the west with you, staying close. I have 3 rotten flesh saved for when hunger drops.","intent":{"goal":"search_grass_for_animals","program":"travel","arg
+- 03:32 act: {"note":"258 midday: searched grass west with Billy, no animals. Back at yellow bed, hunger 15, health 7, 3 rotten flesh kept.","intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 03:35 act: {"say":"Clark at the yellow bed, health 7, hunger 15, no food yet. Riker and Jason, the wheat plot is good. I'll help watch for the golem and any meat."}
