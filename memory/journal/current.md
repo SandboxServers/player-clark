@@ -244,3 +244,16 @@
 - 10:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 10:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark here, no food, hunger 16. Macdonald, if the mutton is spare after Trini, I'm next after the hungrier ones."}
 - 10:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":240}}],"say":"Clark here, day 279, health 14, hunger 16. I'm going north to the chicken at -275,67,237 with Worf and Riker. Any meat goes to Trin
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":-279,"y":64,"z":221}},{"do":"attack","target":"chicken"}],"say":"Clark: a chicken is in view to the north at -279,64,218. Going for it. Meat goes to Trini first.
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Got a chicken! Heading back to the white beds. It goes to Trini first, as agreed, then the hungriest.","intent":{"goal":"return_chi
+- 10:31 act: {"actions":[],"say":"I'm at the white beds with a chicken. Trini, come and I'll hand it to you. Worf, BCrusher, if you're hungrier than Trini is, say so and it's yours."}
+- 10:34 act: {"actions":[],"say":"Macdonald, you're at 1.5 health: the phantom is the danger, so get close to the beds and out of its reach. Lewis, you're first after Trini; come within reach and the chicken is yo
+- 10:37 act: {"actions":[{"do":"goto","target":"ag_lewis_01"},{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, I'm coming to you with the chicken. Trini and Lewis agreed you're first."}
+- 10:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}]}
+- 10:37 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, here's the chicken. Trini is next when she needs it."}
+- 10:37 act: {"actions":[],"say":"The chicken went to Kimberly by mistake; she was the nearest. Kimberly, if you're hungrier than Trini, eat it; otherwise pass it to Trini. I have no food left."}
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:44 act: {"actions":[{"do":"sleep"}]}
+- 10:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
