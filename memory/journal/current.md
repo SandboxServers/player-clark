@@ -63,3 +63,4 @@
 - 03:32 act: {"say":"Thanks Billy. I'll search the grass to the west with you, staying close. I have 3 rotten flesh saved for when hunger drops.","intent":{"goal":"search_grass_for_animals","program":"travel","arg
 - 03:32 act: {"note":"258 midday: searched grass west with Billy, no animals. Back at yellow bed, hunger 15, health 7, 3 rotten flesh kept.","intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 03:35 act: {"say":"Clark at the yellow bed, health 7, hunger 15, no food yet. Riker and Jason, the wheat plot is good. I'll help watch for the golem and any meat."}
+- 03:37 say: {"text":"Clark, dawn of day 258. Still no meat, hunger 15, health 7. Billy, I'll stay by the beds with you and watch the golems to the west, then scout the grass north-west past the signs for animals 
