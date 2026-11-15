@@ -130,3 +130,5 @@
 - 06:01 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":340}},{"do":"goto","target":{"x":-286,"y":66,"z":350}}],"say":"Grabbing the last item, then moving south away from the golems.","reasoning":"Only
 - 06:02 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":350}}],"say":"Health 20, hunger 20, pack mostly back. Phantom closing from the east, so I am going south-west.","reasoning":"Pack mostly recovere
 - 06:02 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":356}}],"say":"Moving away from the golem beside me.","reasoning":"A golem is 1.7 blocks north-west. Keep distance, then hold in open ground until
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":345}}],"say":"Clark scouting north-west now for animals. Any meat goes to Jason first.","intent":{"goal":"scout_north_west_for_animals","program"
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":262}}],"say":"Clark heading to the cow lake near -288,67,257 to join Billy and Data. Hunger 20, I'm fine for now.","intent":{"goal":"reach_cow_la
