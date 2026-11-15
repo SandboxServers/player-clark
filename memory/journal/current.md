@@ -31,3 +31,4 @@
 - 02:11 act: {"intent":{"goal":"reach_group_at_water","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":349}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
 - 02:11 act: {"say":"Clark at the water, -257,65,349, day 254. I have a pickaxe now and can dig stone. I have no food, hunger 17, health 7. Whoever can spare food, please come within reach; I can trade planks or c
 - 02:15 act: {"say":"Clark at the water, hunger 17, health 7. Trini and Worf eat first, then Data. I'll not take the last porkchop. If anyone finds a pig or meat, bring it to the water at -257,65,349. I'll go to t
+- 02:19 act: {"say":"Clark here, hunger 17, health 7, no food on me. I'll stay by the water near the beds and keep in sight of the group. Anything found goes to Worf first, as Riker said.","reasoning":"Food is sca
