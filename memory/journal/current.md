@@ -145,3 +145,7 @@
 - 18:30 act: {"actions":[],"say":"Clark here, health 4, hunger 17, no real food. Trini, I'm standing at the north beds, in your sight. Health is my problem, so I'd be grateful for the chicken if no one lower is ne
 - 18:31 act: {"actions":[{"do":"eat"}],"say":"Thank you, Trini. Eating the chicken now. I'll share anything I find.","reasoning":"Chicken is cooked-enough food and hunger 17 blocks regen. Eat it now."}
 - 18:31 act: {"actions":[],"say":"Trini, the chicken is raw, so my body won't eat it above hunger 6. I'm holding it. I'll eat it when hunger drops to 6, and give it to anyone lower before then.","reasoning":"Eat r
+- 18:39 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white beds, health 4, hunger 17. Holding one raw chicken and one rotten flesh for whoever drops to 6 or below in my sight. Trying to sleep now.","
+- 18:39 act: {"intent":{"goal":"rest_near_beds_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operatio
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white beds, night, health 4, hunger 17. LaForge is lower than me, so the mutton is his. I'm trying the bed now.","reasoning":"It is night now. One
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the south edge with a drop nearby and a golem 15 blocks away. Move to the group at the no
