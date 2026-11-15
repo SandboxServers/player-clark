@@ -40,3 +40,5 @@
 - 02:40 say: {"text":"Clark at the yellow bed for the night. Still no food. Rotten flesh stays for when I'm at hunger 6."}
 - 02:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Night at the yellow bed. Going to sleep here with the group."}
 - 02:53 act: {"actions":[],"say":"Clark at dawn, day 256. Health 7, hunger 17, no food in my pack. I'm staying at the beds, and I'll search the grass in sight. Any meat goes to Trini first."}
+- 02:56 act: {"say":"Clark, day 256. Health 7, hunger 17, three rotten flesh kept until hunger is 6 or below. I'm joining the search for animals in the grass in sight of the beds. Meat goes to Trini first.","inten
+- 02:57 say: {"text":"Clark: no food on me but three rotten flesh, which I'll eat only at hunger 6 or below. I'm holding by the beds and will search the grass near camp for animals. Meat goes to Trini first."}
