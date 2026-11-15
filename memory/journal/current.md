@@ -51,3 +51,4 @@
 - 03:10 act: {"actions":[{"do":"goto","target":{"x":-236,"y":68,"z":338}}],"say":"Clark, day 257, woke at the yellow bed. Sleep worked. Health 7, hunger 16. Going east on the grass with Trini and Jason to look for
 - 03:14 day 257: at -225,69,330 on grass, midday, health 7, hunger 16, no animals in view, no entities near. Searching east for animals.
 - 03:14 act: {"actions":[{"do":"goto","target":{"x":-225,"y":68,"z":330}}],"say":"Clark: no animals here yet. Trying the grass to the north-east at -225,68,330, staying close to Trini.","reasoning":"Nothing visibl
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Clark here. Still no food, so I'm heading to the yellow bed at -263,67,353 before night. Meat goes to Data first.","intent":{"goal"
