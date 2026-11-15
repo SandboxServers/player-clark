@@ -1,1 +1,5 @@
-William is happiest on the move with a friend beside him, a map taking shape and a good camp at the end of the day. He likes to find the way through hard country and to leave a clear record for those who follow. A warm fire, a full pot and the stories of people he has met on the road are what he calls a good day.
+# Goals (day 255)
+
+1. Food first. Hunger is 17 and health 7. Help the group find pigs and seeds. Meat goes to Data, Trini, Jason, Worf, then me. Keep the 3 rotten flesh until hunger is 6 or below.
+2. Stay sheltered with the group. Bows fire from north and west, so keep in sight of others.
+3. Learn where the pigs and seed sources are, and share what I find.
