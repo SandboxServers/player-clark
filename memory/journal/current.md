@@ -53,3 +53,18 @@
 - 16:19 act: {"intent":{"goal":"scout_further_east_for_animals","program":"travel","arguments":{"target":{"x":-205,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
 - 16:19 act: {"intent":{"goal":"return_to_beds_before_night","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":317}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
 - 16:23 act: {"say":"Clark at the north beds, night 296, no food, hunger 13. Going to try the bed now.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":317}}]}
+- 16:24 act: {"reasoning":"Night, sleep blocked at the bed. Hold near the group and wait for a clear bed or dawn.","say":"Clark here, no food, health 8, hunger 12. Sleep was blocked at the bed, so I'll hold here w
+- 16:25 act: {"reasoning":"I drifted into deep water at the south pond. Get out to the beds where the group is, and take Kimberly's chicken offer when in reach.","actions":[{"do":"goto","target":{"x":-272,"y":67,"
+- 16:25 act: {"reasoning":"Back at the beds, golems nearby but not attacking me. No food, hunger 12. Try the bed once more at night; if blocked, hold for dawn.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z
+- 16:30 act: {"reasoning":"Dawn 297. No food, hunger 12, health 8. Trini searches west, Picard north-west. I scout north-east, somewhere new, for animals, and call out anything I find.","say":"Clark, dawn, health 
+- 16:30 act: {"reasoning":"Reached (-240,67,300). No animals in sight, only birch and oak. Push further north to a new area for animals.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{
+- 16:30 act: {"reasoning":"Reached (-240,68,260). Still no animals, only signs. Continue north into new ground.","intent":{"goal":"scout_further_north_for_animals","program":"travel","arguments":{"target":{"x":-24
+- 16:30 act: {"reasoning":"A bee to the north, not food. Keep searching for animals, heading west into unexplored ground.","intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-2
+- 16:30 act: {"reasoning":"A creeper exploded near me; health 4.8, falling. Get away west from the creeper at east, then look for the sheep to the south-east from a safer angle.","actions":[{"do":"goto","target":{
+- 16:30 act: {"reasoning":"Creeper out of view. A pig is south-west at (-282,65,232). Food is the priority: go for the pig, carefully.","intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target
+- 16:31 act: {"reasoning":"Three pigs and a cow nearby. Food is needed now. Walk to the nearest pig to the north and attack it.","actions":[{"do":"goto","target":"pig"},{"do":"attack","target":"pig"}]}
+- 16:31 act: {"reasoning":"Pig is 2 blocks north. Goto failed (no such agent) but pig is close. Try goto pig position then attack.","actions":[{"do":"goto","target":{"x":-279,"y":66,"z":228}},{"do":"attack","targe
+- 16:31 act: {"reasoning":"Got porkchops. Hunger 12 blocks health regen, so eat one now.","actions":[{"do":"eat"}],"say":"I got some pork. Eating one now."}
+- 16:31 act: {"reasoning":"Ate one porkchop; hunger 18, one pork left. Group at north beds. Go there to share food and sleep at night.","intent":{"goal":"reach_group_at_north_beds","program":"travel","arguments":{
+- 16:36 act: {"reasoning":"LaForge offers wheat if I step into reach and say so. I'm at the beds, hunger 17, no food.","actions":[],"say":"Clark here at the north beds, no food, hunger 17. LaForge, I'm in reach. A
+- 16:40 act: {"reasoning":"Dusk with thunder. Many offers of food; I need to say exact spot so they can reach me.","actions":[],"say":"Clark at (-273,67,327), standing on cobblestone by the north white beds, dusk.
