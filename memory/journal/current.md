@@ -142,3 +142,6 @@
 - 18:27 act: {"actions":[{"do":"wait","seconds":60}],"say":"Clark here by the north beds, holding one mutton. Jason, step into my sight and it's yours. Trini, thanks, I'm with you.","reasoning":"Phantom dead. Jaso
 - 18:27 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent, health 4. Must fight."}
 - 18:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"reasoning":"Move to the bed area to be near the group and try sleep there."}
+- 18:30 act: {"actions":[],"say":"Clark here, health 4, hunger 17, no real food. Trini, I'm standing at the north beds, in your sight. Health is my problem, so I'd be grateful for the chicken if no one lower is ne
+- 18:31 act: {"actions":[{"do":"eat"}],"say":"Thank you, Trini. Eating the chicken now. I'll share anything I find.","reasoning":"Chicken is cooked-enough food and hunger 17 blocks regen. Eat it now."}
+- 18:31 act: {"actions":[],"say":"Trini, the chicken is raw, so my body won't eat it above hunger 6. I'm holding it. I'll eat it when hunger drops to 6, and give it to anyone lower before then.","reasoning":"Eat r
