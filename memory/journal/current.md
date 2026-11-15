@@ -1,2 +1,33 @@
 # Journal
 - 01:25 act: {"actions":[],"say":"Night has come and I carry nothing. I will stay put and wait for light."}
+- 01:28 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":354}},{"do":"mine","block":"stripped_oak_log","count":4}],"say":"Dawn. I have no food or tools, so I'm gathering wood from the oak logs to the no
+- 01:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Clark here, empty-handed too. Zack, where are the trees? I'll gather wood with you.","reasoning":"Group is out of food; Zack is going for wood. 
+- 01:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Clark here, no food. Billy, where are the trees? I'll gather wood with you.","reasoning":"Zack is not in sight. Billy is closest and at the bed
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":351}},{"do":"mine","block":"stripped_oak_log","count":4}],"say":"Clark: the logs are still at -264, 66 to 69, 351. I'm mining them now. Zack, Bil
+- 01:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Logs to planks. Planks make a table and tools next."}
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-254,"y":70,"z":340}},{"do":"mine","block":"oak_log","count":4}],"say":"Clark: the stripped logs won't make planks, so I'm going to the oak log tree to the north
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-253,"y":70,"z":340}},{"do":"mine","block":"oak_log","count":4}],"reasoning":"Previous mine was interrupted, but the body is awake now. Retry once with the log i
+- 01:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"Four oak logs make 16 planks. Planks are the base for a sword and tools."}
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-244,"y":68,"z":341}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Clark: 16 planks made. Going to the table to craft a wooden sword, then I'll join th
+- 01:31 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Sword needs sticks, which I can make from planks. Make sticks, then the sword."}
+- 01:32 act: {"actions":[{"do":"write_sign","text":"Clark: 4 spare stripped logs free"}],"say":"Clark here: I have a wooden sword and 12 planks, and no food yet. I'm going to the pigs at -255,239 with the group. W
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":239}}],"say":"Clark: heading south to the pig area at -255, 239 with my wooden sword.","reasoning":"Food is the need. Pigs are far south; go with
+- 01:32 act: {"actions":[],"say":"Clark here at the pig area, sword in hand. Billy, Jason, where are the pigs? I have no food yet.","reasoning":"Arrived. Pigs are not in my view. Ask the group where they are."}
+- 01:43 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie! Fighting it with my sword.","reasoning":"Health 7.8, zombie adjacent and attacking. Hit it now; retreati
+- 01:43 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"attack","target":"zombie"}],"reasoning":"Health 5 and falling. Zombie closing from north. Move toward Jason for backup and swing when the zombie
+- 01:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"reasoning":"Zombie out of sight, health 7. Group is heading to the white bed near -262,67,350 for the night. Go join them and get shelter
+- 01:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"reasoning":"The earlier goto was blocked by a running action. Retry the walk to the group's bed now that the queue is clear."}
+- 01:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"reasoning":"Queue is clear now. Walk to the group's bed area to get sheltered."}
+- 01:44 act: {"actions":[{"do":"build","blueprint":{"name":"night_pillar","blocks":[{"block":"oak_planks","dx":0,"dy":0,"dz":0},{"block":"oak_planks","dx":0,"dy":1,"dz":0},{"block":"oak_planks","dx":0,"dy":2,"dz":
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":349}}],"say":"Morning. I have no food, health 7. Going to the water near the beds to find Trini and Worf.","reasoning":"Dawn, night survived. Foo
+- 01:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-257,"y":66,"z":349}}],"reasoning":"The path is blocked by terrain. Free myself first, then try the walk again."}
+- 01:49 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"reasoning":"View says I am enclosed in solid stone. Try to dig out through the dirt to reach open ground toward the group."}
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":349}}],"say":"Daylight. I'm out of the stone and going to the beds to find food.","reasoning":"Free from the stone pocket and it is day. Head to 
+- 01:49 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Enclosed in stone. Try mining the stone ahead to open a way out to the beds."}
+- 01:50 say: {"text":"Clark here, sealed in stone at -231,60,348. I have no food and cannot dig stone. If anyone can reach me with a pickaxe, please come."}
+- 02:02 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Clark: I'm out of the stone pocket at -231,60,348. I'm making a crafting table and
+- 02:10 act: {"intent":{"goal":"reach_group_at_water","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":349}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 02:10 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"mine","block":"dirt","count":3}],"reasoning":"The path west is blocked by stone. I now have a wooden pickaxe, so I can dig stone and dirt to 
+- 02:11 act: {"intent":{"goal":"reach_group_at_water","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":349}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 02:11 act: {"say":"Clark at the water, -257,65,349, day 254. I have a pickaxe now and can dig stone. I have no food, hunger 17, health 7. Whoever can spare food, please come within reach; I can trade planks or c
+- 02:15 act: {"say":"Clark at the water, hunger 17, health 7. Trini and Worf eat first, then Data. I'll not take the last porkchop. If anyone finds a pig or meat, bring it to the water at -257,65,349. I'll go to t
