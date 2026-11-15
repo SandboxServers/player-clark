@@ -20,3 +20,7 @@
 - 20:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Beds reached, group near, health and hunger full. Try sleep as the summary advises.","say":"Clark going to sleep at the north beds. Chickens still held for who
 - 20:27 act: {"intent":{"goal":"sleep_at_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 20:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside bed at -271,336. Golem approaching; one quick sleep try, then reassess."}
+- 20:29 act: {"say":"Clark at the north beds, dawn 309. Health 20, hunger 20. Holding 3 raw chicken for whoever gets low. Troi, you are lowest; tell me when your hunger drops and I will give it.","reasoning":"Dawn
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, need rest; stand beside bed and sleep alone.","say":"Clark going to bed beside the north white bed at du
+- 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Night now; try sleep beside bed."}
+- 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Continue sleep to reach full rest."}
