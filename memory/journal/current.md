@@ -37,3 +37,15 @@
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":351}}],"reasoning":"Gave the chicken. A phantom is closing from the west at night. Move east, away from it, toward the pig area."}
 - 15:43 act: {"intent":{"goal":"night_wall","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
 - 15:47 act: {"actions":[],"say":"Worf, hold on. I am at -215,69,351, with a wooden sword and health 8. Tell me where you are and I'll come if it's safe.","reasoning":"Worf at health 2 with a phantom. I'm weak too
+- 15:49 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 15:51 act: {"actions":[{"do":"sleep"}],"say":"Clark at the white beds, health 8, hunger 13, no food. I'm going to sleep. Trini, Troi: I have no meat to share, only dirt."}
+- 15:55 act: {"intent":{"goal":"wait_for_night_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations"
+- 15:58 act: {"actions":[{"do":"wait","seconds":240}]}
+- 16:02 act: {"actions":[{"do":"sleep"}],"say":"Clark going to sleep at the north white bed now. Hunger 13, no food."}
+- 16:06 act: {"actions":[{"do":"sleep"}]}
+- 16:10 act: {"intent":{"goal":"scout_for_animals_near_beds","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limi
+- 16:12 act: {"actions":[{"do":"note","text":"Dawn 296 at north white bed. Follow to Zack ended. Health 8, hunger 13, no food. Waiting near beds for animal calls; Chapman scouting west, Zack hunger 7."}],"say":"Cl
+- 16:12 act: {"intent":{"goal":"scout_north_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 16:12 act: {"intent":{"goal":"return_to_beds_for_wheat","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 16:13 act: {"actions":[{"do":"note","text":"Back at the beds. Everyone reports no food: Chapman hunger 18, Picard scouted north with nothing. Waiting for LaForge's wheat or an animal sighting."}],"say":"Clark he
+- 16:17 act: {"actions":[{"do":"note","text":"Wesley at health 2 near the beds. Chicken from Trini and rotten flesh from Troi and Billy are headed to him. I have no food to add, only a red mushroom and an oak log.
