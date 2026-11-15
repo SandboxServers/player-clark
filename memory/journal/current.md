@@ -149,3 +149,17 @@
 - 18:39 act: {"intent":{"goal":"rest_near_beds_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operatio
 - 18:44 act: {"actions":[{"do":"sleep"}],"say":"Clark at the north white beds, night, health 4, hunger 17. LaForge is lower than me, so the mutton is his. I'm trying the bed now.","reasoning":"It is night now. One
 - 18:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the south edge with a drop nearby and a golem 15 blocks away. Move to the group at the no
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}},{"do":"sleep"}],"say":"Clark at the yellow bed, night 303, health 4.2, hunger 17. Holding one chicken and one rotten flesh for whoever is l
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Bed is at -281,69,292, two blocks away. Stand beside it and sleep."}
+- 18:49 act: {"actions":[{"do":"note","text":"Day 303 dawn at north white beds (-272,67,319). Sleep at yellow bed blocked (way blocked). Health 4.2, hunger 17. Holding chicken and rotten flesh for whoever is lowes
+- 18:53 act: {"actions":[],"say":"Clark, health 4.2, hunger 17, at the north white beds. Holding one chicken and two rotten flesh. Chapman is at 3 and out of my sight, so he goes first if he comes in reach. Worf, 
+- 19:01 act: {"actions":[{"do":"sleep"}],"say":"Clark trying the north white bed at dusk 304. Health 4.2, hunger 17. Chicken and rotten flesh held for the lowest in sight.","reasoning":"Dusk, beside a bed, group n
+- 19:10 act: {"actions":[],"say":"Clark, dawn 305, health 4.2, hunger 17. Holding one chicken and two rotten flesh. Meat hunters, come find me at the north white beds; I'll wait here for you.","reasoning":"Survive
+- 19:14 act: {"actions":[{"do":"give","to":"chapman","item":"chicken","count":1}],"say":"Chapman, you're lower than me at health 3. Giving you my chicken. Eat it when your hunger is 6 or below.","reasoning":"Chapm
+- 19:14 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":1}],"say":"Chapman, I'm handing you my chicken now. You're at health 3.","reasoning":"Second try with the full agent id. If it fa
+- 19:18 act: {"actions":[],"say":"Clark here at the white beds, health 4.2, hunger 17. Chapman is lower at 3, so Kimberly, give the beef to Chapman when he is in reach. I can't eat at 17.","reasoning":"Beef went t
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Clark going to try the white bed for the night. Holding one chicken for whoever drops to 6 hunger.","reasoning":"Night, group sheltered nearby, nearest golem 6 block
+- 19:27 act: {"actions":[{"do":"sleep"}],"reasoning":"No golem in view; one more sleep try at the north bed with the group."}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"reasoning":"Drop hazards nearby and I am falling; return to the bed area on flat ground with the group."}
+- 19:28 act: {"actions":[{"do":"sleep"}],"reasoning":"On the ground next to the north white bed, no golem in view. One try."}
+- 19:37 act: {"say":"Clark here, hunger 17, no food in hand but one chicken and two rotten flesh for whoever falls lowest. Meat to Chapman first, then LaForge.","intent":{"goal":"hold_at_beds","program":"rest","ar
