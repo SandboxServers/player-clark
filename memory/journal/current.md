@@ -64,3 +64,24 @@
 - 03:32 act: {"note":"258 midday: searched grass west with Billy, no animals. Back at yellow bed, hunger 15, health 7, 3 rotten flesh kept.","intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 03:35 act: {"say":"Clark at the yellow bed, health 7, hunger 15, no food yet. Riker and Jason, the wheat plot is good. I'll help watch for the golem and any meat."}
 - 03:37 say: {"text":"Clark, dawn of day 258. Still no meat, hunger 15, health 7. Billy, I'll stay by the beds with you and watch the golems to the west, then scout the grass north-west past the signs for animals 
+- 03:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Clark at the yellow bed, night of day 258. Health 7, hunger 15, no meat. Trying to sleep here beside Billy. Meat goe
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 03:50 act: {"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":345}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 03:50 act: {"say":"Clark at (-228,69,345), scouted east on the grass: no animals, only oak trees and drops to the south-east. Hunger 14, health 7. Heading back toward the beds to share the news with the group.",
+- 03:50 act: {"say":"Clark back at the yellow beds with Billy. East grass has no animals, just oak trees. Still hunger 14, health 7. Billy, did you find anything? Meat goes to Trini first."}
+- 04:02 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Clark at the yellow bed, night of day 259. Health 7, hunger 14, no food. Trying to sleep here; meat goes to Trini first."
+- 04:08 act: {"intent":{"goal":"reach_pig_south_west","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":229}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 04:09 act: {"actions":[{"do":"attack","target":"pig"}],"intent":{"goal":"hunt_pig_west","program":"travel","arguments":{"target":{"x":-343,"y":64,"z":228}},"wake_on":["directly_addressed","unexpected_damage","pr
+- 04:09 act: {"actions":[],"intent":{"goal":"return_to_group_with_porkchop","program":"travel","arguments":{"target":{"x":-261,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","precondition_fai
+- 04:10 act: {"say":"Clark back at the beds with one porkchop. Trini or Data, where are you? It's yours when you're in reach."}
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"On my way to Trini at the north white bed with the porkchop."}
+- 04:14 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, here is the porkchop. Ripe wheat is at -267,66,325; Data needs it for bread."}
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":340}}],"say":"Trini, where are you? I'm at the north white beds with your porkchop."}
+- 04:14 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, I'm right at the white beds now. Come close and I'll hand it ov
+- 04:15 act: {"say":"I'm standing by the white beds with the porkchop. Trini, Data, whoever is hungry, come to me."}
+- 04:21 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:21 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 04:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, where are you? I have a porkchop for you. Come to the white beds.","reasoning":"Trini is out of sight, so the give
+- 04:21 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Trini is out of sight, so the porkchop goes to Worf, who is right here and needs food too.","reasoning":"Trini cannot be

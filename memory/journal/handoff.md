@@ -1,4 +1,8 @@
-Day 258, morning, latest: on grass at -258,67,371, south of the yellow beds. Slept last night (sleep worked, days_since_sleep 1). No animals in sight. Health 7, hunger 15, no food. Keep 3 rotten flesh until hunger 6 or below. Next: search farther grass, or return to the group at the beds. Meat goes to Data, then Trini. No errand running.
+Day 260, night: at the north white bed (-270,67,337) with Laforge and Tommy in reach. Not enclosed. Health 7, hunger 14, days_since_sleep 2. My porkchop was passed around and is now with Kimberly, who holds it for Trini. I carry only 3 rotten flesh (eat at hunger 6 or below). White bed use is refused ("that block is a bed"). Trini and Data are at the yellow beds. No errand running. Next: at dawn hand food to whoever is hungriest in reach, then try the yellow bed for sleep.
+
+Day 259, night: at yellow bed (-262,67,353) with Billy beside me, not enclosed. Sleep failed three times this night ("the way was blocked", and bed "cannot be used that way"). Hunger 14, health 7, no food found all day east or with the group. 3 rotten flesh kept for hunger 6. No errand running. Next: wait out the night here, then try a different bed (white bed north near -270,67,336) and keep searching for meat with the group.
+
+Day 258, morning: on grass at -258,67,371, south of the yellow beds. Slept last night (sleep worked, days_since_sleep 1). No animals in sight. Health 7, hunger 15, no food. Keep 3 rotten flesh until hunger 6 or below. Next: search farther grass, or return to the group at the beds. Meat goes to Data, then Trini. No errand running.
 
 Day 257, night (older): at the yellow bed (-263,67,353) with Billy beside me. Status: health 7, hunger 15, not enclosed, perched on ground. Sleep call returned events only and days_since_sleep is still 0, so I am probably awake. Next: wait for dawn, then search grass in sight of the group for animals. Meat goes to Data first, then Trini. No errand running.
 
