@@ -314,3 +314,31 @@
 - 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"reasoning":"Planting on the tilled spot keeps failing and it is night. Stop planting, go to the yellow bed near -271,67,326 and try sleep
 - 12:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I am at the yellow bed area with the group in reach and the golem 17 blocks away. Try the bed, then sleep."}
 - 12:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use is refused, but the sleep action may still work from here among the group. Try it."}
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Clark here, night of day 285, hunger 12, health 8. Heading to the white bed at -270,67,336 to sleep with the group."
+- 12:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark: a creeper was near so sleep was refused. Moving to the white bed at -270,67,336 and trying again."}
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":295}}],"say":"Clark: dawn. No food, hunger 12, health 8. I'll scout north of the beds for animals I haven't checked. Anything found goes to LaFor
+- 12:54 say: {"text":"Clark at -270,68,295, hunger 12, health 8, no food. Macdonald's porkchops: LaForge and Data first. I hold 7 wheat seeds and 27 dirt if anyone needs them for farmland."}
+- 12:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Clark heading to the white beds at -270,67,322 with 7 wheat seeds. Wcrusher, you're planting by the beds: I'll hand you the seeds w
+- 12:59 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"wheat_seeds","count":7}],"say":"Wcrusher, here are my 7 wheat seeds for the beds farm. Plant them, and te
+- 12:59 say: {"text":"Wcrusher, my give did not go through; the items are on the ground near you. I'll leave my 7 wheat seeds here by the crafting table at -271,67,319 for you to pick up. Trini, Data and Billy are
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Clark: night of day 286. Going to the white bed at -271,67,318 to sleep. Hunger 12, health 8, no food."}
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addr
+- 13:04 act: {"actions":[{"do":"sleep"}],"say":"Clark, hunger 12, at the bed now. Troi is lower at 10, so the bread goes to Troi first."}
+- 13:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:06 act: {"actions":[{"do":"sleep"}],"say":"Clark, hunger 11, health 8. Wcrusher, if the porkchop is still with you, I'll take it. Otherwise it stays with whoever is lowest."}
+- 13:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Clark: trying the white bed at -271,67,336 since the one here is crowded."}
+- 13:12 act: {"actions":[{"do":"eat"}],"say":"Clark, dawn day 287. Thank you, Wcrusher, for the porkchop. Eating it now; Lewis is hungrier and further off, so I'll share next meat with him and Troi."}
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Dusk, going to the north white bed to sleep. Food first to Lewis if I find any.","reasoning":"Night is here and days_since_sleep is
+- 13:20 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the north bed with no hostile in range. Try the bed, then sleep."}
+- 13:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as before, so I'll try sleep directly here, where no hostile is listed in range."}
+- 13:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep worked for 2 of 10 needed. Sleep again to bring more of the group under."}
+- 13:21 act: {"actions":[{"do":"sleep"}],"reasoning":"The last sleep worked but days_since_sleep is still 3. Sleep once more and see the digest."}
+- 13:24 act: {"actions":[{"do":"sleep"}],"say":"Night 287, no food, health 8. Trying sleep at the north bed.","reasoning":"Phantom 13 blocks away and a golem 9 away. Try sleep once more; if refused, read why."}
+- 13:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantoms gone for now. Try sleep again."}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep keeps reporting worked but I stay awake. Stand on the bed itself and sleep there."}
+- 13:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing on the bed, sleep counted 3 of 10 asleep. Keep sleeping until enough are down."}
+- 13:35 act: {"actions":[{"do":"note","text":"Dawn day 288 at the north white bed. No food on me. Scouting with the group in sight of the beds."}],"intent":{"goal":"scout_for_food_near_beds","program":"travel","ar
+- 13:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"say":"Moving away from the golem, to the group at the beds. No food yet."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the north white bed with the group for the night. Still no food."}
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Daytime. I have 7 wheat seeds and no food. Whoever has tilled farmland ready, tell me the spot and I'll plant them with you."}
