@@ -237,3 +237,5 @@
 - 10:00 act: {"actions":[{"do":"sleep"}]}
 - 10:08 act: {"intent":{"goal":"search_animals_south_east","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
 - 10:09 act: {"intent":{"goal":"return_to_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
+- 10:13 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Clark here. Trying the bed to sleep, I have had no proper rest for nine days.","reasoning":"Need sleep; bed adjacent, no hostiles. Hunge
+- 10:17 act: {"actions":[],"say":"Clark at the white beds, hunger 16, no food. Lewis, you are close. I'll wait here for night and sleep in a bed, and any meat goes to the hungriest.","intent":{"goal":"wait_for_nig
