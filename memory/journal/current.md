@@ -132,3 +132,5 @@
 - 06:02 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":356}}],"say":"Moving away from the golem beside me.","reasoning":"A golem is 1.7 blocks north-west. Keep distance, then hold in open ground until
 - 06:13 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":345}}],"say":"Clark scouting north-west now for animals. Any meat goes to Jason first.","intent":{"goal":"scout_north_west_for_animals","program"
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":262}}],"say":"Clark heading to the cow lake near -288,67,257 to join Billy and Data. Hunger 20, I'm fine for now.","intent":{"goal":"reach_cow_la
+- 06:16 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":3}],"say":"Clark at the cow lake, no food, hunger 20. Tommy, I gave you 3 oak planks. I'll look for cows to the west with the ot
+- 06:19 say: {"text":"Clark here, hunger 20, no food. I'll go west with Billy, Troi and Tommy and call out any cow. Evening is coming, so after that I need a bed."}
