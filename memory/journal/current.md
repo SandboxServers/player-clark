@@ -153,3 +153,17 @@
 - 06:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"intent":{"goal":"reach_yellow_bed_b","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed",
 - 06:45 act: {"actions":[{"do":"sleep"}]}
 - 06:50 say: {"text":"Clark at dawn day 268. Health and hunger full, so I give my turn to those who are hungry. I'll scout the west grass with the group and give any meat to Trini, then Kimberly, then Worf."}
+- 06:50 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-275,"y":68,"z":344}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 06:51 act: {"say":"Clark at the west edge, no animals in sight yet. Golems and villagers here, nothing hunted. Kimberly, Tommy, any animal named?","intent":{"goal":"scout_west_for_animals","program":"travel","ar
+- 06:51 act: {"say":"Tommy, I'm at -293,68,345 on the grass past the signs. No animals seen yet. I'll keep to the grass west and call out what I find.","reasoning":"Scout went further but the last travel stopped o
+- 06:55 act: {"say":"Clark at -293,68,345, grass west of the signs. No animals seen, only the white bed and golems. Thunder now. Tommy is with me. I'll head back to the yellow beds to tell Trini what we found.","i
+- 06:55 act: {"say":"Clark back at the yellow beds. A horse is standing north at about -262,66,330. Horses may not give meat, but it's an animal. No other animals seen west."}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Clark going to the yellow bed for the night. Health and hunger full.","reasoning":"Dusk. Days since sleep is 1. Go t
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 07:00 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm beside the yellow bed at dusk. Try to sleep now."}
+- 07:02 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, standing at a white bed with the group. Try to sleep."}
+- 07:03 act: {"actions":[{"do":"sleep"}],"reasoning":"No creeper in view now. Try the white bed again."}
+- 07:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Creeper gone from the list. Try sleep again here."}
+- 07:09 act: {"say":"Clark here, full health and hunger, no food. I'll scout the west grass for cows or pigs now. Any meat goes to Chapman, then Trini.","intent":{"goal":"scout_west_grass_for_animals","program":"t
+- 07:10 act: {"say":"Clark: scouted the far west grass to -299,66,300. No cows or pigs in sight. Heading back toward the yellow beds to tell the group and wait for night.","intent":{"goal":"return_to_yellow_bed","
+- 07:10 act: {"say":"Clark back at the yellow bed with Trini and Zack. No animals in the west; I have nothing to give. I'll wait here for night and try to sleep.","intent":{"goal":"wait_for_night_at_yellow_bed","p
