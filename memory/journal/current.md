@@ -45,3 +45,4 @@
 - 16:18 act: {"actions":[{"do":"note","text":"Day 368 dusk: Chapman will hand the oak logs to Data by hand. Going to sleep at west bed 416,107,-1093."},{"do":"sleep"}]}
 - 16:22 act: {"say":"Morning Trini, Laforge, MacDonald. William at the west bed, health steady. Has Data got the oak logs yet?","actions":[{"do":"note","text":"Day 369 morning: slept at west bed. Greeted Trini, La
 - 16:26 act: {"say":"Riker, I name no east-wall cell until someone gives exact x,y,z. Chapman, keep the logs for Data and hand them over when Data is in sight.","actions":[{"do":"note","text":"Day 369: Riker offer
+- 16:30 act: {"actions":[{"do":"sleep"}]}
