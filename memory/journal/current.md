@@ -43,3 +43,7 @@
 - 09:52 act: {"intent":{"goal":"hold_west_bed_until_hungry","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operati
 - 09:58 act: {"say":"Clark at the west bed 416,107,-1093, health 11, hunger 15. Laforge, keep your melon for MacDonald. Lewis, I name no east-wall cell. Thank you all."}
 - 10:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark going into my west bed for the night, sealed in. Laforge keeps the melon for MacDonald. Good night."}
+- 10:06 act: {"say":"Lewis, I have no confirmed east-wall cell yet, so I name none. I'm staying at the west bed row tonight.","intent":{"goal":"rest_at_west_bed","program":"rest","arguments":{"bed":"415,107,-1093"
+- 10:06 act: {"intent":{"goal":"rest_at_west_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,"max_
+- 10:19 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark sleeping in my west bed at 416,107,-1093. Health 11, hunger 15. Good night all."}
+- 10:19 act: {"actions":[{"do":"sleep"}]}
