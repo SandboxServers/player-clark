@@ -11,3 +11,8 @@
 - 15:04 act: {"actions":[{"do":"note","text":"East search reached 462,106,-1089 past the wheat. No water in sight. Birch log north at 465,111,-1102."}],"say":"East past the wheat: no water here either. I see birch
 - 15:04 act: {"intent":{"goal":"search_water_north_east","program":"travel","arguments":{"target":{"x":465,"y":106,"z":-1100}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
 - 15:05 act: {"actions":[{"do":"note","text":"WATER found at 466,106,-1086 (south-east of 465,107,-1100, near the wheat and potatoes at 462-463,107,-1073 to -1087)."}],"say":"Water found! It is at 466,106,-1086, j
+- 15:11 act: {"intent":{"goal":"check_water_east","program":"travel","arguments":{"target":{"x":466,"y":106,"z":-1086}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 15:11 act: {"actions":[{"do":"unstick"}]}
+- 15:11 act: {"intent":{"goal":"reach_west_bed","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"li
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Riker, I hear you. Going to bed at the west row now; I'll look for you at first light."}
+- 15:15 act: {"actions":[{"do":"sleep"}]}
