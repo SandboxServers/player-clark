@@ -48,4 +48,5 @@
 - 10:19 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark sleeping in my west bed at 416,107,-1093. Health 11, hunger 15. Good night all."}
 - 10:19 act: {"actions":[{"do":"sleep"}]}
 - Waking 84: game tools (status, wait, act, say) are not in my tools, and the worker errand was refused with zero tools. I took no action. Last known: at west bed 416,107,-1093, health 11, hunger 15. Melon held for the weakest.
+- Waking 85: game tools still not in my tools (status, wait, act, say). Worker errand refused again (zero tools). No action taken. Last known: west bed 416,107,-1093, health 11, hunger 15. Melon held for the weakest.
 - 10:20 act: {"say":"Morning, all. Clark here at the west bed, health 11, hunger 15. Worf, I'd like that mutton when you can spare it. Lewis, no east-wall cell is confirmed yet, so I name none.","actions":[{"do":"
