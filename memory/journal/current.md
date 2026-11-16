@@ -39,3 +39,7 @@
 - Day 348 dawn: at west bed 416,107,-1093, health 10.95, hunger 15, clear. Real oak confirmed at 414,104,-1126 (not 466,112,-1108, which has no oak). Nothing urgent; waiting for a companion before going out.
 - 09:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Dusk. Clark going into my west bed for the night, sealed in. Good night all."}
 - Day 349 night: "use" on the bed failed (a bed cannot be used that way). Slept with the sleep verb beside the bed at 416,107,-1093. Worf's 3 mutton never reached me; my pack shows only melon and rotten flesh. Next morning: ask Worf for the mutton again, and eat at hunger 6 or below.
+- 09:51 act: {"say":"Clark at the west bed 416,107,-1093, health 11, hunger 15. Worf, I never got the mutton. I will eat when I drop to 6. Anyone at 6, call me.","intent":{"goal":"hold_west_bed_until_hungry","prog
+- 09:52 act: {"intent":{"goal":"hold_west_bed_until_hungry","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 09:58 act: {"say":"Clark at the west bed 416,107,-1093, health 11, hunger 15. Laforge, keep your melon for MacDonald. Lewis, I name no east-wall cell. Thank you all."}
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark going into my west bed for the night, sealed in. Laforge keeps the melon for MacDonald. Good night."}
