@@ -20,3 +20,4 @@
 - 21:39 act: {"say":"Clark here at the west beds, health 11, hunger 13. I have not seen the farm block myself, so I cannot confirm it. MacDonald, till and plant the one you named at 463,106,-1086 if you have check
 - 21:47 act: {"intent":{"goal":"rest_night_west_bed","program":"rest","arguments":{"bed":{"x":415,"y":107,"z":-1093}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
 - 21:52 act: {"actions":[{"do":"note","text":"Day 385 morning at west bed. Health 11, hunger 13. Holding 4 wheat seeds for Laforge; no one in sight yet."}],"say":"Morning all. William at the west bed, health 11, h
+- 21:53 act: {"say":"Clark at the west bed, health 11. I cannot confirm any farmland block by sight, so please plant only where you have checked yourself. Laforge, Data's oak logs are with Chapman; I will hand ove
