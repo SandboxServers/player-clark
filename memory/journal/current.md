@@ -1,1 +1,16 @@
 # Journal
+- 02:06 act: gave Kimberly 8 melon (worked; 15 melon left). Hunger 17.
+- Day 325: Slept (8 of 10 asleep). Next: deliver 20 planks to Laforge at 443,107,-1092.
+- Day 325: Laforge was not in sight at first. Deposited 20 planks in chest 447,107,-1093 (worked), then gave Laforge 20 planks directly (worked). 20 planks remain in that chest; told Laforge. I have 5 planks.
+- Next: eat at hunger 6 or below. Check Data's and Lewis's needs. Shelter at night.
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1091}}]}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1092}},{"do":"deposit","at":{"x":447,"y":107,"z":-1093},"item":"oak_planks","count":20}],"say":"Laforge, I could not find you in sight, so I am 
+- 02:06 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":20}],"say":"Laforge, here are 20 planks for your bed wall. Build it well."}
+- 02:06 act: {"actions":[],"say":"Laforge, the 20 planks are handed to you. I also left 20 in the chest at 447,107,-1093 earlier, while I could not see you. Those are yours too if you want them, or Data can take t
+- 02:08 act: {"actions":[],"say":"Wesley, I am at 445,107,-1091 by the east beds. Come to my plank wall at 429,107,-1077 and I will show you how the sides closed. I have 5 planks left."}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1075}}],"say":"Coming to my plank wall now, Wesley, Kimberly, Trini, Lewis. I will show you how it is laid."}
+- 02:12 act: {"actions":[],"say":"Here at the wall. I laid it with planks around the beds, about 25 blocks for a shelter. Trini, Kimberly, Wesley, walk round it and I will tell you each side as I see it."}
+- 02:15 act: {"actions":[],"say":"Riker, bring the 4 cobblestone here to 430,107,-1075, by the wall. I will lay the sides with you."}
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}]}
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}]}
+- 02:19 act: {"actions":[{"do":"sleep"}]}
