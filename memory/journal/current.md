@@ -49,3 +49,4 @@
 - 14:13 act: {"say":"Morning, day 362. Clark here, health 11, hunger 15, 3 melon held for hunger 6. I will scout north from the beds for water and call back.","intent":{"goal":"scout_water_north","program":"travel
 - 14:14 act: {"say":"Clark: the walk north stopped at a drop near 416,107,-1101; the way was blocked. Going back to the beds. Laforge, I could use oak planks later, not now. No water north yet.","intent":{"goal":"
 - 14:18 act: {"say":"Clark back at the west beds, health 11, hunger 15. Laforge, thank you; I do not need planks now, so keep them for Data. Lewis, stay clear of that enderman. Still no water."}
+- 14:28 act: {"say":"Clark at the west beds, health 11, hunger 15. Still no water. Anyone who has seen a river or pond, please tell me where.","actions":[{"do":"note","text":"Holding at west bed 416,107,-1092 for 
