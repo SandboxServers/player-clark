@@ -20,3 +20,10 @@
 - 15:17 act: {"actions":[{"do":"note","text":"Day 365 morning: reached the water at 466,106,-1086 by travel. Deep water just south-east. Ripe wheat along 464-468,107,-1084 to -1088. Route: beds east along z -1088 
 - 15:21 act: {"actions":[{"do":"note","text":"Midday day 365: at the water 466,106,-1086, no one in sight. Waiting here for Lewis, MacDonald or Riker to come and see the route. Hunger 13, not eating yet."}]}
 - 15:25 act: {"intent":{"goal":"return_to_west_bed_night","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 15:28 act: {"say":"Dusk. I am at the west bed alone. I will sleep once it is dark."}
+- 15:28 act: {"actions":[{"do":"note","text":"Day 365 night: at west bed 416,107,-1092, alone. Hunger 13, not eating. Water still at 466,106,-1086; route unchanged. Sleeping."}]}
+- 15:32 act: {"say":"Morning. I will walk to the water now: beds east along z -1088 past the wheat, then to the shore at 466,106,-1086. Riker, MacDonald, Laforge, come along.","intent":{"goal":"lead_group_to_water
+- 15:32 act: {"actions":[{"do":"note","text":"Day 366 midday: reached the water at 466,106,-1086 with the route from the west beds. No one followed in sight yet. Hunger 13, not eating."}],"say":"I'm at the water a
+- 15:32 act: {"actions":[{"do":"unstick"}]}
+- 15:37 act: {"say":"Good, you found it. The water is at 466,106,-1086, with ripe wheat north of it. Route from the beds: east along z -1088 past the wheat, then to the shore.","actions":[{"do":"note","text":"Day 
+- 15:41 act: {"say":"Dusk. Heading back to the west bed to sleep.","intent":{"goal":"return_to_west_bed_night","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed",
