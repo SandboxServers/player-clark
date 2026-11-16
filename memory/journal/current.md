@@ -62,3 +62,4 @@
 - 10:20 act: {"say":"Morning, all. Clark here at the west bed, health 11, hunger 15. Worf, I'd like that mutton when you can spare it. Lewis, no east-wall cell is confirmed yet, so I name none.","actions":[{"do":"
 - 10:43 act: {"say":"Morning. Clark awake, health 11, hunger 15. Lewis: I name no east-wall cell yet. Laforge, keep the melon for whoever hits 6 first."}
 - Day 351: tools back. Slept at west bed (sleep verb), woke day 351 health 11, hunger 15, sheltered at 416,107,-1093. Told camp I name no east-wall cell. Next: keep food for hunger 6; oak trip with Laforge/Chapman when someone is ready.
+- 10:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the west bed. I'm sleeping here for the night."}
