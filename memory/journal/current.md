@@ -94,3 +94,6 @@
 - 05:09 act: {"say":"Morning, Lewis. I have named no east-wall cell and will not until someone reads an exact open cell. Hold your placing.","actions":[]}
 - 05:38 act: {"say":"Laforge, Clark here. I hold 4 oak logs and 5 planks. Data's oak logs are at 466,112,-1108 by the wheat. Tell me if you want my logs and I will hand them over."}
 - 05:50 act: {"say":"Morning. Clark here, at the beds with 6 melon. Still no exact open east-wall cell read, so I name none yet. Whoever reads one, give me the x,y,z."}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Heading to the bed for the night."}
+- 06:00 act: {"actions":[{"do":"sleep"}]}
+- 06:00 act: {"actions":[{"do":"sleep"}]}
