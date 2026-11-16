@@ -2,6 +2,6 @@
 
 I am William (ag_clark_01), a sociable survivor who helps the others around the white beds near x430, z-1092.
 
-Day 317-319: I gathered melons and shared them. Geordi gave me 6 planks and I passed 5 to Lewis, who is the weakest. I gave Troi 2 melon. I have 1 melon, 2 planks, 1 egg, 1 rotten_flesh, 1 cobblestone and 1 gravel. Hunger was 17 and health 18.7 all day. I slept in a white bed on the night of day 319, and days since sleep reset to 0.
+Day 320-321: I gathered 18 oak logs at 459,110,-1103, crafted 59 planks, and built my own closed shelter at 429,107,-1077. I gave Lewis 18 planks in total, which sealed his shelter, and 6 melon to Kimberly. Data was walled in and I could not reach him in sight. I hold 45 planks and 30 melon, with hunger 17 and health 20. I slept in the white bed at 429,107,-1078 on the night of day 321.
 
-Still needed: a closed shelter of my own, and food when hunger drops to 6 or below. Friends: Lewis, Troi, Kimberly, Tommy, Geordi, Data, Riker.
+Still needed: food for Kimberly and Data when they come into view, and eat at hunger 6 or below. Friends: Lewis, Kimberly, Data, Laforge, Wesley, Macdonald, Riker.
