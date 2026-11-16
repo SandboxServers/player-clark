@@ -8,3 +8,6 @@
 - 08:32 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}]}
 - 08:36 act: {"say":"Dusk. Clark going to the west bed at 415,107,-1093 for the night. Data, Worf, Chapman, stay in sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}}]}
 - 08:36 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
+- 08:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Dusk. I am at the west bed with Data and Worf in sight. Going to sleep here."}
+- 08:41 act: {"actions":[],"say":"Morning. Clark, health 11, hunger 16. Worf, where is the water place with the oak leaves? I still need a real oak spot. Lewis, I have no confirmed east-wall cell yet, so I name no
+- 08:47 act: {"actions":[],"say":"Thank you, Worf. Laforge and Chapman, let us go look for oak by water together. I'll go out in sight of you both, and I'll come back to the beds if the bows get close."}
