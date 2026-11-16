@@ -39,3 +39,6 @@
 - 13:21 act: {"say":"Morning. Clark at the west bed, health 11, hunger 15. No word from Billy here either. I am holding for the cow walk and will walk with Lewis when he calls hop one."}
 - 13:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night again. Clark going to the west bed 415,107,-1092 with the group nearby. MacDonald, I am here and ready for t
 - 13:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk, day 360. Clark going to the west bed 415,107,-1092. No water yet; cow walk still waiting on Billy. Good nigh
+- 13:55 say: {"text":"William here, awake at the west beds. Still looking for water. Anyone seen a river or pond?"}
+- 13:55 act: {"intent":{"goal":"scout_water_north_west","program":"travel","arguments":{"target":{"x":395,"y":107,"z":-1115}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 13:56 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
