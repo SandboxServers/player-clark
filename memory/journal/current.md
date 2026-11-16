@@ -81,3 +81,15 @@
 - 04:23 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1077}}],"say":"Clark walking to the wall at 424,107,-1077 to read the next open cell myself. Kimberly, Laforge, Lewis, stay where you are until 
 - 04:24 act: {"actions":[{"do":"note","text":"At 424,107,-1077 on gravel. View shows solid planks ahead, no open gap read. Naming no cell."}],"say":"Clark here at 424,107,-1077. My view shows solid planks all arou
 - 04:24 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1070}}],"reasoning":"Dusk, nothing to build without a confirmed cell. Go to the sleeping spot used before, then sleep."}
+- 04:28 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1079}}],"say":"Morning. Clark going to the wall at 423,107,-1079, where Kimberly read the gap. I name no cell until someone there reads exact co
+- 04:32 act: {"actions":[{"do":"note","text":"Midday 333 at 422,107,-1079 with Kimberly and Laforge. Viewed north: no air cell within 2 blocks at the wall. Still naming no cell."}],"say":"Clark: my view from 422,1
+- 04:36 act: {"actions":[{"do":"note","text":"Afternoon 333: Kimberly, Laforge and Lewis all read no exact open cell. Wall work paused; no cell named."}],"say":"Clark: nobody has an exact open cell, so I name none
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1080}}],"reasoning":"Enderman is south-east at 17 blocks. Move west toward the bed row, away from it, before dusk."}
+- 04:37 act: {"actions":[{"do":"note","text":"Day 333 dusk: at 416,107,-1081 near the bed row. No exact wall cell named. Enderman out of sight. Trying sleep."},{"do":"sleep"}],"reasoning":"Sun is low and no monste
+- 04:41 act: {"actions":[],"say":"Clark: I am at 416,107,-1081 by the beds, no monsters in sight. I name no wall cell. I will sleep when night comes.","reasoning":"Daylight now. Wait here for night, then sleep by 
+- 04:53 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, no monsters in view. Sleep here by the beds."}
+- 04:57 act: {"say":"Morning. Clark at the bed row, health steady, hunger 17. Still no exact open wall cell read by anyone, so I name none. Who can read an exact x,y,z?
+- Night 334: slept at 416,107,-1079 (5 of 10 asleep, worked). Day 334 morning: health 10.95, hunger 17, no monsters in view. Said good morning; named no wall cell.","actions":[]}
+- 05:05 act: {"actions":[{"do":"sleep"}],"say":"Clark: dusk, no monsters in sight, sleeping here by the beds at 416,107,-1079. No wall cell named."}
+- 05:09 act: {"say":"Morning, Lewis. I have named no east-wall cell and will not until someone reads an exact open cell. Hold your placing.","actions":[]}
+- 05:38 act: {"say":"Laforge, Clark here. I hold 4 oak logs and 5 planks. Data's oak logs are at 466,112,-1108 by the wheat. Tell me if you want my logs and I will hand them over."}
