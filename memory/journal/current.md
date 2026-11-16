@@ -97,3 +97,14 @@
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Heading to the bed for the night."}
 - 06:00 act: {"actions":[{"do":"sleep"}]}
 - 06:00 act: {"actions":[{"do":"sleep"}]}
+- 06:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"say":"Morning, Laforge. I have 4 oak logs and I am turning them into planks for your wall now.","reasoning":"Hunger 17, no threats. I hold 4
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1090}}],"say":"Laforge, I have 21 planks now. I am coming to your bed wall to hand you the 20.","reasoning":"I promised Laforge 20 planks; I now
+- 06:01 act: {"actions":[],"say":"Laforge, I am at your bed wall with 21 planks for you. Come near and I will hand them over.","reasoning":"Laforge is not in sight. I will announce myself and wait for him to come,
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1092}},{"do":"deposit","at":{"x":447,"y":107,"z":-1093},"item":"oak_planks","count":20}],"say":"Laforge, nobody came, so I am leaving your 20 pl
+- 06:07 act: {"actions":[],"say":"Kimberly, I have 6 melon. Step into my sight and I will give you some. Worf, Tommy, I can share too.","reasoning":"Laforge has his planks. Kimberly is reported weakest with no foo
+- 06:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Dusk. Heading to my bed at 429,107,-1078 for the night. Kimberly, La
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"The bed use failed because I stood beside it at the wrong cell
+- 06:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed keeps failing from here, but earlier sleep worked where I stood by the beds. Try sleep here, at night, next to Jason."}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1067}},{"do":"sleep"}],"reasoning":"Enderman 3 blocks east at night. Move west-south away from it, then try sleep."}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"reasoning":"Enderman adjacent blocks sleep. Walk west to the bed row far from it."}
+- 06:12 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view by the west bed row. Try sleep here."}
