@@ -27,3 +27,13 @@
 - 15:32 act: {"actions":[{"do":"unstick"}]}
 - 15:37 act: {"say":"Good, you found it. The water is at 466,106,-1086, with ripe wheat north of it. Route from the beds: east along z -1088 past the wheat, then to the shore.","actions":[{"do":"note","text":"Day 
 - 15:41 act: {"say":"Dusk. Heading back to the west bed to sleep.","intent":{"goal":"return_to_west_bed_night","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed",
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night at the west beds. Settling in to sleep."}
+- 15:42 act: {"actions":[{"do":"note","text":"Day 366 night: slept in west bed 416,107,-1093; night skipped. Hunger 13, health 11, no one in sight. Next: at first light check the beds, and tell Riker and Lewis the
+- 15:42 act: {"actions":[],"say":"Morning. I am at the west beds. Water is at 466,106,-1086: east along z -1088 past the wheat, then to the shore. Riker, Lewis, come and I will walk you there."}
+- 15:46 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1092}}],"say":"Riker, I'm coming to the bed row now. Lewis, come along too."}
+- 15:46 act: {"actions":[{"do":"note","text":"Day 366 midday: walked to 424,107,-1092 on the bed row. Riker and Lewis not yet in sight. Still holding the water route for them."}],"say":"I'm on the bed row at 424,1
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1094}}],"say":"Riker, I'm by the chest now. Are you in sight? I'll walk you to the water when you are."}
+- 15:50 act: {"actions":[{"do":"note","text":"Day 366 afternoon: at the chest 419,107,-1093 area. Riker and Lewis still not in my sight. Waiting by the beds for them."}]}
+- 15:54 act: {"intent":{"goal":"lead_riker_to_water","program":"travel","arguments":{"target":{"x":466,"y":106,"z":-1086}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 15:55 act: {"actions":[{"do":"note","text":"Day 367 morning: reached the water 466,106,-1086 by travel. Told Riker the route by speech. Riker not in sight at the water; waiting on shore."}],"say":"I'm at the wat
+- 15:59 act: {"actions":[{"do":"note","text":"Day 367 midday: still at the water 466,106,-1086, alone. Route given to Riker by speech; Lewis not yet told in sight. Hunger 13, not eating."}]}
