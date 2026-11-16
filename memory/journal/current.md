@@ -18,3 +18,4 @@
 - 21:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside west bed, sheltered enough; sleep per goal 1."}
 - 21:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 6 of 10 asleep; retry sleep beside the west bed."}
 - 21:39 act: {"say":"Clark here at the west beds, health 11, hunger 13. I have not seen the farm block myself, so I cannot confirm it. MacDonald, till and plant the one you named at 463,106,-1086 if you have check
+- 21:47 act: {"intent":{"goal":"rest_night_west_bed","program":"rest","arguments":{"bed":{"x":415,"y":107,"z":-1093}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
