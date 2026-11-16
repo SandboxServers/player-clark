@@ -108,3 +108,6 @@
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1067}},{"do":"sleep"}],"reasoning":"Enderman 3 blocks east at night. Move west-south away from it, then try sleep."}
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"reasoning":"Enderman adjacent blocks sleep. Walk west to the bed row far from it."}
 - 06:12 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view by the west bed row. Try sleep here."}
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1092}},{"do":"withdraw","at":{"x":447,"y":107,"z":-1093},"item":"oak_planks","count":20}],"say":"Heading to the chest at 447,107,-1093 to get th
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1091}}],"say":"Laforge, I have your 20 oak planks. I am at the bed wall now; come into sight and I will hand them over."}
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1077}},"wake_on":["goal_completed"
