@@ -5,3 +5,9 @@
 - 14:59 act: {"actions":[{"do":"note","text":"Day 364: reached 411,100,-1114 via north route; travel timed out, blocked by jungle logs and a drop to the west. No water seen yet."}]}
 - 14:59 act: {"intent":{"goal":"return_to_west_beds","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"
 - 14:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}},{"do":"note","text":"Day 364 dusk: no water north past jungle logs either. Back at west bed, sleeping."}]}
+- 15:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep in the west bed. We keep looking for water at first light."}
+- 15:04 act: {"actions":[{"do":"note","text":"Woke at first light day 365, health 11, hunger 14. Still no water. Chapman has 8 oak logs for builders."}],"say":"Morning. I am awake and well. I will look for water e
+- 15:04 act: {"intent":{"goal":"search_water_east","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1088}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 15:04 act: {"actions":[{"do":"note","text":"East search reached 462,106,-1089 past the wheat. No water in sight. Birch log north at 465,111,-1102."}],"say":"East past the wheat: no water here either. I see birch
+- 15:04 act: {"intent":{"goal":"search_water_north_east","program":"travel","arguments":{"target":{"x":465,"y":106,"z":-1100}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 15:05 act: {"actions":[{"do":"note","text":"WATER found at 466,106,-1086 (south-east of 465,107,-1100, near the wheat and potatoes at 462-463,107,-1073 to -1087)."}],"say":"Water found! It is at 466,106,-1086, j
