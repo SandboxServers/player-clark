@@ -1,6 +1,4 @@
 # Journal
 - Day 379 morning, at west bed 416,107,-1093. Health 11, hunger 13. Said the water route to all in earshot (Riker, Lewis). Chapman waits at the beds for Data with the 8 oak logs. Next: wait, eat at hunger 6 or below.
-- 20:04 act: {"say":"Morning. William here. No farmland cell named by me; Laforge, ask MacDonald. Water is at 466,106,-1086: beds east along z -1088 past the wheat, then to the shore. Riker, Lewis, that is the way
-- 20:08 say: {"text":"Morning. Water is at 466,106,-1086, east along z -1088 past the wheat. Ask me for the route if you need it."}
-- Day 380: quiet at the west bed, no one in sight, hunger 13, health steady 11. Said the water route again. Waiting for someone to come by; nothing to do yet.
-- 20:18 act: {"say":"MacDonald, I have not seen 463,106,-1086 myself, so I cannot confirm it. I only know the water at 466,106,-1086. Plant where you can see the tilled ground.","actions":[],"reasoning":"MacDonald
+- Day 380 dusk: went to west bed 415,107,-1093 and slept. Health 10.9, hunger 13, not eating yet (3 melon held). Overheard: MacDonald proposes farmland at 463,106,-1086 by the water; I have not seen it and named nothing. Laforge holds 15 oak planks. Chapman still holds 8 oak logs for Data (not in sight). Riker sleeps at 415,107,-1064.
+- Reflect: nothing owed by me. Next waking: check hunger, deliver Chapman's logs to Data only when Data is in sight, and confirm the water route to Riker and Lewis if they ask.
