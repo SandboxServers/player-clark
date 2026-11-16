@@ -7,3 +7,5 @@
 - 23:16 act: {"actions":[{"do":"sleep"}],"say":"Clark at the west bed, sleeping for the night. No farmland cell named; I cannot confirm one by sight.","reasoning":"Dusk, sheltered by the bed, nothing errand-wise o
 - 23:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}},{"do":"sleep"}]}
 - 23:29 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark at the west bed, sealed for the night. Planting waits for a cell read back by coordinates."}
+- 23:37 act: {"say":"Clark here at the west bed, health 11, hunger 13. Chapman, Data is not in sight yet, so the oak logs stay with you.","intent":{"goal":"hold_at_bed_until_needed","program":"rest","arguments":{"
+- 23:43 act: {"actions":[{"do":"sleep"}]}
