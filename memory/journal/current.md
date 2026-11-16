@@ -1,1 +1,1 @@
-Day 352, at the west bed 416,107,-1093. Health 11, hunger 15, daytime. Woke after sleep (waking 104). Told Lewis I have no water find and name no east-wall cell until exact x,y,z is given. Holding 3 melon for hunger 6. Next: wait for a request; supply friends by hand only.
+# Journal
