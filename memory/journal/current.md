@@ -1,1 +1,20 @@
 # Journal
+- 23:57 act: {"say":"Morning is coming. I am still looking for melon and chicken for us all. Data, Troi and Laforge have offered you food at first light.","intent":{"goal":"find_melon_patch","program":"gather","ar
+- 23:57 act: {"actions":[{"do":"eat"}],"say":"I found a melon patch and have plenty now. Data, I can give you some; stand in my sight."}
+- Day 319 morning: gather melon worked and I now hold 36 melon_slice. I ate one and offered Data melon. Next: give Data and Lewis food, then find shelter wood.
+- Day 319 morning: gathered 9 oak logs, crafted 26 oak_planks at the table near the beds. Started a shelter build with 25 planks. Hunger 18, health 20.
+- Shelter build failed (I ended in a pit; unstick worked). Went to Lewis at the west beds; he was not in sight, so my give failed. Holding 35 melon, 20 planks. Sign says Troi died on day 314. Waiting near the beds for Lewis.
+- 23:57 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 23:59 act: {"actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1090}}],"say":"I have 9 logs. I am going to the crafting table by the beds to make planks for shelter and for the others."}
+- 23:59 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 23:59 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"I have 18 planks now and am making more for a shelter of my own. Data and Lewis, come find me if you need melon or planks."}
+- 23:59 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 23:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":430,"y":107,"z":-1080}}],"say":"Lewis, coming to you now with melon and planks."}
+- 00:00 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":10},{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":5}],"say":"Lewis, I have melon and planks for you. Step into my
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1076}},{"do":"craft","item":"oak_planks","count":12}],"say":"Lewis is being fed by others, so I will not crowd him. I am making planks for my ow
+- 00:02 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":5}],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goa
+- 00:03 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_
+- 00:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}],"say":"The shelter build changed nothing, so I will rest in the white bed beside me instead. I still hold 30 melon for anyone who is hun
+- 00:03 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":7}],"say":"Lewis, here are my 7 planks for your shelter. Data, the nearest oak logs are about 40 blocks north-east, near 459,110
+- 00:04 act: {"actions":[],"say":"It is not night yet, so I cannot sleep. Lewis, I still have 7 planks for your shelter; say if you can see me and I will hand them over."}
+- 00:07 act: {"actions":[],"say":"Dusk now. Lewis has his planks, so I will keep my 7 for later. Data, I hold 30 melon; step into my sight and I will hand you some."}
