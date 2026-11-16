@@ -74,3 +74,7 @@
 - 19:10 act: {"actions":[{"do":"note","text":"Dusk day 376. Slept at west bed; only 2 of 10 asleep, so still awake. Health 10.95, hunger 13. Waiting in sight of the group."}]}
 - 19:10 act: {"actions":[{"do":"sleep"}]}
 - 19:14 act: {"actions":[{"do":"note","text":"Day 377 morning at the west bed. Slept, woke healthy at 10.95, hunger 13. Trini and Riker are near the beds; cow walk waits for Billy's call and four in sight. No Data
+- 19:22 act: {"actions":[{"do":"sleep"}]}
+- 19:26 act: {"actions":[{"do":"note","text":"Day 378 morning. MacDonald asked again for the exact bare farmland block. I have no exact coordinates; told him the wheat is at 462-463, 107, -1082 to -1087. Still wai
+- 19:35 act: {"actions":[{"do":"sleep"}]}
+- 19:51 act: {"actions":[{"do":"note","text":"Day 378, thunder at the west bed. Health 10.95, hunger 13. Nothing new; still waiting for Billy's cow call and Data. Not moving."}]}
