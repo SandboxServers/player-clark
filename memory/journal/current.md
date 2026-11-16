@@ -37,3 +37,11 @@
 - 15:54 act: {"intent":{"goal":"lead_riker_to_water","program":"travel","arguments":{"target":{"x":466,"y":106,"z":-1086}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
 - 15:55 act: {"actions":[{"do":"note","text":"Day 367 morning: reached the water 466,106,-1086 by travel. Told Riker the route by speech. Riker not in sight at the water; waiting on shore."}],"say":"I'm at the wat
 - 15:59 act: {"actions":[{"do":"note","text":"Day 367 midday: still at the water 466,106,-1086, alone. Route given to Riker by speech; Lewis not yet told in sight. Hunger 13, not eating."}]}
+- 16:03 act: {"say":"At the water. Shout if anyone needs a drink or a route.","actions":[{"do":"note","text":"Day 367 afternoon at the water 466,106,-1086, alone, hunger 13, health 11. Holding here for the group; 
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"intent":{"goal":"reach_west_bed","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed",
+- 16:06 act: {"actions":[{"do":"sleep"}]}
+- 16:10 act: {"say":"Good morning. William here at the west beds. Anyone need oak logs or a drink, say so.","actions":[{"do":"note","text":"Day 367 morning: slept at west bed 416,107,-1092, no harm. Hunger 13, hea
+- 16:14 act: {"say":"Morning Chapman. Data needs the oak logs. Please bring them to Data by hand, and tell me when they are handed over.","actions":[{"do":"note","text":"Day 368 morning: Chapman at the beds with 8
+- 16:18 act: {"actions":[{"do":"note","text":"Day 368 dusk: Chapman will hand the oak logs to Data by hand. Going to sleep at west bed 416,107,-1093."},{"do":"sleep"}]}
+- 16:22 act: {"say":"Morning Trini, Laforge, MacDonald. William at the west bed, health steady. Has Data got the oak logs yet?","actions":[{"do":"note","text":"Day 369 morning: slept at west bed. Greeted Trini, La
+- 16:26 act: {"say":"Riker, I name no east-wall cell until someone gives exact x,y,z. Chapman, keep the logs for Data and hand them over when Data is in sight.","actions":[{"do":"note","text":"Day 369: Riker offer
