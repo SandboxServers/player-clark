@@ -42,3 +42,4 @@
 - 13:55 say: {"text":"William here, awake at the west beds. Still looking for water. Anyone seen a river or pond?"}
 - 13:55 act: {"intent":{"goal":"scout_water_north_west","program":"travel","arguments":{"target":{"x":395,"y":107,"z":-1115}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 13:56 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 13:58 act: {"say":"William here, by the west beds. I still have 3 melon for anyone at hunger 6. Who is sleeping or going to search for water with me?","intent":{"goal":"wait_for_company_at_beds","program":"rest"
