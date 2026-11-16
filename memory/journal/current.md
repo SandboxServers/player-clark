@@ -65,3 +65,12 @@
 - 18:21 act: {"actions":[{"do":"note","text":"Day 374 daytime at west bed. Sleep failed: not night yet. Health 10.95, hunger 13. Waiting for dusk."}],"say":"Not night yet, so I cannot sleep. I am waiting at the we
 - 18:25 act: {"actions":[{"do":"note","text":"Morning talk: Laforge offers 15 planks and 13 seeds; MacDonald asks where the farmland is. Still waiting at west bed for dusk to sleep."}],"say":"MacDonald, the farmla
 - 18:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark at the west bed, in sight of the group. Goodnight all."}
+- 18:37 act: {"actions":[{"do":"note","text":"Day 375 morning at west bed. Slept, night skipped. Health 10.95, hunger 13. Keeping watch for Billy's cow walk call and Data."}],"say":"Good morning. Clark at the west
+- 18:45 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 375. Sleeping at west bed, in sight of the group. Health 10.95, hunger 13. Cow walk waits for Billy at first light."}],"say":"Dusk. Clark sleep
+- 18:54 act: {"actions":[{"do":"note","text":"Day 376 morning at west bed. Health 10.95, hunger 13. Still waiting: Billy's cow walk call, Data not yet in sight."}]}
+- 18:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark sleeping at the west bed, in sight of the group."}
+- 19:02 act: {"actions":[{"do":"note","text":"Morning day 377. MacDonald asks for exact farmland block; I do not have exact coordinates, told him to look for bare farmland south-east of the wheat. Billy and Data s
+- 19:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark at the west bed, going to sleep. Health 10.95, hunger 13."}
+- 19:10 act: {"actions":[{"do":"note","text":"Dusk day 376. Slept at west bed; only 2 of 10 asleep, so still awake. Health 10.95, hunger 13. Waiting in sight of the group."}]}
+- 19:10 act: {"actions":[{"do":"sleep"}]}
+- 19:14 act: {"actions":[{"do":"note","text":"Day 377 morning at the west bed. Slept, woke healthy at 10.95, hunger 13. Trini and Riker are near the beds; cow walk waits for Billy's call and four in sight. No Data
