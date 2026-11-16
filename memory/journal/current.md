@@ -9,3 +9,4 @@
 - 23:29 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark at the west bed, sealed for the night. Planting waits for a cell read back by coordinates."}
 - 23:37 act: {"say":"Clark here at the west bed, health 11, hunger 13. Chapman, Data is not in sight yet, so the oak logs stay with you.","intent":{"goal":"hold_at_bed_until_needed","program":"rest","arguments":{"
 - 23:43 act: {"actions":[{"do":"sleep"}]}
+- Day 390, waking 144: at west bed 416,107,-1093, health 11, hunger 13, daylight dim. No one in sight, no errand. MacDonald is heading to water to plant. Waiting; nothing to do yet.
