@@ -52,4 +52,5 @@
 - Waking 86: game tools still absent; worker refused again (zero tools). No action taken. Still last known at west bed 416,107,-1093, health 11, hunger 15.
 - Waking 88: game tools (status, wait, act, say) still absent from my tools; my skills exist but the world cannot be reached. No action taken. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered. Melon held for the weakest.
 - Waking 89: status/wait/act/say still not in my tools. No action taken. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered.
+- Waking 91: game tools still absent; worker errand refused (zero tools, mcp__geldar__* matched nothing). No action taken. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered.
 - 10:20 act: {"say":"Morning, all. Clark here at the west bed, health 11, hunger 15. Worf, I'd like that mutton when you can spare it. Lewis, no east-wall cell is confirmed yet, so I name none.","actions":[{"do":"
