@@ -11,3 +11,27 @@
 - 08:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Dusk. I am at the west bed with Data and Worf in sight. Going to sleep here."}
 - 08:41 act: {"actions":[],"say":"Morning. Clark, health 11, hunger 16. Worf, where is the water place with the oak leaves? I still need a real oak spot. Lewis, I have no confirmed east-wall cell yet, so I name no
 - 08:47 act: {"actions":[],"say":"Thank you, Worf. Laforge and Chapman, let us go look for oak by water together. I'll go out in sight of you both, and I'll come back to the beds if the bows get close."}
+- 08:52 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm in my bed on the west row with Data near. Goodnight."}
+- 08:52 act: {"say":"Morning. Clark here, health 11, hunger 16. Worf, Laforge, Chapman: I'm looking for the water place with oak leaves. Who knows where it is?"}
+- 09:15 Give to Data worked. Dark; going to west bed 415,107,-1093 for the night.
+- 09:12 Back at beds. Gave Data 2 real oak logs by hand (Data alone in reach). Oak confirmed at 414,104,-1126.
+- 09:08 Mined 2 oak logs at the oak. Another oak_log seen at 413,106,-1140. Walking back to beds to give Data the logs by hand.
+- 09:05 CONFIRMED real oak at 414,103-104,-1126 (oak leaves near 426,105,-1123). Mining 2 oak logs for Data.
+- 08:58 Route NW was blocked by drops, but I see real oak_log at 414,104,-1126 and oak leaves near 426,105,-1123. Travelling there.
+- 08:55 woke at bed (day 346). Chapman and Laforge ready; nobody knows the water place. Set travel north-west to 426,108,-1120 to look for oak.
+- 08:54 act: {"say":"Chapman, Laforge: let's walk north-west to the jungle column at 426,110,-1124 and look for oak leaves on the way. Stay in sight.","intent":{"goal":"explore_nw_for_oak","program":"travel","argu
+- 08:54 act: {"say":"I see real oak logs 12 west of me, at 414,104,-1126, with oak leaves close by. Going there now. Chapman, Laforge, follow me in sight.","intent":{"goal":"reach_oak_414","program":"travel","argu
+- 08:55 act: {"actions":[{"do":"mine","block":"oak_log","count":2}],"say":"I'm at the real oak now, 414,102,-1125. Confirmed oak logs at 414,103,-1126 and 414,104,-1126. I'm cutting two for Data."}
+- 08:55 act: {"say":"I have 2 real oak logs for Data. Walking back to the beds; Data, meet me by the west row and I'll hand them to you. Note: more oak at 413,106,-1140.","intent":{"goal":"return_to_beds_with_oak"
+- 08:55 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, here are two real oak logs from the oak at 414,104,-1126."}
+- 08:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Data got the two oak logs. It's dark now; I'm going to my west bed for the night."}
+- 08:56 act: {"actions":[{"do":"sleep"}]}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night. Clark going to sleep in my west bed. Data is near; Worf and Chapman, stay in sight."}
+- Woke at west bed, day 346 morning. Health 10.9, hunger 15. Laforge confirmed oak at 414,104,-1126 and holds 25 oak planks. Lewis is waiting on my east-wall cell; I still name none.
+- 09:08 say: {"text":"Morning. Clark awake at the west bed, health 11, hunger 15. Lewis, I still have no confirmed east-wall cell, so I name none yet."}
+- 09:12 say: {"text":"Thank you, Worf. I'm waiting here at the west bed, in your sight. Health 11, hunger 15."}
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Worf, thank you for the mutton. Dusk; I am going into my west bed for the night, Data and Worf stay near."}
+- 09:20 say: {"text":"Worf, I am at the west bed, 416,107,-1093, awake now. Please come to the bed row so I can see you; I'll step out to meet you."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark in my west bed for the night. Worf, I'll take the mutton at first light if I'm hungry; Lewis, still no
+- 09:34 act: {"actions":[{"do":"sleep"}],"say":"Phantoms out tonight. I'm in my west bed, staying put. Worf, Lewis: keep to the bed row and stay in sight of each other."}
+- 09:34 say: {"text":"Clark asleep in my west bed, sealed for the night. Worf, Lewis: I'll take the mutton at first light."}
