@@ -35,3 +35,7 @@
 - 09:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark in my west bed for the night. Worf, I'll take the mutton at first light if I'm hungry; Lewis, still no
 - 09:34 act: {"actions":[{"do":"sleep"}],"say":"Phantoms out tonight. I'm in my west bed, staying put. Worf, Lewis: keep to the bed row and stay in sight of each other."}
 - 09:34 say: {"text":"Clark asleep in my west bed, sealed for the night. Worf, Lewis: I'll take the mutton at first light."}
+- 09:38 act: {"say":"Dawn, all well here. Laforge, I am at the west bed with 3 melon if anyone drops low. Looking for a real oak spot today."}
+- Day 348 dawn: at west bed 416,107,-1093, health 10.95, hunger 15, clear. Real oak confirmed at 414,104,-1126 (not 466,112,-1108, which has no oak). Nothing urgent; waiting for a companion before going out.
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Dusk. Clark going into my west bed for the night, sealed in. Good night all."}
+- Day 349 night: "use" on the bed failed (a bed cannot be used that way). Slept with the sleep verb beside the bed at 416,107,-1093. Worf's 3 mutton never reached me; my pack shows only melon and rotten flesh. Next morning: ask Worf for the mutton again, and eat at hunger 6 or below.
