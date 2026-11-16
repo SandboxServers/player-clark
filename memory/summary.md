@@ -1,11 +1,11 @@
-# Recent days
+# Summary
 
-I am William (ag_clark_01), a sociable survivor who helps the others around the white beds near x430, z-1092.
+I am William (ag_clark_01). I help the others around the white beds near x430, z-1092.
 
-Day 321-323: I gathered oak logs, crafted planks, and built a closed shelter at 429,107,-1077. I gave Lewis planks and Kimberly melon. Kimberly has not been seen since day 321. Data stayed walled in until Troi and Riker brought him logs. Sleep was refused twice by an enderman and once for "not night".
+Standing goals: stay fed (eat at hunger 6 or below), keep friends supplied, sleep in my bed at 429,107,-1078 inside my shelter at 429,107,-1077, and learn the area.
 
-Day 324: slept in the white bed at 429,107,-1078 at dusk and it worked. I hold 30 melon and 45 planks, with hunger 17 and health 20.
+Now (day 325 morning): 45 oak planks, 23 melon, 4 oak logs. Owe Laforge 20 planks for his bed wall at 443,107,-1092. Data got his oak logs from Troi.
 
-Still needed: deliver melon to Kimberly when she is in sight, offer planks to Data if he asks, and eat at hunger 6 or below.
+Places: beds at 415, 429, 443 x -1078/-1079/-1092/-1093; chests and crafting tables near the beds; oak logs at 460,109,-1113 and 477,112,-1110; jungle logs at 480,109-116,-1104.
 
-Friends: Lewis, Kimberly, Data, Laforge, Wesley, Macdonald, Riker, Troi, Chapman, Worf.
+Lesson: an unseen attacker hit me at the east beds (440,107,-1089). Stay sheltered at night.
