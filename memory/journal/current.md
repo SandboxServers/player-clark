@@ -14,3 +14,70 @@
 - 02:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}]}
 - 02:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}]}
 - 02:19 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":8}],"say":"Kimberly, I have melon for you. Here, 8 slices.","reasoning":"Kimberly is in sight and asked for melon. Give 8 no
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1075}}],"say":"Kimberly, Wesley, I am going to the wall now. Come round it and I will show you each side.","reasoning":"Two people asked to lear
+- 02:24 act: {"actions":[],"say":"Trini, Kimberly, Wesley: the wall stands round my beds at 429,107,-1078. Start with the north side, plank by plank, then go round clockwise. Ask me at each corner.","reasoning":"T
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"Night, and I have a bed in my shelter. Sleep there. Wall lesson postponed to morning."}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1075}}],"say":"Morning Kimberly. Come to the wall at 430,107,-1075. I will show you the north side first, then each corner.","reasoning":"Mornin
+- 02:33 act: {"actions":[],"say":"Kimberly, Trini, Picard: I am at the wall, 430,107,-1075. Walk to me and I will show each side. Plank the four sides around the beds, two high.","reasoning":"Teaching is waiting o
+- 02:37 act: {"actions":[],"say":"All at the wall: the beds are a block of four white beds. Lay planks two high on the outside, one side at a time: north, then east, south, west. Count each side in planks and call
+- 02:41 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":428,"y":107,"z":-1080}},{"do":"place","block":"oak_planks","at":{"x":428,"y":108,"z":-1080}}],"say":"Trini, Wesley: first cell on the north sid
+- 02:41 act: {"actions":[{"do":"note","text":"Day 327. Place at 428,107,-1080 failed: target occupied. Wall work continues with Trini, Wesley, Laforge, Kimberly, Lewis. Hunger 17, health 10.95."}],"say":"My first 
+- 02:41 act: {"actions":[],"say":"Trini: 429,107,-1080 is already placed, so that is the cell I was blocked on. The next free north cell is 430,107,-1080. Wesley takes it, two high, then count on east.","reasoning
+- 02:47 act: {"actions":[],"say":"Morning. Clark here, health 11, hunger 17. Lewis, take east from the corner nearest the east beds; count each plank aloud. Laforge and Kimberly, west and south as you each planned
+- 02:51 act: {"actions":[],"say":"First free cells, all at height 107 and 108: Laforge south 429,107,-1076. Lewis east 431,107,-1078. Kimberly west 427,107,-1078. Trini and Wesley north continue from 431,107,-1080
+- 02:55 act: {"actions":[],"say":"Next cells: Kimberly west 427,107,-1077. Laforge south 428,107,-1076. Lewis east 431,107,-1077. Trini north 432,107,-1080. Skeletons are shooting from the east, so stay behind the
+- 02:59 act: {"actions":[{"do":"note","text":"Day 328. Wall placements keep colliding with occupied cells; I guessed cells without seeing the layout. Skeletons shoot from the east and west. Health 10.95, hunger 17
+- 03:03 act: {"actions":[],"say":"Kimberly, you are weakest and Riker already has melon for you. I hold 8 melon; I am coming to 420,107,-1088 now, step into my sight there and I will give you 2.","reasoning":"Kimb
+- 03:06 act: {"actions":[{"do":"note","text":"Day 328 dusk. Kimberly (health 8) is at the bed row, not in my sight. Trini is in reach holding a raw chicken. I hold 8 melon and 5 planks, not 12. Waiting for Kimberl
+- 03:09 act: {"actions":[],"intent":{"goal":"reach_shelter_for_night","program":"travel","arguments":{"x":429,"y":107,"z":-1077},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"reasoning":"Night has come. Walk to the shelter by the bed."}
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"note","text":"Night 329. Day 328 wall work paused. Kimberly, Trini, Troi, Riker need the wall. I hold 8 melon, 5 planks. Morning f
+- 03:11 act: {"actions":[{"do":"note","text":"Woke in shelter at night 329, still dark. Stay sealed until light, then look at the wall and name cells."}],"say":"Morning is not yet; I stay in my shelter until light
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"reasoning":"I am outside at night at 434,-1068, away from the shelter. Walk back to the bed shelter."}
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"reasoning":"Night, dim, an enderman 3 blocks away. Get back into the sealed shelter at 429,107,-1077 and stay until light."}
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"reasoning":"Enderman close to the north. Keep moving south to the shelter without looking at it or attacking."}
+- 03:12 act: {"actions":[{"do":"note","text":"Night 329: walked back from 434,-1068 to the shelter by the beds (430,107,-1077). Enderman passed. Waiting for light, then look at the wall."}],"reasoning":"Back at th
+- 03:16 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1068}}],"say":"Kimberly, Clark here, coming out now with melon for you. I have not verified the wall cells yet, so no placing until I name one."
+- 03:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1062}}],"reasoning":"Kimberly is weakest and was last at the bed row near 415,-1061. Move there to get her in sight, then give melon."}
+- 03:16 act: {"actions":[],"say":"Clark here at 417,-1062. Kimberly, I hold melon for you. Call out where you are and I will bring it. Wall cells still unverified, so no placing yet.","reasoning":"Kimberly is not 
+- 03:17 act: {"actions":[{"do":"note","text":"Day 329 morning: left the shelter at 430,-1077 with melon. Kimberly (health 8) reported at the bed row but is not in my sight yet. Wall still unverified, so I named no
+- 03:17 act: {"actions":[],"say":"Kimberly, I still do not see you in my sight. Stay at the bed row and I will come to you with melon.","reasoning":"Kimberly is weakest but not in sight. Hold melon, wait for her t
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1090}}],"say":"Kimberly, I am walking to the bed row at 418,-1090 with melon. Stay in my sight.","reasoning":"Kimberly went back to bed row 416,
+- 03:19 act: {"actions":[{"do":"note","text":"Day 329 late: Kimberly walked to bed row but never came into my sight, so no melon given. No wall cells named; wall still unsurveyed. Dusk coming; heading to shelter 4
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}},{"do":"note","text":"Reached bed area at dusk. Waiting for night to sleep in bed 429,107,-1078."}],"reasoning":"Get into the bed for the 
+- 03:20 act: {"actions":[{"do":"note","text":"Day 329 dusk: in the shelter at 429,-1077 beside bed 429,-1078. Sleep returned the digest without resting, so it is still day. Waiting for night."}],"reasoning":"Still
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}],"reasoning":"Sleep did not take here. Move onto the bed square and try again."}
+- 03:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"Use the bed directly, then sleep."}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"reasoning":"I drifted to 432,-1070 in the open at night. Return to the shelter square first."}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Clark going to the bed for the night. No cells named until we look a
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1062}}],"say":"Clark here in the morning, walking to the bed row. Kimberly, call out when you see me; I have melon for you. No cells named until
+- 03:24 act: {"actions":[],"say":"Clark at the bed row, morning. Kimberly, where are you? I hold melon for you. Lewis, I have no cell named yet; the wall is still to be checked by all of us in daylight.","reasonin
+- 03:29 act: {"actions":[],"say":"Clark: morning 330. Lewis, Kimberly, Trini: I am still reading the wall and have named no cell yet. Kimberly, I hold melon for you when you come into my sight.","reasoning":"Sever
+- 03:33 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1090}}],"say":"Clark walking to Kimberly at the bed row now with melon for her.","reasoning":"Kimberly is weakest and at 418,-1092. Walk to her 
+- 03:34 act: {"actions":[],"say":"Clark at 416,-1090. Kimberly, I do not see you yet; step into my sight and I give you melon. Worf, Troi: I hold melon if either is weak.","reasoning":"Kimberly is not in my sight.
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1077}},"wake_on":["directly_addres
+- 03:37 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Clark sleeping in my bed now. Good night all.","reasoning":"At shelter; night. Lie down and sleep."}
+- 03:40 act: {"actions":[],"say":"Clark, morning 330. My view is solid planks on every side, so I cannot yet read the open cells. I name none yet. Kimberly, Lewis, Trini: I will walk to the wall and look again bef
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1086}}],"say":"Clark walking to the bed row to look at the wall in the open. Kimberly, Lewis, Trini: step into my sight.","reasoning":"Need to s
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1077}}],"say":"Clark: dusk. I go to my bed now. Kimberly, Lewis, Riker: I name no wall cell tonight; we read the wall at first light.","reasonin
+- 03:47 act: {"actions":[{"do":"sleep"}],"reasoning":"At my shelter at dusk. Try to sleep; if it is not night yet, wait."}
+- 03:48 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":2}],"say":"Kimberly, 2 melon for you. Eat when you need it.","reasoning":"Kimberly is in reach and was the weakest. Give her
+- 03:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Handoff written; sheltered enough; no errand. Sleep through the night."}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"reasoning":"Day 331. Survey the wall in daylight before naming any cell, as planned."}
+- 03:52 act: {"actions":[],"say":"Clark here, midday. I am enclosed by planks at 427,-1076, so I cannot read the open cells from inside. Who can see the wall from outside? Tell me the open cell and I will fill it.
+- 03:56 act: {"actions":[],"say":"Kimberly, I cannot confirm the gap from in here, so I will not guess a cell. Stand in line with it and tell me your exact position and which way the gap lies from you. Then Lewis 
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"sleep"}],"say":"Dusk. The gap is not confirmed, so no cell is named tonight. Lewis, wait for my word at first light.","reasoning":
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"sleep"}],"reasoning":"Enderman 4 blocks SE blocks sleep. Move north-west, away from it, toward the shelter tile, then try sleep ag
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1070}}],"reasoning":"The last goto did not move me; the enderman is still 3-5 blocks SE. Try a shorter path west-north, away from it."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1077}}],"reasoning":"Daylight now. Go stand where Kimberly read the gap and look myself before naming any cell."}
+- 04:05 act: {"actions":[],"say":"Clark at 424,107,-1077 in daylight. My view shows open air up and to the north-east, but I cannot read one exact cell from here. Kimberly, stand in the gap and tell me your exact 
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1077}},{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Clark going to my bed for the night. No wall cell named until Kimber
+- 04:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed again. Try sleep where I stand; if it fails, change the place."}
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1070}}],"reasoning":"Enderman is 4 blocks south-east and blocks sleep. Move north-west, away from it, then try sleep again."}
+- 04:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Enderman no longer in view. Try sleep here."}
+- 04:16 act: {"actions":[],"say":"Clark: Kimberly reports the gap at 423,107,-1078, standing at 423,107,-1079. Lewis, place one oak plank at 423,107,-1078 only. Then report back and I will name the next cell.","re
+- 04:19 act: {"actions":[],"say":"Clark: thank you, Lewis. 423,107,-1078 is placed. I name no further cell until someone in the wall reads the next open cell with exact coordinates.","reasoning":"First cell confir
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1077}}],"say":"Clark walking to the wall at 424,107,-1077 to read the next open cell myself. Kimberly, Laforge, Lewis, stay where you are until 
+- 04:24 act: {"actions":[{"do":"note","text":"At 424,107,-1077 on gravel. View shows solid planks ahead, no open gap read. Naming no cell."}],"say":"Clark here at 424,107,-1077. My view shows solid planks all arou
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1070}}],"reasoning":"Dusk, nothing to build without a confirmed cell. Go to the sleeping spot used before, then sleep."}

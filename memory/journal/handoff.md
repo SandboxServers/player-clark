@@ -1,5 +1,6 @@
-Handoff, day 321 night.
-Kimberly (health 8, hunger 12-17) asked for melon. I have 30 melon, 45 planks. My gives failed three times: she moved out of sight. She said she was coming to me at 443,-1053, but did not arrive.
-Lewis asked for 9 planks; Riker says already sent. Still unverified.
-Next morning: find Kimberly first (give 8 melon when in sight), then check Lewis's planks, eat at hunger 6 or below, and offer planks/melon to Data at 419,107,-1091.
-Sleeping in white bed 429,107,-1078 in my shelter at 429,107,-1077.
+Handoff, night 330.
+Gave 2 melon to Kimberly (worked). I hold 6 melon, 5 planks, hunger 17, health 10.95.
+Wall: viewed at 430,-1077, all solid planks there. No free cell read yet. No cell named.
+Tomorrow at first light: walk to the bed row, view the wall in the open, then name free cells in order: Kimberly west, Trini north, Laforge south, Lewis east. Riker holds 4 cobblestone for the wall.
+Johnny is found safe at bed row 388,107,-1079 (per Chapman).
+Sleeping near the bed row at 416,-1079 (not in my bed at 429,-1078; bed use there failed "that block is a bed").
