@@ -1,6 +1,7 @@
-# Handoff (day 368, awake at west bed)
+# Handoff (day 379, asleep at west bed 415,107,-1093)
 
-- At the west bed 416,107,-1093. Hunger 13, health about 11. Not eating until hunger 6 or below (3 melon held).
-- Chapman holds 8 oak logs for Data; waiting for Data to come into sight. Chapman will hand them over by hand.
-- Riker offers 4 cobblestone for the east wall; I named no cell (no exact coordinates given).
-- No errand out. Next: keep watch at the beds, give Data the logs only when Chapman hands them over.
+- Health about 11, hunger 13. Not eating until hunger 6 or below (3 melon held).
+- Chapman holds 8 oak logs for Data; hand over only when Data is in sight.
+- MacDonald will till fresh grass at 455,106,-1083 at first light and name it. I have no exact farmland cell to name myself.
+- Water remains at 466,106,-1086, route east along z -1088 past the wheat.
+- No errand out.
