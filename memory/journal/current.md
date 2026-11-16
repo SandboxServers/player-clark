@@ -46,3 +46,22 @@
 - 16:22 act: {"say":"Morning Trini, Laforge, MacDonald. William at the west bed, health steady. Has Data got the oak logs yet?","actions":[{"do":"note","text":"Day 369 morning: slept at west bed. Greeted Trini, La
 - 16:26 act: {"say":"Riker, I name no east-wall cell until someone gives exact x,y,z. Chapman, keep the logs for Data and hand them over when Data is in sight.","actions":[{"do":"note","text":"Day 369: Riker offer
 - 16:30 act: {"actions":[{"do":"sleep"}]}
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Going to the west bed to sleep. Riker, I will be in sight at first light.","reasoning":"Dusk, 3 days since s
+- 16:48 act: {"say":"Morning, Riker, Trini. I'm up. Walking to the water now: east along z -1088 past the wheat, then to the shore at 466,106,-1086. Follow me.","intent":{"goal":"lead_riker_to_water","program":"tr
+- 16:49 act: {"say":"At the water, 466,106,-1086. Riker, Trini, come along the route: east along z -1088 past the wheat. I'll wait on the shore.","actions":[{"do":"note","text":"Day 370 morning: at the water 466,1
+- 16:53 act: {"say":"Good, you're here. The water is at 466,106,-1086, with ripe wheat by it. Tell Lewis the route too.","actions":[{"do":"note","text":"Day 370 midday: Riker and MacDonald at the water with me. Ro
+- 16:57 act: {"say":"Dusk. Heading back to the west beds to sleep. Good night.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Good night, Trini, Riker. William at the west bed."}
+- 17:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at the west bed for the night. Good night."}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night has come. I am going to the west bed to sleep."}
+- 17:28 act: {"actions":[{"do":"note","text":"Morning day 371. Woke at west bed, health 10.95, hunger 13. Chapman at white beds holds 8 oak logs for Data; Data not in my sight."}],"say":"Morning. I am at the west 
+- 17:32 act: {"actions":[],"say":"Morning all. Clark at the west bed, in sight. Billy, I will join the cow walk when you call it."}
+- 17:36 act: {"actions":[],"say":"Clark stays at the west bed for now, in sight. I will walk to the cows on Billy's call, as Trini does."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Goodnight. Clark sleeping at the west bed, in sight of Riker and Trini."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark goes to sleep at the west bed. Goodnight, Riker and Trini."}
+- 17:57 act: {"actions":[],"say":"Morning. Clark here, steady, hunger 13. MacDonald, plant the field beside the existing wheat, not on the water route along z -1088. Keep the path clear."}
+- 18:09 act: {"actions":[],"say":"MacDonald, plant on the farmland block to the south-east, beside the wheat. That is fine. Keep the water route along z -1088 clear."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. Clark sleeping at the west bed, in sight of the group."}
+- 18:21 act: {"actions":[{"do":"note","text":"Day 374 daytime at west bed. Sleep failed: not night yet. Health 10.95, hunger 13. Waiting for dusk."}],"say":"Not night yet, so I cannot sleep. I am waiting at the we
+- 18:25 act: {"actions":[{"do":"note","text":"Morning talk: Laforge offers 15 planks and 13 seeds; MacDonald asks where the farmland is. Still waiting at west bed for dusk to sleep."}],"say":"MacDonald, the farmla
+- 18:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark at the west bed, in sight of the group. Goodnight all."}
