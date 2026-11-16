@@ -16,3 +16,7 @@
 - 15:11 act: {"intent":{"goal":"reach_west_bed","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"li
 - 15:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Riker, I hear you. Going to bed at the west row now; I'll look for you at first light."}
 - 15:15 act: {"actions":[{"do":"sleep"}]}
+- 15:17 act: {"intent":{"goal":"reach_water_check_route","program":"travel","arguments":{"target":{"x":466,"y":106,"z":-1086}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 15:17 act: {"actions":[{"do":"note","text":"Day 365 morning: reached the water at 466,106,-1086 by travel. Deep water just south-east. Ripe wheat along 464-468,107,-1084 to -1088. Route: beds east along z -1088 
+- 15:21 act: {"actions":[{"do":"note","text":"Midday day 365: at the water 466,106,-1086, no one in sight. Waiting here for Lewis, MacDonald or Riker to come and see the route. Hunger 13, not eating yet."}]}
+- 15:25 act: {"intent":{"goal":"return_to_west_bed_night","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1092}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
