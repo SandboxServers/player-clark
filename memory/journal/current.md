@@ -50,3 +50,5 @@
 - 14:14 act: {"say":"Clark: the walk north stopped at a drop near 416,107,-1101; the way was blocked. Going back to the beds. Laforge, I could use oak planks later, not now. No water north yet.","intent":{"goal":"
 - 14:18 act: {"say":"Clark back at the west beds, health 11, hunger 15. Laforge, thank you; I do not need planks now, so keep them for Data. Lewis, stay clear of that enderman. Still no water."}
 - 14:28 act: {"say":"Clark at the west beds, health 11, hunger 15. Still no water. Anyone who has seen a river or pond, please tell me where.","actions":[{"do":"note","text":"Holding at west bed 416,107,-1092 for 
+- 14:34 act: {"actions":[{"do":"sleep"}],"say":"Night is here, and I am sleeping by the west bed. Water is still unfound; I will look for it in the morning."}
+- 14:36 act: {"actions":[],"say":"Morning. I have not found water yet, MacDonald. I will walk the country and tell you if I find a pond."}
