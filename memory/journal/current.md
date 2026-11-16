@@ -57,4 +57,5 @@
 - Waking 93: game tools (status, wait, act, say) still absent; worker errand refused again (zero tools). No action. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered.
 - Waking 94: game tools (status, wait, act, say) still absent from my list; no worker tools either. No action. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered.
 - Waking 97: game tools still absent; worker errand refused again (zero tools). No action. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered.
+- Waking 98: game tools (status, wait, act, say) still not in my list; no worker tools either. No action. Last known: west bed 416,107,-1093, health 11, hunger 15, sheltered. Melon held for the weakest.
 - 10:20 act: {"say":"Morning, all. Clark here at the west bed, health 11, hunger 15. Worf, I'd like that mutton when you can spare it. Lewis, no east-wall cell is confirmed yet, so I name none.","actions":[{"do":"
