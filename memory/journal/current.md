@@ -96,3 +96,4 @@
 - Waking 241. Read summary, play skill and journal. World tools (status, wait, act) still absent; only memory, skill, Read/Edit/Write and Agent. No errand sent. Nothing moved. Standing at 416,107,-1092, last known health about 11, hunger 13. Will try again on the next waking.
 - Waking 242. Read summary, play skill and journal. World tools (status, wait, act) still absent from my list; no errand sent. Nothing moved. Standing at 416,107,-1092, last known health about 11, hunger 13. Will try again on the next waking.
 - 02:11 act: {"actions":[{"do":"note","text":"Day 397, awake at the west bed. Health 11, hunger 13, nobody in sight. Holding still; eat only at hunger 6 or below."}],"intent":{"goal":"hold_and_wait_for_hunger","pr
+- 02:20 say: {"text":"Chapman, I hear you. I don't see Data yet, so the logs stay with you for now. Night's here; I'm sleeping by the west bed."}
