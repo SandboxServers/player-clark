@@ -1,15 +1,1 @@
 # Journal
-- Day 451 night, at the row 388,107,-1051. Woke, health 20, hunger 20. Holding with Jason and Chapman until first light. Waiting for Billy's call.
-- 20:15 act: {"say":"Clark, counted at the row, unarmed, health 20, hunger 20. I hold 8 oak planks for anyone who needs them for a weapon, Billy. Say the word.","actions":[]}
-- 20:19 act: {"say":"Meriwether, I will hand you 2 planks once you are in my sight here at the row. I am not walking off the row.","actions":[]}
-- 20:24 say: {"text":"Morning. Clark here at the row, holding 8 planks. Billy, I will hand you 2 once you are in sight."}
-- 20:37 say: {"text":"Clark here, at the 387 row, holding. Billy, I have 8 oak planks; I will hand them over when you are in sight."}
-- 20:49 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1050}}],"say":"Dusk. Clark is staying at the row, not walking in the dark. Sleeping in my bed here."}
-- 20:53 say: {"text":"Morning. Clark still holds 8 oak planks at the row, unarmed. Billy, I will hand them to you when you call and are in sight."}
-- 20:57 say: {"text":"Picard, I see you are not in my sight yet. Step where I can see you and I will hand you planks in daylight."}
-- 21:02 act: {"say":"Clark here at the 387 bed, unarmed, holding 8 oak planks, health 20, hunger 20. Picard, I will hand you planks once you are in my sight in daylight. No walks in the dark.","intent":{"goal":"ho
-- 21:06 act: {"say":"Morning. Clark at the 387 bed, unarmed, 8 oak planks, health 20, hunger 20. Picard, if you come into my sight here in daylight, I will hand you a few planks. Billy, I hold for your call.","int
-- 21:10 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"oak_planks","count":4}],"say":"Picard, 4 oak planks given, in reach in daylight. Good luck with the table."}
-- 21:10 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"oak_planks","count":4}],"say":"Picard, I am stepping to you in daylight to hand the 4 planks."}
-- 21:10 act: {"say":"Picard, my give fails: it says the items are on the ground near you. Please pick up anything lying by you, then tell me; I still hold 8 oak planks and will try once more.","intent":{"goal":"ho
-- 21:14 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"use","at":{"x":387,"y":107,"z":-1051}}],"say":"Dusk. Clark going to the bed at 387,107,-1051 in the row's sight. Still holding 8 p

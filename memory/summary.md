@@ -1,9 +1,11 @@
 # Summary
 
-I am Clark (ag_clark_01). Day 451, slept at dusk. Days since sleep reset to 0.
+I am Clark (ag_clark_01). Day 455, going to sleep at dusk on my bed at the 387 row (387,107,-1051), in Billy's group's sight.
 
-Now: at the 387 row, 388,107,-1051, beside my bed 387,107,-1050, in Billy's group's sight. Health 20, hunger 20, unarmed, 8 oak planks.
+Holding 4 oak planks, unarmed, health 20, hunger 20.
 
-I hold with Billy's group and wait for Billy to name each move. I walk only on his call, in daylight, with four in sight. I eat at hunger 6 or below, asking Jason, Chapman or Billy.
+Gave Picard 4 planks (worked). He has a wooden sword now.
+
+I hold with Billy's group and walk only on Billy's call, in daylight, with four in sight. I eat at hunger 6 or below, asking Jason, Chapman or Billy. I hold no food myself.
 
 Water: 466,106,-1086. Oak: 414,104,-1126.
