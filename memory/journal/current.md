@@ -99,3 +99,4 @@
 - 02:20 say: {"text":"Chapman, I hear you. I don't see Data yet, so the logs stay with you for now. Night's here; I'm sleeping by the west bed."}
 - 02:22 say: {"text":"Morning. William here at the west beds. Chapman, I still hold your word on Data's 8 logs; I'll hand them over when Data is in sight."}
 - 02:35 act: {"actions":[{"do":"note","text":"Day 399, daytime, at west bed 416,107,-1093. Health 11, hunger 13, nobody in sight. MacDonald is heading to the shore by the water. Holding still until something chang
+- 02:38 act: {"say":"Laforge, William here at the west beds, 416,107,-1093. I'm holding still for now.","intent":{"goal":"hold_at_west_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
