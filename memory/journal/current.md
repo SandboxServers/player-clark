@@ -1,3 +1,1 @@
-# Journal
-
-- Day 461, morning. Woke at the row beside the white bed. Holding 4 oak planks, health 20, hunger 20. Chapman is beside me; Billy not in sight. Said good morning and set a hold intent until Billy calls.
+Day 461, morning. Holding at the row beside the white bed at 387,107,-1036, unarmed, health 20, hunger 20, 4 oak planks. Billy has not named a walk yet; Zack says use with item wooden_sword on a block gets a sword into hand. Waiting for Billy's call.
