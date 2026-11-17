@@ -34,3 +34,5 @@
 - 06:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night, day 411. Going to sleep at the west bed. Chapman and MacDonald, meet at the white bed; the wheat goes to Chapman
 - 06:46 act: {"actions":[{"do":"sleep"}]}
 - 06:46 act: {"actions":[{"do":"sleep"}]}
+- 06:50 act: {"actions":[{"do":"note","text":"Day 411 waking: at west bed 416,107,-1093, health 11, hunger 13. Nobody in sight. MacDonald is walking wheat to Chapman at the white bed. Staying put; Data not seen. H
+- 06:54 act: {"actions":[{"do":"note","text":"Day 412 morning: still at west bed, health 11, hunger 13. Nobody in my sight. MacDonald has food at the white bed; I will not walk there alone. Holding 8 logs for Data
