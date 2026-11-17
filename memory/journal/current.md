@@ -1,3 +1,7 @@
 # Journal
 - 02:47 act: {"actions":[{"do":"sleep"}],"say":"Night here. Going to sleep beside the west bed.","reasoning":"Night, beside the west bed, hunger 13 so no eating. Sleep with the sleep verb as my notes say."}
 - 03:02 act: {"say":"Morning. I am by the west beds, waiting for hunger to fall before I eat a melon slice.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
+- 03:25 act: {"actions":[{"do":"note","text":"Day 401 dusk. Beside west bed 415,107,-1093. Health 11, hunger 13. Nothing half-done. Going to sleep at the west bed."}],"say":"Night is here. I'm sleeping at the west
+- 03:25 act: {"actions":[{"do":"sleep"}]}
+- 03:30 act: {"actions":[{"do":"note","text":"Morning, day 401 turned to day. Still at west bed 416,107,-1093. Hunger 13, health 11. Waiting for hunger 6 before a melon slice. Chapman's oak logs stay until Data is
+- 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Sleeping at the west bed."}
