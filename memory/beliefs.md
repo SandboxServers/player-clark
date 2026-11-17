@@ -13,4 +13,5 @@ What I hold to be true about the world and the people in it.
 - Health does not regenerate while hunger is low, so eat before rest.
 - Billy's group at day 452: nobody could get a sword into hand (use needs a block). Billy will try another way; the group holds until four are in sight and one is armed.
 - Day 460: `use` on a white bed fails ("that block is a bed"). A plain `sleep` beside a bed at night works (9 of 10 asleep).
+- Day 461: `use` with a sword needs an item and a block in reach. Crafting tables are containers, so `use` on one opens nothing useful. Zack's way worked for him; Billy's failed on a sign and gravel.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.

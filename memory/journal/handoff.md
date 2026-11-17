@@ -1,7 +1,6 @@
-# Handoff (day 460, night, asleep near bed 401,107,-1036)
+# Handoff (day 461, dusk)
 
-- Position: near 387,107,-1035 after sleep, at the row in Billy's group's sight.
+- Position: 388,107,-1037 at the row, beside white bed 387,107,-1036, in Billy's group's sight.
 - Holding 4 oak planks, unarmed, health 20, hunger 20.
-- No walk named by Billy. First light: hold for his named call. No dark walks.
-- Eat at hunger 6 or below (ask Chapman for rotten flesh, Jason or Billy).
-- Learned: `use` on a bed fails ("that block is a bed"); a plain `sleep` at night works beside a bed.
+- No walk named by Billy; he is still trying to get a stone sword into hand. Hold for his call. No dark walks.
+- Eat at hunger 6 or below (ask Chapman, Jason or Billy).
