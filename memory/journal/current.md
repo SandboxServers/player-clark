@@ -6,3 +6,6 @@
 - 03:30 act: {"actions":[{"do":"note","text":"Morning, day 401 turned to day. Still at west bed 416,107,-1093. Hunger 13, health 11. Waiting for hunger 6 before a melon slice. Chapman's oak logs stay until Data is
 - 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Sleeping at the west bed."}
 - 03:38 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"reasoning":"Dusk, beside west bed. Bed click may fail; sleep verb is the known route."}
+- 03:39 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night here at the west bed. Going to sleep. Morning, Chapman, I'll holler when Data is in sight.","reasoning":"Night, b
+- 03:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use failed. Try the sleep verb beside the bed directly."}
+- Day 402: use on bed failed; sleep verb worked (6 of 10 asleep). Woke to day, still at 416,107,-1093, health 11, hunger 13. Next: wait for hunger 6, eat melon, watch for Data.
