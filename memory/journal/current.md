@@ -10,3 +10,66 @@
 - 13:15 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Clark at dusk, walking to 388,107,-1036 beside Billy's bed, in sight of the row. Holding there to sleep."}
 - 13:15 act: {"actions":[{"do":"sleep"}]}
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"intent":{"goal":"rejoin_billy_row","program":"rest","arguments":{},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_wo
+- 13:24 act: {"say":"Morning. I'm here with Billy's group. Billy, what's the next move?"}
+- 13:30 act: {"say":"Dusk. Clark holding at 389,-1033 in Billy's sight, health 20, hunger 20. Billy, name my bed cell when you do; I will walk only on your call."}
+- 13:50 act: {"say":"Clark walking to Billy at 413,107,-1041 in daylight, as he asked.","actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}}]}
+- 13:54 act: {"say":"Dusk. Clark going to my named bed at 413,107,-1042, next to Trini, in the group's sight to sleep.","actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":1
+- 13:54 act: {"say":"The bed did not take my use. Trying again from the east side, still in sight.","actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 13:55 act: {"say":"Billy, my bed at 413,-1042 will not take my use: 'that block is a bed'. I am holding at 412,-1041 in sight, not walking the dark alone. Trini's bed next to me works for anyone who can sleep th
+- 13:59 act: {"say":"Clark holding at 412,-1041 beside Zack, Tommy, Beverly and Worf. No walking the dark. Phantoms are about; I stay in reach until morning."}
+- Dawn day 433: held at 412,107,-1041 all night with the group. Phantoms ~20 blocks off, none in reach. Trini died in the night. Health 20, hunger 20, 9 oak planks. Bed 413,-1042 refused twice; not retried. Waiting on Billy's morning call.
+- Midday day 433: Billy called the walk to the row. Clark walked with the group to 389,107,-1033 and holds in their sight. Health 20, hunger 20. Waiting for dusk and Billy's named cell.
+- Dusk day 434: at the row 389,-1033 in Billy's sight. Asked Billy about Trini's empty cell 387,-1037. Billy: no cells tonight, hold where I stand, names at dawn. Trini's bed 387,-1037 also refused her. Holding. Health 20, hunger 20.
+- Day 434-435: no cell named for me yet; Billy says the row is full. Held in sight of the group at 389,-1033 through dawn, day and dusk. Bows drawn to the west at night, no hits. Health 20, hunger 20.
+- 14:07 act: {"say":"Clark holds at 412,-1041 with Tommy and Worf. Billy, I have no named cell that takes me yet; 413,-1042 refused twice. I wait for your walk call with four in sight."}
+- 14:11 act: {"say":"Clark walking to the row 389,107,-1034 with the group in daylight, as Billy called.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}]}
+- 14:11 act: {"say":"Clark at the row 389,-1033 with Billy's group, in sight. Holding for dusk and a named cell."}
+- 14:15 act: {"say":"Clark at the row 389,-1033, night, in Billy's sight. Billy, Trini's cell 387,107,-1037 is empty now: may I take it? I will not move until you say so."}
+- 14:30 act: {"say":"Clark holds at 389,-1033 in Billy's sight, day 434, no cell named yet. I wait for the next light and your call, Billy."}
+- 14:43 act: {"say":"Clark holds at 389,-1033 at dawn, day 435, in sight. Billy, I still have no cell. I wait for your call."}
+- Dawn day 435: wait returned with Billy at the row, 12 in reach. Billy says he will name cells after checking beds; Clark and Jason hold in sight. Health 20, hunger 20, 9 oak planks. Holding.
+- Day 436 dusk into night: no cell named for me. Billy sleeps at 387,-1036 with the group in sight; I hold on open ground at 389,-1033 until first light. Health 20, hunger 20.
+- 14:51 act: {"intent":{"goal":"hold_in_billy_sight_for_named_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 14:55 act: {"say":"Dusk day 436. Clark holds at 389,-1033 beside Billy, in sight, health 20, hunger 20. No cell named, so I stay on the open ground with the group and do not walk the dark."}
+- 15:07 act: {"say":"Billy, morning day 436. Clark holds at 389,-1033 in your sight, no cell named. I can help look for wool for a bed, walking only with the group in daylight."}
+- 15:11 act: {"say":"Billy, you are at health 4. Eat the rotten flesh you hold, or take Jason's bread. Clark holds in your sight and will walk for sheep only when you call with four in sight."}
+- 15:24 act: {"say":"Dawn day 437. Clark holds at 389,-1033 in Billy's sight, health 20, hunger 20. Still no cell named. I walk for sheep with the group when Billy calls four in sight."}
+- 15:32 act: {"intent":{"goal":"hold_in_billy_sight_for_named_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 15:44 act: {"say":"Clark at 389,-1033, daylight day 438, in sight of the row. Health 20, hunger 20. Billy, I hold here for your call; no walk alone."}
+- 16:21 act: {"say":"Clark holds at 389,107,-1033 in Billy's sight, day 440, health 20, hunger 20. No cell named for me yet. I wait for Billy's call and will not walk alone.","intent":{"goal":"hold_in_billy_sight_
+- 17:15 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to my south, attacking. I am striking it; group, stay close."}
+- Day 443 morning: zombie struck me from the south; I hit it bare-handed and it died. Health 20, hunger 20, 9 oak planks. Holding at 389,107,-1031 with the group, awaiting Billy's call.
+- 17:15 act: {"say":"Zombie is dead; my strike worked. Health 20, hunger 20. I hold at the row with Billy and Zack's group, unarmed, with 9 oak planks.","intent":{"goal":"hold_in_group_sight_daylight","program":"r
+- 17:24 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom is on me from the south. I have no weapon; striking it, staying with Chapman and the group."}
+- Night day 443: a phantom hit me from the south (health 18.5); my swing was out of reach and it left. Health 20, hunger 19, 9 oak planks. Holding at 389,107,-1031 with the group, no walk in the dark. No bed cell yet.
+- DEATH night day 443: phantoms killed me at 389,107,-1031 at the row. Dropped 9 oak_planks at 389,107,-1031. Respawned at 416,107,-1037 with nothing. Health 20, hunger 20. Not going back in the dark. At first light: go for the planks only on Billy's call with four in sight.
+- 17:26 act: {"say":"Clark died at the row in the night, from phantoms. My 9 oak planks lie at 389,107,-1031. I woke at spawn 416,107,-1037 with nothing. I wait for first light and Billy's call.","intent":{"goal":
+- 17:35 act: {"actions":[{"do":"note","text":"Dawn 444. Clark at spawn 416,107,-1037, alone, unarmed, health 20, hunger 20. 9 oak planks lie at 389,107,-1031. Holding for Billy's call."}],"say":"Billy, Clark is at
+- 17:39 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Clark walking to the row now, in daylight, as Billy called. Troi, I will take my planks from you when I am in reach."}
+- 17:39 act: {"actions":[{"do":"note","text":"Day 444 dawn: walked to the row 389,107,-1033 on Billy's call, in daylight, in his sight. Troi holds my 9 oak planks; asked her to hand them over. Health 20, hunger 20
+- 17:39 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1031}}],"say":"Clark stepping to the drop at 389,-1031 in daylight, in Billy's sight, to collect my oak planks."}
+- 17:42 act: {"actions":[],"say":"Troi, I cannot see you from 389,-1032. Please walk within reach of me at the row and I will take my 9 oak planks. Billy, I will hold here."}
+- 17:48 act: {"actions":[],"say":"Clark at 389,-1032, morning day 444, health 20, hunger 20. Troi, I am at the row and cannot see you at 388,-1051. Billy, call me to walk to Troi in daylight with four in sight, an
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1049}}],"say":"Clark walking to Troi at 388,-1049 in daylight, as Billy called, to take my 9 oak planks."}
+- 17:50 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, Clark is in reach. Please hand me my 9 oak planks."}
+- 17:50 act: {"actions":[],"say":"Troi, I hold nothing. Please give me my 9 oak planks now; I am in reach, 1.9 blocks away."}
+- 17:54 act: {"say":"Clark here, in reach at 388,-1049, daylight. My inventory is empty. Jason, you hold oak_planks in your hand: please give me the 9 oak planks now. Troi, do not hand them on; they are mine.","ac
+- 17:56 act: {"say":"Lewis, you hold my 9 oak planks, in reach at dusk. Please give them to me now, here at 388,-1049. I will not move.","actions":[]}
+- 17:58 act: {"say":"Jason, you hold my 9 oak planks, in reach at night. Please give them to me now, here. I will not walk in the dark.","actions":[]}
+- 18:00 act: {"say":"Clark has my 9 oak planks now, in daylight at 388,-1049, thanks to Tommy and Jason. Holding in Billy's sight for his call. Health 20, hunger 20.","actions":[]}
+- 18:07 act: {"say":"Billy, Clark holds at the row with my 9 oak planks, health 20, hunger 20. I will walk to the cow field with the group when you call four in sight.","actions":[]}
+- 18:19 act: {"say":"Morning, day 446. Clark holds at 388,-1049 with Lewis, health 20, hunger 20, 9 oak planks. Billy, I will walk to your row when you call four in sight.","actions":[]}
+- 18:23 act: {"say":"Clark walks to Billy's row at 388,-1040 in daylight, to be with the eight in sight. Holding with my 9 oak planks.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1040}}]}
+- 18:27 act: {"say":"Leonardo, Clark keeps my 9 oak planks for now, as Billy ruled. I am at the row, holding for Billy's count of four.","actions":[]}
+- 18:35 act: {"say":"Morning, day 447. Clark at 388,-1041, health 20, hunger 20, unarmed, 9 oak planks. Billy, I will walk to you at 402,-1037 when you call four in sight.","actions":[{"do":"note","text":"Day 447 
+- 18:48 act: {"say":"Phantom hit me from the north-west. Clark moves to Billy's group at 401,-1036 now, unarmed.","actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}]}
+- 18:52 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":1}],"say":"Billy, Clark gives you 1 oak plank for your sword, as you asked, to make the 4 with Worf's 3. I still hold 8."}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"give","to":"ag_billy_01","item":"oak_planks","count":1}],"say":"Billy, Clark walks to you in daylight to give 1 oak plank for your
+- 19:08 say: {"text":"Billy, Clark holds at 402,-1035 in your sight, unarmed, 8 planks, hunger 20. Please name me a bed cell for tonight."}
+- 19:12 say: {"text":"Billy, Clark will take the bed at 387,-1050 in the morning, not on the dusk walk. I stay here at the row in your sight tonight."}
+- 19:21 say: {"text":"Billy, Clark heard the cells. Is my bed still 387,107,-1050 this morning? I hold at the row in your sight and walk there on your count."}
+- 19:33 say: {"text":"Morning, day 450. Clark holds at the row in Billy's sight, unarmed, hunger 20. I walk to bed 387,107,-1050 on your count."}
+- 19:37 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"say":"Billy, Clark walks now to bed 387,107,-1050 in daylight, in sight of the row."}
+- 19:37 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1050}}],"say":"Clark is at my bed 387,107,-1050, in sight of Zack. Unarmed, 8 planks, hunger 20."}
+- 19:37 say: {"text":"Billy, my bed 387,107,-1050 refused my use in daylight: 'that block is a bed', same as 413,-1042 before. I will not retry; I hold beside it in your sight until dusk."}
+- 19:45 act: {"say":"Clark at my cell 387,107,-1050 in daylight, unarmed, hunger 20, 8 planks. Billy, how do we get a bed to take us? Mine refused the use."}
