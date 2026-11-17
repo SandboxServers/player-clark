@@ -1,2 +1,12 @@
 # Journal
 - 12:49 act: {"say":"Goodnight, Billy's group. I'm staying here at the 387 row until morning."}
+- 12:49 act: {"say":"Clark here at 388,-1023, night, holding still with Worf in reach. Hunger 20, health 20. Billy, I will walk to the row at first light on your call.","intent":{"goal":"hold_until_first_light","p
+- 12:50 act: {"say":"Clark at 388,-1023, daylight, Worf in reach. Holding for Billy's call. Hunger 20, health 20, nothing in hand but 9 oak planks.","intent":{"goal":"join_billy_row_on_call","program":"follow","ar
+- 12:50 act: {"say":"Clark walking to the row at 388,-1033 to be in Billy's group's sight, daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1033}}]}
+- 13:02 act: {"say":"Dusk. Clark to 388,107,-1035 beside the bed at 387,-1036, in Billy's sight, to sleep.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"use","at":{"x":387,"y":107,"z":-1036
+- 13:02 act: {"say":"Clark beside the bed at 387,-1036, in Billy's sight, sleeping now.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:02 act: {"say":"Clark at 416,-1036 and not at the row. Walking back to the 387 row to be with Billy's group.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}]}
+- 13:03 act: {"say":"Beverly, I do not know where the cows are. I have not seen any past 339,-979. Holding at the row with Billy.","intent":{"goal":"hold_at_row_with_billy","program":"rest","arguments":{},"wake_on
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Clark at dusk, walking to 388,107,-1036 beside Billy's bed, in sight of the row. Holding there to sleep."}
+- 13:15 act: {"actions":[{"do":"sleep"}]}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"intent":{"goal":"rejoin_billy_row","program":"rest","arguments":{},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_wo
