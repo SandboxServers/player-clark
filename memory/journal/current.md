@@ -83,3 +83,15 @@
 - 09:46 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"bread","count":1}],"say":"Johnny, here is my bread, given by hand. Hunger 17, eat it. The 8 oak logs wait for Data."}
 - 09:54 act: {"actions":[{"do":"sleep"}]}
 - 10:06 act: {"actions":[{"do":"sleep"}]}
+- 10:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}],"say":"Walking back to the west bed, 416,107,-1093. Nobody in sight yet."}
+- 10:12 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"Laforge, MacDonald: I am walking to the 401 beds to meet you. I hold Data's 8 logs and 3 melon."}
+- 10:13 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}],"say":"MacDonald, I am here at the 401 beds. Here is a melon slice by hand. Where are the cows? I want to learn the wal
+- 10:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Night, day 422. I am sleeping at the 401 beds with MacDonald. Chapman, Data: the 8 logs wait for Data, handed by hand a
+- 10:24 act: {"actions":[],"say":"Chapman, Clark is at 402,107,-1077 by the 401 beds with Data's 8 oak logs. Data, come into sight and I will hand them to you by hand."}
+- 10:28 act: {"actions":[],"say":"Data, I hold your 8 oak logs. I do not see you yet, so please step into my sight at 402,107,-1077 and I will hand them over."}
+- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark is sleeping beside the 401 beds. The 8 logs wait for Data at first light."}
+- 10:36 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Morning, day 424. Clark walking to Lewis at the table with MacDonald, with melon for Lewis by hand."}
+- 10:37 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1063}}]}
+- 10:37 act: {"actions":[],"say":"Clark at the table 393,-1063 with melon for Lewis. Lewis, come into my sight and I will hand it to you."}
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}],"say":"Data, Clark coming south with your 8 oak logs. Wait for me at 404,-1034."}
+- 10:40 act: {"actions":[],"say":"Chapman, I am here with Data's 8 oak logs. I will hand them to Data only, when he is in my sight."}
