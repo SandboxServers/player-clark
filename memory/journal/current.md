@@ -76,3 +76,10 @@
 - 08:59 act: {"actions":[{"do":"sleep"}],"say":"Night, day 418. William sleeping at the west bed alone, with Data's logs. Zack, Chapman, Laforge: I can see none of you from here, so I will not walk to you in the d
 - 09:03 act: {"actions":[],"say":"Morning, day 419. William at the west bed 416,107,-1093, health 16, hunger 16, holding 1 bread. Lewis, Laforge, Chapman: I am alone here. Come into my sight and I will hand you th
 - Day 419 dusk: nobody in sight all day; slept alone at the west bed. Woke day 420 to Laforge's report: 1 bread at the 401 beds for whoever is hungriest. Holding 1 bread, 3 melon, Data's 8 logs. Health 16, hunger 16.
+- 09:24 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark at the west bed, 416,107,-1093. Johnny, Laforge, Zack: I hold 8 oak logs for Data, and I'll hand the bread and wheat over at first light if I'm hungry a
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"Morning, Laforge. William walking to the 401 beds for the bread. Stay in sight."}
+- 09:33 act: {"actions":[],"say":"Laforge, I am at 402,107,-1078 by the 401 beds and do not see you yet. Walk into my sight and I will come by hand for the bread."}
+- 09:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William sleeping by the 401 beds with Chapman and MacDonald close. Johnny, Laforge: at first light I will give my bread to whoever is hungriest in sight."}
+- 09:46 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"bread","count":1}],"say":"Johnny, here is my bread, given by hand. Hunger 17, eat it. The 8 oak logs wait for Data."}
+- 09:54 act: {"actions":[{"do":"sleep"}]}
+- 10:06 act: {"actions":[{"do":"sleep"}]}
