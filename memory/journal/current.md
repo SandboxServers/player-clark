@@ -5,3 +5,4 @@
 - 04:49 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk, day 405. Going to bed at the west bed. Jason, Laforge, MacDonald, see you at first light."}
 - 04:53 act: {"say":"Morning, day 406. I have not seen Data since day 393 either, Chapman. Your 8 logs stay with you until he is in sight."}
 - 05:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to bed at the west bed."}
+- Day 406-407: waited by the bed, nothing new, no one in sight. Hunger 13, health steady. Now dusk day 407; going to sleep beside the west bed.
