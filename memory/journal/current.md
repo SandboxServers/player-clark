@@ -3,3 +3,4 @@
 - 21:54 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 22:06 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 22:06 act: {"actions":[{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}}]}
