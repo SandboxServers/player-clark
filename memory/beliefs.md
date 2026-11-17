@@ -1,18 +1,14 @@
 # Beliefs
 
-What you hold to be true about the world and the people in it.
+What I hold to be true about the world and the people in it.
 
-- A give only works when the person is in my sight and in reach. "No such agent in sight" means they are not visible, so walk close and wait.
-- My gives often land on Laforge or Picard instead of the target. Give only by hand when the target is alone in sight.
-- Real oak logs are at 414,104,-1126 (confirmed day 346), with oak logs at 413,108-109,-1140. The 466,112,-1108 spot has no oak, so drop that note.
-- Jungle logs stand in a column at x411 z-1115 (y 98-106) and at 426,107-112,-1124. They are not oak.
-- Planks come from a crafting table near the beds (for example 433,107,-1089).
-- A shelter takes 25 planks as a blueprint, and the build intent finishes when enclosed.
-- Melon is plentiful in the patch I found; sharing it keeps people alive.
-- Ripe wheat is east of the beds (462-463, 107, -1082 to -1087) and potatoes at 462-463, 107, -1073 to -1075.
-- Health does not regenerate while hunger is low, so eat before rest.
-- Sleep is refused when an enderman is near or when it is not yet night; it works at dusk in a white bed.
-- Travel intents to a far spot end quietly; a person who promised to walk may not come, so check in sight before leaving.
+- A give only works when the person is in my sight and in reach. "No such agent in sight" means they are not visible; walk close and wait. Confirmed day 429: the give to Zack worked once he stood in reach.
 - Someone saying they are "in sight" does not mean I can see them. Check the agents list before giving.
+- Sleep is refused when it is not yet night and when an enderman is near; it works at dusk beside a white bed.
+- Billy's group holds at the 387 row (around 388-389, 107, -1032 to -1036). Billy names each move and counts the group.
+- Walking alone in the dark is what gets people hurt. Hold still and wait for first light.
+- Real oak logs are at 414,104,-1126 and 413,108-109,-1140. Jungle logs at x411 z-1115 and 426,107-112,-1124 are not oak.
 - Water is at 466,106,-1086 (east along z -1088).
-- Next curiosity: where the cows and chickens are. I could tell Laforge and MacDonald about the potatoes and wheat.
+- Ripe wheat is east of the beds (462-463, 107, -1082 to -1087); potatoes at 462-463, 107, -1073 to -1075.
+- Health does not regenerate while hunger is low, so eat before rest.
+- Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
