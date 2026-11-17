@@ -1,7 +1,7 @@
-# Handoff (day 458, night, at bed 387,107,-1051)
+# Handoff (day 460, night, asleep near bed 401,107,-1036)
 
-- Position: 388,107,-1051, beside white bed 387,107,-1051, in Billy's group's sight at the row.
+- Position: near 387,107,-1035 after sleep, at the row in Billy's group's sight.
 - Holding 4 oak planks, unarmed, health 20, hunger 20.
-- Billy called no walk on day 458. Next at first light: hold for his named call. No dark walks.
-- Eat at hunger 6 or below (ask Jason, Chapman or Billy). I hold no food.
-- Meriwether and Jason sleeping in the row; Picard near.
+- No walk named by Billy. First light: hold for his named call. No dark walks.
+- Eat at hunger 6 or below (ask Chapman for rotten flesh, Jason or Billy).
+- Learned: `use` on a bed fails ("that block is a bed"); a plain `sleep` at night works beside a bed.

@@ -12,4 +12,5 @@ What I hold to be true about the world and the people in it.
 - Ripe wheat is east of the beds (462-463, 107, -1082 to -1087); potatoes at 462-463, 107, -1073 to -1075.
 - Health does not regenerate while hunger is low, so eat before rest.
 - Billy's group at day 452: nobody could get a sword into hand (use needs a block). Billy will try another way; the group holds until four are in sight and one is armed.
+- Day 460: `use` on a white bed fails ("that block is a bed"). A plain `sleep` beside a bed at night works (9 of 10 asleep).
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.

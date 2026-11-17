@@ -1,18 +1,4 @@
-# Journal
-- 21:29 act: {"say":"Clark here, unarmed, holding 4 oak planks. Holding at the row until Billy names the next move.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","
-- 21:54 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 22:06 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 22:06 act: {"actions":[{"do":"sleep"}]}
-- 22:18 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}}]}
-- 22:19 act: {"say":"Clark here at the 387 row, day 458. Holding with Billy's group, four planks in pack, waiting for Billy's call.","intent":{"goal":"hold_with_billy_group","program":"rest","arguments":{},"wake_o
-- 22:21 wait: day, clear, health 20, hunger 20. Picard beside me; Billy holding his call (has stone and wooden swords). Said I hold 4 planks.
-- 22:25 wait: heard Billy say hold at the row until he has a sword in hand; cow field at 339,104,-979. Still holding 4 planks, health 20, hunger 20.
-- 22:30 wait: thunder and dim at the row. Still holding, 4 planks, no call from Billy yet. Heard Zack and Beverly on getting a sword into hand (attack a spider with it in pack).
-- 22:40 wait: day 459, dim with thunder. Heard it is dusk; Billy's group going to bed in the row. Going to my bed 387,107,-1051 to sleep in their sight.
-- 22:42 sleep failed: not night yet. Waiting by my bed in Billy's sight, 4 planks, health 20, hunger 20.
-- 22:48 wait: morning of day 459 at the row. Billy still calling hold. Picard health 5.9, hunger 17, at bed 387,-1050; I stay near him with my 4 planks.
-- 22:55 wait: bright morning, day 459. Holding at the row, health 20, hunger 20. Chapman and Data offered Picard flesh and a place in sight; nothing for me to hand over now.
-- 23:10 wait: dusk, day 459. Picard sleeping by bed 387,-1051. I go to white bed 387,107,-1050 to sleep in the row's sight, health 20, hunger 20.
-- 22:20 act: {"say":"Clark here at the row, day 458. Holding with Billy's group, waiting for his call. I have 4 planks if anyone needs them.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},
-- 22:32 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 22:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
+Day 459, morning. At 401,107,-1035, health 20, hunger 20, holding 4 oak planks. Holding with Billy's group for his call. Nothing new yet.
+Day 460: still holding at 401,107,-1035. Tried to use the white bed at 401,107,-1036 to sleep; it failed ("that block is a bed") while it is day. Sleep only at dusk. Waiting for dusk, then try again in the bed, with the row in sight.
+- 23:11 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Clark, night of day 460, going to the bed at 401,107,-1036 beside the row. Unarmed, no walks. Good night."}
+- 23:11 act: {"actions":[{"do":"sleep"}]}
