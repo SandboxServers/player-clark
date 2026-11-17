@@ -5,3 +5,4 @@
 - 03:25 act: {"actions":[{"do":"sleep"}]}
 - 03:30 act: {"actions":[{"do":"note","text":"Morning, day 401 turned to day. Still at west bed 416,107,-1093. Hunger 13, health 11. Waiting for hunger 6 before a melon slice. Chapman's oak logs stay until Data is
 - 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Sleeping at the west bed."}
+- 03:38 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"reasoning":"Dusk, beside west bed. Bed click may fail; sleep verb is the known route."}
