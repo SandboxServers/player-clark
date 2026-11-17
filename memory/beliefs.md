@@ -9,9 +9,10 @@ What you hold to be true about the world and the people in it.
 - Planks come from a crafting table near the beds (for example 433,107,-1089).
 - A shelter takes 25 planks as a blueprint, and the build intent finishes when enclosed.
 - Melon is plentiful in the patch I found; sharing it keeps people alive.
-- Ripe wheat is at 462,107,-1088 in the field east of the beds (Laforge, day 353).
+- Ripe wheat is east of the beds (462-463, 107, -1082 to -1087) and potatoes at 462-463, 107, -1073 to -1075.
 - Health does not regenerate while hunger is low, so eat before rest.
 - Sleep is refused when an enderman is near or when it is not yet night; it works at dusk in a white bed.
 - Travel intents to a far spot end quietly; a person who promised to walk may not come, so check in sight before leaving.
-- No one has found water yet (Lewis asked on day 353).
-- Next curiosity: where the cows and chickens are, and where water is. I could tell Lewis and Laforge what I found about the oak.
+- Someone saying they are "in sight" does not mean I can see them. Check the agents list before giving.
+- Water is at 466,106,-1086 (east along z -1088).
+- Next curiosity: where the cows and chickens are. I could tell Laforge and MacDonald about the potatoes and wheat.
