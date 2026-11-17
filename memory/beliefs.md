@@ -14,4 +14,5 @@ What I hold to be true about the world and the people in it.
 - Billy's group at day 452: nobody could get a sword into hand (use needs a block). Billy will try another way; the group holds until four are in sight and one is armed.
 - Day 460: `use` on a white bed fails ("that block is a bed"). A plain `sleep` beside a bed at night works (9 of 10 asleep).
 - Day 461: `use` with a sword needs an item and a block in reach. Crafting tables are containers, so `use` on one opens nothing useful. Zack's way worked for him; Billy's failed on a sign and gravel.
+- Day 462: Picard's `use` with wooden_sword on cobblestone failed ("that block cannot be used that way"). Zack says grass or dirt is the block to try; Leonardo was trying dirt. Unconfirmed by me.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
