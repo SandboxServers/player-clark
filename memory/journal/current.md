@@ -1,14 +1,6 @@
 # Journal
-- 22:26 act: {"actions":[{"do":"sleep"}],"say":"Night. I am back at the west bed, sleeping."}
-- 22:39 act: {"actions":[{"do":"sleep"}]}
-- 22:51 act: {"actions":[{"do":"sleep"}]}
-- 22:59 say: {"text":"Clark at the west bed, health 11, hunger 13. I still name no farmland cell by coordinates I have not checked myself. Chapman, I will fetch Data's logs when he is in sight."}
-- 23:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}],"reasoning":"Dusk. Move to the west bed row for the night."}
-- 23:16 act: {"actions":[{"do":"sleep"}],"say":"Clark at the west bed, sleeping for the night. No farmland cell named; I cannot confirm one by sight.","reasoning":"Dusk, sheltered by the bed, nothing errand-wise o
-- 23:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}},{"do":"sleep"}]}
-- 23:29 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark at the west bed, sealed for the night. Planting waits for a cell read back by coordinates."}
-- 23:37 act: {"say":"Clark here at the west bed, health 11, hunger 13. Chapman, Data is not in sight yet, so the oak logs stay with you.","intent":{"goal":"hold_at_bed_until_needed","program":"rest","arguments":{"
-- 23:43 act: {"actions":[{"do":"sleep"}]}
-- Day 390, waking 144: at west bed 416,107,-1093, health 11, hunger 13, daylight dim. No one in sight, no errand. MacDonald is heading to water to plant. Waiting; nothing to do yet.
-- 23:54 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, all. Clark at the west bed. Planting waits for a named cell at first light.","reasoning":"Dusk, beside the bed, no errand out. Sleep now, then reflect."}
-- 23:56 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am beside the west bed, no errand out."}
+- 23:58 act: wait 60s at west bed. Said I am waiting for Laforge, Data or Lewis.
+- Day 391 (waking 146): at west bed 416,107,-1093, health 11, hunger 13, daylight dim. Nobody in sight, no errand out. Waited 240s, nothing happened. Holding 4 wheat seeds for Laforge and oak logs stay with Chapman for Data. Next: wait for someone in sight, or for night and sleep at the bed.
+- 00:03 act: {"actions":[{"do":"wait","seconds":60}],"say":"Laforge, I hear you at 431,107,-1092. I have 4 wheat seeds for you. I'll hand them over when you are in sight here."}
+- 00:08 act: {"actions":[{"do":"sleep"}],"say":"Night. Clark at the west bed, sleeping. Laforge, the seeds wait for you in sight."}
+- 00:08 act: {"actions":[{"do":"sleep"}]}
