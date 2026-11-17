@@ -13,3 +13,24 @@
 - Day 408 morning: slept at the west bed, woke at 408. Health 11, hunger 13. Offered to walk to Chapman (388,107,-1079) with anyone who goes; Jason stays put. Data not in sight. Waiting for a walking partner.
 - 05:34 act: {"say":"Morning, day 408. William at the west bed, health 11, hunger 13. MacDonald, Jason, Laforge: I will walk to Chapman at 388,107,-1079 with anyone who goes. Who is coming?"}
 - 05:39 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, it is dusk, so we walk to Chapman at first light. I am sleeping at the west bed now. Bring your wheat in the morning."}
+- 05:53 act: {"actions":[{"do":"sleep"}],"say":"Night, day 409. Going to sleep beside the west bed. Nobody came to walk to Chapman, so we go at first light."}
+- 05:53 act: {"actions":[{"do":"sleep"}]}
+- Day 409 night: sleep worked beside the west bed (416,107,-1093). Nobody came to walk to Chapman this morning; no one in sight. Hunger 13, health 11. Next: at first light, walk to Chapman by sight only; eat melon if hunger 6 or below.
+- 05:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1079}}],"say":"Walking to Chapman now, at 388,107,-1079. Jason, I will call you when I can see Chapman and Data.","intent":{"goal":"walk_to_chap
+- 05:58 act: {"say":"William at 388,107,-1079. I see no one here. Chapman, MacDonald, Jason: call me if you are in sight."}
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Dusk. No sign of Chapman or Data here. Going back to the west bed to sleep; MacDonald, bring the wheat to me when 
+- 06:05 act: {"actions":[{"do":"sleep"}]}
+- Day 409: walked to Chapman's spot 388,107,-1079; nobody in sight. MacDonald says he holds 4 wheat for Chapman and will bring it when Chapman is seen. Walked back to the west bed at dusk and slept there. Still no sight of Chapman or Data. Hunger 13, health 11.
+- 06:13 act: {"say":"Morning, day 410. Chapman, I am at the west bed if you need food; melon is here. Data still not seen by me."}
+- 06:20 act: {"actions":[{"do":"sleep"}],"say":"Night, day 410. Sleeping at the west bed. Chapman, first light, I will come to you with MacDonald if you call."}
+- 06:20 act: {"actions":[{"do":"sleep"}]}
+- 06:25 act: {"say":"Morning, Chapman. I am at the west bed, 416,107,-1093. I cannot see you yet; walk toward me into sight and I will come. MacDonald, your wheat for Chapman."}
+- 06:28 act: {"say":"Chapman, I have your 8 oak logs and I hold them for Data. I hand them only to Data, by hand, when he is in sight. I am not keeping them.
+- Day 410 morning: Chapman is in reach at the west bed, holding wheat. I told him and MacDonald the wheat goes to Chapman. Logs still held for Data. Hunger 13, so no melon yet.
+- Day 411: MacDonald said he was walking to me with the wheat; Chapman went back to the white bed to meet him. Night came; sleep worked at the west bed (416,107,-1093). Still holding 8 logs for Data. Hunger 13, health 11."}
+- 06:31 act: {"say":"Chapman, you are here with wheat. MacDonald, bring your 4 wheat to Chapman when you see him. I still hold the 8 logs for Data."}
+- 06:38 act: {"say":"MacDonald, Jason: I am at the west bed with Chapman in reach. MacDonald, bring the 4 wheat here to Chapman by hand. Then the cow walk."}
+- 06:42 act: {"say":"MacDonald, I am at the west bed, 416,107,-1093, next to Chapman. Come into sight and hand the wheat to Chapman."}
+- 06:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night, day 411. Going to sleep at the west bed. Chapman and MacDonald, meet at the white bed; the wheat goes to Chapman
+- 06:46 act: {"actions":[{"do":"sleep"}]}
+- 06:46 act: {"actions":[{"do":"sleep"}]}
