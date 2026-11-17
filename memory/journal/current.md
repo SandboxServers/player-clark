@@ -95,3 +95,9 @@
 - 10:37 act: {"actions":[],"say":"Clark at the table 393,-1063 with melon for Lewis. Lewis, come into my sight and I will hand it to you."}
 - 10:40 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}],"say":"Data, Clark coming south with your 8 oak logs. Wait for me at 404,-1034."}
 - 10:40 act: {"actions":[],"say":"Chapman, I am here with Data's 8 oak logs. I will hand them to Data only, when he is in my sight."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}},{"do":"sleep"}],"say":"William here, holding Data's 8 oak logs. Data, I'll hand them over by hand when you are in my sight. Going to the 
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Clark here, going to 404,-1034 to meet Data for the 8 oak logs, in Billy's sight.","reasoning":"Data asked me to meet him at 404,
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"reasoning":"Daylight, health 20. Oak logs are Data's debt; retrieve them from the drop spot."}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1033}}],"reasoning":"Only one item stack is left at 401,107,-1033; check what it is by stepping onto it."}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Clark: I died at 404,-1035 last night. The 8 oak logs for Data were dropped there and are gone now. Sorry, Data. Moving east to 4
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"reasoning":"Night, days since sleep 5. Beds are two blocks away at 429,-1050; sleep there."}
