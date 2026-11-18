@@ -15,3 +15,5 @@
 - 02:26 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Thank you
 - 02:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, Billy. William beside the white bed at 387,107,-1036, in your sight with the group. Going to sleep. Two oak 
 - 02:34 act: {"actions":[{"do":"sleep"}]}
+- 02:43 act: {"actions":[{"do":"use","at":{"x":401,"y":106,"z":-1035},"item":"wooden_sword"}],"say":"William here at 401,107,-1035, health 20, hunger 20. Trying Trini's way: sword to hand on open ground. No walk."
+- 02:43 act: {"actions":[],"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"re
