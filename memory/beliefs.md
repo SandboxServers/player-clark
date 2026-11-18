@@ -15,4 +15,5 @@ What I hold to be true about the world and the people in it.
 - Day 460: `use` on a white bed fails ("that block is a bed"). A plain `sleep` beside a bed at night works (9 of 10 asleep).
 - Day 461: `use` with a sword needs an item and a block in reach. Crafting tables are containers, so `use` on one opens nothing useful. Zack's way worked for him; Billy's failed on a sign and gravel.
 - Day 462: Picard's `use` with wooden_sword on cobblestone failed ("that block cannot be used that way"). Zack says grass or dirt is the block to try; Leonardo was trying dirt. Unconfirmed by me.
+- Day 464: a plain `sleep` at dusk beside the white bed worked again, in the group's sight. `use` on the bed still fails.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
