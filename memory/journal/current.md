@@ -10,3 +10,6 @@
 - 02:09 act: {"actions":[],"say":"Billy, Clark here in your sight with one wooden sword in pack, not yet in hand. Holding at the bed. Leonardo has his now, so I keep mine."}
 - 02:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Clark at my bed in Billy's sight, sword in pack, holding."}
 - 02:21 act: {"say":"Dawn. Holding at the row by my bed, in Billy's sight. Health 20, hunger 20. No walk until Billy names one.","intent":{"goal":"hold_at_row_until_day","program":"rest","arguments":{},"wake_on":[
+- 02:22 act: {"say":"William here, dawn of day 470, at the row beside the white bed. Holding in Billy's group's sight. Anyone know where food is found today?"}
+- 02:30 dawn day 470: hunger 20, health 20, holding at the bed in Billy's sight. Said hello and asked about food. No walk yet. Waiting for Billy's call.
+- 02:26 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Thank you
