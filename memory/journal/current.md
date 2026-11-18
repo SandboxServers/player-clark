@@ -5,3 +5,4 @@
 - 05:56 act: use wooden_sword at bed 401,107,-1037. Refused. Sword still in pack, hands empty.
 - Night day 481: woke after sleep at the row, health 20, hunger 20, Trini in reach. Held at the row by the white bed. No walk.
 - Day 482 morning: Billy named the move: hold at the row in daylight, no walk until four armed. Billy is trying to make a sword from chest contents. I said holding and told Meriwether I have not got the sword into hand either. Health 20, hunger 20, still holding.
+- 06:22 say: {"text":"Dusk at the row. William in Billy's sight, sword in pack, no walk. Sleeping by the white bed."}
