@@ -6,3 +6,5 @@
 - Night day 481: woke after sleep at the row, health 20, hunger 20, Trini in reach. Held at the row by the white bed. No walk.
 - Day 482 morning: Billy named the move: hold at the row in daylight, no walk until four armed. Billy is trying to make a sword from chest contents. I said holding and told Meriwether I have not got the sword into hand either. Health 20, hunger 20, still holding.
 - 06:22 say: {"text":"Dusk at the row. William in Billy's sight, sword in pack, no walk. Sleeping by the white bed."}
+- Day 482 day: woke at the row, bright, health 20, hunger 20. Billy's hold still stands (no walk, sword not in hand for anyone). Waiting on his call; nothing new to act on.
+- 06:35 act: {"say":"Tommy, I have not got my sword into hand either; no one has yet. Dusk, William at the white bed 401,107,-1037 in Billy's sight, no walk.","actions":[{"do":"sleep"}]}
