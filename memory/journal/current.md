@@ -6,3 +6,5 @@
 - 05:56 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":401,"y":107,"z":-1037}}],"say":"Morning, Billy. Clark at the row, health 20, hunger 20. Taking my wooden sword into hand for your count. No walk
 - 05:56 say: {"text":"Billy, my sword will not go into hand from the bed. I am holding at the row, no walk. Tell me how you want it done."}
 - 06:00 say: {"text":"Friends, I have not got my sword into hand. The bed refused it, and my hands are empty. I do not know the way yet. Billy is trying a new way; I will tell you what he finds."}
+- 06:09 act: {"say":"Holding at the row beside the white bed. Stay with the group until Billy calls the move.","intent":{"goal":"hold_at_row_until_morning","program":"rest","arguments":{},"wake_on":["directly_addr
+- Night day 481: woke after sleep at the row, health 20, hunger 20, Trini in reach. Thunder and dim light. Held at the row by the white bed; new hold intent set until Billy or morning. No walk.
