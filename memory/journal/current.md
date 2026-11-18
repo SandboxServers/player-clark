@@ -55,4 +55,5 @@
 - Day 495 (waking 322): body still waking; status and wait return body_unavailable. Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
 - Waking 329: status, wait and look all return body_unavailable (still waking). Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
 - Waking 339: status and wait return body_unavailable (still waking). Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
+- Waking 355: status, wait and act all return body_unavailable (still waking or unreachable). Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
 - 10:28 act: {"actions":[{"do":"note","text":"Day 495 morning: woke at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Sword and 2 planks in pack, hand empty. Billy's count two of four; not n
