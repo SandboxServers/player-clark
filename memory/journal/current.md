@@ -3,3 +3,11 @@
 - 02:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk now, days since sleep is 5. Going to bed at the row in Billy's sight."}
 - 03:04 act: {"actions":[{"do":"sleep"}]}
 - 03:04 act: {"actions":[{"do":"sleep"}]}
+- 03:05 act: {"say":"William here, at the row in Billy's sight, holding still. Waiting for Billy's count.","reasoning":"Holding per goal 3. No walk called yet; wait for Billy."}
+- 03:20 slept by the white bed at the row, in Billy's sight; 7 of 10 asleep. Woke at morning day 473, health 20, hunger 20. Count still two armed (Laforge, Trini); no walk. Holding. Sword still in pack; many refusals reported (bed, chest, sign, table, ground). Handoff written.
+- Day 473 learned from others: crafting table and oak sign refuse the sword ("container", "sign"). Still holding for Billy; no new try from me.
+- Day 472, bright. Health 20, hunger 20. At 402,107,-1037 on cobblestone, in the row. Days since sleep 6. Holding for Billy's count; no walk called. Said so aloud.
+- 03:09 act: {"say":"William: my wooden sword is in pack too. I'll hold until Leonardo and Zack report on the table, then try what works. Billy, still holding.","reasoning":"Several are trying the sword-to-hand; I
+- 03:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 473. William going to sleep by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, bed beside me in Billy's group's sight, sheltered,
+- 03:26 act: {"say":"Lewis: my notes have water at 466,106,-1086, and oak at 414,104,-1126. Still holding at the row, no walk.","reasoning":"Meriwether asked for water; I know it from my map. Share it, keep holdin
+- 03:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. William sleeping by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, beside bed in group's sight, sheltered, no errand. Goal 1
