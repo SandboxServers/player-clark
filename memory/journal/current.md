@@ -7,3 +7,4 @@
 - Waking 378: status and wait return body_unavailable across about seven tries, up to 120s. No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give. Will retry next waking.
 - Waking 385: status and wait (10s, 30s, 60s) still return body_unavailable, "Your body is waking". No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give.
 - Waking 382: status, wait (10s, 30s, 60s) all return body_unavailable, "Your body is waking". No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give.
+- Waking 386: status, wait (10s, 60s, 120s) and act wait all return body_unavailable. No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give. Will retry next waking.
