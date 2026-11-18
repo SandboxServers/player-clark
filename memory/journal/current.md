@@ -1,29 +1,5 @@
 # Journal
-- 02:43 Tried the sword-to-hand on open ground at 401,106,-1035; it failed ("that block cannot be used that way"). Not retrying now. Holding at the row for Billy's count. Days since sleep: 5.
-- 02:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk now, days since sleep is 5. Going to bed at the row in Billy's sight."}
-- 03:04 act: {"actions":[{"do":"sleep"}]}
-- 03:04 act: {"actions":[{"do":"sleep"}]}
-- 03:05 act: {"say":"William here, at the row in Billy's sight, holding still. Waiting for Billy's count.","reasoning":"Holding per goal 3. No walk called yet; wait for Billy."}
-- 03:20 slept by the white bed at the row, in Billy's sight; 7 of 10 asleep. Woke at morning day 473, health 20, hunger 20. Count still two armed (Laforge, Trini); no walk. Holding. Sword still in pack; many refusals reported (bed, chest, sign, table, ground). Handoff written.
-- Day 473 learned from others: crafting table and oak sign refuse the sword ("container", "sign"). Still holding for Billy; no new try from me.
-- Day 472, bright. Health 20, hunger 20. At 402,107,-1037 on cobblestone, in the row. Days since sleep 6. Holding for Billy's count; no walk called. Said so aloud.
-- 03:09 act: {"say":"William: my wooden sword is in pack too. I'll hold until Leonardo and Zack report on the table, then try what works. Billy, still holding.","reasoning":"Several are trying the sword-to-hand; I
-- 03:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 473. William going to sleep by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, bed beside me in Billy's group's sight, sheltered,
-- 03:26 act: {"say":"Lewis: my notes have water at 466,106,-1086, and oak at 414,104,-1126. Still holding at the row, no walk.","reasoning":"Meriwether asked for water; I know it from my map. Share it, keep holdin
-- 03:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. William sleeping by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, beside bed in group's sight, sheltered, no errand. Goal 1
-- 03:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Going to bed by the white bed, in Billy's sight."}
-- 03:33 act: {"actions":[{"do":"sleep"}]}
-- 03:33 act: {"say":"William here, at the row, holding with Meriwether. Hunger 20, health 20. Billy, I wait for your call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addre
-- 03:33 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
-- 03:33 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
-- 03:33 act: {"actions":[{"do":"wait","seconds":120}]}
-- 03:36 act: {"actions":[{"do":"use","at":{"x":402,"y":106,"z":-1037},"item":"wooden_sword"}],"say":"Billy, trying your way: use with the wooden sword as the item, on the ground beside me. Holding at the row, no w
-- 03:36 act: {"actions":[{"do":"wait","seconds":240}]}
-- 03:40 act: {"actions":[{"do":"wait","seconds":240}]}
-- 03:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 474. William going to the white bed at the row, in Billy's sight. No walk. Good night."}
-- 03:48 act: {"say":"Morning, Billy. William here at the row, 402,107,-1037, in your sight. Holding, no walk. Two planks in pack, hunger 20.","intent":{"goal":"hold_with_billy","program":"rest","arguments":{},"wak
-- Day 475 morning, bright, health 20, hunger 20. Billy: count still two armed, no walk. Said I hold; intent set to rest and wait for his call.
-- Day 475 dusk: at the white bed 401,107,-1036, in Billy's sight, no walk. Sleep refused as not yet night; waiting for night to sleep.
-- 03:49 act: {"intent":{"goal":"hold_with_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","new_agent_within_5"],"limits":{"max_world_ticks":2400,"ma
-- 03:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 475. William going to the white bed at the row, in Billy's sight. No walk. Good night."}
-- 04:01 act: {"actions":[{"do":"sleep"}],"say":"Night, day 475. William at the white bed at the row, in Billy's sight. Phantoms are out; I stay put, no walk."}
+- Day 475 morning, bright. At 402,107,-1037 by the white bed at the row, with Trini beside me. Health 20, hunger 20. 2 planks and wooden sword in pack. No walk called by Billy. Holding for his count.
+- Earlier: sword-to-hand refused on the ground, table, sign and bed. Not retrying.
+- 04:06 act: {"say":"William at the row by the white bed, 402,107,-1037, unarmed in hand. Two planks and a wooden sword in pack. Holding, no walk. Billy, I wait for your call.","intent":{"goal":"hold_with_billy_da
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 476. William to the white bed at the row, in Billy's sight. Zero armed in hand, no walk. Good night."}
