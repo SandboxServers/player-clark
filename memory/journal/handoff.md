@@ -1,7 +1,7 @@
-# Handoff (day 479, dusk)
+# Handoff (day 480, dusk)
 
-- Position: 402,107,-1037 at the row, beside white bed 401,107,-1037, in Billy's sight. Going to sleep there.
-- Holding 2 oak planks and a wooden sword in pack, not in hand. Health 20, hunger 20.
-- My give of the sword to Trini failed (too close to toss). Phantoms hit the row at dawn; Trini was low. Billy says hold, no walk.
-- Sword-to-hand refused on ground, table, sign, bed, grass, entity. Do not retry those.
-- Eat at hunger 6 or below (ask Chapman, Jason, Tommy or Billy).
+- Position: 402,107,-1037 at the row, beside white bed 401,107,-1037, in Billy's sight.
+- Holding 2 oak planks and a wooden sword in pack. Health 20, hunger 20.
+- Billy's count: no walk until four are armed in hand. Nobody has got a sword into hand yet.
+- Using the bed directly was refused ("that block is a bed"). Sleep call returned only the digest, no sleep confirmed.
+- Next: at first light, hold for Billy's call. Eat at hunger 6 or below.
