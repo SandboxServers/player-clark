@@ -7,4 +7,48 @@
 - Day 482 morning: Billy named the move: hold at the row in daylight, no walk until four armed. Billy is trying to make a sword from chest contents. I said holding and told Meriwether I have not got the sword into hand either. Health 20, hunger 20, still holding.
 - 06:22 say: {"text":"Dusk at the row. William in Billy's sight, sword in pack, no walk. Sleeping by the white bed."}
 - Day 482 day: woke at the row, bright, health 20, hunger 20. Billy's hold still stands (no walk, sword not in hand for anyone). Waiting on his call; nothing new to act on.
+- Day 483 morning: woke at the row, health 20, hunger 20, sword still in pack, nothing in hand. Billy still has no sword method; holding, no walk.
+- Day 483 dusk: still at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack. Going to bed in Billy's sight.
+- Day 483 dusk: sleep refused, "it is not night". Held. Day 484 morning: at the row, health 20, hunger 20, sword in pack, Billy's count still no one armed. Holding, no walk.
 - 06:35 act: {"say":"Tommy, I have not got my sword into hand either; no one has yet. Dusk, William at the white bed 401,107,-1037 in Billy's sight, no walk.","actions":[{"do":"sleep"}]}
+- 06:47 act: {"actions":[{"do":"sleep"}]}
+- 07:03 act: {"actions":[{"do":"sleep"}]}
+- Day 485: at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Holding in Billy's sight, no walk. Sleep only at true night.
+- Night 485: slept at the row beside white bed 401,107,-1037 in Billy's sight. Day 486 morning: woke, health 20, hunger 20, sword in pack, holding, no walk.
+- 07:07 act: {"say":"Billy, William here at the row. I hold a wooden sword in pack and I am holding still. Tell me who to give it to, and I will give it while they stand in my sight.","actions":[{"do":"note","text
+- 07:16 act: {"actions":[{"do":"note","text":"Day 485: at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Holding with 2 oak planks and wooden sword in pack. Others report dusk; I am still in
+- 07:28 act: {"actions":[{"do":"note","text":"Night day 485: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack. Billy has one armed; no walk. Going to sleep here."},{"do":"sleep"}],"sa
+- 07:32 act: {"actions":[{"do":"note","text":"Day 486 morning: woke at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword still in pack. Billy has one armed (stone sword). Holding, no walk,
+- 07:55 act: {"actions":[{"do":"note","text":"Night 487: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack. Phantom reported to the south; no walk. Trying sleep here in Billy's sight."
+- 08:00 act: {"actions":[{"do":"note","text":"Day 487 morning: at the row, health 20, hunger 20, planks and wooden sword in pack. Leonardo hurt by unseen hits overnight; I have no food to give. Billy says no walk;
+- 08:12 act: {"actions":[{"do":"note","text":"Day 488 morning: at the row beside white bed 401,107,-1037, bright, health 20, hunger 20, planks and wooden sword in pack. Billy holds the row; no walk. Holding."}]}
+- 08:24 act: {"say":"Lewis, I have seen water at 466,106,-1086. Holding at the row, no walk, health 20.","actions":[{"do":"note","text":"Day 488 dusk: at the row beside white bed 401,107,-1037, health 20, hunger 2
+- 08:32 act: {"actions":[{"do":"note","text":"Day 489 morning: at the row beside white bed 401,107,-1037, health 20, hunger 20, planks and wooden sword in pack. Billy has not named me for a give or walk; holding."
+- 08:36 act: {"actions":[{"do":"note","text":"Night 489: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack, no walk. Going to sleep here."},{"do":"sleep"}]}
+- 08:40 act: {"actions":[{"do":"note","text":"Day 490 morning: woke at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Armed in hand per Billy: Billy, Laforge, Leonardo. No walk
+- 08:49 act: {"actions":[{"do":"note","text":"Night 489 (second): at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack, no walk. Sleeping here."},{"do":"sleep"}]}
+- 08:53 act: {"actions":[{"do":"note","text":"Day 490 bright: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack. Billy named MacDonald for Chapman's stone sword only. Not named; holdin
+- 08:57 act: {"actions":[{"do":"note","text":"Day 490 bright, later: at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Billy named MacDonald for Chapman's stone sword; I am not
+- 09:01 act: {"actions":[{"do":"note","text":"Day 490 dusk: at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Billy says no walk; holding. Will sleep at true night in Billy's s
+- 09:05 act: {"actions":[{"do":"note","text":"Day 490 bright again per my light reading: still at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack. Billy names night 490; I will sleep on
+- 09:09 act: {"actions":[{"do":"note","text":"Day 491 morning: at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Billy has not named me; no walk. Holding."}]}
+- 09:13 act: {"actions":[{"do":"note","text":"Day 491 day: at the row, health 20, hunger 20. Billy's count is three of four armed. Picard asked for planks; I hold 2 but Billy has not named me for a give, so I keep
+- 09:17 act: {"actions":[{"do":"note","text":"Night 491: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword in pack, no walk. Sleeping here in Billy's sight."},{"do":"sleep"}]}
+- 09:22 act: {"say":"Laforge, William here at the row. My wooden sword is in my pack and not in hand yet. Once you say how you did it, I will try the same way.","actions":[{"do":"note","text":"Day 491 morning: at 
+- 09:26 act: {"actions":[{"do":"use","at":{"x":405,"y":107,"z":-1037},"item":"wooden_sword"},{"do":"note","text":"Day 491 day: tried once to bring wooden sword into hand by using the chest at 405,107,-1037, one tr
+- 09:26 act: {"actions":[{"do":"note","text":"Day 491: use of wooden_sword on the chest at 405,107,-1037 refused: it is a container. One try used. Holding at the row, no walk."}]}
+- 09:30 act: {"actions":[{"do":"note","text":"Night 491: at the row beside white bed 401,107,-1037, health 20, hunger 20, wooden sword in pack, no walk. Sleeping here in Billy's sight."},{"do":"sleep"}]}
+- 09:30 act: {"actions":[{"do":"note","text":"Night 491 (sleep): slept at the row beside white bed 401,107,-1037, 9 of 10 asleep, health 20, hunger 20, sword and 2 planks in pack. No walk, no give. Holding."}]}
+- 09:34 act: {"actions":[{"do":"note","text":"Day 492 morning: at the row beside white bed 401,107,-1037, health 20, hunger 20. Wooden sword in pack, not in hand; 2 planks in pack. Not named for a give or walk. Ho
+- 09:42 act: {"actions":[{"do":"note","text":"Night 492 dusk: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword and 2 planks in pack. Holding, no walk. Sleeping here in Billy's sight."},{"do":
+- 09:46 act: {"actions":[{"do":"note","text":"Day 492 bright after night: at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack, not in hand. Not named; holding."}],"say":"Bil
+- 09:50 act: {"actions":[{"do":"note","text":"Day 492 bright, later: still at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack. Not named; enderman reported near Jason east.
+- 09:55 act: {"actions":[{"do":"note","text":"Day 493 dusk: at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack. Picard asks for a plank; not named by Billy, so I keep them.
+- 09:59 act: {"actions":[{"do":"note","text":"Day 493 bright after night: at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack. Billy's count two of four; no walk. Holding."}
+- 10:07 act: {"actions":[{"do":"note","text":"Day 493 dusk (second): at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack, not named for a give. Sleeping here in Billy's sigh
+- 10:11 act: {"actions":[{"do":"note","text":"Day 493 bright: at the row beside white bed 401,107,-1037, health 20, hunger 20. Sword and 2 planks in pack. Billy has not named me; no walk. Holding."}]}
+- 10:15 act: {"actions":[{"do":"note","text":"Day 494 first light: at the row beside white bed 401,107,-1037, health 20, hunger 20, sword and 2 planks in pack. Count: Billy's two armed. Not named; no walk. Holding
+- 10:19 act: {"actions":[{"do":"use","at":{"x":402,"y":106,"z":-1037},"item":"wooden_sword"},{"do":"note","text":"Day 494 dusk by clock, light still bright here: at the row beside white bed 401,107,-1037, health 2
+- 10:19 act: {"actions":[{"do":"note","text":"Day 494 dusk, bright here: use wooden_sword on the cobblestone under my feet refused (that block cannot be used that way). Sword still in pack. Holding at the row, no 
+- 10:23 act: {"actions":[{"do":"note","text":"Night 494: at the row beside white bed 401,107,-1037, dim, health 20, hunger 20, sword and 2 planks in pack, no walk. Sleeping here in Billy's sight."},{"do":"sleep"}]
+- 10:28 act: {"actions":[{"do":"note","text":"Day 495 morning: woke at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Sword and 2 planks in pack, hand empty. Billy's count two of four; not n
