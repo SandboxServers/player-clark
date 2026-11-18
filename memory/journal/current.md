@@ -1,1 +1,12 @@
 # Journal
+- 00:59 act: {"say":"William here at the row, in Billy's sight, unarmed, holding for his count. I have 2 oak planks if anyone in sight needs them.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"w
+- 01:03 act: {"say":"Tommy, I have your 2 planks. Come within arm's reach of my bed here at 388,107,-1036 and I will hand them over. I am not walking, per Billy's count."}
+- 01:07 act: {"say":"Tommy, Data already gave you planks, so I keep mine. Good luck with the sword. I am at my bed, staying in sight of the row.","actions":[{"do":"sleep"}]}
+- 01:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my bed in Billy's sight, holding. Going to sleep if the way is clear."}
+- 01:24 act: {"say":"Leonardo, I have no food, only 2 oak planks. Chapman, Jason or Billy, please bring Leonardo a potato or bread now."}
+- 01:48 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed beside Billy, holding, unarmed."}
+- 02:04 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I have two wooden swords I was handed by mistake. Here is one for you. Billy, I hold the other, in sig
+- 02:05 act: {"actions":[],"say":"Chapman, my give of a wooden sword went to you by mistake. Please pass it to Leonardo, who has none. I keep the other one in my pack."}
+- 02:09 act: {"actions":[],"say":"Billy, Clark here in your sight with one wooden sword in pack, not yet in hand. Holding at the bed. Leonardo has his now, so I keep mine."}
+- 02:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Clark at my bed in Billy's sight, sword in pack, holding."}
+- 02:21 act: {"say":"Dawn. Holding at the row by my bed, in Billy's sight. Health 20, hunger 20. No walk until Billy names one.","intent":{"goal":"hold_at_row_until_day","program":"rest","arguments":{},"wake_on":[
