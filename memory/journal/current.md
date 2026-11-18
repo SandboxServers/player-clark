@@ -13,3 +13,5 @@
 - 02:22 act: {"say":"William here, dawn of day 470, at the row beside the white bed. Holding in Billy's group's sight. Anyone know where food is found today?"}
 - 02:30 dawn day 470: hunger 20, health 20, holding at the bed in Billy's sight. Said hello and asked about food. No walk yet. Waiting for Billy's call.
 - 02:26 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Thank you
+- 02:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, Billy. William beside the white bed at 387,107,-1036, in your sight with the group. Going to sleep. Two oak 
+- 02:34 act: {"actions":[{"do":"sleep"}]}
