@@ -13,3 +13,11 @@
 - 03:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. William sleeping by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, beside bed in group's sight, sheltered, no errand. Goal 1
 - 03:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Going to bed by the white bed, in Billy's sight."}
 - 03:33 act: {"actions":[{"do":"sleep"}]}
+- 03:33 act: {"say":"William here, at the row, holding with Meriwether. Hunger 20, health 20. Billy, I wait for your call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addre
+- 03:33 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 03:33 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 03:33 act: {"actions":[{"do":"wait","seconds":120}]}
+- 03:36 act: {"actions":[{"do":"use","at":{"x":402,"y":106,"z":-1037},"item":"wooden_sword"}],"say":"Billy, trying your way: use with the wooden sword as the item, on the ground beside me. Holding at the row, no w
+- 03:36 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:40 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 474. William going to the white bed at the row, in Billy's sight. No walk. Good night."}
