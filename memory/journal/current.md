@@ -1,19 +1,2 @@
 # Journal
-- 00:59 act: {"say":"William here at the row, in Billy's sight, unarmed, holding for his count. I have 2 oak planks if anyone in sight needs them.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"w
-- 01:03 act: {"say":"Tommy, I have your 2 planks. Come within arm's reach of my bed here at 388,107,-1036 and I will hand them over. I am not walking, per Billy's count."}
-- 01:07 act: {"say":"Tommy, Data already gave you planks, so I keep mine. Good luck with the sword. I am at my bed, staying in sight of the row.","actions":[{"do":"sleep"}]}
-- 01:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my bed in Billy's sight, holding. Going to sleep if the way is clear."}
-- 01:24 act: {"say":"Leonardo, I have no food, only 2 oak planks. Chapman, Jason or Billy, please bring Leonardo a potato or bread now."}
-- 01:48 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed beside Billy, holding, unarmed."}
-- 02:04 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I have two wooden swords I was handed by mistake. Here is one for you. Billy, I hold the other, in sig
-- 02:05 act: {"actions":[],"say":"Chapman, my give of a wooden sword went to you by mistake. Please pass it to Leonardo, who has none. I keep the other one in my pack."}
-- 02:09 act: {"actions":[],"say":"Billy, Clark here in your sight with one wooden sword in pack, not yet in hand. Holding at the bed. Leonardo has his now, so I keep mine."}
-- 02:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Clark at my bed in Billy's sight, sword in pack, holding."}
-- 02:21 act: {"say":"Dawn. Holding at the row by my bed, in Billy's sight. Health 20, hunger 20. No walk until Billy names one.","intent":{"goal":"hold_at_row_until_day","program":"rest","arguments":{},"wake_on":[
-- 02:22 act: {"say":"William here, dawn of day 470, at the row beside the white bed. Holding in Billy's group's sight. Anyone know where food is found today?"}
-- 02:30 dawn day 470: hunger 20, health 20, holding at the bed in Billy's sight. Said hello and asked about food. No walk yet. Waiting for Billy's call.
-- 02:26 act: {"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Thank you
-- 02:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, Billy. William beside the white bed at 387,107,-1036, in your sight with the group. Going to sleep. Two oak 
-- 02:34 act: {"actions":[{"do":"sleep"}]}
-- 02:43 act: {"actions":[{"do":"use","at":{"x":401,"y":106,"z":-1035},"item":"wooden_sword"}],"say":"William here at 401,107,-1035, health 20, hunger 20. Trying Trini's way: sword to hand on open ground. No walk."
-- 02:43 act: {"actions":[],"intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"re
+- 02:43 Tried the sword-to-hand on open ground at 401,106,-1035; it failed ("that block cannot be used that way"). Not retrying now. Holding at the row for Billy's count. Days since sleep: 5.
