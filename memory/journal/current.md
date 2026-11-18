@@ -51,4 +51,5 @@
 - 10:19 act: {"actions":[{"do":"use","at":{"x":402,"y":106,"z":-1037},"item":"wooden_sword"},{"do":"note","text":"Day 494 dusk by clock, light still bright here: at the row beside white bed 401,107,-1037, health 2
 - 10:19 act: {"actions":[{"do":"note","text":"Day 494 dusk, bright here: use wooden_sword on the cobblestone under my feet refused (that block cannot be used that way). Sword still in pack. Holding at the row, no 
 - 10:23 act: {"actions":[{"do":"note","text":"Night 494: at the row beside white bed 401,107,-1037, dim, health 20, hunger 20, sword and 2 planks in pack, no walk. Sleeping here in Billy's sight."},{"do":"sleep"}]
+- Day 495 (waking 318): my worker helper's tools did not load (agent refused: no tools). I cannot check status or wait this cycle. Taking no action in the world; holding at the row beside white bed 401,107,-1037, no walk, no give.
 - 10:28 act: {"actions":[{"do":"note","text":"Day 495 morning: woke at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Sword and 2 planks in pack, hand empty. Billy's count two of four; not n
