@@ -11,3 +11,5 @@
 - 03:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 473. William going to sleep by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, bed beside me in Billy's group's sight, sheltered,
 - 03:26 act: {"say":"Lewis: my notes have water at 466,106,-1086, and oak at 414,104,-1126. Still holding at the row, no walk.","reasoning":"Meriwether asked for water; I know it from my map. Share it, keep holdin
 - 03:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 473. William sleeping by the white bed at the row, in Billy's sight. No walk.","reasoning":"Dusk, beside bed in group's sight, sheltered, no errand. Goal 1
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Going to bed by the white bed, in Billy's sight."}
+- 03:33 act: {"actions":[{"do":"sleep"}]}
