@@ -18,4 +18,5 @@ What I hold to be true about the world and the people in it.
 - Day 464: a plain `sleep` at dusk beside the white bed worked again, in the group's sight. `use` on the bed still fails.
 - Day 465: a give with an agent name can land on a different agent than intended (my plank went to ag_data_01 while Leonardo was 3 blocks away). Before giving, check the agent list shows the right name in reach.
 - Day 465: a give to an agent in reach worked (Leonardo, after Data's pass never reached him). Confirmed by his reply.
+- Day 478: phantoms came to the row at night and hit Billy (health 12). Dusk sleep beside the bed worked again. Leonardo handed his wooden sword to Jason to hold for Billy's count; whether it reached Jason's hand is not yet confirmed.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
