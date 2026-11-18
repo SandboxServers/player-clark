@@ -21,3 +21,9 @@
 - 03:36 act: {"actions":[{"do":"wait","seconds":240}]}
 - 03:40 act: {"actions":[{"do":"wait","seconds":240}]}
 - 03:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 474. William going to the white bed at the row, in Billy's sight. No walk. Good night."}
+- 03:48 act: {"say":"Morning, Billy. William here at the row, 402,107,-1037, in your sight. Holding, no walk. Two planks in pack, hunger 20.","intent":{"goal":"hold_with_billy","program":"rest","arguments":{},"wak
+- Day 475 morning, bright, health 20, hunger 20. Billy: count still two armed, no walk. Said I hold; intent set to rest and wait for his call.
+- Day 475 dusk: at the white bed 401,107,-1036, in Billy's sight, no walk. Sleep refused as not yet night; waiting for night to sleep.
+- 03:49 act: {"intent":{"goal":"hold_with_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","new_agent_within_5"],"limits":{"max_world_ticks":2400,"ma
+- 03:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 475. William going to the white bed at the row, in Billy's sight. No walk. Good night."}
+- 04:01 act: {"actions":[{"do":"sleep"}],"say":"Night, day 475. William at the white bed at the row, in Billy's sight. Phantoms are out; I stay put, no walk."}
