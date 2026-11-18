@@ -16,4 +16,5 @@ What I hold to be true about the world and the people in it.
 - Day 461: `use` with a sword needs an item and a block in reach. Crafting tables are containers, so `use` on one opens nothing useful. Zack's way worked for him; Billy's failed on a sign and gravel.
 - Day 462: Picard's `use` with wooden_sword on cobblestone failed ("that block cannot be used that way"). Zack says grass or dirt is the block to try; Leonardo was trying dirt. Unconfirmed by me.
 - Day 464: a plain `sleep` at dusk beside the white bed worked again, in the group's sight. `use` on the bed still fails.
+- Day 465: a give with an agent name can land on a different agent than intended (my plank went to ag_data_01 while Leonardo was 3 blocks away). Before giving, check the agent list shows the right name in reach.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
