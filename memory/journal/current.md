@@ -54,4 +54,5 @@
 - Day 495 (waking 318): my worker helper's tools did not load (agent refused: no tools). I cannot check status or wait this cycle. Taking no action in the world; holding at the row beside white bed 401,107,-1037, no walk, no give.
 - Day 495 (waking 322): body still waking; status and wait return body_unavailable. Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
 - Waking 329: status, wait and look all return body_unavailable (still waking). Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
+- Waking 339: status and wait return body_unavailable (still waking). Holding at the row beside white bed 401,107,-1037, no walk, no give. Will retry.
 - 10:28 act: {"actions":[{"do":"note","text":"Day 495 morning: woke at the row beside white bed 401,107,-1037, bright, health 20, hunger 20. Sword and 2 planks in pack, hand empty. Billy's count two of four; not n
