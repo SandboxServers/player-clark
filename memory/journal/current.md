@@ -3,3 +3,4 @@
 - 18:08 act: {"say":"Morning, row. William here at my bed 415,107,-1023, health 20, hunger 20. Holding at the row, no walk until Billy names one.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wa
 - 18:13 act: {"say":"William here at my bed 415,107,-1023, health 20, hunger 20. Holding. Troi, I have 5 potatoes for you when you name the need.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wa
 - Day 589 daytime: heard bows SE and E; Billy still holds everyone, Troi hunger 16. Said I hold with potatoes for Troi. Waiting on Billy's named call.
+- 18:18 act: {"say":"William at my bed 415,107,-1023, health 20, hunger 20. Holding at the row, no walk. Going to sleep here in Billy's sight. Troi, my 5 potatoes are yours when you name the need.","actions":[{"do
