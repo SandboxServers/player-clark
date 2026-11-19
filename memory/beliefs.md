@@ -38,3 +38,4 @@ What I hold to be true about the world and the people in it.
 - Next curiosity: why daylight bed use is refused, and where the cows are. Tell Billy and Chapman what I learn.
 - Day 583: holding at bed 415,107,-1023 all day with Billy's group; no walk named (planks block the west). Dusk sleep beside the bed worked again. Riker owes a 4-cobblestone debt; Tommy and Troi are the hungry ones to watch.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
+- Day 589: the west route is still unverified; Billy holds the group until one is named. Dusk sleep at bed 415,107,-1023 took after a second call (2 of 10, then asleep). Next curiosity: cows and the planks to the west; tell Billy and Worf what I learn.
