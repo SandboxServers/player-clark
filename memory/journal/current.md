@@ -6,3 +6,4 @@
 - 10:31 act: {"actions":[{"do":"sleep"}]}
 - 10:36 act: {"say":"Billy, William here at the bed 416,107,-1023, in your sight. Holding 6 potatoes for the hungriest, wooden sword, 2 spider eyes (poison, not food). Health 20, hunger 19. Waiting for your named 
 - 10:48 act: {"actions":[{"do":"sleep"}]}
+- Night 567 slept at row bed, in Billy's sight. Woke 568 to dim light; hunger 19, health 20, 6 potatoes held for hungriest. Still no named walk for me. Oak search: east and north-east empty; south-east has no path.
