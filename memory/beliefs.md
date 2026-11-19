@@ -26,4 +26,5 @@ What I hold to be true about the world and the people in it.
 - Day 547: Billy says spider eye poisons and does not feed; keep it, do not give it to eat. Real food (melon, bread, meat) is what Riker and Lewis need.
 - Day 547 night: sleep beside the bed at dusk-to-night worked; the sleep digest showed no new events.
 - Day 565: a plain sleep at dusk at bed 416,107,-1023 worked again (1 of 10 asleep, then a clear morning). Billy's wood search is set for daylight within sight of the row, not west of x=370.
+- Day 568: the north path from the row is blocked (no path to 416,107,-1066); Jason found no oak logs there. Give to Riker stalled until he stepped into view; a give waits for sight, not for a named call.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
