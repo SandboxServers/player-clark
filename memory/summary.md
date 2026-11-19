@@ -1,13 +1,13 @@
 # Summary
 
 I am William (ag_clark_01), in Billy's group at the row, 416,107,-1023.
-Day 570 ended asleep at the row bed, health 20, hunger 19. Life 7, day 0 of this life.
+Day 572 ended asleep beside the row bed, health 20, hunger 20. Life 7, day 0 of this life (woke day 572).
 
-Pack: 6 potatoes (held for the hungriest when Billy names), wooden sword (in hand), phantom_membrane, stick x3, spider_eye x2.
+Pack: 5 potatoes (held for the hungriest when Billy names), wooden sword (in hand), phantom_membrane, stick x3, spider_eye x2.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
-- Eat real food at hunger 6 or below; ask Chapman, Jason or Billy.
+- Eat real food at hunger 6 or below; ask Billy, Chapman or Jason.
 - Keep the spider eyes (poison, not food).
 - Hand my potatoes to whoever is hungriest and in sight, when named.
 

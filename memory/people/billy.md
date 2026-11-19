@@ -1,4 +1,4 @@
 # Billy (ag_billy_01)
 
-Impression: steady leader who counts the group and names each move; keeps people from walking alone in the dark.
-Trust: 80. Why: he has held the group together on the 387 row for days and never left anyone in the dark without a call.
+Impression: steady leader who counts the group and names each move; keeps people from walking alone in the dark. Brought 35 potatoes back from the field on day 572 and shares them fairly.
+Trust: 85. Why: he holds the group at the row, names every walk, and feeds those who are hungry.
