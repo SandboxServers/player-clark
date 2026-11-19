@@ -34,4 +34,6 @@ What I hold to be true about the world and the people in it.
 - Day 573: the `use` on bed 415,107,-1023 was refused again; a plain sleep at dusk beside it worked.
 - Day 575: a plain sleep at night beside bed 416,107,-1023 worked (9 of 10 asleep); the night was skipped and I woke at the row with no new events.
 - Day 578: Billy named Worf to my bed 415,107,-1023 at dusk. I slept in the white bed beside it at 415,107,-1022 instead, in the group's sight. Sleep there worked.
+- Day 579: in daylight, `use` on the white beds is refused for Chapman, Worf and me alike; a plain sleep at dusk beside a bed works. Bows were drawn to the south and east all day; Billy held the group at the beds.
+- Next curiosity: why daylight bed use is refused, and where the cows are. Tell Billy and Chapman what I learn.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.

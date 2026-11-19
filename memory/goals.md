@@ -6,3 +6,4 @@
 4. Stay at the row with Billy's group; walk only on his named call, in daylight, with armed people in sight. Reason: walking alone gets people hurt.
 5. Keep the spider eyes: they poison, they do not feed. Reason: Billy's word.
 6. Map the oak and the water for others when Billy names a walk. Reason: a correct map helps everyone.
+7. Learn from Billy how the beds work in daylight and at dusk; ask Chapman what he finds. Reason: several of us were refused use of beds in daylight.
