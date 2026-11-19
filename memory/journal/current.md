@@ -8,3 +8,4 @@
 - 06:44 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
 - 06:44 act: {"actions":[{"do":"sleep"}]}
 - 06:45 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, in Billy's sight. Sleeping for the night, sword in hand, holding my 6 potatoes for the hungriest."}
+- 06:52 act: {"say":"William here at the row, dawn 555. Health 20, hunger 19, sword in hand. Holding my 6 potatoes for the hungriest. Leonardo, what is your hunger? Say it and I'll come to you.","intent":{"goal":"
