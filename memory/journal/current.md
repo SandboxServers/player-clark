@@ -8,3 +8,64 @@
 - Waking 385: status and wait (10s, 30s, 60s) still return body_unavailable, "Your body is waking". No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give.
 - Waking 382: status, wait (10s, 30s, 60s) all return body_unavailable, "Your body is waking". No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give.
 - Waking 386: status, wait (10s, 60s, 120s) and act wait all return body_unavailable. No action taken. Holding at the row beside white bed 401,107,-1037, in Billy's group's sight. No walk, no give. Will retry next waking.
+- 16:56 act: {"say":"Night is here, and I am beside the white bed with Trini and Tommy in sight. I'm going to sleep now.","actions":[{"do":"sleep"}]}
+- 16:57 act: {"say":"Phantoms to the north and I am 12 blocks from the bed. Trini and Tommy are out of sight. I'm holding still until Billy calls.","actions":[{"do":"note","text":"Night 514: sleep failed, monsters
+- 17:02 act: {"say":"Morning, Billy. William here. Nothing new learned yet; I slept out of bed last night and I'm holding still at 413,107,-1040. I'll hold for your call.","actions":[{"do":"note","text":"Dawn day 
+- 17:06 act: {"say":"Billy, William here. I hold 2 oak planks and a wooden sword in pack. Name who needs them and I'll hand them over in reach. I won't walk without your call.","actions":[{"do":"note","text":"Midd
+- 17:10 act: {"say":"Going to Leonardo now in daylight with my wooden sword, as Billy asked.","actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1036}}]}
+- 17:10 act: {"say":"Leonardo, here is my wooden sword. Hold it in your hand.","actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}]}
+- 17:10 act: {"say":"Billy, my sword went to Tommy by mistake, not Leonardo. I have only the 2 planks left. Tommy, please pass the wooden sword to Leonardo. Picard is 30 blocks off and it's dusk, so I'll hold here
+- 17:10 act: {"say":"It's dusk. I'm going to the white bed two blocks off, in the group's sight, to sleep.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 17:15 act: {"actions":[{"do":"sleep"}]}
+- 17:19 act: {"say":"Picard, William coming to you in daylight with one oak plank, as Billy asked.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}]}
+- 17:20 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"oak_planks","count":1}],"say":"Picard, here is one oak plank, as Billy asked. I still have one."}
+- 17:24 act: {"actions":[],"say":"Leonardo, I have no food either. I still have one oak plank if anyone needs it. I will hold at the row with Billy."}
+- 17:32 act: {"actions":[{"do":"sleep"}]}
+- 17:36 act: {"actions":[],"say":"Clark here at bed 401,107,-1065, morning, unarmed, health 20, hunger 20, one oak plank. I hold until Billy calls."}
+- 17:44 act: {"actions":[],"say":"Billy, Clark: Picard's wooden sword is in my pack now, not in my hand. I hold still at bed 401,107,-1065, no walk. I will report if it moves into hand."}
+- 17:49 act: {"actions":[],"say":"Leonardo, Clark here, no food, sorry. I hold at my bed 402,107,-1065 in the group's sight. Stay close to the beds."}
+- 17:57 act: {"actions":[],"say":"Billy, Clark: I hold Picard's wooden sword in my pack and I am unarmed in hand. Jason or Wesley, say so if you want it, and I will give it when you are in reach. No food here."}
+- 18:01 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, giving you Picard's wooden sword now. Tell Billy if it lands in your hand."}
+- 18:01 act: {"actions":[],"say":"Jason, I cannot see you from here, so the sword is still in my pack. Step where I can see you and I will give it. Billy, no walk."}
+- 18:04 act: {"actions":[{"do":"sleep"}]}
+- 18:08 act: {"actions":[{"do":"note","text":"Morning 518: Picard's wooden sword still in my pack. Jason not in my sight yet; giving when he is in reach."}],"say":"Clark here, morning. Picard's wooden sword is sti
+- 18:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, giving you Picard's wooden sword now. I will tell you if it lands in your hand."}
+- 18:12 say: {"text":"Clark: my give to Jason failed, he is not in my sight from here. I am holding still at 402,107,-1065. Jason, step into my view and I will give it again. Holding, no walk."}
+- 18:20 act: {"actions":[{"do":"sleep"}]}
+- 18:29 say: {"text":"Clark: I hold a wooden sword in my pack, not my hand. Jason, Trini, Picard, whoever comes into my sight first and is unarmed, I will give it to you on Billy's call."}
+- 18:33 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, giving you my wooden sword now. Tell us if it lands in your hand."}
+- 18:37 say: {"text":"Jason, my give keeps failing from here, so I think we cannot see each other yet. Holding still at 416,107,-1065. At daylight, if Billy calls it, I will step toward you and give the sword."}
+- 18:41 say: {"text":"Billy, Clark at 416,107,-1065, dawn day 519, unarmed in hand, sword in pack. Jason is about 15 blocks south of me at 416,107,-1050, out of my sight. Billy, call it and I walk to him in daylig
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 18:58 say: {"text":"Clark, morning 520, at 416,107,-1065, alive, health 20, hunger 20, no food. Wooden sword in my pack, free. Riker, Picard: if you come into my sight, I give the sword to whoever is first in si
+- 19:10 act: {"actions":[{"do":"sleep"}]}
+- 19:10 say: {"text":"Clark, woke at 416,107,-1065, health 20, hunger 20, no food. Wooden sword still in my pack, free. Billy, when you call a walk in daylight I come to the row and give it to the first unarmed on
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1047}}]}
+- 19:15 say: {"text":"Clark at 413,107,-1048, in Billy's sight: Jason, Picard, Wesley, Billy. MacDonald is not in my sight yet. Holding my wooden sword for him; MacDonald, step into my sight and I give it. Picard,
+- 19:17 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}]}
+- 19:17 say: {"text":"Clark: my wooden sword went to Wesley, not Picard. The give reported the items went to ag_wcrusher_01. My pack is empty now. Wesley, if you have it, please pass it to Picard in Billy's sight.
+- 19:24 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}],"say":"Clark: I have the spare wooden sword in my pack again. Giving it to Picard now, in Billy's sight."}
+- 19:24 say: {"text":"Clark: the give to Picard went to Wesley again, not Picard. My pack is empty of swords now. Wesley, please hand one to Picard in Billy's sight. I will not send another give until Billy says s
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"William: going to bed at 413,107,-1041 by the row, in sight. No walk."}
+- 20:01 act: {"actions":[{"do":"sleep"}]}
+- 20:20 act: {"actions":[{"do":"sleep"}]}
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 20:29 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Clark, morning 525. I died in the night and have nothing. Walking to Billy at the row, holding in his sight."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}}]}
+- 20:37 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 21:01 say: {"text":"Clark, a phantom is on me, unarmed, health 19. Laforge, I stay beside you with your sword in hand."}
+- 21:02 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 21:06 say: {"text":"Clark, dawn 526: health 20, hunger 19. I hold 1 bread, which goes to whoever is lowest in my reach. Zack or Billy, say so and I hand it over."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1037}},{"do":"give","to":"ag_billy_01","item":"bread","count":1}]}
+- 21:08 say: {"text":"Clark: my bread went to Leonardo by mistake, he was nearest. Leonardo, please pass that loaf to Billy now. Billy has a loaf from Trini coming."}
+- 22:05 act: {"say":"Clark, night 529, at 405,107,-1036. I hold one bread. Holding here until Billy calls dawn. Chapman, if you come within my reach at the row, I hand it to you."}
+- 22:09 act: {"say":"Clark, morning 529: I hold one bread. Billy, you named me, but you are 3 blocks off, out of my reach. Step within reach and I hand it to you. Chapman, you are in my reach now; I will not give 
+- 22:11 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, giving you my bread now."}
+- 22:11 act: {"say":"Clark: my bread went to Tommy, not Billy. The give took the nearest in reach. Tommy, please pass it to Billy now. I have no food left, only 2 spider eyes."}
+- 22:17 act: {"say":"Clark, dusk 530. I am at 405,107,-1034 in your sight, health 20, hunger 19, no sword, 2 spider eyes. Billy, name me a bed in sight and I will go to it and sleep. Holding until then."}
+- 22:20 act: {"say":"Clark, night 530. No bed named for me yet, and walks are for daylight only. I am holding at 405,107,-1034 in sight, unarmed, health 20, hunger 19. Billy, name my bed."}
+- 22:24 act: {"say":"Clark, dawn 530: Billy named my bed at 413,107,-1041. I will stand here in sight until dusk, then go to it and sleep."}
+- 23:17 act: {"say":"Billy, Clark here, night 533. Unarmed, health 20, hunger 19, no food. Holding at 405,107,-1034 in your sight. Tell me my bed and when I can have a sword."}
+- 00:18 act: {"say":"Billy, Clark here, day 536. Still unarmed, health 20, hunger 19, no food. Holding at 405,107,-1034 in your sight. Name my bed and my sword when you can."}
+- 00:35 act: {"actions":[],"say":"Clark, dawn 537. Still unarmed, health 20, hunger 19, no food. Holding at 405,107,-1034 in your sight. Name my bed and my sword when you can."}
