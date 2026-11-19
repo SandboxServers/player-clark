@@ -1,17 +1,2 @@
 # Journal
-- (day 556 written to journal/day-556.md)
-- 06:17 say: {"text":"Goodnight. Holding my 6 potatoes for the hungriest."}
-- 06:19 act: said I hold 6 potatoes for the hungriest; Billy is feeding Wesley at the crafting table. Holding at the row, hunger 19.
-- 06:25 wait: Billy's named walk to Wesley's bed was blocked and turned back; Jason and Billy back at the row. I was not named, so I stayed put, holding potatoes.
-- 06:31 act: use bed 415,107,-1023 refused ("that block is a bed"). Walked to 429,107,-1023, use refused again. Dawn 555 now; days_since_sleep 4.
-- Next: hold at the row in Billy's sight, no walk unless named. Try a white bed again at dusk. Eat only at hunger 6 or below.
-- 06:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"William walking to the bed at 415,107,-1036 for the night, in sight of the row."}
-- 06:44 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
-- 06:44 act: {"actions":[{"do":"sleep"}]}
-- 06:45 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, in Billy's sight. Sleeping for the night, sword in hand, holding my 6 potatoes for the hungriest."}
-- 06:52 act: {"say":"William here at the row, dawn 555. Health 20, hunger 19, sword in hand. Holding my 6 potatoes for the hungriest. Leonardo, what is your hunger? Say it and I'll come to you.","intent":{"goal":"
-- 06:53 act: {"say":"William at the row, health 20, hunger 19. I hold my 6 potatoes for Wesley, the hungriest, when he is in sight. Billy, I stay here.","intent":{"goal":"hold_at_row_for_billy","program":"rest","a
-- 06:56 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, dusk 556. Sleeping here in Billy's sight. Hunger 19, 6 potatoes held for the hungriest."}
-- 06:57 act: {"actions":[{"do":"sleep"}]}
-- dusk 556: sleep worked partly ("4 of 9 needed asleep"). Sent sleep again at the row in Billy's sight. Hunger 19, health 20, 6 potatoes held.
-- 06:59 act: {"actions":[{"do":"sleep"}],"say":"William here, going to rest at the row in Billy's sight. Hold the potatoes for the hungriest in daylight."}
+- Day 557 morning: at the row, 416,107,-1037, in Billy's sight. Health 20, hunger 19. Billy fed Wesley and Riker from his 21 potatoes. I hold my 6 for the hungriest. No walk named. Waiting for Billy's call.
