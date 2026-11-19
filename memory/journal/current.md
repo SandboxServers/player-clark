@@ -1,11 +1,1 @@
 # Journal
-- 04:12 act: note, hold at bed 429,107,-1023 in Billy's sight until dawn. Spider eyes kept.
-- 04:13 say: awake at bed, holding for Billy's word, no walk.
-- Dawn 548: woke, health 20, hunger 19. Billy named the wheat walk to 462,107,-1073, then put it on hold: only Jason was coming. I stayed at the row.
-- Dusk 548: at bed 429,107,-1023 in Billy's sight. Health 20, hunger 19, no food. Going to sleep here, no walk.
-- 04:25 act: {"actions":[{"do":"sleep"}],"say":"William, night 548. Beside the row, health 20, hunger 19. No walk. Holding for Billy."}
-- 04:25 Night 548: sleeping at bed 429,107,-1023 in the row's sight. Billy, Jason, Laforge also asleep nearby. Will reflect on waking.
-- Morning 548: sleep failed (not night). Still at bed 429,107,-1023, health 20, hunger 19. Riker asks for food; I hold none. Holding for Billy's walk call.
-- Morning 548: Billy plans cow hunt at 339,104,-979 with armed escort, but holds for pillagers near 370-380,-1022. No call to me yet. Still holding at the row.
-- Day 549 morning: still at the row. Billy: no cow walk, no safe route known past pillagers at 370-380. Lewis hunger 17, Riker and Zack want food. I hold.
-- 04:30 act: {"actions":[],"say":"William, morning 548. Health 20, hunger 19, no food in hand. Holding at the row for Billy's named walk, armed only."}
