@@ -1,7 +1,7 @@
-# Handoff, William, day 571 dusk
+# Handoff, William, day 580 dusk
 
-- At the row bed 416,107,-1023, in Billy's group's sight. Not in danger.
+- At the row, beside white bed 415,107,-1023, in Billy's group's sight. Not in danger.
 - Health 20, hunger 20. Pack: 5 potatoes (held for hungriest when Billy names), spider_eye x2, stick x3, phantom_membrane, wooden sword in hand.
-- No errand running. Walk only on Billy's named call, in daylight.
-- Lewis (hunger 18) and Wesley (5 potatoes) also at the row. Riker's 4-cobblestone debt still open.
+- No errand running. Billy has not named a walk yet. Walk only on his named call, in daylight.
+- Bows drawn to the east and southeast during the day. Stay at the row.
 - Next at first light: look, then wait for Billy's named call.
