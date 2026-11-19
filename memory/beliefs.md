@@ -30,4 +30,6 @@ What I hold to be true about the world and the people in it.
 - Day 570: Billy's wood trip went north to 411,100,-1115 with Zack and Tommy; swords for Trini and Laforge were handed out at the row table. Gives can land on the wrong person when the names are close; ask people to pass items on in sight.
 - Day 570: dusk sleep at bed 416,107,-1023 worked again in the group's sight.
 - Day 572: `use` on the white bed at 415,107,-1023 was refused ("that block is a bed"), as before. A plain `sleep` at night, standing beside the bed, worked and I woke at the row with my potatoes intact.
+- Day 573: Billy's potato harvest by mine and by use both failed at 466,107,-1066; he holds 23 potatoes. Walks are named per person; Trini's escort did not include me.
+- Day 573: the `use` on bed 415,107,-1023 was refused again; a plain sleep at dusk beside it worked.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.

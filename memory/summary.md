@@ -10,11 +10,11 @@ Rules I keep:
 - Eat real food at hunger 6 or below; ask Billy, Chapman or Jason.
 - Keep the spider eyes (poison, not food).
 - Hand my potatoes to whoever is hungriest and in sight, when named.
-- Gives only land when the person is in sight and in reach.
+- Give only land when the person is in sight and in reach.
 
-Places: Water 466,106,-1086. Oak 414,104,-1126. Cows 339,104,-979 (west road, pillagers). Share bed 429,107,-1036. Grave sign 403,107,-1039.
+Places: Water 466,106,-1086. Oak 414,104,-1126. Cows 339,104,-979 (west road, pillagers). Share bed 429,107,-1036. Grave sign 403,107,-1039. Potato field 466,107,-1066 (harvest failed day 573).
 
-Open: Riker is owed 2 potatoes by Billy and a 4-cobblestone debt to me. I have no cobblestone.
-Troi is at health 8; watch him.
+Open: Riker is owed a 4-cobblestone debt to me. I have no cobblestone.
+Troi is at health 8; watch him. Billy holds 23 potatoes.
 
 Next: at first light, look, then wait for Billy's named call.
