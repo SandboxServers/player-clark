@@ -18,3 +18,7 @@
 - 05:24 act: {"actions":[],"say":"Riker, Clark here. I hold 6 potatoes for you, Billy's gift. It is night, so I stay at the row; come into my sight and I hand them over."}
 - 05:32 act: {"actions":[],"say":"Billy, Clark. Riker has 10 from you now. Shall I still give my 6 potatoes to Riker, or hold them for Lewis or whoever is hungriest? Holding at the row until you say."}
 - 05:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, holding my 6 potatoes for whoever is hungriest, as Billy said. Sleeping in the bed at the row in Billy's si
+- 05:37 act: {"actions":[{"do":"note","text":"Night 552 at the row beside bed 429,107,-1022. Holding 6 potatoes for Lewis or whoever is hungriest, per Billy. Sleeping in Billy's sight."},{"do":"sleep"}],"say":"Cla
+- 05:37 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"reasoning":"Sleep did not register. Use the bed directly, then sleep again, staying in group sight."}
+- 05:37 act: {"actions":[{"do":"note","text":"Night 552: sleep failed twice (bed use refused). Holding beside the row in Billy's sight, not moving, until dawn or a named call."}],"intent":{"goal":"hold_at_row","pr
+- 05:41 act: {"actions":[],"say":"Billy, Clark at the row, dawn 552. Health 20, hunger 19, holding my 6 potatoes for whoever is hungriest. Nobody has asked me yet. No walk; I hold here in your sight.","intent":{"g
