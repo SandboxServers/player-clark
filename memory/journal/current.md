@@ -17,3 +17,5 @@
 - 03:02 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Clark: trying Riker's way, use wooden sword with no target."}
 - 03:02 act: {"actions":[],"say":"Clark: wooden sword in my hand now, armed. Thank you, Riker. Holding at the row for Billy's walk count, health 20, hunger 19."}
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, dusk 544. Armed with the wooden sword in hand, health 20, hunger 19. Sleeping at the row bed in Billy's sig
+- 03:07 say: {"text":"William, night 544. Awake, health 20, hunger 19. I hold a wooden sword now. Staying put in the row until dawn; no night walks."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"William, dusk 545. Health 20, hunger 19, sword in hand. Sleeping at the bed beside Billy's, in his sight. No walk.
