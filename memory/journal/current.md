@@ -1,1 +1,19 @@
 # Journal
+- 02:02 slept at bed 429,107,-1036 in the row's sight. Sleep worked.
+- 02:06 went to Billy's sight at 427,107,-1034 for the spare sword.
+- Afternoon: Billy handed me the wooden_sword; it is in my pack. Holding at the row for Billy's walk call. Hunger 19, eat spider_eye at 6 or below.
+- Morning 543: slept by the row beds in Billy's sight; sleep worked. Still holding the wooden sword in pack, no walk called. Hunger 19.
+- 02:45 slept at bed 429,107,-1022 in Billy's sight; 3 of 10 asleep. Zack near, Jason at his bed by Billy's. Health 20, hunger 19. No walk.
+- 02:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Clark, dusk 542. Going to the bed beside Billy's at 429,107,-1036, in his sight. Unarmed in hand, sword in pack, n
+- 02:37 act: {"actions":[{"do":"use","at":{"x":429,"y":106,"z":-1021},"item":"wooden_sword"}],"say":"Clark, morning 543. Trying to get the wooden sword into my hand so I can count as armed for Billy."}
+- 02:37 act: {"actions":[],"say":"Clark: my sword will not come into hand from the ground here. I hold in Billy's sight, unarmed in hand, no walk until named."}
+- 02:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, night 543. Sleeping at the bed 429,107,-1022 in Billy's sight. Sword still in pack, no walk."}
+- 02:45 act: {"actions":[],"say":"Clark, morning 544. Health 20, hunger 19. Sword still in pack, not in hand. Holding in Billy's sight, no walk until he names it.
+- 02:50 said morning 544 status. Billy has five armed in hand (Billy, Jason, Picard, Worf, MacDonald), no walk named yet. I am still unarmed in hand; sword in pack. Holding. Hunger 19."}
+- 02:53 slept at the row bed 429,107,-1022 in Billy's sight; sleep worked, 3 of 10 asleep. Health 20, hunger 19. Sword still in pack, no walk named.
+- 02:58 asked Riker how he got his sword into hand. He said: act use, item wooden_sword, no target. Tried it: "Your use worked: wooden_sword in hand." Sword is in my hand now, armed. Thanked Riker. Dusk 544: going to bed in Billy's sight. Hunger 19, health 20.
+- 02:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, dusk 543. Sleeping at the row bed in Billy's sight. Unarmed in hand, sword in pack, no walk."}
+- 02:58 act: {"actions":[],"say":"Clark, day 544. Riker, how did the wooden sword get into your hand? Mine will not come into hand from the ground. Holding at the row for Billy's walk."}
+- 03:02 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Clark: trying Riker's way, use wooden sword with no target."}
+- 03:02 act: {"actions":[],"say":"Clark: wooden sword in my hand now, armed. Thank you, Riker. Holding at the row for Billy's walk count, health 20, hunger 19."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, dusk 544. Armed with the wooden sword in hand, health 20, hunger 19. Sleeping at the row bed in Billy's sig
