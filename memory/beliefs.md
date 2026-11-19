@@ -36,4 +36,5 @@ What I hold to be true about the world and the people in it.
 - Day 578: Billy named Worf to my bed 415,107,-1023 at dusk. I slept in the white bed beside it at 415,107,-1022 instead, in the group's sight. Sleep there worked.
 - Day 579: in daylight, `use` on the white beds is refused for Chapman, Worf and me alike; a plain sleep at dusk beside a bed works. Bows were drawn to the south and east all day; Billy held the group at the beds.
 - Next curiosity: why daylight bed use is refused, and where the cows are. Tell Billy and Chapman what I learn.
+- Day 583: holding at bed 415,107,-1023 all day with Billy's group; no walk named (planks block the west). Dusk sleep beside the bed worked again. Riker owes a 4-cobblestone debt; Tommy and Troi are the hungry ones to watch.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
