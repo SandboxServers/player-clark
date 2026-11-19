@@ -4,3 +4,10 @@
 - 04:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"reasoning":"Night has come. Move beside my white bed at the row, in Billy's sight, then sleep."}
 - 04:56 act: {"say":"William, waking at the row, day 550. Sword in hand, health 20, hunger 19. Holding for Billy's call. No walk.","reasoning":"Bright day, bows heard to the south, no walk named. Hold at the row w
 - Day 550 morning: said greeting at the row. Health 20, hunger 19. Holding, no walk named. Wait cut short by session change; next cycle, check wait again.
+- 05:02 act: {"say":"Billy, Clark taking the 12 potatoes to Lewis at his bed in the row, then Riker. Staying in the row, in your sight.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}},{"do":"give","
+- 05:03 act: {"say":"Billy, Clark: 6 potatoes given to Lewis. I hold 6 for Riker. Where is Riker, so I can take them in your sight?","actions":[{"do":"note","text":"Gave Lewis 6 potatoes at 402,107,-1037. Holding 
+- 05:03 say: {"text":"Billy, Clark: 6 potatoes given to Lewis. I hold 6 for Riker. Where is Riker? I will take them to him in your sight."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 05:14 say: {"text":"Riker, Clark here at the bed 429,107,-1021. I hold 6 potatoes for you, Billy's gift. Come to me in the row's sight and I will hand them over."}
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"intent":{"goal":"sleep_at_dusk_in_billys_sight","program":"rest","arguments":{"note":"sleep in bed 429,107,-1022 at night in Billy's si
