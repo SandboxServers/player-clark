@@ -11,3 +11,10 @@
 - 05:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
 - 05:14 say: {"text":"Riker, Clark here at the bed 429,107,-1021. I hold 6 potatoes for you, Billy's gift. Come to me in the row's sight and I will hand them over."}
 - 05:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"intent":{"goal":"sleep_at_dusk_in_billys_sight","program":"rest","arguments":{"note":"sleep in bed 429,107,-1022 at night in Billy's si
+- 05:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"William at the row, night 551. Sleeping in the white bed beside Billy. Holding for Billy's word at dawn."}
+- Night 551: woke at the row, health 20, hunger 19, 6 potatoes still held for Riker. Heard bows to the south all night. Going to sleep in bed 429,107,-1022 in Billy's sight. No walk.
+- Dawn 551: Billy gave Riker 10 potatoes. Asked Billy whether my 6 still go to Riker or to whoever is hungriest. Holding at the row, health 20, hunger 19.
+- Night 552: Billy said hold my 6 for whoever is hungriest (Riker has his 10, Lewis got 4 from Billy). Slept in bed 429,107,-1022 in Billy's sight, health 20, hunger 19. No walk. Reflect: hold, eat only when named or at hunger 6.
+- 05:24 act: {"actions":[],"say":"Riker, Clark here. I hold 6 potatoes for you, Billy's gift. It is night, so I stay at the row; come into my sight and I hand them over."}
+- 05:32 act: {"actions":[],"say":"Billy, Clark. Riker has 10 from you now. Shall I still give my 6 potatoes to Riker, or hold them for Lewis or whoever is hungriest? Holding at the row until you say."}
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, holding my 6 potatoes for whoever is hungriest, as Billy said. Sleeping in the bed at the row in Billy's si
