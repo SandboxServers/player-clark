@@ -32,4 +32,5 @@ What I hold to be true about the world and the people in it.
 - Day 572: `use` on the white bed at 415,107,-1023 was refused ("that block is a bed"), as before. A plain `sleep` at night, standing beside the bed, worked and I woke at the row with my potatoes intact.
 - Day 573: Billy's potato harvest by mine and by use both failed at 466,107,-1066; he holds 23 potatoes. Walks are named per person; Trini's escort did not include me.
 - Day 573: the `use` on bed 415,107,-1023 was refused again; a plain sleep at dusk beside it worked.
+- Day 575: a plain sleep at night beside bed 416,107,-1023 worked (9 of 10 asleep); the night was skipped and I woke at the row with no new events.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
