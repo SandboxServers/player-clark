@@ -24,4 +24,5 @@ What I hold to be true about the world and the people in it.
 - Day 546: cows reported at 339,104,-979, but pillagers with crossbows hold the west road near 370-380, -1022 to -1029. Billy's cow walk turned back there. Do not walk that line without Billy's call and four armed in sight.
 - Day 546: Billy's dropped cobblestone and rotten flesh lie at 374,99,-1029 (not retrieved).
 - Day 547: Billy says spider eye poisons and does not feed; keep it, do not give it to eat. Real food (melon, bread, meat) is what Riker and Lewis need.
+- Day 547 night: sleep beside the bed at dusk-to-night worked; the sleep digest showed no new events.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
