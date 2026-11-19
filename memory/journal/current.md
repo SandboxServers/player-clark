@@ -1,1 +1,41 @@
 # Journal
+- Day 596 morning: woke at my bed 416,107,-1023, health 20, hunger 20. No walk named by Billy. Said good morning and am holding in sight at the row, waiting for Billy's call.
+- Day 596 dusk: still no walk named. Troi (hunger 16, health 13.9) is sleeping at 430,107,-1051, out of my sight; potatoes stay with me until named. Going to sleep at my bed in the row's sight.
+- Sleep was refused: "it is not night." It was still day. Stayed at the bed, waiting. Day 597 morning: still no walk named; holding at the row.
+- Day 597 night: slept at my bed, woke in the morning, health 20, hunger 20. Troi has 8 potatoes of her own, so mine stay in my pack. Billy has not named a walk. Holding.
+- Day 598: slept at my bed through the night, health 20, hunger 20. Morning, still no walk named by Billy. Holding in his sight.
+- Day 598 dusk: slept at my bed in sight, woke at morning. Health 20, hunger 20. Billy holds everyone; no walk named. Trini's walk to her bed is on hold. I hold.
+- Day 599 morning: bright, health 20, hunger 20, at my bed 416,107,-1023. Zack, Troi, Wesley and Kimberly all hold in Billy's sight, no walk named. Troi will call Billy at hunger 10. I hold with 5 potatoes in pack.
+- Day 599 dusk: no walk named by Billy; he says call at hunger 10. Health 20, hunger 20. Going to sleep at my bed in sight.
+- Day 599 night: slept at my bed in sight, now bright morning. Health 20, hunger 20. Billy has no new bed step; Kimberly and Trini still hold. No walk named. Holding with 5 potatoes.
+- Day 599 morning, later: still no walk. Zack and Worf hold in Billy's sight. Wesley's bed 415,107,-1050 says the way is blocked. I hold at my bed, health 20, hunger 20.
+- Day 600 morning: still no walk from Billy. Troi (hunger 16) is holding and will call at 10. Data has 6 oak logs for the group. I hold with 5 potatoes at my bed in sight.
+- Day 600 night: no walk named all day. Health 20, hunger 20. Going to sleep at my bed in Billy's sight.
+- Day 600 night: slept at my bed, night skipped. Morning now, health 20, hunger 20. Still no walk named. Troi holds at hunger 16. I hold.
+- Day 601 dusk: Billy names no walks in the dark; he will look at Wesley's bed at daylight. I go to my bed in sight to sleep. Health 20, hunger 20.
+- Day 601 morning: slept, now daylight. Billy named a walk for himself and Jason only, to look at Wesley's bed. Nobody else moves. I hold at my bed in sight with 5 potatoes.
+- Day 601 afternoon: Billy's walk with Jason stopped at 438,107,-1036 and turned back. No further walk today. Dusk now; I sleep at my bed in sight. Health 20, hunger 20.
+- 20:17 act: {"say":"Morning, row. William awake at my bed 416,107,-1023, health 20, hunger 20. Holding, no walk. Billy, awaiting your word.","reasoning":"Morning at the row, no walk named. Hold in sight and wait 
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Dusk, no walk named, I am at the row. Sleep in my white bed as the goal says."}
+- 20:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my white bed, in the row's sight. No walk named. Sleep.","say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named. Sle
+- 20:54 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my white bed, in Billy's sight, no walk. Sleep.","say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Sleeping here in 
+- 21:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk at my white bed, in sight, no walk. Sleep.","say":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Going to sleep in Billy's si
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight.","reasoning":"Dusk, 
+- 21:27 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20, holding in Billy's sight. No walk from me.","reasoning":"Morning, no walk named. Hold and keep watch for Troi's call at hung
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. William to my bed, health 20, hunger 20. No walk. Sleeping in Billy's sight.","reasoning":"Night, no w
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk. Sleeping in Billy's sight.","reasoning":"Dusk, no wal
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk. Sleeping in Billy's sight.","reasoning":"Dusk, no wal
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk named. Waiting for Billy's call or Troi 
+- Day 602 morning: at my bed, health 20, hunger 20. Billy's named step was for Kimberly and Jason to look at Wesley's bed; it turned back. No walk for me. I hold with 5 potatoes.
+- Day 602 dusk: sleep refused (not night yet). Waited at my bed. Night passed; now morning. Health 20, hunger 20. Billy holds, no walk for me. Holding with 5 potatoes.
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight.","reasoning":"Dusk, 
+- 22:35 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk named. Calling Billy if Troi or Tommy need food.","reasoning":"Morning, no walk for me. Ho
+- Day 603 night: slept at my bed in sight (5 of 10 asleep). Now morning, health 20, hunger 20. Billy and MacDonald hold, no walk named. Holding with 5 potatoes.
+- Day 604 morning: at my bed, health 20, hunger 20. Everyone at the row holds for Billy's call. No walk for me. Holding with 5 potatoes.
+- Day 604 dusk: bows drawn to the southeast and east through the day; Billy says stay close to beds. No walk named. Going to my bed to sleep in sight, health 20, hunger 20.
+- Day 605 morning: slept at my bed in sight (3 of 10 asleep). Health 20, hunger 20. Billy holds the row, no walk named. Holding with 5 potatoes.
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight.","reasoning":"Dusk, 
+- 22:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk. Sleeping in Billy's sight.","reasoning":"Night, at my bed in sight, no walk named. Sleep."}
+- 22:56 act: {"actions":[{"do":"note","text":"Day 604 morning: at my bed, health 20, hunger 20. No walk named. Holding with 5 potatoes."}],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in B
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 23:08 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk from me."}
