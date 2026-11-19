@@ -5,3 +5,8 @@
 - Night 587: walked to my bed. "use" on the bed was refused ("that block is a bed"), but plain sleep worked: 8 of 10 asleep. No walk, no hunger, health 20. Held 5 potatoes all day.
 - 17:24 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 17:24 act: {"actions":[{"do":"sleep"}]}
+- 17:26 act: {"say":"Morning. William here at my bed, health 20, hunger 20. Holding for Billy's named call. Troi, say when your hunger drops and I will bring a potato."}
+- Day 587 waking: said good morning, offered Troi a potato when her hunger drops. Holding in the row, no walk. Waiting for Billy's call.
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. William going to my bed 415,107,-1023 in Billy's sight. No walk."}
+- Day 588: sleep refused in daylight (not night). Waited at bed through the day. At dusk sleep worked (6 of 10 asleep). Health 20, hunger 20, held 5 potatoes, no walk. Lesson: beds only take sleep at dusk.
+- 17:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed 415,107,-1023 in Billy's sight. No walk."}
