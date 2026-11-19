@@ -19,3 +19,6 @@
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Clark, dusk 544. Armed with the wooden sword in hand, health 20, hunger 19. Sleeping at the row bed in Billy's sig
 - 03:07 say: {"text":"William, night 544. Awake, health 20, hunger 19. I hold a wooden sword now. Staying put in the row until dawn; no night walks."}
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"William, dusk 545. Health 20, hunger 19, sword in hand. Sleeping at the bed beside Billy's, in his sight. No walk.
+- 03:21 say: {"text":"William, awake at my bed, health 20, hunger 19. Holding for Billy's call. Cows or sheep: none seen by me yet."}
+- Day 545: awake at bed 429,107,-1023, wooden sword in hand, health 20, hunger 19. No walk named by Billy. Waited; Meriwether at health 7 reported. Holding.
+- 03:29 say: {"text":"Billy, William here, at my bed beside yours, wooden sword in hand. Armed, in your sight. No walk from me until you name it."}
