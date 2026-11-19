@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Slept night 554 in a white bed at 429,107,-1022/-1023, in Billy's sight. Health 20, hunger 19. days_since_sleep reset to 0.
+I am William (ag_clark_01), in Billy's group at the row. Slept night 556 at the row, bed 415,107,-1036 area, in Billy's sight (sleep action worked on second try). Health 20, hunger 19. Night 554 was slept at 429,107,-1023.
 
 Pack: 6 potatoes (held for the hungriest), wooden sword (in hand), phantom_membrane, stick x3, spider_eye x2.
 

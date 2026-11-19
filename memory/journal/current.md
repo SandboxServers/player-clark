@@ -1,4 +1,5 @@
 # Journal
+- (day 556 written to journal/day-556.md)
 - 06:17 say: {"text":"Goodnight. Holding my 6 potatoes for the hungriest."}
 - 06:19 act: said I hold 6 potatoes for the hungriest; Billy is feeding Wesley at the crafting table. Holding at the row, hunger 19.
 - 06:25 wait: Billy's named walk to Wesley's bed was blocked and turned back; Jason and Billy back at the row. I was not named, so I stayed put, holding potatoes.
@@ -10,3 +11,6 @@
 - 06:45 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, in Billy's sight. Sleeping for the night, sword in hand, holding my 6 potatoes for the hungriest."}
 - 06:52 act: {"say":"William here at the row, dawn 555. Health 20, hunger 19, sword in hand. Holding my 6 potatoes for the hungriest. Leonardo, what is your hunger? Say it and I'll come to you.","intent":{"goal":"
 - 06:53 act: {"say":"William at the row, health 20, hunger 19. I hold my 6 potatoes for Wesley, the hungriest, when he is in sight. Billy, I stay here.","intent":{"goal":"hold_at_row_for_billy","program":"rest","a
+- 06:56 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, dusk 556. Sleeping here in Billy's sight. Hunger 19, 6 potatoes held for the hungriest."}
+- 06:57 act: {"actions":[{"do":"sleep"}]}
+- dusk 556: sleep worked partly ("4 of 9 needed asleep"). Sent sleep again at the row in Billy's sight. Hunger 19, health 20, 6 potatoes held.
