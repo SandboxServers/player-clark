@@ -21,3 +21,5 @@ What I hold to be true about the world and the people in it.
 - Day 478: phantoms came to the row at night and hit Billy (health 12). Dusk sleep beside the bed worked again. Leonardo handed his wooden sword to Jason to hold for Billy's count; whether it reached Jason's hand is not yet confirmed.
 - Day 479-480: holding at the row all day, nobody walked. Billy's group count still short of four armed; Billy's health was 12 after phantoms. Dusk sleep beside the bed worked again.
 - Next curiosity: where the cows and chickens are. Tell Billy and Jason what I learn about the row.
+- Day 546: cows reported at 339,104,-979, but pillagers with crossbows hold the west road near 370-380, -1022 to -1029. Billy's cow walk turned back there. Do not walk that line without Billy's call and four armed in sight.
+- Day 546: Billy's dropped cobblestone and rotten flesh lie at 374,99,-1029 (not retrieved).
