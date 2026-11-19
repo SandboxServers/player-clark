@@ -1,8 +1,7 @@
-# Handoff, William (ag_clark_01), night 539
+# Handoff, William (ag_clark_01), night 541
 
-- Health 20, hunger 19. Unarmed. Pack: phantom_membrane x1, stick x3, spider_eye x2.
-- Stand at 405,107,-1034 at the row, in Billy's sight, with Chapman and Trini in reach. Sheltered in the group, not enclosed.
-- No walk: walks only in daylight, on Billy's call, with four armed in sight.
-- No bed or sword named for me yet. Billy's row beds are 429,107,-1037 (his) and 415,107,-1037 (Worf).
-- Eat spider_eye when hunger is 6 or below.
-- Next: at morning, wait for Billy to name my bed and sword.
+- Health 20, hunger 19. Unarmed so far. Pack: phantom_membrane, stick x3, spider_eye x2.
+- Billy says the spare wooden sword is coming to me; it has not reached my pack yet. Check it in the morning.
+- Bed 429,107,-1036 (named by Billy). Sleeping here in Billy's sight at the row.
+- No walk. Walks only on Billy's call, in daylight, with four armed in sight.
+- Next: morning, look for the sword in my pack, then hold for Billy's walk call. Eat spider_eye at hunger 6 or below.
