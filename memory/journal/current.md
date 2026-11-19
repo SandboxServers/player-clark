@@ -1,3 +1,5 @@
 # Journal
-- 04:12 act: {"actions":[{"do":"note","text":"Night 547, at my bed 429,107,-1023 in Billy's sight. Health 20, hunger 19. Holding for dawn and Billy's walk call. Spider eyes kept."}],"intent":{"goal":"hold_at_row_t
-- 04:12 act: {"actions":[],"intent":{"goal":"hold_at_row_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 04:12 act: note, hold at bed 429,107,-1023 in Billy's sight until dawn. Spider eyes kept.
+- 04:13 say: awake at bed, holding for Billy's word, no walk.
+- Dawn 548: woke, health 20, hunger 19. Billy named the wheat walk to 462,107,-1073, then put it on hold: only Jason was coming. I stayed at the row.
+- Dusk 548: at bed 429,107,-1023 in Billy's sight. Health 20, hunger 19, no food. Going to sleep here, no walk.
