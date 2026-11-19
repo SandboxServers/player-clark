@@ -14,3 +14,4 @@
 - 06:56 act: {"actions":[{"do":"sleep"}],"say":"William at the row, 416,107,-1036, dusk 556. Sleeping here in Billy's sight. Hunger 19, 6 potatoes held for the hungriest."}
 - 06:57 act: {"actions":[{"do":"sleep"}]}
 - dusk 556: sleep worked partly ("4 of 9 needed asleep"). Sent sleep again at the row in Billy's sight. Hunger 19, health 20, 6 potatoes held.
+- 06:59 act: {"actions":[{"do":"sleep"}],"say":"William here, going to rest at the row in Billy's sight. Hold the potatoes for the hungriest in daylight."}
