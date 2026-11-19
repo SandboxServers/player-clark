@@ -13,6 +13,6 @@ Rules I keep:
 
 Places: Row beds around 415-443,107,-1022 to -1051. My bed 415,107,-1023. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Nobody walks west of x=370.
 
-Open: No verified west route; Billy holds everyone at the row. Troi (16, 13.9) and Worf (16) are the ones to watch. Bows heard to the southeast.
+Open: No verified west route; Billy holds everyone at the row. Troi and Worf are the ones to watch.
 
 Next: at first light, look, then wait for Billy's named call.
