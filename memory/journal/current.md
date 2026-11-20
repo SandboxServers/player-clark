@@ -1,16 +1,1 @@
 # Journal
-- 11:54 say: good morning, sword held for Wesley, no walk, waiting on Billy.
-- Day 643: held at my bed in the row. Wesley still not in daylight sight. Heard bows to the southeast and east. Deanna (Troi) hunger 16, Data hunger 17, MacDonald health 7: none at hunger 10 yet. Holding.
-- 12:00 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding my potatoes for the hungry.","actions":[{"do":"sleep"}]}
-- 12:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. Holding 5 potatoes for the hungry. No walk named."}
-- Day 643 night: slept at my bed 416,107,-1023 in the row's sight. Sleep worked; health 20, hunger 20, holding 5 potatoes and the sword for Wesley. No walk named. Still unseen: Wesley, sheep.
-- 12:02 say: {"text":"Good morning, row. William here, health 20, hunger 20. Still holding Wesley's sword for when he comes into sight."}
-- 12:16 act: {"say":"Good morning, row. William here, health 20, hunger 20. Wesley, the wooden sword is yours when you are in sight.","reasoning":"Morning, nobody in sight. Greet, keep sword for Wesley, wait for B
-- Day 644 morning: said good morning. Health 20, hunger 20. Tommy said good night, no walk named. Nobody in sight. Waiting for Wesley and Billy's call.
-- 12:20 act: {"say":"Wesley, I hold your wooden sword. Come to me at my bed when you can see me and I will hand it over.","reasoning":"Wesley is speaking but not in my sight list. Tell him where I am, wait for him
-- Night 644: slept at bed 416,107,-1023 (9 of 10 asleep); woke bright, health 20, hunger 20. Worf asked for a potato; told him I hold for hunger 10 or Billy's call.
-- Worf (hunger 19) and Jason asked for food; nobody at hunger 10 yet. Holding 5 potatoes for MacDonald first. Still no walk named; sheep unseen.
-- 12:28 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding 5 potatoes for the hungry. No walk named.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at my bed, healthy, no errand. Sleep.
-- 12:29 act: {"say":"Worf, I hold my five potatoes for whoever reaches hunger 10 first, starting with MacDonald, unless Billy names the call. Ask Billy, and I will give.","reasoning":"Worf at 19 is not hungriest y
-- 12:31 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding. I have 5 potatoes for whoever reaches hunger 10 first, MacDonald first.","intent":{"goal":"hold_at_row","program":"rest","argume
-- 12:41 say: {"text":"Clark at my bed, health 20, hunger 20. Holding the five potatoes for MacDonald and the others. Sleeping in Billy's sight."}
