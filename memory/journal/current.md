@@ -9,3 +9,5 @@
 - 19:39 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named today; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at my bed, nothing half-done
 - 19:43 say: {"text":"Morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding for Billy's named call; I have the spare sword for Wesley."}
 - 19:51 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at bed, safe. Sleep."}
+- Night 667: woke at bed 416,107,-1023, health 20, hunger 20, sleep worked. Holding at bed till morning; no walk named; sword and potatoes unchanged.
+- 19:54 act: {"say":"Good night, row. I am at my bed, health 20, hunger 20.","intent":{"goal":"hold_at_bed_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precond
