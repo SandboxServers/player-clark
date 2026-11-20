@@ -13,4 +13,4 @@ Places: Row beds around 415-443,107,-1022 to -1051. My bed 416,107,-1023. Water 
 
 Open: No verified west route. Nobody has seen sheep.
 
-Next: at first light, say good morning, hold potatoes for the hungriest, and join a named walk only when Billy can see me. Watch Data (hunger 13-17, health 13) and Troi (health 14).
+Next: at first light, say good morning, hold potatoes for the hungriest, and join a named walk only when Billy can see me. Watch Data (hunger ~17, health 13) and Worf (hunger 18).
