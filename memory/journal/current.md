@@ -1,4 +1,5 @@
 # Journal
+- Day 614 daylight, thunder: at my bed 416,107,-1023 in Billy's sight, health 20, hunger 20. No walk named. Holding with 5 potatoes; resting on Billy's call.
 - Day 596 morning: woke at my bed 416,107,-1023, health 20, hunger 20. No walk named by Billy. Said good morning and am holding in sight at the row, waiting for Billy's call.
 - Day 596 dusk: still no walk named. Troi (hunger 16, health 13.9) is sleeping at 430,107,-1051, out of my sight; potatoes stay with me until named. Going to sleep at my bed in the row's sight.
 - Sleep was refused: "it is not night." It was still day. Stayed at the bed, waiting. Day 597 morning: still no walk named; holding at the row.
@@ -50,3 +51,4 @@
 - 01:37 say: {"text":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk from me."}
 - 01:45 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - 01:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 02:14 act: {"say":"William here at my bed, in Billy's sight. Health 20, hunger 20. Holding for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed",
