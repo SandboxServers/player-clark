@@ -53,3 +53,9 @@
 - 01:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - 02:14 act: {"say":"William here at my bed, in Billy's sight. Health 20, hunger 20. Holding for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed",
 - 02:15 say: {"text":"William here at my bed, health 20, hunger 20. Holding for Billy's named call. No walk."}
+- 02:28 act: {"say":"Good morning. Holding at the row, waiting for Billy's call."}
+- Day 614 morning (woke after sleep): at my bed, health 20, hunger 20, bows heard SE and E. Said good morning. No walk named; holding with 5 potatoes.
+- Day 615 day: everyone at the row holds for Billy's call; Trini stays armed at 444,107,-1023. Riker 16, Deanna 16, Data 17 hunger. No one at 10 yet. I hold at my bed, health 20, hunger 20.
+- 02:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- Day 615 night: slept at my bed in sight, night skipped. Morning now, health 20, hunger 20. No walk named; holding with 5 potatoes.
+- 02:40 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight for a named call."}
