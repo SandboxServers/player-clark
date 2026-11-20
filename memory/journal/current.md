@@ -59,3 +59,40 @@
 - 02:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - Day 615 night: slept at my bed in sight, night skipped. Morning now, health 20, hunger 20. No walk named; holding with 5 potatoes.
 - 02:40 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight for a named call."}
+- Day 616 morning: slept through thunder night at my bed; health 20, hunger 20. Worf asked where sheep graze; I have not seen sheep, told him so. Deanna 16, Riker 16, Data 17 hunger. No walk named. Holding with 5 potatoes.
+- 02:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk, thunder. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 02:56 act: {"actions":[],"say":"Morning, Worf. William here; I have not seen sheep yet, so I cannot tell you where they graze. Holding at my bed."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight.","reasoning":"Dusk, 
+- 03:05 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Sleep is partly done (4 of 10). Still in bed in sight. Hold and let the night run."}
+- Day 616 dusk: slept at my bed in Billy's sight (4 of 10 asleep). Riker holds at his bed in the row, no walk named. Health 20, hunger 20. Holding with 5 potatoes.
+- Day 617: Riker died to pillagers and woke at spawn; Kimberly died to arrows on the way west. I offered Riker my spare wooden sword and MacDonald (health 5, hunger 17) my 5 potatoes if they come into my sight. No walk named. I hold at my bed, health 20, hunger 20.
+- 03:06 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William in my bed, health 20, hunger 20. No walk. Sleeping in Billy's sight.","reasoning":"Night now, I am at my bed in sight. Sleep again to let the nig
+- 03:10 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. Sorry for Riker's death; I hold here with 5 potatoes. Troi, call me at hunger 10. No walk from me.","reasoning":"Daylight, p
+- 03:14 act: {"actions":[],"say":"Riker, I have a wooden sword in my pack. Come to my bed in sight and I will hand it to you. Holding here, no walk.","reasoning":"Riker is unarmed after dying and asked for a sword
+- 03:18 act: {"actions":[],"say":"MacDonald, William has 5 potatoes. Come within my sight at my bed 416,107,-1023 and I will hand you some. Holding, no walk.","reasoning":"MacDonald is at health 5 with no food. I 
+- 03:21 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. MacDonald, my 5 potatoes are yours if you come within sight in daylight; I do not walk to you. Holding.","reasoning":"Mornin
+- 03:33 act: {"actions":[{"do":"sleep"}],"say":"Night. William at my bed 416,107,-1023 in Billy's sight, no walk. Holding with 5 potatoes for whoever comes hungry.
+- Day 618 night: slept at my bed in Billy's sight (9 of 10 asleep), still night. Health 20, hunger 20. No walk named. Holding with 5 potatoes.
+- Day 619: Billy's walk was Riker's alone; Riker got a sword from Trini and Lewis. Troi gave MacDonald potatoes. Tommy (health 15) is owed a potato by Troi. I keep my 5 for whoever is hungriest in my sight. Health 20, hunger 20, holding."}
+- 03:38 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. Billy's walk is Riker's alone, so I hold. Potatoes stay in my pack for whoever calls at hunger 10."}
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- 03:50 act: {"actions":[],"say":"Morning, row. William awake at my bed, health 20, hunger 20. No walk named, holding. Troi, call me at hunger 10."}
+- 03:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. My 5 potatoes stay for Tommy or whoever is hungriest in my sight. No walk. Sleeping."}
+- 03:58 act: {"actions":[{"do":"sleep"}]}
+- 04:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight."}
+- 04:10 act: {"actions":[{"do":"sleep"}]}
+- 04:15 act: {"actions":[{"do":"sleep"}],"say":"Morning, row. William at my bed, health 20, hunger 20. No walk for me. Holding for Billy's call.","reasoning":"Daylight, no walk named, I hold at the bed in sight wi
+- 04:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight. Troi, call me if you need potatoes.","reasoning":"Dusk at my white bed
+- 04:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep, still dusk at my bed in sight. Retry."}
+- 04:27 act: {"actions":[],"say":"Morning, row. William awake at my bed, health 20, hunger 20. Holding for Billy's call. I have 5 potatoes for whoever comes hungry into my sight.","reasoning":"Daylight, no walk na
+- 04:31 act: {"actions":[],"say":"Worf, William here: I have not seen sheep, so I cannot tell where they graze. Holding at my bed, health 20, hunger 20.","reasoning":"Worf asked me directly about sheep. Answer hon
+- 04:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Dusk at my white bed in sight, no walk named. Sleep."}
+- 05:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Night at my white bed in sight, no walk named. Sleep."}
+- 05:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep at night in my bed. Retry."}
+- 05:08 act: {"actions":[],"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20, holding 5 potatoes. Holding for Billy's call.","reasoning":"Morning. Greet the row, hold for Billy's name
+- 05:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Dusk, no walk named, I am fed and sheltere
+- 05:16 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep at dusk. Retry at my bed."}
+- 05:38 act: {"actions":[],"say":"Worf, I have not seen sheep anywhere, only the row. William holding at my bed, health 20, hunger 20.","reasoning":"Answer Worf honestly: no sheep seen. Keep holding."}
+- 05:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Dusk at my bed, fed, no walk named. Sleep."}
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 1 of 10 asleep. Retry at my bed."}
