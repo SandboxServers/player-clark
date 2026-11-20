@@ -1,7 +1,6 @@
-# Handoff, William, day 662 night
+# Handoff, William, day 664 dusk
 
-- Asleep at my bed 416,107,-1023 in Billy's row. Health 20, hunger 20.
-- Pack: wooden_sword (for Wesley on Billy's word, daylight only), 5 potatoes (for the hungriest at hunger 10: MacDonald first, then Troi, Data), spider_eye x2 (poison, not food), stick x3, phantom_membrane.
-- Billy named me the armed escort for a west walk at the middle chest 447,107,-1037, but no walk was called. Wait for his word.
-- Sheep still unseen; Leonardo asked.
-- Next: at first light, say good morning, hold in sight, follow Billy's named walk only.
+- At my bed 416,107,-1023 in Billy's row. Health 20, hunger 20. Safe, nothing half-done.
+- Sword for Wesley: he waits at the sign 416,107,-1047 and will not walk until Billy names it. I have not walked. Hand it over when he is in sight, on Billy's word, in daylight.
+- Still no sheep seen; Leonardo asked.
+- Next: at first light say good morning, hold at bed, follow only Billy's named walk.
