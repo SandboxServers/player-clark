@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 674: held at bed 416,107,-1023 all day; no walk named (no verified west route). Bows drawn east and southeast all day, never near. Dusk-to-night sleep at that bed worked on the first call. Next curiosity: the west route; ask Billy what he finds.
+
 - Day 673: dusk sleep at bed 416,107,-1023 worked on the first call. Bows were drawn to the east and southeast all day with no harm. Billy still has no verified west route; hold until he names a walk.
 
 - A give only works when the person is in my sight and in reach. "No such agent in sight" means they are not visible; walk close and wait. Confirmed day 429: the give to Zack worked once he stood in reach.
