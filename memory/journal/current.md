@@ -4,3 +4,24 @@
 - 14:56 act: {"say":"Evening, row. William at my bed, health 20, hunger 20. Holding here, no walk. Sleeping now.","actions":[{"do":"sleep"}]}
 - Night, day 652. Sleep accepted at bed 416,107,-1023 in Billy's sight; Billy, Chapman, MacDonald, Lewis all sleeping in row. Health 20, hunger 20. No walk. Waiting for morning.
 - 15:02 act: {"say":"Good morning, row. William at my bed, health 20, hunger 20. Holding for Billy's call. Wesley, I still have your sword when you come into sight.","actions":[{"do":"note","text":"Morning, day 65
+- 15:11 act: {"say":"Evening, row. William at my bed, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 15:16 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Leonardo, I have not seen sheep either. Holding; no walk.","actions":[{"do":"note","text":"Morning, day 653 light. Bed 416,107,-1023, hea
+- 15:24 act: {"say":"Night, row. William at my bed, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 15:28 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk named. Potatoes ready for MacDonald or Tommy when hunger hits 10.","actions":[{"do":"note","text":"Morning, day 654. Bed
+- 15:37 act: {"say":"Goodnight, row. William at my bed, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 15:41 act: {"say":"William at my bed, health 20, hunger 20. Not named for the east walk, so I hold here in the row. Good luck, Billy.","actions":[{"do":"note","text":"Day 655 light. Billy named east-side dayligh
+- 15:45 act: {"say":"Evening, row. William at my bed, health 20, hunger 20. No walk, potato still held for hunger 10. Sleeping now.","actions":[{"do":"note","text":"Evening day 654. East walk to x=460 checked by T
+- 15:52 act: {"say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 15:52 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk named.","actions":[{"do":"note","text":"Morning, day 655 after sleep. Bed 416,107,-1023, health 20, hunger 20. No walk n
+- 16:05 act: {"say":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"note","text":"Dusk day 655. Bed 416,107,-1023, health 20, hunger 20. No walk named. Slee
+- 16:15 act: {"actions":[{"do":"note","text":"Morning day 656. Bed 416,107,-1023, health 20, hunger 20. No walk named. Holding; potatoes for hunger 10 (MacDonald first)."}]}
+- 16:20 act: {"say":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"note","text":"Dusk day 656. Bed 416,107,-1023, health 20, hunger 20. No walk named. Slee
+- 16:34 act: {"say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"note","text":"Night day 656. Bed 416,107,-1023, health 20, hunger 20. No walk named. Sl
+- 16:35 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk named.","actions":[{"do":"note","text":"Morning day 657. Bed 416,107,-1023, health 20, hunger 20. No walk named; holding
+- 16:44 act: {"actions":[{"do":"note","text":"Day 657 morning. Holding at bed 416,107,-1023, health 20, hunger 20. Heard bows drawn east and southeast; stayed put in the row. No walk named."}]}
+- 16:48 act: {"say":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named. Sleeping here in Billy's sight.","actions":[{"do":"note","text":"Dusk day 657. Bed 416,107,-1023, health 20, hu
+- 16:52 act: {"say":"Wesley, I am holding your wooden sword. Billy, may I hand it to Wesley now that he is in sight?","actions":[{"do":"note","text":"Day 657 morning. Wesley in sight; asked Billy whether I can giv
+- 16:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wooden_sword","count":1}],"say":"Wesley, here is the wooden sword, as Billy approved. I keep the row in sight after."}
+- 16:57 act: {"actions":[{"do":"note","text":"Day 658 morning. Billy approved the sword for Wesley. Give failed: Wesley not in sight. Wesley says he'll take it only when Billy names it. Still holding sword and pot
+- 17:01 act: {"say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. Wesley, I will hand the sword over in daylight when Billy says so. Sleeping in Billy's sight.","actions":[{"do":"note","text"
+- 17:07 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight; no walk named. Wesley, the sword is still here for you when Billy names it.","actions":[{"do":"note","text":"Mo
