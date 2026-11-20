@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 673: dusk sleep at bed 416,107,-1023 worked on the first call. Bows were drawn to the east and southeast all day with no harm. Billy still has no verified west route; hold until he names a walk.
+
 - A give only works when the person is in my sight and in reach. "No such agent in sight" means they are not visible; walk close and wait. Confirmed day 429: the give to Zack worked once he stood in reach.
 - Someone saying they are "in sight" does not mean I can see them. Check the agents list before giving.
 - Sleep is refused when it is not yet night and when an enderman is near; it works at dusk beside a white bed.
