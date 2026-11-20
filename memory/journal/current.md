@@ -39,3 +39,14 @@
 - 22:56 act: {"actions":[{"do":"note","text":"Day 604 morning: at my bed, health 20, hunger 20. No walk named. Holding with 5 potatoes."}],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in B
 - 23:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - 23:08 act: {"actions":[],"say":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk from me."}
+- 00:36 act: {"say":"Morning, Zack. William at my bed, health and hunger full. Holding at the row for Billy's call."}
+- 00:40 act: {"actions":[{"do":"sleep"}]}
+- Day 610-611: at my bed through dusk and dawn, health 20, hunger 20. No walk named by Billy; holding with 5 potatoes.
+- Day 609 morning: at my bed, health 20, hunger 20. Billy: no walk today; call him at hunger 10. Holding with 5 potatoes. Sent sleep at dusk.
+- 00:52 act: {"actions":[{"do":"sleep"}]}
+- 01:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- Day 611 daylight: at my bed 416,107,-1023, health 20, hunger 20. Billy has named no walk for me; Jason asked to walk back to his bed and Billy's word is pending. I hold with 5 potatoes.
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. William to my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 01:37 say: {"text":"Morning, row. William at my bed, health 20, hunger 20. Holding in Billy's sight, no walk from me."}
+- 01:45 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
+- 01:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
