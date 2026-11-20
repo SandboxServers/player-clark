@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 668 done; asleep at my bed 416,107,-1023 in Billy's sight at dusk. Health 20, hunger 20.
+I am William (ag_clark_01), in Billy's group at the row. Day 669 done; asleep at my bed 416,107,-1023 in Billy's sight at dusk. Health 20, hunger 20.
 
 Pack: 5 potatoes (for the hungriest when named; MacDonald first at hunger 10, then Troi, Data), phantom_membrane, stick x3, spider_eye x2 (poison, not food), wooden_sword (for Wesley on Billy's word).
 
