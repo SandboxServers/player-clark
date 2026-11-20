@@ -6,3 +6,6 @@
 - 19:01 act: {"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding for Billy's named walk; the sword for Wesley waits for daylight and Billy's word.","actions":[]}
 - 19:13 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}]}
 - 19:25 act: {"say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}]}
+- 19:39 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named today; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at my bed, nothing half-done
+- 19:43 say: {"text":"Morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding for Billy's named call; I have the spare sword for Wesley."}
+- 19:51 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at bed, safe. Sleep."}
