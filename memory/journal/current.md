@@ -52,3 +52,4 @@
 - 01:45 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - 01:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk named. Sleeping in Billy's sight."}
 - 02:14 act: {"say":"William here at my bed, in Billy's sight. Health 20, hunger 20. Holding for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 02:15 say: {"text":"William here at my bed, health 20, hunger 20. Holding for Billy's named call. No walk."}
