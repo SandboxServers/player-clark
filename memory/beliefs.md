@@ -42,4 +42,5 @@ What I hold to be true about the world and the people in it.
 - Day 592: quiet day at the row, no walk named. Dusk sleep at bed 415,107,-1023 worked; Chapman and wcrusher bedded in Billy's sight. Next curiosity: the west planks and cows; tell Billy.
 - Day 634: held at bed 416,107,-1023 all day; no walk. Dusk sleep at that bed was taken on my first call. Leonardo asked where sheep graze; nobody has seen any, so I do not know. Tommy, Troi and Data were at hunger 16-17, near the call mark of 10.
 - Day 635: first dusk sleep stopped at 5 of 10; a second sleep call worked and I woke at night at the row. Keep to the rule: try once more, then hold.
+- Day 638: a `rest` intent ends at once; hold with act wait or a fresh intent and wait again. Wesley (unarmed) asked for a sword; I offered my spare wooden sword, to go by Billy's word.
 - Day 589: the west route is still unverified; Billy holds the group until one is named. Dusk sleep at bed 415,107,-1023 took after a second call (2 of 10, then asleep). Next curiosity: cows and the planks to the west; tell Billy and Worf what I learn.
