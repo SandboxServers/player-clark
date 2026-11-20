@@ -4,3 +4,4 @@
 - 12:00 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding my potatoes for the hungry.","actions":[{"do":"sleep"}]}
 - 12:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. Holding 5 potatoes for the hungry. No walk named."}
 - Day 643 night: slept at my bed 416,107,-1023 in the row's sight. Sleep worked; health 20, hunger 20, holding 5 potatoes and the sword for Wesley. No walk named. Still unseen: Wesley, sheep.
+- 12:02 say: {"text":"Good morning, row. William here, health 20, hunger 20. Still holding Wesley's sword for when he comes into sight."}
