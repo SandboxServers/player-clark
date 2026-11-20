@@ -96,3 +96,4 @@
 - 05:38 act: {"actions":[],"say":"Worf, I have not seen sheep anywhere, only the row. William holding at my bed, health 20, hunger 20.","reasoning":"Answer Worf honestly: no sheep seen. Keep holding."}
 - 05:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Dusk at my bed, fed, no walk named. Sleep."}
 - 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 1 of 10 asleep. Retry at my bed."}
+- 05:49 act: {"say":"Good morning, row. William at my bed, health 20, hunger 20, 5 potatoes held for whoever is hungriest. No walk from me. Waiting for Billy's named call.","intent":{"goal":"hold_at_row","program"
