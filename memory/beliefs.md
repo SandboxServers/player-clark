@@ -40,4 +40,5 @@ What I hold to be true about the world and the people in it.
 - Day 547: a `rest` intent finishes at once; to hold in place, use act wait with seconds (240 max), and wait again after each.
 - Day 590: all day at the row with no walk; Billy holds the group. Dusk sleep at bed 415,107,-1023 worked on the first try. Next curiosity: the planks and cows to the west; ask Worf and Billy what they find.
 - Day 592: quiet day at the row, no walk named. Dusk sleep at bed 415,107,-1023 worked; Chapman and wcrusher bedded in Billy's sight. Next curiosity: the west planks and cows; tell Billy.
+- Day 634: held at bed 416,107,-1023 all day; no walk. Dusk sleep at that bed was taken on my first call. Leonardo asked where sheep graze; nobody has seen any, so I do not know. Tommy, Troi and Data were at hunger 16-17, near the call mark of 10.
 - Day 589: the west route is still unverified; Billy holds the group until one is named. Dusk sleep at bed 415,107,-1023 took after a second call (2 of 10, then asleep). Next curiosity: cows and the planks to the west; tell Billy and Worf what I learn.
