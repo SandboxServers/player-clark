@@ -97,3 +97,9 @@
 - 05:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"Dusk at my bed, fed, no walk named. Sleep."}
 - 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 1 of 10 asleep. Retry at my bed."}
 - 05:49 act: {"say":"Good morning, row. William at my bed, health 20, hunger 20, 5 potatoes held for whoever is hungriest. No walk from me. Waiting for Billy's named call.","intent":{"goal":"hold_at_row","program"
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Heard, Billy. Going to my bed for the night.","reasoning":"Dusk, Billy called everyone to beds. Sleep at my bed in
+- 06:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. William at my bed 415,107,-1023, health 20, hunger 20. No walk for me. Sleeping in Billy's sight. 5 potatoes held for Troi or MacDonald if named.","reason
+- 06:29 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. No walk for me. Sleeping in Billy's sight.","reasoning":"It is night now at my bed in sight. Sleep."}
+- 06:31 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my bed. Retry sleep now that the skeletons have not been reported."}
+- 06:35 act: {"actions":[],"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding for Billy's named call. 5 potatoes for Troi or MacDonald if named.","reasoning":"Dawn. Greet the 
+- 07:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk. Going to sleep.","reasoning":"Night has come and the handoff is written. Try sleep once; 
