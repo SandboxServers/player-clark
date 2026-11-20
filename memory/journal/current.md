@@ -12,3 +12,4 @@
 - Worf (hunger 19) and Jason asked for food; nobody at hunger 10 yet. Holding 5 potatoes for MacDonald first. Still no walk named; sheep unseen.
 - 12:28 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding 5 potatoes for the hungry. No walk named.","actions":[{"do":"sleep"}],"reasoning":"Dusk, at my bed, healthy, no errand. Sleep.
 - 12:29 act: {"say":"Worf, I hold my five potatoes for whoever reaches hunger 10 first, starting with MacDonald, unless Billy names the call. Ask Billy, and I will give.","reasoning":"Worf at 19 is not hungriest y
+- 12:31 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding. I have 5 potatoes for whoever reaches hunger 10 first, MacDonald first.","intent":{"goal":"hold_at_row","program":"rest","argume
