@@ -5,3 +5,4 @@
 - 17:56 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed. Billy, I will wait for your call.","actions":[]}
 - 18:22 act: {"say":"Billy, William here, armed with a wooden sword, health 20, hunger 20. I am willing to escort. Going to the middle chest now.","actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1037}}]}
 - 18:32 act: {"say":"Dusk, row. William going to my bed 416,107,-1023 in Billy's row. No west walk named; holding potatoes for the hungriest.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}]}
+- 18:35 say: {"text":"Dusk, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk tonight; sleeping in Billy's sight."}
