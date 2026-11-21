@@ -20,3 +20,9 @@
 - 20:49 act: {"actions":[{"do":"note","text":"Day 741 went dusk to bright. Sleep refused at dusk, not night. Still holding at bed 416,107,-1023, no walk, nobody at hunger 10."}],"say":"Good morning, row. William a
 - 21:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. William in bed at 416,107,-1023, health 20, hunger 20. No walk."}
 - 21:08 act: {"actions":[],"say":"Good morning, Billy. William at my bed, health 20, hunger 20. No route from me, so I hold."}
+- 21:16 act: {"say":"Night, row. William at my bed, holding. No walk.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}},{"do":"sleep"}]}
+- Waking 692: night dim at bed; sleep sent but it turned bright, sleep refused (not night). Health 20, hunger 20, days since sleep 3. Holding at bed 416,107,-1023, no walk. Billy: no verified route west. Next: wait for full dark, then sleep.
+- 21:20 act: {"say":"Good morning, row. William at bed 416,107,-1023, health 20, hunger 20. Holding, no walk. Potatoes ready for anyone at 10 in my sight.","actions":[]}
+- 21:28 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk. Potatoes held for hunger 10.","actions":[{"do":"sleep"}]}
+- 21:33 act: {"say":"Good morning, Billy. William at bed 416,107,-1023, health 20, hunger 20. No verified route from me, so I hold. Potatoes for hunger 10.","actions":[]}
+- 21:43 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
