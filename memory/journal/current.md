@@ -15,3 +15,8 @@
 - 20:28 act: {"say":"Morning, day 740. William at my bed, health 20, hunger 20. Holding in sight. No walk until Billy names one.","actions":[]}
 - 20:35 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night. Health 20, hunger 20. No walk."}
 - 20:37 act: {"say":"Good morning, Billy. William here, health 20, hunger 20. Holding at my bed, no walk. Nobody at hunger 10 in my sight.","reasoning":"Morning check-in per handoff. Hold at bed; follow only Billy
+- 20:45 act: {"actions":[{"do":"note","text":"Dusk, day 741. At my bed 416,107,-1023 holding. Hunger 20, health 20. Waiting for full dark to sleep."}],"say":"William at my bed 416,107,-1023, health 20, hunger 20. 
+- 20:45 act: {"actions":[{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"note","text":"Day 741 went dusk to bright. Sleep refused at dusk, not night. Still holding at bed 416,107,-1023, no walk, nobody at hunger 10."}],"say":"Good morning, row. William a
+- 21:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. William in bed at 416,107,-1023, health 20, hunger 20. No walk."}
+- 21:08 act: {"actions":[],"say":"Good morning, Billy. William at my bed, health 20, hunger 20. No route from me, so I hold."}
