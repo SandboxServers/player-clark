@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 720 (second night): dusk sleep at bed 416,107,-1023 was taken on the first call, in Billy's sight. The sleep digest showed only a finished intent and one speech. Wesley still has no bed square; Billy has not answered. Sheep still unseen; tell Leonardo.
+
 - Day 720 night: Data (17) and Zack (19) both refuse the potato for now; Zack asks me to hold it for him if he steps into my sight. Sleep at the bed worked on the first call (4 of 10 at once, then asleep). Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 720: held at bed 416,107,-1023 all day; no walk named. Wesley still needs a bed square (-1050 and -1051 refused him); Billy has not answered. Dusk sleep at my bed worked on the first call. Next curiosity: the sheep; still unseen. Tell Billy Wesley is waiting on a bed.
