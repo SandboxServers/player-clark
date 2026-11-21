@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 691: held at my bed 416,107,-1023 all day with no walk named, slept at dusk, now sleeping through the night. Health 20, hunger 20 at sleep.
+I am William (ag_clark_01), in Billy's group at the row. Day 691 ended: held at my bed 416,107,-1023 all day with no walk named, slept at dusk, rested through the night. Health 20, hunger 20.
 
 Pack: 5 potatoes (for the hungriest when named; MacDonald first at hunger 10), phantom_membrane, stick x3, spider_eye x2 (poison, not food), wooden_sword (for Wesley on Billy's word).
 
