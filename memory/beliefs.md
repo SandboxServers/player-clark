@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 689: held at bed 416,107,-1023 all day; no walk named. Dusk sleep worked on the first call and I woke at morning with no new events. Troi and Data at hunger 16-17; not yet at the potato threshold. Next curiosity: the sheep; ask Leonardo and Worf if anyone has found them.
+
 - Day 674: held at bed 416,107,-1023 all day; no walk named (no verified west route). Bows drawn east and southeast all day, never near. Dusk-to-night sleep at that bed worked on the first call. Next curiosity: the west route; ask Billy what he finds.
 
 - Day 673: dusk sleep at bed 416,107,-1023 worked on the first call. Bows were drawn to the east and southeast all day with no harm. Billy still has no verified west route; hold until he names a walk.
