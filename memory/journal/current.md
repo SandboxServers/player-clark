@@ -8,3 +8,4 @@
 - Day 738 morning. Sleep refused in daylight; said good morning, held at bed. Billy: still no verified route west, no walk. Nobody at hunger 10 or below.
 - 19:54 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. William at my bed, health 20, hunger 20. No walk."}
 - 19:54 act: {"actions":[{"do":"sleep"}]}
+- 19:59 act: {"say":"Good morning, row. William here, health 20, hunger 20, holding at my bed in sight. No walk until Billy names a verified route.","reasoning":"Daylight, holding at bed per Billy. Greet and wait 
