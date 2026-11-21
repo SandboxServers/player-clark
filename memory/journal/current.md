@@ -42,3 +42,5 @@
 - 13:27 act: {"actions":[],"say":"Good morning, row. William at my bed, health 20, hunger 20. Holding; no walk named."}
 - 13:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. Holding for Billy's word."}
 - 13:35 act: {"actions":[{"do":"sleep"}]}
+- 13:44 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed; no walk named yet.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
+- Day 719 morning (later): said good morning, health 20, hunger 20. Troi 13.9/16, Zack 19, Beverly 20 holding. Set hold-at-bed intent; no walk named.
