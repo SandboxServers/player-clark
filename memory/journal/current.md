@@ -28,3 +28,8 @@
 - 21:43 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
 - 21:44 act: {"say":"Good morning, row. William here, health 20, hunger 20, holding at my bed. I have no verified route west either.","intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{}
 - 22:08 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
+- 22:09 act: {"actions":[],"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding here, no walk yet."}
+- 22:13 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":120}}}
+- Day 745 bright. Heard bows drawn to the southeast repeatedly; no one near. Billy (hunger 20) and Zack, MacDonald hold at row; still no verified route, no walk. Holding at bed 416,107,-1023. Next: wait for Billy's call or hunger 10.
+- 22:14 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":120
+- 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk."}
