@@ -9,3 +9,8 @@
 - 19:54 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. William at my bed, health 20, hunger 20. No walk."}
 - 19:54 act: {"actions":[{"do":"sleep"}]}
 - 19:59 act: {"say":"Good morning, row. William here, health 20, hunger 20, holding at my bed in sight. No walk until Billy names a verified route.","reasoning":"Daylight, holding at bed per Billy. Greet and wait 
+- 20:07 act: {"intent":{"goal":"hold_at_bed_till_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_opera
+- 20:12 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed in sight. No walk until Billy names a verified route.","actions":[]}
+- 20:20 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night. Health 20, hunger 20. No walk."}
+- 20:28 act: {"say":"Morning, day 740. William at my bed, health 20, hunger 20. Holding in sight. No walk until Billy names one.","actions":[]}
+- 20:35 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night. Health 20, hunger 20. No walk."}
