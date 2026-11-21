@@ -1,8 +1,8 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 695 ended: held at my bed 416,107,-1023 all day, no walk named, slept at night in the row's sight. Health 20, hunger 20.
+I am William (ag_clark_01), in Billy's group at the row. Day 696 ended: held at my bed 416,107,-1023 all day, no walk named, slept at night in the row's sight. Health 20, hunger 20.
 
-Pack: 5 potatoes (for the hungriest when named; MacDonald first at hunger 10; Data at 17 and Troi at 16 are close), phantom_membrane, stick x3, spider_eye x2 (poison, not food), wooden_sword (for Wesley on Billy's word).
+Pack: 5 potatoes (for the hungriest when named; MacDonald first at hunger 10; Troi 16, Data 17 are close), phantom_membrane, stick x3, spider_eye x2 (poison, not food), wooden_sword (for Wesley on Billy's word).
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight, and I must be in Billy's view.
