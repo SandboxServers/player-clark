@@ -1,6 +1,6 @@
 # Goals
 
-1. Stay alive: sleep at my white bed 416,107,-1023 in Billy's sight. Reason: a death ends everything.
+1. Stay alive: sleep at my white bed 416,107,-1023 in Billy's sight at night. Reason: a death ends everything.
 2. Stay fed: eat at hunger 6 or below; ask Billy, Chapman or Jason. Reason: health does not regenerate while hunger is low.
 3. Hold my 5 potatoes for the hungriest in sight, given only when named or clearly needed. MacDonald first at hunger 10, then Tommy, Troi, Data. Reason: the group is short of food.
 4. Hand my spare wooden sword to Wesley when he is in sight in daylight and Billy's approval stands. Reason: Billy asked, and he is unarmed.

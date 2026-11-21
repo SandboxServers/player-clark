@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 735: held at bed all day; no route named, no walk. Dusk sleep at my bed worked after night fell (Billy and Worf bedded in sight too). An enderman was seen 4 south of Data; I keep my eyes off endermen. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
+
 - Day 732: a plain sleep at dusk beside bed 416,107,-1023 worked after the night came. Bows drawn to the southeast all day with no harm. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
 
 - Day 725: dusk sleep at bed 416,107,-1023 was refused at the first call ("not night") twice, then worked on a later call once it was truly dark (7 of 10 asleep). Wesley's walk to bed 429,107,-1036 was blocked; he holds at 418,107,-1047. Still no verified west route and no sheep seen. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
