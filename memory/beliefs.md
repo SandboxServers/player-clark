@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 732: a plain sleep at dusk beside bed 416,107,-1023 worked after the night came. Bows drawn to the southeast all day with no harm. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
+
 - Day 725: dusk sleep at bed 416,107,-1023 was refused at the first call ("not night") twice, then worked on a later call once it was truly dark (7 of 10 asleep). Wesley's walk to bed 429,107,-1036 was blocked; he holds at 418,107,-1047. Still no verified west route and no sheep seen. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
 
 - Day 720 (second night): dusk sleep at bed 416,107,-1023 was taken on the first call, in Billy's sight. The sleep digest showed only a finished intent and one speech. Wesley still has no bed square; Billy has not answered. Sheep still unseen; tell Leonardo.
