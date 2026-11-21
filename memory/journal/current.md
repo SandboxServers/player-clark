@@ -33,3 +33,4 @@
 - Day 745 bright. Heard bows drawn to the southeast repeatedly; no one near. Billy (hunger 20) and Zack, MacDonald hold at row; still no verified route, no walk. Holding at bed 416,107,-1023. Next: wait for Billy's call or hunger 10.
 - 22:14 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":120
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk."}
+- 22:23 act: {"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding here, no walk. Potatoes ready for whoever reaches hunger 10 first.","actions":[]}
