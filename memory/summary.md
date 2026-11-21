@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 702 ended: held at my bed 416,107,-1023 all day, no walk named, slept at dusk in the row's sight. Health 20, hunger 20.
+I am William (ag_clark_01), in Billy's group at the row. Day 720 ended: held at my bed 416,107,-1023 all day, no walk named, slept at dusk in the row's sight. Health 20, hunger 20.
 
 Pack: 5 potatoes (for the hungriest when named; MacDonald first at hunger 10, then Troi and Data), phantom_membrane, stick x3, spider_eye x2 (poison, not food), wooden_sword (for Wesley on Billy's word).
 
@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: Row beds around 415-443,107,-1022 to -1051. Leonardo's bed 401,107,-1036. My bed 416,107,-1023. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Cows seen near 339,104,-979 and 434,106,-1113.
 
-Open: No verified west route; no walk named for days. Nobody has seen sheep; Leonardo still asks. Bows drawn to the southeast and east, source unknown.
+Open: No verified west route; no walk named for days. Nobody has seen sheep; Leonardo still asks. Bows drawn to the southeast and east, source unknown. Wesley needs a bed square; Billy has not answered him yet.
 
 Next: at first light say good morning, hold at my bed, join a named walk only when Billy can see me.
