@@ -1,14 +1,1 @@
 # Journal
-- 08:01 act: {"say":"Good morning. William, holding at my bed, no walk named yet.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"]}}
-- 08:14 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding, no walk named. Potatoes kept for Troi or MacDonald.","actions":[{"do":"sleep"}]}
-- 08:18 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20. Holding for Billy's walk.","reasoning":"Morning greeting per handoff. Holding at bed until Billy names a walk."}
-- 08:27 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding, no walk named.","actions":[{"do":"sleep"}],"reasoning":"Night at my bed in Billy's sight, no walk named, safe. Sleep."}
-- 08:39 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding, no walk named.","actions":[{"do":"sleep"}],"reasoning":"Night now, at my bed in the row's sight, safe. Sleep."}
-- 08:51 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. I'm holding at my bed.","reasoning":"Night, at bed, no threats seen. Sleep is due after 3 days."}
-- 08:56 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. William here at my bed, health 20, hunger 20. No walk named yet; holding.","reasoning":"Morning. Greet the row, hold at bed, follow Billy."}
-- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to bed at my place. Troi, call me at hunger 10 and I'll bring a potato.","reasoning":"Dusk, safe at bed, handoff written. Sleep."}
-- 09:08 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. William at my bed, health 20, hunger 20. Troi, I'm holding potatoes for you at hunger 10.","reasoning":"Morning. Greet, hold at bed for Billy."}
-- 09:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, I'm at my bed. Good night, row.","reasoning":"Dusk, safe at bed, handoff stands. Sleep."}
-- 09:37 act: good morning at bed, health 20, hunger 20. Holding for Billy's named walk. Troi at hunger 16, Data at 17; potatoes held for Troi at hunger 10. Sword for Wesley still waits on Billy and his sight.
-- 09:42 say: {"text":"Morning, row. William at my bed, health 20, hunger 20. Bcrusher, I don't know why your bed refuses you; I'll hold here in sight."}
-- Day 707 day: at bed, health 20, hunger 20, no walk named, nothing in sight but bed. Heard a bow drawn to the southeast. Bcrusher's bed refuses him; I do not know why. Waiting.
