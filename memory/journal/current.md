@@ -14,3 +14,4 @@
 - 20:20 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night. Health 20, hunger 20. No walk."}
 - 20:28 act: {"say":"Morning, day 740. William at my bed, health 20, hunger 20. Holding in sight. No walk until Billy names one.","actions":[]}
 - 20:35 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night. Health 20, hunger 20. No walk."}
+- 20:37 act: {"say":"Good morning, Billy. William here, health 20, hunger 20. Holding at my bed, no walk. Nobody at hunger 10 in my sight.","reasoning":"Morning check-in per handoff. Hold at bed; follow only Billy
