@@ -12,6 +12,11 @@
 - 10:44 act: {"actions":[],"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed; no walk named. Troi, I have potatoes if you need them at 10 hunger."}
 - 10:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my bed, health 20, hunger 20. Holding, no walk tonight. Good night."}
 - 11:08 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. William at my bed, health 20, hunger 20. Holding for Billy's word. Good night."}
+- Day 719 night: sleep worked at my bed, health 20, hunger 20. Gave Troi's potato question to Zack, who is handing one over. Holding for Billy.
+- Day 718 dusk sleep was refused: "it is not night" yet. Waited.
+- Day 719 morning: at my bed, health 20, hunger 20. Troi 16, Data holding. Said good morning; no walk named.
+- Day 718 dusk: at my bed, health 20, hunger 20. Data, Zack, Beverly, Trini holding at the row. No walk named. Sleep sent.
+- Day 718 morning: sleep worked at my bed. Health 20, hunger 20. Thunder, bows drawn to the east and southeast. No walk named; holding at the row.
 - Day 717 dusk: at my bed, health 20, hunger 20. Trini 17, Data 17, Zack 19 all holding at the row. Sleep sent.
 - Day 717 morning: said good morning. At my bed, health 20, hunger 20. Troi 16 (health 13.9), Trini and Beverly holding. Still no walk named.
 - Day 716 night: sleep worked at my bed, health 20, hunger 20. Holding for Billy's walk; no one in sight.
@@ -32,3 +37,8 @@
 - 12:46 act: {"actions":[],"say":"Good morning, row. William at my bed, health 20, hunger 20. Holding; no walk named."}
 - 12:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my bed, health 20, hunger 20. Holding for Billy's word. Good night, row."}
 - 12:54 act: {"actions":[{"do":"sleep"}]}
+- 13:11 act: {"actions":[],"say":"Good morning, Troi. William at my bed, health 20, hunger 20. Potatoes ready for anyone who reaches 10. Holding for Billy's walk."}
+- 13:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my bed, health 20, hunger 20. Holding for Billy's word. Good night, row."}
+- 13:27 act: {"actions":[],"say":"Good morning, row. William at my bed, health 20, hunger 20. Holding; no walk named."}
+- 13:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William at my bed, health 20, hunger 20. Holding for Billy's word."}
+- 13:35 act: {"actions":[{"do":"sleep"}]}
