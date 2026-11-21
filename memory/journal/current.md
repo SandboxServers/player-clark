@@ -1,4 +1,5 @@
 # Journal
+- Day 746 bright. Said good morning at bed 416,107,-1023; sleep refused (not night). Nobody in sight, health 20, hunger 20. Heard a bow drawn to the southeast. Still holding, no walk named.
 - 19:29 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed, no walk until Billy names one.","reasoning":"Morning greeting per handoff; hold at bed and wait for Billy's named walk
 - Morning day 737->new day. Said good morning. Billy and Zack at the row; no verified route west yet. Holding at bed.
 - Billy: no verified route west, hold at beds. Bow drawn to the southeast heard. Waiting at bed.
@@ -34,3 +35,4 @@
 - 22:14 act: {"actions":[],"intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":120
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk."}
 - 22:23 act: {"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding here, no walk. Potatoes ready for whoever reaches hunger 10 first.","actions":[]}
+- 22:36 act: {"say":"Good morning. William here, holding at my bed. Nobody in sight yet.","actions":[]}
