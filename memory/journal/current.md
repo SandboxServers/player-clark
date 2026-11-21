@@ -1,19 +1,1 @@
 # Journal
-- 15:35 act: {"say":"Good morning, Billy. William at my bed, health 20, hunger 20. No verified route past x=370 from me; holding until you name a walk.","reasoning":"Billy asked for a route answer and no walk. I h
-- Day 726 morning: held at my bed 416,107,-1023, health 20, hunger 20. No walk named; Billy and Data report no route past x=370 and nobody at hunger 10. Journaled and waited.
-- 15:48 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed. No walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precon
-- 15:54 act: {"say":"Good morning. Holding at my bed; no walk named yet.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}]}
-- 15:58 act: {"say":"Dusk. William at my bed, health 20, hunger 20. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
-- 16:02 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk named.","actions":[]}
-- 16:11 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":
-- 16:15 act: {"say":"Good morning, Billy and row. William at my bed, health 20, hunger 20, five potatoes for the hungriest. Holding; no walk named.","reasoning":"Morning, bright. Nobody in my sight yet. Hold at be
-- Day 728 morning: woke at bed 416,107,-1023, health 20, hunger 20. Billy greeted, no walk named. Said good morning, holding at bed.
-- Day 728 midmorning: Billy says hold, no walk. MacDonald hunger 16, Zack holds 3 potatoes for him. Nothing for me to give yet; I hold my 5 for hunger 10. Heard bows to the southeast and east.
-- Dusk: no walk named all day. Zack, Data and MacDonald sleeping at their beds in Billy's sight. I go to my bed 416,107,-1023 to sleep, health 20, hunger 20.
-- Sleep refused: "not night" yet. Holding at bed, will try again once it is dark.
-- Day 729 morning: Billy says no walk, no verified route west. Troi hunger 16, MacDonald 16, Zack 19, Wesley 20. Nobody at 10, so no potato given. Holding at bed.
-- Midday: MacDonald holds at hunger 16 and will ask Zack at 10. I hold at bed, potatoes kept for hunger 10.
-- 16:40 act: {"say":"Good morning, Billy. William here, holding at my bed. Hunger 20, health 20. No walk for me until you name one.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["direc
-- 16:52 act: {"say":"Dusk. William at my bed 416,107,-1023, health 20, hunger 20. No walk named. Sleeping.","actions":[{"do":"sleep"}]}
-- 16:56 act: {"say":"Good morning, row. William at my bed, health 20, hunger 20. Holding with Billy. Five potatoes ready for anyone who reaches hunger 10 and is in my sight.","actions":[]}
-- 17:04 act: {"say":"Dusk, row. William at my bed, health 20, hunger 20. No walk tonight. Sleeping.","actions":[{"do":"sleep"}]}
