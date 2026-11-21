@@ -26,3 +26,5 @@
 - 21:28 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk. Potatoes held for hunger 10.","actions":[{"do":"sleep"}]}
 - 21:33 act: {"say":"Good morning, Billy. William at bed 416,107,-1023, health 20, hunger 20. No verified route from me, so I hold. Potatoes for hunger 10.","actions":[]}
 - 21:43 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
+- 21:44 act: {"say":"Good morning, row. William here, health 20, hunger 20, holding at my bed. I have no verified route west either.","intent":{"goal":"hold_at_bed_until_billy_walk","program":"rest","arguments":{}
+- 22:08 act: {"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
