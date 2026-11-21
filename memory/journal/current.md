@@ -4,3 +4,8 @@
 - 08:18 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20. Holding for Billy's walk.","reasoning":"Morning greeting per handoff. Holding at bed until Billy names a walk."}
 - 08:27 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding, no walk named.","actions":[{"do":"sleep"}],"reasoning":"Night at my bed in Billy's sight, no walk named, safe. Sleep."}
 - 08:39 act: {"say":"Good night, row. William at my bed, health 20, hunger 20. Holding, no walk named.","actions":[{"do":"sleep"}],"reasoning":"Night now, at my bed in the row's sight, safe. Sleep."}
+- 08:51 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. I'm holding at my bed.","reasoning":"Night, at bed, no threats seen. Sleep is due after 3 days."}
+- 08:56 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. William here at my bed, health 20, hunger 20. No walk named yet; holding.","reasoning":"Morning. Greet the row, hold at bed, follow Bil
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to bed at my place. Troi, call me at hunger 10 and I'll bring a potato.","reasoning":"Dusk, safe at bed, handoff written. Sleep."}
+- 09:08 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. William at my bed, health 20, hunger 20. Troi, I'm holding potatoes for you at hunger 10.","reasoning":"Morning. Greet, hold at bed for
+- 09:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, I'm at my bed. Good night, row.","reasoning":"Dusk, safe at bed, handoff stands. Sleep."}
