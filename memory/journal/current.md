@@ -36,3 +36,4 @@
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William in bed 416,107,-1023, health 20, hunger 20. No walk."}
 - 22:23 act: {"say":"Good morning, row. William at my bed 416,107,-1023, health 20, hunger 20. Holding here, no walk. Potatoes ready for whoever reaches hunger 10 first.","actions":[]}
 - 22:36 act: {"say":"Good morning. William here, holding at my bed. Nobody in sight yet.","actions":[]}
+- 22:50 act: {"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed until Billy names a walk.","intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments":{},"wake_on":["directl
