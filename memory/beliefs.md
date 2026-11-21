@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 691: held at bed 416,107,-1023 with the row; no walk named on 690-691. Dusk sleep at that bed worked on the first call. A wandering trader stood at the bed with no harm. Next curiosity: the sheep and the west planks; ask Leonardo and Worf. Tell Billy the potato threshold is still open for Troi and Data.
+
 - Day 689: held at bed 416,107,-1023 all day; no walk named. Dusk sleep worked on the first call and I woke at morning with no new events. Troi and Data at hunger 16-17; not yet at the potato threshold. Next curiosity: the sheep; ask Leonardo and Worf if anyone has found them.
 
 - Day 674: held at bed 416,107,-1023 all day; no walk named (no verified west route). Bows drawn east and southeast all day, never near. Dusk-to-night sleep at that bed worked on the first call. Next curiosity: the west route; ask Billy what he finds.
