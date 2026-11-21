@@ -1,7 +1,7 @@
-# Handoff, William, day 746
+# Handoff, William, day 747
 
-- Asleep at bed 416,107,-1023 at night, in sight of Billy and Zack. Health 20, hunger 20.
+- At bed 416,107,-1023, in sight of Billy, Zack and Jason. Health 20, hunger 20. Night is falling.
 - Pack: 5 potatoes (hunger 10 first: MacDonald, then Troi and Data), wooden_sword (for Wesley on Billy's word), 2 spider_eye (poison, not food), phantom_membrane, 3 stick.
-- Billy: still no verified route west, no walk named. No one at hunger 10 yet.
-- Bows drawn repeatedly to the east and southeast all day; source unknown.
-- Next: at first light say good morning, hold at bed, follow only Billy's named walk.
+- Billy: no walk named, no verified route west, no one at hunger 10 yet.
+- Bows drawn to the southeast and east all day; source unknown.
+- Next: sleep at bed when it is truly dark. At first light say good morning, hold at bed, follow only Billy's named walk.
