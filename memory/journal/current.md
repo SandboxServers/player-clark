@@ -5,3 +5,5 @@
 - 15:54 act: {"say":"Good morning. Holding at my bed; no walk named yet.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}]}
 - 15:58 act: {"say":"Dusk. William at my bed, health 20, hunger 20. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
 - 16:02 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk named.","actions":[]}
+- 16:11 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":
+- 16:15 act: {"say":"Good morning, Billy and row. William at my bed, health 20, hunger 20, five potatoes for the hungriest. Holding; no walk named.","reasoning":"Morning, bright. Nobody in my sight yet. Hold at be
