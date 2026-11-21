@@ -3,3 +3,8 @@
 - Morning day 737->new day. Said good morning. Billy and Zack at the row; no verified route west yet. Holding at bed.
 - Billy: no verified route west, hold at beds. Bow drawn to the southeast heard. Waiting at bed.
 - Night came. Billy said he would sleep at his bed. Data holding near an enderman. I go to sleep at my bed, no walk.
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night."}
+- 19:46 act: {"actions":[],"say":"Good morning, row. William here, health 20, hunger 20. Holding at my bed; no walk until Billy names one."}
+- Day 738 morning. Sleep refused in daylight; said good morning, held at bed. Billy: still no verified route west, no walk. Nobody at hunger 10 or below.
+- 19:54 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. William at my bed, health 20, hunger 20. No walk."}
+- 19:54 act: {"actions":[{"do":"sleep"}]}
