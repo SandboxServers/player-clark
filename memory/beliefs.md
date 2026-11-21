@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 693: held at bed 416,107,-1023 all day in rain then clear; no walk named. Data, Zack, Beverly and Trini held too. Troi at health 13.9 and hunger 16; Data at health 13. The potato call is not yet at 10. Dusk sleep at the bed worked on the first call. Next curiosity: the sheep; ask Leonardo whether he has seen any.
+
 - Day 691: held at bed 416,107,-1023 with the row; no walk named on 690-691. Dusk sleep at that bed worked on the first call. A wandering trader stood at the bed with no harm. Next curiosity: the sheep and the west planks; ask Leonardo and Worf. Tell Billy the potato threshold is still open for Troi and Data.
 
 - Day 689: held at bed 416,107,-1023 all day; no walk named. Dusk sleep worked on the first call and I woke at morning with no new events. Troi and Data at hunger 16-17; not yet at the potato threshold. Next curiosity: the sheep; ask Leonardo and Worf if anyone has found them.
