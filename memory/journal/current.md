@@ -19,3 +19,4 @@
 - 03:47 act: {"actions":[{"do":"sleep"}]}
 - 04:00 act: {"say":"Goodnight, the row. William at my bed, health 20, hunger 20.","actions":[{"do":"sleep"}]}
 - 04:00 act: {"actions":[{"do":"sleep"}]}
+- 04:00 act: {"actions":[{"do":"note","text":"Night at my bed 416,107,-1023, health 20, hunger 20, in Billy's sight. No walk named. Holding."}],"say":"Night, the row. William at my bed, health 20, hunger 20. Holdi
