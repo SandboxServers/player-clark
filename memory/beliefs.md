@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 793: held at bed 443,107,-1037 all day; no walk named. Billy: no walk until a route and a sword escort are named. MacDonald at health 15, hunger 16, no food. Troi has one potato, eats below 10. Dusk sleep beside the bed worked. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
+
 - Day 792: held beside bed 443,107,-1037 all day; no walk named. Picard reports ripe potatoes at 463,107,-1073 but nobody has seen them; Billy asks for an escort. Dusk sleep beside the bed worked on the first call with Billy in sight. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
 
 - Day 786: held at bed 430,107,-1037 all day; no walk named. Dusk sleep beside the bed worked on the first call with Billy's row in sight. Hunger stayed 20. Troi (health 14) and Trini, Riker, MacDonald, Chapman are at hunger 16-17 with almost no food. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
