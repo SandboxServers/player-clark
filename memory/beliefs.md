@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 756: held at bed 416,107,-1023 all day; no walk named. Dusk sleep at my bed worked (7 of 10 asleep). Still no sheep seen; Leonardo asks. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
+
 - Day 749-750: held at bed 416,107,-1023 all day; no walk named, nobody reached hunger 10. Dusk sleep was refused at first (not dark) and worked once the night was true; a sleep call repeated after a short wait is what worked. Bow draws to the southeast at night, no harm. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
 
 - Day 737: held at bed 416,107,-1023 all day; no walk named. Billy gave Wesley bed square 415,107,-1023 to hold in sight, to go at first light if named. Dusk sleep at my bed was refused while it was still dim and worked once it was night (sleep at dusk is refused until truly dark). Cows seen at 339,104,-979 (Data). Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
