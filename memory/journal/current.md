@@ -7,3 +7,4 @@
 - 02:56 act: {"say":"Morning, Leonardo. I have not seen sheep yet. I will tell you the moment I do."}
 - 03:09 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, health 20, hunger 20. Holding, no walk named."}
 - 03:21 say: {"text":"Night, the row. William at my bed 416,107,-1023, in sight, health 20, hunger 20. No walk. Good night."}
+- 03:22 act: {"actions":[{"do":"sleep"}]}
