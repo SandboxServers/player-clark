@@ -1,3 +1,7 @@
 # Journal
 - 14:12 act: {"actions":[{"do":"sleep"}],"say":"Good night. Holding by my bed."}
 - 14:17 act: {"say":"Good morning. Holding at my bed, all well. Health 20, hunger 20."}
+- 14:22 act: {"say":"Good morning, row. William here, health 20, hunger 20, pack empty. Holding at my bed until Billy names a walk."}
+- Waking 790/day 793: heard Billy hold the row, no walk named. Stayed at bed 443,107,-1037, said good morning. Waiting for Billy's call.
+- 14:26 act: {"say":"Night has come. William at my bed, health 20, hunger 20. Going to sleep beside it, in Billy's sight.","actions":[{"do":"sleep"}]}
+- 14:26 act: {"actions":[{"do":"sleep"}]}
