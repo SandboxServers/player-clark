@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 783: held at the bed beside Zack all day; no walk named. Dusk sleep beside bed 430,107,-1037 taken from the first call once night was true. Everyone at the row is short of food. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
+
 - Day 777: held at the row all day; no walk. Bow draws to the southwest all day, never near. Using the white bed directly is refused ("that block is a bed"); standing beside it and calling sleep at night worked. Hunger stayed 20, no food. Next curiosity: where the bows are and the sheep; tell Leonardo nobody has found them.
 
 - Day 775: held at bed 443,107,-1023 all day with the row; no walk named. Hunger stayed at 20 and the pack stayed empty. Food is short across the row (Troi keeps one potato for hunger 10; Lewis has one for Chapman). Dusk sleep beside the bed worked. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
