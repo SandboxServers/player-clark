@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 800: held at bed 444,107,-1037 all day; no walk named. Billy: potato route blocked north-east toward 463,107,-1073 and west by planks near 415,107,-1050. Billy feeds by weakest first (Trini 9, Chapman 11). Dusk sleep beside the bed worked on the first call. Next curiosity: sheep; tell Leonardo nobody has found them.
+
 - Day 798: held at bed 443,107,-1037 all day; no walk named, no food, sheep or verified route. Dusk sleep beside the bed worked on the first call in Billy's sight. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
 
 - Day 793: held at bed 443,107,-1037 all day; no walk named. Billy: no walk until a route and a sword escort are named. MacDonald at health 15, hunger 16, no food. Troi has one potato, eats below 10. Dusk sleep beside the bed worked. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
