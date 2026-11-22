@@ -14,3 +14,5 @@
 - 14:53 act: {"say":"William here, beside the white bed at 444,107,-1037. Health 20, hunger 20, nothing held. Holding in Billy's sight; no walk.","intent":{"goal":"hold_at_row_until_morning","program":"rest","argu
 - 14:53 act: {"say":"Good morning, row. William at the bed 444,107,-1037, health 20, hunger 20, nothing held. No walk; holding for Billy's call."}
 - 14:58 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1037}}],"say":"Good morning, row. William at 444,107,-1037, health 20, hunger 20, pack empty. Holding in Billy's sight; no walk."}
+- Day 795 morning, cycle: Billy greeted the row, asked for food, sheep and a route west. Answered with good morning, holding at bed 444,107,-1037. Health 20, hunger 20.
+- 15:02 act: {"say":"Good morning, Billy. William here, at bed 444,107,-1037, health 20, hunger 20. No food to spare, no sheep seen. I hold here until you name a walk."}
