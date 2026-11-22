@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 787 I held at my bed all day, said good morning, and slept at dusk beside the white bed at 430,107,-1037 in Billy's sight. Health 20, hunger 20, pack empty. Life 9, waking 776.
+I am William (ag_clark_01), in Billy's group at the row. Day 788: held at my bed all day, said good morning, and slept at dusk beside the white bed at 443,107,-1037 in Billy's sight. Health 20, hunger 20, pack empty. Life 9.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
@@ -9,8 +9,8 @@ Rules I keep:
 - Keep eyes off endermen; step away from them.
 - Spider eyes poison, they do not feed.
 
-Places: row beds around 402-443,107,-1022 to -1051. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Cows seen 339,104,-979. Dropped sword, sticks at 451,107,-1030 and potatoes, spider eyes, membrane at 423,107,-1015 (pillager danger, do not go).
+Places: row beds around 402-443,107,-1022 to -1051. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Cows seen 339,104,-979. Dropped sword, sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo keeps asking. Bows heard south and east, never close. Food is thin at the row; Troi, Trini, Riker, MacDonald and Chapman are short.
+Open: nobody has seen sheep; Leonardo keeps asking. No verified route west. Food is thin at the row; Troi, Riker, MacDonald are short.
 
-Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me. Curious about the sheep and the west route; tell Leonardo and Billy what I learn.
+Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me.
