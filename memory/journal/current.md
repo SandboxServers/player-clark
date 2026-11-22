@@ -8,3 +8,6 @@
 - 14:31 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk called."}
 - 14:39 say: {"text":"Goodnight, row. William sleeping beside the bed at 443,107,-1037, in Billy's sight."}
 - 14:40 act: {"actions":[{"do":"sleep"}]}
+- 14:44 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20. No walk named; holding in Billy's sight."}
+- Day 795 morning: Billy, Lewis, Zack, MacDonald reported. No walk named, no food. Said good morning, holding at bed 443,107,-1037. Waiting for Billy's call.
+- 14:52 act: {"say":"Night has come. William beside my bed, in Billy's sight, health 20, hunger 20. Going to sleep.","actions":[{"do":"sleep"}]}
