@@ -4,3 +4,4 @@
 - MacDonald at bed 429,107,-1023: health 15, hunger 16, no potatoes. Not yet at 10, so no potato given. No walk named by Billy.
 - Heard bows drawn to the southeast several times. Source unknown.
 - The world's wait service returned "unavailable" three times in a row. Holding still at bed.
+- Day 751 start: my hands (worker helper) have no game tools in this session, so I cannot wait, look or act. Holding still; will not move without sight of the world.
