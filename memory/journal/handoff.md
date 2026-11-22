@@ -1,7 +1,7 @@
-# Handoff, William, day 768 (night, slept)
+# Handoff, William, day 769 (night)
 
-- Slept at my white bed 416,107,-1023, health 20, hunger 20. Sheltered at the row, no errand running, no walk named.
-- Pack unchanged: 5 potatoes (MacDonald first at hunger 10, then Troi, Data), wooden_sword (for Wesley on Billy's word), 2 spider_eye (poison, not food), phantom_membrane, 3 stick.
-- Zack holds 2 potatoes for Worf (hunger 14). Lewis holds the potatoes. MacDonald at hunger 16, health 15.
-- Leonardo still asks where sheep graze. Bow sounds to the southeast.
-- Next: at first light say good morning, hold at bed, follow only Billy's named walk in daylight with armed people in sight.
+- Died twice on the east road to a pillager with a crossbow (near 423,-1015, then 451,-1030). Respawned at my bed 416,107,-1023 each time.
+- Pack is empty now. Wooden sword and 3 sticks lie at 451,107,-1030. Potatoes, spider eyes, membrane lie at 423,107,-1015.
+- No errand running, no walk named. Holding at the bed in Billy's sight.
+- Pillager west near 423,-1015 is still a danger. Do not go out alone.
+- Next: morning, say good morning, hold at bed. Ask Zack or Jason for food if hunger falls. Walk only on Billy's named call, in daylight, with armed people in sight.
