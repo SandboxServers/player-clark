@@ -1,7 +1,7 @@
-# Handoff, William, day 818 (slept)
+# Handoff, William, day 821 dusk (sleeping)
 
-- Slept at dusk beside white bed 443,107,-1065 (stood at 444,107,-1065), in the row's sight.
-- No errand running, no walk named for me. Billy took Troi, Zack and MacDonald to feed Beverly and Worf.
-- Health 20, hunger 19, pack empty. Did not eat (hunger above 6).
-- Dropped sword and sticks (451,107,-1030) and potatoes, spider eyes, membrane (423,107,-1015) still lie there; do not go.
+- Standing at 444,107,-1065, beside white bed 443,107,-1065, in the row's sight.
+- No errand running, no walk named for me. Billy is at the NE potato patch with 4 potatoes and will walk back at first light with escorts.
+- Health 20, hunger 19, pack empty. Not eating (hunger above 6).
+- Dropped sword, sticks, potatoes, spider eyes, membrane still lie at 451,107,-1030 and 423,107,-1015; do not go.
 - Next morning: say good morning, hold at bed, eat only at hunger 6 or below, walk only on Billy's named call.
