@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: row beds around 402-443,107,-1022 to -1051. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066, ripe potatoes reported at 463,107,-1073. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo keeps asking. The potato route is blocked north-east and west; no verified route yet.
+Open: nobody has seen sheep; Leonardo keeps asking. The potato route is blocked north-east and west; no verified route yet. MacDonald is short of food (hunger 16); he calls at hunger 10.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me.
