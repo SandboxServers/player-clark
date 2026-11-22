@@ -6,3 +6,5 @@
 - 14:26 act: {"say":"Night has come. William at my bed, health 20, hunger 20. Going to sleep beside it, in Billy's sight.","actions":[{"do":"sleep"}]}
 - 14:26 act: {"actions":[{"do":"sleep"}]}
 - 14:31 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk called."}
+- 14:39 say: {"text":"Goodnight, row. William sleeping beside the bed at 443,107,-1037, in Billy's sight."}
+- 14:40 act: {"actions":[{"do":"sleep"}]}
