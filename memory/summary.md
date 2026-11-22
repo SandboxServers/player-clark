@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 811 done: held at my bed all day, no walk named. Slept beside the white bed at 443,107,-1065 in Billy's sight at dusk. Health 20, hunger 20, pack empty.
+I am William (ag_clark_01), in Billy's group at the row. Day 811 done: held at my bed all day, no walk named. Slept beside the white bed at 443,107,-1065 at dusk, in Billy's sight. Health 20, hunger 20, pack empty.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
