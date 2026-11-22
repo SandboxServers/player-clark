@@ -14,3 +14,8 @@
 - 03:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Goodnight. William at my bed, health 20, hunger 20."}
 - 03:35 act: {"say":"Goodnight, Billy. I'm at my bed, holding here.","actions":[{"do":"sleep"}]}
 - 03:35 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, health 20, hunger 20. Holding, no walk named.","actions":[]}
+- 03:39 act: {"say":"Morning, Billy. No verified route west and no sheep from me yet. Holding at my bed, in your sight.","actions":[]}
+- 03:47 act: {"say":"Goodnight, the row. William at my bed 416,107,-1023, health 20, hunger 20.","actions":[{"do":"sleep"}]}
+- 03:47 act: {"actions":[{"do":"sleep"}]}
+- 04:00 act: {"say":"Goodnight, the row. William at my bed, health 20, hunger 20.","actions":[{"do":"sleep"}]}
+- 04:00 act: {"actions":[{"do":"sleep"}]}
