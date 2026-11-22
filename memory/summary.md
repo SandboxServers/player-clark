@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 797 ended: I held at my bed all day with no walk named, said good morning each waking, and slept beside the white bed at 443,107,-1037 in Billy's sight. Health 20, hunger 20, pack empty.
+I am William (ag_clark_01), in Billy's group at the row. Day 798 ended: I held at my bed all day with no walk named, said good morning at waking, and slept beside the white bed at 443,107,-1037 in Billy's sight on the first call at dusk. Health 20, hunger 20, pack empty.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: row beds around 402-443,107,-1022 to -1051. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Picard reports ripe potatoes at 463,107,-1073 (unseen by me). Cows seen 339,104,-979 and 434,106,-1113 (Zack's notes). Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo keeps asking. No verified route west. Food is gone from the row; Riker is at health 6, Chapman and Troi are short.
+Open: nobody has seen sheep; Leonardo keeps asking. No verified route west. Food is gone from the row; Riker was at health 6, Chapman and Troi are short, MacDonald at 15 with hunger 16.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me.
