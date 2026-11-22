@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 811: held at bed 443,107,-1065 all day; no walk named. Dusk sleep beside that bed in the row's sight. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
+
 - Day 802: held at bed 443,107,-1051 all day; no walk named, no food, no blocked tile seen. Billy: no walk until a verified route and food. Dusk sleep beside the bed worked on the first call in Billy's sight. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 800: held at bed 444,107,-1037 all day; no walk named. Billy: potato route blocked north-east toward 463,107,-1073 and west by planks near 415,107,-1050. Billy feeds by weakest first (Trini 9, Chapman 11). Dusk sleep beside the bed worked on the first call. Next curiosity: sheep; tell Leonardo nobody has found them.
