@@ -5,3 +5,4 @@
 - Waking 790/day 793: heard Billy hold the row, no walk named. Stayed at bed 443,107,-1037, said good morning. Waiting for Billy's call.
 - 14:26 act: {"say":"Night has come. William at my bed, health 20, hunger 20. Going to sleep beside it, in Billy's sight.","actions":[{"do":"sleep"}]}
 - 14:26 act: {"actions":[{"do":"sleep"}]}
+- 14:31 act: {"say":"Morning, row. William at my bed, health 20, hunger 20. Holding; no walk called."}
