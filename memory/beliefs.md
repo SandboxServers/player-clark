@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 765: Billy died to pillagers north-west near 411,-1056; his things lie there. Stay out of the north-west and hold at the beds until Billy names a move. Bows drawn south and east all day. Dusk sleep at bed 416,107,-1023 worked on the first call. Next curiosity: where the pillagers went, and sheep. Tell Billy and Leonardo.
+
 - Day 756: held at bed 416,107,-1023 all day; no walk named. Dusk sleep at my bed worked (7 of 10 asleep). Still no sheep seen; Leonardo asks. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
 
 - Day 749-750: held at bed 416,107,-1023 all day; no walk named, nobody reached hunger 10. Dusk sleep was refused at first (not dark) and worked once the night was true; a sleep call repeated after a short wait is what worked. Bow draws to the southeast at night, no harm. Next curiosity: sheep and the west route; tell Leonardo and Billy when I learn anything.
