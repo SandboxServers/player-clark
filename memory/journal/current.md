@@ -10,3 +10,5 @@
 - 03:22 act: {"actions":[{"do":"sleep"}]}
 - 03:23 act: {"say":"Good morning, the row. William at my bed, health 20, hunger 20. I have not seen sheep or a route west yet, Billy."}
 - Day 760 morning: woke at bed 416,107,-1023, health 20, hunger 20. Billy asked for a route west past x=370 and sheep; I have neither. Holding at bed, no walk named.
+- 03:26 act: {"say":"Good morning. William at my bed, health 20, hunger 20. Holding in sight, no walk until Billy names one."}
+- 03:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Goodnight. William at my bed, health 20, hunger 20."}
