@@ -14,3 +14,5 @@
 - 05:59 act: {"actions":[{"do":"note","text":"Died at 423,107,-1015 to a pillager with a crossbow, south-west of the row. Dropped: wooden_sword, phantom_membrane, 3 stick, 2 spider_eye, 4 potato. Respawned at bed 
 - 05:59 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1030}}],"say":"Pillager at 4 west of me, shooting. Running east. Stay back, Troi, Trini."}
 - 06:00 say: {"text":"William back at my bed, health 20, nothing in my hands. The pillager killed me twice on the east road. Holding here, no walk."}
+- 06:05 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, holding. Pack empty, no walk."}
+- 06:10 act: {"actions":[{"do":"note","text":"Morning day 769. At bed 416,107,-1023, health 20, hunger 20, empty pack. Pillagers and bows southeast and near the row; Riker died near 411,-1037. Holding at bed, no w
