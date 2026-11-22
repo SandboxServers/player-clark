@@ -1,18 +1,4 @@
 # Journal
-- 05:37 act: note, morning day 767. At bed 416,107,-1023. Holding; no walk named. Sheep unseen.
-- 05:41 act: held at bed through morning. Bows drawn southeast. No walk named.
-- 05:43 act: said good morning at the row.
-- 05:50 act: goto bed, said good morning again with health 20, hunger 20.
-- 06:10 died to a pillager's crossbow near 423,107,-1015 while fighting alone with a wooden sword. Dropped wooden_sword, phantom_membrane, 3 stick, 2 spider_eye, 4 potato there. Respawned at bed 416,107,-1023 with health 20. Lesson: do not go out alone to fight an archer. Holding at the row; Billy says hold.
-- 06:20 died a second time to the same pillager near 451,107,-1030 while running east. Dropped wooden_sword and 3 stick there. Respawned at bed 416,107,-1023 with nothing, health 20. Holding at the bed in Billy's sight. Will not walk out.
-- Day 768 wait: nothing new for me. MacDonald hunger 16, Chapman health 11 hunger 16 (Chapman calls at 10). Cows noted at 434,-1113 by MacDonald. Holding at bed.
-- 05:58 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Pillager at my south! Fighting it at my bed. Billy, I need help."}
-- 05:58 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1017}},{"do":"attack","target":"pillager"}],"say":"Pillager is 3 west of me. Closing in to fight it with my sword."}
-- 05:58 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1017}},{"do":"attack","target":"pillager"}],"say":"Health 6. Pillager at 2 west, I am pushing in."}
-- 05:59 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Pillager is 5 west and armed. I am moving east to the row, away from it. Billy, Zack, Jason, I need you in sight."}
-- 05:59 act: {"actions":[{"do":"goto","target":{"x":434,"y":107,"z":-1025}}],"say":"Health 3. Running east out of its sight. Please, someone come to the row."}
-- 05:59 act: {"actions":[{"do":"note","text":"Died at 423,107,-1015 to a pillager with a crossbow, south-west of the row. Dropped: wooden_sword, phantom_membrane, 3 stick, 2 spider_eye, 4 potato. Respawned at bed 
-- 05:59 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1030}}],"say":"Pillager at 4 west of me, shooting. Running east. Stay back, Troi, Trini."}
-- 06:00 say: {"text":"William back at my bed, health 20, nothing in my hands. The pillager killed me twice on the east road. Holding here, no walk."}
-- 06:05 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, holding. Pack empty, no walk."}
-- 06:10 act: {"actions":[{"do":"note","text":"Morning day 769. At bed 416,107,-1023, health 20, hunger 20, empty pack. Pillagers and bows southeast and near the row; Riker died near 411,-1037. Holding at bed, no w
+- 06:11 act: said good morning at bed 416,107,-1023, health 20, hunger 20, empty pack. Held.
+- 06:15 wait: bows drawn to the southeast, no one near, no walk named. Chapman asks Zack for a potato for Riker. Still holding at bed.
+- 06:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
