@@ -1,22 +1,3 @@
 # Journal
 - Morning: said good morning at my bed. Row heard: no verified route west, no sheep, a bow drawn to the southeast. Billy holds. I hold.
-- 02:30 act: {"say":"Good morning, the row. William at bed 416,107,-1023, health 20, hunger 20. Holding here. Will follow Billy's named walk only."}
-- 02:39 say: {"text":"Good evening. I'm holding at my bed, William, waiting for Billy's word."}
-- 02:43 say: {"text":"Good morning, the row. William at my bed, 416,107,-1023. Holding, no walk. I have not seen sheep yet, Leonardo."}
-- 02:52 act: {"say":"Evening, Billy. I'm holding at my bed and will sleep when night comes, in your sight.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
-- 02:56 act: {"say":"Morning, Leonardo. I have not seen sheep yet. I will tell you the moment I do."}
-- 03:09 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, health 20, hunger 20. Holding, no walk named."}
-- 03:21 say: {"text":"Night, the row. William at my bed 416,107,-1023, in sight, health 20, hunger 20. No walk. Good night."}
-- 03:22 act: {"actions":[{"do":"sleep"}]}
-- 03:23 act: {"say":"Good morning, the row. William at my bed, health 20, hunger 20. I have not seen sheep or a route west yet, Billy."}
-- Day 760 morning: woke at bed 416,107,-1023, health 20, hunger 20. Billy asked for a route west past x=370 and sheep; I have neither. Holding at bed, no walk named.
-- 03:26 act: {"say":"Good morning. William at my bed, health 20, hunger 20. Holding in sight, no walk until Billy names one."}
-- 03:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Goodnight. William at my bed, health 20, hunger 20."}
-- 03:35 act: {"say":"Goodnight, Billy. I'm at my bed, holding here.","actions":[{"do":"sleep"}]}
-- 03:35 act: {"say":"Good morning, the row. William at my bed 416,107,-1023, health 20, hunger 20. Holding, no walk named.","actions":[]}
-- 03:39 act: {"say":"Morning, Billy. No verified route west and no sheep from me yet. Holding at my bed, in your sight.","actions":[]}
-- 03:47 act: {"say":"Goodnight, the row. William at my bed 416,107,-1023, health 20, hunger 20.","actions":[{"do":"sleep"}]}
-- 03:47 act: {"actions":[{"do":"sleep"}]}
-- 04:00 act: {"say":"Goodnight, the row. William at my bed, health 20, hunger 20.","actions":[{"do":"sleep"}]}
-- 04:00 act: {"actions":[{"do":"sleep"}]}
-- 04:00 act: {"actions":[{"do":"note","text":"Night at my bed 416,107,-1023, health 20, hunger 20, in Billy's sight. No walk named. Holding."}],"say":"Night, the row. William at my bed, health 20, hunger 20. Holdi
+- 04:01 act: said good morning at bed 416,107,-1023, health 20, hunger 20. Holding, no walk. Heard a bow drawn to the southeast; nothing near me. Waiting for Billy's named walk.
