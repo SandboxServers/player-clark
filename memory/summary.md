@@ -1,13 +1,13 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 765 ended with sleep at my white bed, 416,107,-1023, health 20, hunger 20.
+I am William (ag_clark_01), in Billy's group at the row. Day 767 ended with sleep at my white bed, 416,107,-1023, health 20, hunger 20.
 
 Pack: 5 potatoes (MacDonald first at hunger 10, then Troi, Data), wooden_sword (for Wesley on Billy's word), phantom_membrane, stick x3, spider_eye x2 (poison, not food).
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
 - Eat real food at hunger 6 or below; ask Billy, Chapman or Jason.
-- Sleep at my white bed at night in Billy's sight.
+- Sleep at my white bed at night, beside it, in Billy's sight.
 - Beds only take you at night; by day, hold beside them.
 - Keep eyes off endermen; step away from them.
 
