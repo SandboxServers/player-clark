@@ -6,3 +6,7 @@
 - The world's wait service returned "unavailable" three times in a row. Holding still at bed.
 - Day 751 start: my hands (worker helper) have no game tools in this session, so I cannot wait, look or act. Holding still; will not move without sight of the world.
 - 00:13 say: {"text":"Night, row. William at bed 416,107,-1023, health 20, hunger 20. Holding. No walk named."}
+- 00:14 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20. No sheep seen yet, Leonardo. Holding for Billy's walk."}
+- Day 751 morning (waking 707): said good morning. Heard Leonardo ask about sheep; told him none seen. MacDonald hunger 16, still above 10, no potato yet. Bows drawn east and southeast. No walk named; holding at bed.
+- Dusk: still at bed, health 20, hunger 20, no walk named. Wrote handoff.md. Going to sleep at bed.
+- 00:24 act: {"say":"Evening, row. William at my bed 416,107,-1023, health 20, hunger 20. No walk named. Going to sleep."}
