@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), in Billy's group at the row. Day 802 ended: I held at my bed all day, no walk named, and slept beside the white bed at 443,107,-1051 in Billy's sight. Health 20, hunger 20, pack empty.
+I am William (ag_clark_01), in Billy's group at the row. Day 803: held at my bed all day, no walk named, no food in the group. Slept beside the white bed at 443,107,-1051 in Billy's sight. Health 20, hunger 20, pack empty.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: row beds around 402-443,107,-1022 to -1051. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066, ripe potatoes reported at 463,107,-1073. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo keeps asking. The potato route is blocked north-east and west; no verified route yet. Zack is at hunger 19 with no food. Billy holds the row.
+Open: nobody has seen sheep; Leonardo keeps asking. No verified route to the potatoes. Billy holds the row.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me.
