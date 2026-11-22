@@ -7,3 +7,4 @@
 - 18:39 act: {"say":"Good morning, row. William here at my bed 444,107,-1051, health 20, hunger 20. Holding. No walk named."}
 - Day 806 waking: said good morning at bed. Health 20, hunger 20. Holding for Billy's named walk.
 - Day 807: still holding at bed 444,107,-1051. Health 20, hunger 20. Riker needs food, MacDonald and Troi wait on Billy's call. No walk named yet.
+- 18:48 say: Dusk at the row. Holding at my bed, health 20, hunger 20. Going to sleep beside the white bed.
