@@ -12,3 +12,5 @@
 - 03:03 say: {"text":"William here, alone at 443,107,-1091 with an empty pack. Billy, is anyone near? I will hold until you call me."}
 - Day 832 dusk to day: still alone at 443,107,-1091, nobody in sight, no reply. Health 20, hunger 19, pack empty. Holding; no walk without a named call.
 - 03:25 say: {"text":"William here, alone at 443,107,-1091, night. Billy, is anyone near? I will hold until you call me to the row."}
+- 03:48 say: {"text":"William here, alone and empty-handed. Anyone near with food or a way to the row?"}
+- Day 834 day: still alone at 443,107,-1091, nobody in sight, health 20, hunger 19, pack empty. Said again: anyone near with food or a way to the row? Holding; no walk without a named call.
