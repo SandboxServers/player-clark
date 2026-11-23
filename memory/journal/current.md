@@ -5,3 +5,4 @@
 - 01:28 say: {"text":"William here, at 443,107,-1091, alone and unarmed. Billy, Zack, anyone at the row: I am holding until you call me in."}
 - Day 827 night: still alone at 443,107,-1091, nobody in sight, no reply. Health 20, hunger 19, pack empty. Holding; waiting for a named call.
 - 01:40 say: {"text":"William here, alone at 443,107,-1091, unarmed and empty-handed. Billy, where is the row? Holding still until someone calls me."}
+- 02:09 act: {"say":"William here, still at 443,107,-1091, alone and unarmed. Good morning. Billy, Zack, anyone at the row: I will hold until someone calls me in."}
