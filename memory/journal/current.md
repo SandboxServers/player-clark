@@ -21,3 +21,4 @@
 - 15:21 say: {"text":"William here at 443,107,-1091, unarmed, holding still. Billy, name the walk when it is safe."}
 - Day 868 day (waking 921): bright, alone, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still; waiting for Billy's named call. Recalled summary and goals.
 - Day 869 night (waking 921 on): thunder, night, alone at 443,107,-1091, health 20, hunger 19, pack empty, nothing heard. No bed here, so no sleep in the open. Holding still, waiting for Billy.
+- 15:38 act: {"say":"William, alone at 443,107,-1091, unarmed, holding still in daylight. Billy, name the walk when you are ready."}
