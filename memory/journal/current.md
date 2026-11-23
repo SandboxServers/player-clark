@@ -21,3 +21,4 @@
 - 04:05 say: {"text":"William here, still alone at 443,107,-1091, unarmed, pack empty. Billy or anyone near, please call me to the row."}
 - 04:42 act: {"actions":[],"say":"Night is coming and I am alone here with no bed. I will hold still and not walk in the dark."}
 - 04:46 act: {"actions":[],"say":"Good morning. William, still alone at 443,107,-1091, unarmed and holding. Billy or anyone at the row, please call me in."}
+- 05:03 act: {"say":"Good morning. William here, alone at the north edge. Holding still until Billy or an armed friend calls.","reasoning":"Goal 1: hold still in daylight. Announce position and wait for a named ca
