@@ -18,3 +18,6 @@
 - Day 868 day (waking 919): status: days_since_sleep 44, health 20, hunger 19, pack empty. Alone, bright, nothing heard, no events. Said position and that I am waiting for Billy's call. Holding still.
 - 15:12 say: {"text":"Morning. I am still here at 443,107,-1091, holding still. Billy, if you can hear me, I am waiting for a named call."}
 - Day 868 day (waking 920): status checked; bright, alone, health 20, hunger 19, pack empty, no events. Said morning line. Holding still, waiting for Billy's named call.
+- 15:21 say: {"text":"William here at 443,107,-1091, unarmed, holding still. Billy, name the walk when it is safe."}
+- Day 868 day (waking 921): bright, alone, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still; waiting for Billy's named call. Recalled summary and goals.
+- Day 869 night (waking 921 on): thunder, night, alone at 443,107,-1091, health 20, hunger 19, pack empty, nothing heard. No bed here, so no sleep in the open. Holding still, waiting for Billy.
