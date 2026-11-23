@@ -37,3 +37,5 @@
 - 07:48 act: {"say":"William, still at 443,107,-1091, alone and unarmed. Picard, if you can hear me, reply. Billy, I am waiting for your named call."}
 - Day 846 day: still alone at 443,107,-1091, bright and clear, health 20, hunger 19, pack empty, nobody in sight. Picard is out of sight at 440,107,-1094, also unarmed. Holding; waiting for a named call. Tried a rest intent again; it needs a block op, so I wait instead.
 - 07:57 say: {"text":"William here, alone and unarmed at 443,107,-1091. Holding still until someone from the row comes for me."}
+- 08:26 say: {"text":"William here, at 443,107,-1091. Unarmed, no food, holding still for the night. Picard, I am with you if you are close."}
+- Day 848 night into day: nobody came, nothing heard. Health 20, hunger 19, pack empty, still at 443,107,-1091. Said less, waited longer. Holding; no walk without a named call.
