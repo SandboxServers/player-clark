@@ -30,3 +30,4 @@
 - 17:06 say: {"text":"William here at 443,107,-1091, alone and unarmed, holding still in daylight. Billy, name the walk when it is safe."}
 - 17:08 act: {"say":"Morning. William here at 443,107,-1091, unarmed, holding still. Billy, I wait for your named call."}
 - 17:21 say: {"text":"Still here, alone at the north edge. Holding still until Billy calls."}
+- 17:33 act: {"say":"William here at 443,107,-1091, alone and unarmed, holding still. Billy, I wait for your named call."}
