@@ -32,3 +32,5 @@
 - 07:05 act: {"reasoning":"Daylight, alone, unarmed. Hold still and wait for Billy's named call.","say":"Good morning. William here, still alone at 443,107,-1091, unarmed. Billy or anyone at the row, please call m
 - 07:09 act: {"reasoning":"Picard is close and unarmed, like me. Greet him, hold position.","say":"Picard, William here at 443,107,-1091, also unarmed and holding. Do you know where Billy is?"}
 - Day 844 day: Picard was heard at 440,107,-1094, unarmed and holding; he is out of sight now. Still no named call from Billy. Health 20, hunger 19, pack empty. Holding and waiting.
+- 07:38 act: {"say":"William here, unarmed, holding still at 443,107,-1091. Picard, are you hurt or hungry?"}
+- Day 845 day: bright and clear, still alone at 443,107,-1091, nobody in sight, no reply from Picard. Health 20, hunger 19, pack empty. Holding; no walk without a named call.
