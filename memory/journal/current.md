@@ -42,3 +42,6 @@
 - 08:43 act: {"say":"Morning. William here, unarmed, holding still at 443,107,-1091. Hunger 19, no food. Waiting for Billy's call."}
 - 08:57 act: {"say":"Anyone near? I am alone and unarmed at 443,107,-1091, holding still in daylight."}
 - 09:14 act: {"say":"Good morning. William here, unarmed, holding still at 443,107,-1091. Picard, I see you nearby.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed
+- 10:37 act: {"say":"Good day. I am alone here and unarmed, so I will hold still until Billy or an armed friend comes."}
+- Day 854 day: woke, still alone at 443,107,-1091, bright, nobody in sight, health 20, hunger 19, pack empty, days since sleep 31. Said good day; holding. No walk without a named call.
+- Day 854 dusk to day 855: passed the night in the open, unharmed, nobody came. Health 20, hunger 19, pack empty, still at 443,107,-1091. Holding; no walk without a named call.
