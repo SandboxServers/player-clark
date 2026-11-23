@@ -23,3 +23,4 @@
 - Day 869 night (waking 921 on): thunder, night, alone at 443,107,-1091, health 20, hunger 19, pack empty, nothing heard. No bed here, so no sleep in the open. Holding still, waiting for Billy.
 - Day 871 dusk to night (waking 922): alone at 443,107,-1091, dim then night, health 20, hunger 19, pack empty, nothing heard, no events. Intent with max_block_operations 0 rejected again; holding with plain waits. Still no bed here.
 - 15:38 act: {"say":"William, alone at 443,107,-1091, unarmed, holding still in daylight. Billy, name the walk when you are ready."}
+- 16:44 say: {"text":"Good morning. I am alone at 443,107,-1091, unarmed and holding still. Billy, if you can hear me, I wait for your word."}
