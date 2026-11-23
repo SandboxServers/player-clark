@@ -9,3 +9,4 @@
 - Day 864 day (waking 912): bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Said my position aloud. Holding still.
 - Day 865 thunder (waking 913): alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still.
 - Day 865 dusk (waking 914): same place, health 20, hunger 19, nobody in sight, nothing heard. Intent with max_block_operations 0 was rejected (minimum 1); holding with plain waits instead. days_since_sleep 42.
+- Day 866 day (waking 915): status checked; bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still for Billy's named call.
