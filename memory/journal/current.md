@@ -3,3 +3,5 @@ Day 889, bright, clear. Still at 443,107,-1091. Pillager still 18.6 south at 439
 - Night, dim. Status: 66 days since sleep, health 20, hunger 19. Pillager (hostile, crossbow) still 18.6 south. Holding still, not walking, waiting for Billy's named call.
 - Day again, then thunder. Pillager still 18.6 south, no one in sight, health 20, hunger 19. Still holding still.
 - 22:27 act: {"reasoning":"Night, unarmed, pillager 18 south. Hold still, do not approach.","say":"A pillager is to the south. I am staying still and unarmed.","intent":{"goal":"hold_still_at_night","program":"res
+- 22:32 act: {"actions":[],"say":"Nobody here. A pillager is to the south. I'm holding still."}
+- Day 890, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager still 18.6 south. Held still, said so, no walk. Waiting for Billy.
