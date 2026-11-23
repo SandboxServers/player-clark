@@ -8,3 +8,6 @@
 - 02:09 act: {"say":"William here, still at 443,107,-1091, alone and unarmed. Good morning. Billy, Zack, anyone at the row: I will hold until someone calls me in."}
 - 02:18 say: {"text":"Billy, I am alone at 443,107,-1091, north of the row. It is night and I am unarmed. Can someone come or name a walk?"}
 - 02:39 say: {"text":"William here, alone at 443,107,-1091 at night. Unarmed, holding still. Billy, where are you?"}
+- 02:54 say: {"text":"William, alone at 443,107,-1091, unarmed, pack empty. Billy or anyone at the row, please call me in."}
+- 03:03 say: {"text":"William here, alone at 443,107,-1091 with an empty pack. Billy, is anyone near? I will hold until you call me."}
+- Day 832 dusk to day: still alone at 443,107,-1091, nobody in sight, no reply. Health 20, hunger 19, pack empty. Holding; no walk without a named call.
