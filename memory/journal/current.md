@@ -24,3 +24,6 @@
 - 05:03 act: {"say":"Good morning. William here, alone at the north edge. Holding still until Billy or an armed friend calls.","reasoning":"Goal 1: hold still in daylight. Announce position and wait for a named ca
 - 05:34 say: {"text":"Good morning. William here, holding still where I stand. Billy, I am unarmed and waiting for your word."}
 - Day 840 day: still alone at 443,107,-1091, nobody in sight, nothing heard, health 20, hunger 19, pack empty. No new call. Holding still and waiting longer rather than repeating the same call.
+- 06:04 say: {"text":"I am still here, alone at the north edge. Holding still until Billy calls."}
+- Day 840 day: waited 240s, nothing heard or seen, health 20, hunger 19, pack empty. Said again; holding with no walk.
+- Day 841 night then day: dusk passed in the open, no harm, nobody came. Health 20, hunger 19. Still holding at 443,107,-1091, waiting for Billy's named call.
