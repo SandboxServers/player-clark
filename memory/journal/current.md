@@ -35,3 +35,4 @@
 - Day 879 thunder (waking 926): dim, alone at 443,107,-1091, health 20, hunger 19, pack empty, nothing heard, no events. Holding still for Billy's named call.
 - Day 876 day (waking 924): bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, nothing heard, no events after a 240s wait. Holding still for Billy's named call.
 - 19:18 act: {"say":"William here, alone at 443,107,-1091, unarmed and hungry. Billy, if you hear me, I am holding still and waiting for your call."}
+- 19:35 say: {"text":"William here, alone at 443,107,-1091. Holding still. If Billy or anyone armed is near, please call my name."}
