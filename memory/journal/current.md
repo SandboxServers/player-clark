@@ -11,3 +11,4 @@ Day 889, bright, clear. Still at 443,107,-1091. Pillager still 18.6 south at 439
 - 23:18 say: {"text":"Morning. I am alone at 443,107,-1091 and I will hold still. A pillager is 18 blocks south."}
 - Day 892 morning, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager static 18.6 south. Held still, said so. Waiting for Billy's named call.
 - Day 893, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager static 18.6 south. No events, nobody in sight. Holding still.
+- 23:35 act: {"actions":[],"say":"Still here, holding still. A pillager is to the south, not moving. Waiting for Billy."}
