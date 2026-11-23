@@ -10,3 +10,7 @@
 - 00:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William beside my bed at 443,107,-1065, unarmed, holding for Billy's word at first light."}
 - 00:29 say: {"text":"William here. I am at 443,107,-1091, not at my bed; I did not walk here by choice. Unarmed, holding still until Billy names a way back."}
 - Day 824 bright: woke at 443,107,-1091, about 26 south of my bed; sleep failed ("not night"). Health 20, hunger 19, pack empty, no one in sight. Holding still; no walk without Billy's named call.
+- 00:41 say: {"text":"William here, awake at 443,107,-1091. Unarmed and alone. Holding until Billy calls."}
+- Day 824 wait: at 443,107,-1091 (not my bed), dim, alone, no one in sight, health 20, hunger 19. Holding; waiting for Billy's named call.
+- Day 825 morning: still at 443,107,-1091, bright, alone, no one in sight, health 20, hunger 19. No walk named. Waiting.
+- Day 825 dusk: still at 443,107,-1091, alone, health 20, hunger 19, no one came. Still holding for Billy's call.
