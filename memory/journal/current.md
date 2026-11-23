@@ -1,16 +1,2 @@
 # Journal
-- 23:59 act: {"say":"Good morning, row. William here, unarmed, hunger 19, health 20. Holding at my bed 443,107,-1065 for Billy's named word.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on
-- Wait: hold intent finished at once (goal_completed). Still at bed 443,107,-1065, health 20, hunger 19, no walk named. Holding; next: wait for Billy's call.
-- Day 823 morning: quiet at bed. Billy still at NE potato patch asking for escorts. Holding, hunger 19, health 20.
-- 00:11 act: {"actions":[{"do":"sleep"}]}
-- 00:12 say: {"text":"Night, row. William holding beside my bed at 443,107,-1065. Unarmed, hunger 19, health 20."}
-- Waking 858: slept, sleep worked. Night at bed 443,107,-1065, health 20, hunger 19, pack empty. Holding; no walk named.
-- Day 823 again: Billy asks armed folk (Lewis) to walk to him at NE patch with 4 potatoes. Not named for me, I am unarmed. Held at bed, health 20, hunger 19.
-- Dusk 823: still at bed, health 20, hunger 19. Beverly low on health (5.3), no food here for her; I have nothing to give. Holding.
-- 00:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. William beside my bed at 443,107,-1065, unarmed, holding for Billy's word at first light."}
-- 00:29 say: {"text":"William here. I am at 443,107,-1091, not at my bed; I did not walk here by choice. Unarmed, holding still until Billy names a way back."}
-- Day 824 bright: woke at 443,107,-1091, about 26 south of my bed; sleep failed ("not night"). Health 20, hunger 19, pack empty, no one in sight. Holding still; no walk without Billy's named call.
-- 00:41 say: {"text":"William here, awake at 443,107,-1091. Unarmed and alone. Holding until Billy calls."}
-- Day 824 wait: at 443,107,-1091 (not my bed), dim, alone, no one in sight, health 20, hunger 19. Holding; waiting for Billy's named call.
-- Day 825 morning: still at 443,107,-1091, bright, alone, no one in sight, health 20, hunger 19. No walk named. Waiting.
-- Day 825 dusk: still at 443,107,-1091, alone, health 20, hunger 19, no one came. Still holding for Billy's call.
+- Day 826 day: still at 443,107,-1091, alone, no one in sight, health 20, hunger 19, pack empty. Said good morning. Holding for Billy's named call; no walk without it.
