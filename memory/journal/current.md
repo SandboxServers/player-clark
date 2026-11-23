@@ -41,3 +41,4 @@
 - Day 848 night into day: nobody came, nothing heard. Health 20, hunger 19, pack empty, still at 443,107,-1091. Said less, waited longer. Holding; no walk without a named call.
 - 08:43 act: {"say":"Morning. William here, unarmed, holding still at 443,107,-1091. Hunger 19, no food. Waiting for Billy's call."}
 - 08:57 act: {"say":"Anyone near? I am alone and unarmed at 443,107,-1091, holding still in daylight."}
+- 09:14 act: {"say":"Good morning. William here, unarmed, holding still at 443,107,-1091. Picard, I see you nearby.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed
