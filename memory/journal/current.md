@@ -34,3 +34,5 @@
 - Day 844 day: Picard was heard at 440,107,-1094, unarmed and holding; he is out of sight now. Still no named call from Billy. Health 20, hunger 19, pack empty. Holding and waiting.
 - 07:38 act: {"say":"William here, unarmed, holding still at 443,107,-1091. Picard, are you hurt or hungry?"}
 - Day 845 day: bright and clear, still alone at 443,107,-1091, nobody in sight, no reply from Picard. Health 20, hunger 19, pack empty. Holding; no walk without a named call.
+- 07:48 act: {"say":"William, still at 443,107,-1091, alone and unarmed. Picard, if you can hear me, reply. Billy, I am waiting for your named call."}
+- Day 846 day: still alone at 443,107,-1091, bright and clear, health 20, hunger 19, pack empty, nobody in sight. Picard is out of sight at 440,107,-1094, also unarmed. Holding; waiting for a named call. Tried a rest intent again; it needs a block op, so I wait instead.
