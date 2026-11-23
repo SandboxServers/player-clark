@@ -29,3 +29,4 @@
 - Day 874 day: status checked (days_since_sleep 51, health 20, hunger 19, pack empty). Alone, nothing heard. Said position aloud. Holding still for Billy's named call.
 - 17:06 say: {"text":"William here at 443,107,-1091, alone and unarmed, holding still in daylight. Billy, name the walk when it is safe."}
 - 17:08 act: {"say":"Morning. William here at 443,107,-1091, unarmed, holding still. Billy, I wait for your named call."}
+- 17:21 say: {"text":"Still here, alone at the north edge. Holding still until Billy calls."}
