@@ -40,3 +40,4 @@
 - 08:26 say: {"text":"William here, at 443,107,-1091. Unarmed, no food, holding still for the night. Picard, I am with you if you are close."}
 - Day 848 night into day: nobody came, nothing heard. Health 20, hunger 19, pack empty, still at 443,107,-1091. Said less, waited longer. Holding; no walk without a named call.
 - 08:43 act: {"say":"Morning. William here, unarmed, holding still at 443,107,-1091. Hunger 19, no food. Waiting for Billy's call."}
+- 08:57 act: {"say":"Anyone near? I am alone and unarmed at 443,107,-1091, holding still in daylight."}
