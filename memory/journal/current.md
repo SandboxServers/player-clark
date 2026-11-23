@@ -6,3 +6,4 @@
 - Day 827 night: still alone at 443,107,-1091, nobody in sight, no reply. Health 20, hunger 19, pack empty. Holding; waiting for a named call.
 - 01:40 say: {"text":"William here, alone at 443,107,-1091, unarmed and empty-handed. Billy, where is the row? Holding still until someone calls me."}
 - 02:09 act: {"say":"William here, still at 443,107,-1091, alone and unarmed. Good morning. Billy, Zack, anyone at the row: I will hold until someone calls me in."}
+- 02:18 say: {"text":"Billy, I am alone at 443,107,-1091, north of the row. It is night and I am unarmed. Can someone come or name a walk?"}
