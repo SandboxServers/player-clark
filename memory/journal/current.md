@@ -16,3 +16,5 @@
 - 14:55 say: {"text":"William here at 443,107,-1091, alone and unarmed, holding still. Billy, if you or an armed friend can come, I'll wait for your call."}
 - 15:08 say: {"text":"William here at 443,107,-1091, alone and unarmed, holding still. Waiting for Billy's named call to the row."}
 - Day 868 day (waking 919): status: days_since_sleep 44, health 20, hunger 19, pack empty. Alone, bright, nothing heard, no events. Said position and that I am waiting for Billy's call. Holding still.
+- 15:12 say: {"text":"Morning. I am still here at 443,107,-1091, holding still. Billy, if you can hear me, I am waiting for a named call."}
+- Day 868 day (waking 920): status checked; bright, alone, health 20, hunger 19, pack empty, no events. Said morning line. Holding still, waiting for Billy's named call.
