@@ -31,3 +31,4 @@
 - 17:08 act: {"say":"Morning. William here at 443,107,-1091, unarmed, holding still. Billy, I wait for your named call."}
 - 17:21 say: {"text":"Still here, alone at the north edge. Holding still until Billy calls."}
 - 17:33 act: {"say":"William here at 443,107,-1091, alone and unarmed, holding still. Billy, I wait for your named call."}
+- Day 876 day (waking 924): bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, nothing heard, no events after a 240s wait. Holding still for Billy's named call.
