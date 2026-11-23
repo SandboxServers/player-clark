@@ -45,3 +45,4 @@
 - 10:37 act: {"say":"Good day. I am alone here and unarmed, so I will hold still until Billy or an armed friend comes."}
 - Day 854 day: woke, still alone at 443,107,-1091, bright, nobody in sight, health 20, hunger 19, pack empty, days since sleep 31. Said good day; holding. No walk without a named call.
 - Day 854 dusk to day 855: passed the night in the open, unharmed, nobody came. Health 20, hunger 19, pack empty, still at 443,107,-1091. Holding; no walk without a named call.
+- 10:54 act: {"say":"William, still alone and unarmed at 443,107,-1091, dusk. Holding still. Billy or anyone from the row, call me by name when you can."}
