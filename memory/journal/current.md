@@ -28,3 +28,7 @@
 - Day 840 day: waited 240s, nothing heard or seen, health 20, hunger 19, pack empty. Said again; holding with no walk.
 - Day 841 night then day: dusk passed in the open, no harm, nobody came. Health 20, hunger 19. Still holding at 443,107,-1091, waiting for Billy's named call.
 - Day 843 (waking 881): night, dim, alone at 443,107,-1091, no bed, no one in sight, no events. Health 20, hunger 19, pack empty, days since sleep 20. Holding still; waited through to daylight, nothing heard.
+- Day 843 dusk (waking 882): still alone at 443,107,-1091, dim, health 20, hunger 19, pack empty. Tried a rest intent; rejected (limits need at least 1 block op). Holding by waiting instead.
+- 07:05 act: {"reasoning":"Daylight, alone, unarmed. Hold still and wait for Billy's named call.","say":"Good morning. William here, still alone at 443,107,-1091, unarmed. Billy or anyone at the row, please call m
+- 07:09 act: {"reasoning":"Picard is close and unarmed, like me. Greet him, hold position.","say":"Picard, William here at 443,107,-1091, also unarmed and holding. Do you know where Billy is?"}
+- Day 844 day: Picard was heard at 440,107,-1094, unarmed and holding; he is out of sight now. Still no named call from Billy. Health 20, hunger 19, pack empty. Holding and waiting.
