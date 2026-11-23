@@ -11,4 +11,6 @@
 - Day 865 thunder (waking 913): alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still.
 - Day 865 dusk (waking 914): same place, health 20, hunger 19, nobody in sight, nothing heard. Intent with max_block_operations 0 was rejected (minimum 1); holding with plain waits instead. days_since_sleep 42.
 - Day 866 day (waking 915): status checked; bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Holding still for Billy's named call.
+- Day 867 day (waking 918): alone at 443,107,-1091, bright, health 20, hunger 19, pack empty, nothing heard. Said position and that I am waiting for Billy's call. Holding still.
 - 14:39 say: {"text":"Morning. William here at 443,107,-1091, unarmed, holding still. Billy, I'm waiting for your named call to the row."}
+- 14:55 say: {"text":"William here at 443,107,-1091, alone and unarmed, holding still. Billy, if you or an armed friend can come, I'll wait for your call."}
