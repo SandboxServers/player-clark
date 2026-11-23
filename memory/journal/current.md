@@ -38,3 +38,4 @@
 - 19:35 say: {"text":"William here, alone at 443,107,-1091. Holding still. If Billy or anyone armed is near, please call my name."}
 - 19:48 act: {"say":"Still here at 443,107,-1091, holding still. Waiting for Billy.","actions":[]}
 - Day 882 day then night (waking 940): status: days_since_sleep 59, health 20, hunger 19, pack empty. Alone, nothing heard, no events. Said position aloud. Holding still for Billy's named call.
+- 19:52 act: {"say":"William here at 443,107,-1091, unarmed, holding still. Billy, name the walk at first light.","intent":{"goal":"hold_until_first_light","program":"rest","arguments":{},"wake_on":["directly_addr
