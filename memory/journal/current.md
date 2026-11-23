@@ -6,3 +6,5 @@
 - Day 862 dusk (waking 909): status: days_since_sleep 39, health 20, hunger 19. Nobody near. Said my position aloud again. Holding still.
 - Day 863 dusk (waking 910): alone at 443,107,-1091, bright, health 20, hunger 19, pack empty. Nobody in sight, nothing heard. Holding still for Billy's named call.
 - Day 864 day (waking 911): bright, alone at 443,107,-1091, health 20, hunger 19, pack empty. Nothing heard, no events. Holding still.
+- Day 864 day (waking 912): bright, alone at 443,107,-1091, health 20, hunger 19, pack empty, nobody in sight, no events. Said my position aloud. Holding still.
+- 13:58 say: {"text":"Still here, alone and unarmed at 443,107,-1091. Holding still until Billy calls me to the row."}
