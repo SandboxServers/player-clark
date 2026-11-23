@@ -8,3 +8,6 @@ Day 889, bright, clear. Still at 443,107,-1091. Pillager still 18.6 south at 439
 - Day 892, dusk, clear. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager still 18.6 south, not moving. Held still, said so. No bed, no walk. Waiting for Billy.
 - 23:01 act: {"reasoning":"Pillager 18 blocks south, hostile, between me and the row. I am unarmed. Hold still and watch; do not walk toward it.","say":"I'm holding still here, unarmed. A pillager is to the south.
 - 23:05 act: {"reasoning":"Dusk. Still alone and unarmed in the open; pillager static 18.6 south. No safe bed. Hold still, wait for a named call.","say":"Still here at dusk, holding still. No bed in reach, so I wi
+- 23:18 say: {"text":"Morning. I am alone at 443,107,-1091 and I will hold still. A pillager is 18 blocks south."}
+- Day 892 morning, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager static 18.6 south. Held still, said so. Waiting for Billy's named call.
+- Day 893, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager static 18.6 south. No events, nobody in sight. Holding still.
