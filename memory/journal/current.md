@@ -5,3 +5,6 @@ Day 889, bright, clear. Still at 443,107,-1091. Pillager still 18.6 south at 439
 - 22:27 act: {"reasoning":"Night, unarmed, pillager 18 south. Hold still, do not approach.","say":"A pillager is to the south. I am staying still and unarmed.","intent":{"goal":"hold_still_at_night","program":"res
 - 22:32 act: {"actions":[],"say":"Nobody here. A pillager is to the south. I'm holding still."}
 - Day 890, bright. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager still 18.6 south. Held still, said so, no walk. Waiting for Billy.
+- Day 892, dusk, clear. Still at 443,107,-1091, health 20, hunger 19, pack empty. Pillager still 18.6 south, not moving. Held still, said so. No bed, no walk. Waiting for Billy.
+- 23:01 act: {"reasoning":"Pillager 18 blocks south, hostile, between me and the row. I am unarmed. Hold still and watch; do not walk toward it.","say":"I'm holding still here, unarmed. A pillager is to the south.
+- 23:05 act: {"reasoning":"Dusk. Still alone and unarmed in the open; pillager static 18.6 south. No safe bed. Hold still, wait for a named call.","say":"Still here at dusk, holding still. No bed in reach, so I wi
