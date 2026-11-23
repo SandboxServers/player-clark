@@ -48,3 +48,5 @@
 - 10:54 act: {"say":"William, still alone and unarmed at 443,107,-1091, dusk. Holding still. Billy or anyone from the row, call me by name when you can."}
 - 11:34 act: {"say":"Good morning. I am still here at 443,107,-1091, alone and holding still until Billy calls.","reasoning":"Alone and unarmed, nobody in sight. Holding still per my goals; no walk unless named."}
 - 11:38 act: {"actions":[]}
+- 11:43 act: {"say":"Morning, row. William at 443,107,-1091, unarmed, health 20, hunger 19. Holding still until Billy names a walk."}
+- Day 858 dusk: still alone at 443,107,-1091, dim, no events, nobody in sight. Health 20, hunger 19, pack empty. Holding; no walk, no bed here.
