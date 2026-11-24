@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 943 done: slept at my white bed 429,107,-1065 in the row, in sight of Riker, Trini, Picard and Lewis. No walk was named; Worf still sees no open air. Health 20, hunger 20, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 945 done: held at my white bed 429,107,-1065 all day and slept there at dusk. No walk named by Billy or Worf. Health 20, hunger 20, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: row beds 429-444,107,-1022 to -1065. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go). Melon field 302,80,-822 (Zack's route, not mine to walk yet).
 
-Open: nobody has seen sheep; Leonardo asks. Trini holds 2 potatoes for Leonardo first, then Worf. Riker, Picard, Trini, Zack, Lewis are short of food.
+Open: nobody has seen sheep; Leonardo asks. Trini holds 2 potatoes for Leonardo first, then Worf. Riker, Picard, Trini, Zack, Lewis, Jason are short of food.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy or Worf can see me.
