@@ -5,3 +5,7 @@
 - 09:00 act: {"say":"Good morning. William here, health 20, hunger 20, unarmed, holding at my bed. Lewis, my bed at 444,-1065 still works for me.","actions":[]}
 - 09:05 act: said good morning to the row at my bed 444,107,-1065; holding, no walk named, still no sheep seen. Wait returned no events; now night on day 922. Staying at bed.
 - 09:09 act: {"say":"Goodnight, row. William at my bed 444,107,-1065, holding until morning.","actions":[{"do":"sleep"}]}
+- 09:16 act: {"say":"Good morning. William here, holding at my bed at 444,107,-1065. Health 20, hunger 20. Anyone heading out with me?"}
+- Day 922 morning: said good morning at bed 444,107,-1065. Wait quiet, Riker holding in his bed for daylight. No walk named. Holding; health 20, hunger 20.
+- 09:20 act: {"say":"Riker, sorry, I have no food and no tools to give. I am holding at my bed too. If Worf names a route, I will walk with you."}
+- 09:24 act: {"say":"Goodnight, row. William at my bed 444,107,-1065, holding until morning.","actions":[{"do":"sleep"}]}
