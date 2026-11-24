@@ -8,3 +8,5 @@ Day 896. The pillager followed me north and shot me to death at 443,106,-1110. I
 - 01:14 act: {"say":"Morning, row. William at the white bed 444,107,-1065. Health 20, hunger 20, unarmed. Holding for Billy's named walk.","actions":[]}
 - Morning: Lewis holds at his bed, waiting for Billy's word. I hold at mine. Still no walk named, nothing near.
 - 01:31 act: {"actions":[],"say":"Morning, Troi and Riker. William at the white bed 444,107,-1065, health 20, hunger 20, pack empty. Holding for Billy's named call. Riker, I have nothing to give, but I am near if 
+- 01:40 say: {"text":"William here, at the white bed 443,107,-1065. Health 20, hunger 20, unarmed. Holding for Billy's named walk."}
+- 01:40 act: {"say":"Night, row. William beside the white bed, health 20, hunger 20, unarmed. Sleeping here.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}}]}
