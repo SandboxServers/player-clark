@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 949 done: held at my white bed 429,107,-1065 all day, no walk named by Billy or Worf. Slept beside the bed at dusk. Health 20, hunger 20, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 950 done: held at my white bed 429,107,-1065 all day. Worf still walled in, no walk named. Told Picard how beds work. Slept beside the bed at dusk. Health 20, hunger 20, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
