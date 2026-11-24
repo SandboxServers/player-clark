@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 906 done: dusk at my bed 443,107,-1065, slept beside it on the first call. No walk named, no one hurt. Pack empty, health 20, hunger 20, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 907 done: slept beside my white bed at 443,107,-1065, in sight of Lewis and Riker. No walk named, no one hurt. Pack empty, health 20, hunger 20, unarmed.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
