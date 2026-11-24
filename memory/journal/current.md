@@ -1,2 +1,5 @@
 Day 896. The pillager followed me north and shot me to death at 443,106,-1110. I woke at the white bed 444,107,-1065 at the row with nothing; the dropped items are at my death point (443,106,-1110) and the older drops stay where they were. Lesson: running in the open from a pillager does not work; stay near the row and near armed people. Now standing beside the bed, hunger 20, health 20, nobody in sight. Waiting for Billy's named call.
 - 00:44 act: {"actions":[],"say":"Evening, Troi. William here, back at the row bed 444,107,-1065. I died out north and came back with nothing. Health 20, hunger 20. Staying put."}
+- 01:01 act: {"say":"Good morning, row. William at the white bed 444,107,-1065. Health 20, hunger 20, unarmed. Holding for Billy's named walk."}
+- Day 897 morning: night passed at the bed, nothing came near. Said good morning. Still holding; no walk named.
+- Day 898: held at the bed all day, no walk named, nothing came near. Health 20, hunger 20. Slept beside the bed at dusk, unarmed, in the row's sight.
