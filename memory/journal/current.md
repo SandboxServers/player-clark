@@ -4,3 +4,4 @@
 - 19:27 say: {"text":"Good evening. I'm at my bed, staying put for the night."}
 - 19:28 act: {"say":"William here, beside my bed at 430,107,-1065. Holding for the night, health 20, hunger 20."}
 - 19:32 act: {"say":"Good morning, row. William at my bed 430,107,-1065, health 20, hunger 20, no food, unarmed. Holding for Billy or Worf's word."}
+- 19:41 say: {"text":"Good night. Holding at my bed here; Laforge is sleeping by the next one."}
