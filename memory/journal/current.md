@@ -11,3 +11,4 @@
 - 21:17 say: {"text":"Goodnight, row. William at my bed, staying put until light."}
 - 21:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}}]}
 - 21:21 say: {"text":"Good morning, row. William, awake at my bed. Holding here until Billy or Worf names a walk."}
+- 21:30 say: {"text":"Dusk. William at my white bed in the row, holding here for light. Goodnight, Riker and Trini."}

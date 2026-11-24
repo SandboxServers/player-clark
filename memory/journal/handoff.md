@@ -1,1 +1,1 @@
-Day 953 night. At my white bed 430,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. Lewis and Riker hold at their beds nearby. No errand running. Next: at light say good morning, hold at bed, eat only at hunger 6 or below, join a walk only when Billy or Worf names me.
+Day 959 night. Slept at my white bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running. Next: at light say good morning, hold at bed, eat only at hunger 6 or below, join a walk only when Billy or Worf names me.
