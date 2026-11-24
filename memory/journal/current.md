@@ -5,3 +5,4 @@
 - 06:20 wait: quiet. Lewis overheard saying the bed at 443,107,-1051 refused him; he asks Worf, Billy, Jason which bed they use. I hold at 444,107,-1065. Health 20, hunger 20, pack empty.
 - 06:21 act: {"say":"Good morning. William here, holding at my bed at the row. Is anyone out for a daylight walk?","actions":[]}
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}}],"say":"William at my bed, 444,107,-1065. Unarmed, health 20, hunger 20. Holding for a named daylight walk from Billy."}
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}}],"say":"Good morning. William at my bed, 444,107,-1065. Health 20, hunger 20, unarmed. Holding for a named daylight walk."}
