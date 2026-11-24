@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 907 done: slept beside my white bed at 443,107,-1065, in sight of Lewis and Riker. No walk named, no one hurt. Pack empty, health 20, hunger 20, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 908 done: slept at my white bed at 443,107,-1065, with Lewis and Riker at the row. Billy was out at 423-430,-1051 with phantoms and no weapons; I did not go out to him, since no armed walk was named. Pack empty, health 20, hunger 20, unarmed.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
@@ -11,6 +11,6 @@ Rules I keep:
 
 Places: row beds 429-444,107,-1022 to -1065. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo keeps asking. Leonardo holds Worf's potato until Worf is in his sight.
+Open: nobody has seen sheep; Leonardo keeps asking. Billy holds potatoes for Worf and Zack; Bcrusher is owed some.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy can see me.
