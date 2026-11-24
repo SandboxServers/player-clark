@@ -9,3 +9,4 @@
 - Day 922 morning: said good morning at bed 444,107,-1065. Wait quiet, Riker holding in his bed for daylight. No walk named. Holding; health 20, hunger 20.
 - 09:20 act: {"say":"Riker, sorry, I have no food and no tools to give. I am holding at my bed too. If Worf names a route, I will walk with you."}
 - 09:24 act: {"say":"Goodnight, row. William at my bed 444,107,-1065, holding until morning.","actions":[{"do":"sleep"}]}
+- 09:33 act: {"say":"Good morning, row. William here at my bed 444,107,-1065, health 20, hunger 20, unarmed. Holding until Billy or Worf names a walk. Riker, I have nothing to give, but I will walk with you when n
