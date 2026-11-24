@@ -1,5 +1,5 @@
-# Handoff, William, day 941 dusk
+# Handoff, William, day 943 dusk
 
-- Asleep at my white bed 429,107,-1065 in the row, beside Riker. Health 20, hunger 20, pack empty, unarmed.
-- No walk named by Billy or Worf. Worf still sees no open air.
+- At my white bed 429,107,-1065 in the row, sheltered, not in danger. Health 20, hunger 20, pack empty, unarmed.
+- No walk named by Billy or Worf all day. Worf still sees no open air.
 - Next waking: say good morning, hold at the bed. Eat only at hunger 6 or below. Join a walk only when Billy or Worf names me. Sheep still unknown.
