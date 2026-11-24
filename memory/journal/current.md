@@ -3,3 +3,7 @@ Day 896. The pillager followed me north and shot me to death at 443,106,-1110. I
 - 01:01 act: {"say":"Good morning, row. William at the white bed 444,107,-1065. Health 20, hunger 20, unarmed. Holding for Billy's named walk."}
 - Day 897 morning: night passed at the bed, nothing came near. Said good morning. Still holding; no walk named.
 - Day 898: held at the bed all day, no walk named, nothing came near. Health 20, hunger 20. Slept beside the bed at dusk, unarmed, in the row's sight.
+- 01:10 act: {"say":"Holding at the bed. No one in sight yet, so I am staying put for the night.","actions":[]}
+- Dusk, day 898: woke from sleep, still at the bed 444,107,-1065. Nobody in sight, health 20, hunger 20. Holding; no walk named.
+- 01:14 act: {"say":"Morning, row. William at the white bed 444,107,-1065. Health 20, hunger 20, unarmed. Holding for Billy's named walk.","actions":[]}
+- Morning: Lewis holds at his bed, waiting for Billy's word. I hold at mine. Still no walk named, nothing near.
