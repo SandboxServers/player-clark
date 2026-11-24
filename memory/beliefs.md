@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 943 (latest): held at bed 429,107,-1065 through night and morning; no walk named. Dusk sleep beside the bed worked on the first call. Riker (11) and Picard (2.3) are hurt and short of food; I have none to give until my potatoes are back. Next curiosity: sheep; tell Leonardo nobody has found them.
+
 - Day 943: held at bed 429,107,-1065 all day; no walk named, Worf still sees no open air. Dusk sleep at that bed worked on the first call. Hunger stayed 20. Trini, Zack, Lewis and Picard are short of food; I have none to give. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 916: held at bed 444,107,-1065 all day; no walk named. Riker and Laforge held beside me. Sleep at dusk: the first call was refused at dusk, so I waited and slept at my bed. Next curiosity: sheep; tell Leonardo nobody has found them.
