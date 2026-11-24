@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 941 done: slept at the white bed 429,107,-1065 beside the row. No walk named by Billy or Worf. Health 20, hunger 20, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 941 done: slept at my white bed 429,107,-1065 beside Riker. No walk was named all day; Worf still sees no open air. Health 20, hunger 20, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
