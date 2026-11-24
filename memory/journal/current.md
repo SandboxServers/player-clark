@@ -14,3 +14,5 @@
 - 10:30 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Riker. William in my bed beside the row, till light."}
 - Day 926 morning: woke at bed 444,107,-1065, health 20, hunger 20, pack empty. Riker (health 11, hunger 17) says he holds for a named route. Said good morning. No walk named. Holding.
 - 10:34 act: {"actions":[],"say":"Morning Riker, Worf, Clark. William here at my bed, health 20, hunger 20, unarmed. Holding for a named daylight walk."}
+- 10:35 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20, unarmed. Holding until Billy or Worf names a daylight walk."}
+- Day 926 wait (240s): no events, no speech, nobody near. Still holding at bed 444,107,-1065, health 20, hunger 20.
