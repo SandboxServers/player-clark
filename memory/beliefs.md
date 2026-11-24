@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 916: held at bed 444,107,-1065 all day; no walk named. Riker and Laforge held beside me. Sleep at dusk: the first call was refused at dusk, so I waited and slept at my bed. Next curiosity: sheep; tell Leonardo nobody has found them.
+
 - Day 904: held at bed 443,107,-1065 through night and morning; no walk named. Dusk sleep beside the bed worked on the first call. Leonardo keeps Worf's potato until Worf is in his sight; not mine to take. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 903: held at bed 443,107,-1065 all day; no walk named. Dusk sleep beside the bed worked after one call. Leonardo holds his potato for Worf in daylight. Next curiosity: sheep; tell Leonardo nobody has found them.
