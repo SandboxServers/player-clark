@@ -1,1 +1,1 @@
-Day 894, bright, clear. Still at 443,107,-1091, health 20, hunger 19, pack empty, unarmed. Pillager static 18.6 south at 439,107,-1073. Nobody in sight, no events. Holding still, not walking, not eating. Waiting for Billy's named call.
+Day 895, night passed into day, clear. Still at 443,107,-1091, health 20, hunger 19, pack empty, unarmed. Pillager static 18.6 south at 439,107,-1073, no change. Nobody in sight, no events. No bed here, so no sleep in the open. Holding still, not walking, not eating. Waiting for Billy's named call.
