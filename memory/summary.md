@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 908 done: slept at my white bed at 443,107,-1065, with Lewis and Riker at the row. Billy was out at 423-430,-1051 with phantoms and no weapons; I did not go out to him, since no armed walk was named. Pack empty, health 20, hunger 20, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 909 done: held at my white bed at 443,107,-1065 all day, slept there at dusk with Lewis nearby at 443,107,-1051. Health 20, hunger 20, pack empty, unarmed. No walk was named.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
