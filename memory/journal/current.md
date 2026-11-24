@@ -8,3 +8,6 @@
 - Day 958 morning: said good morning at my bed 430,107,-1065. Health 20, hunger 20, pack empty. Picard health 2.3 and Riker 11 are short of food; no walk named yet. Holding.
 - Day 958 dusk: held all day at my bed. Worf still walled, no route. Going to bed at 429,107,-1065, health 20, hunger 20.
 - 21:16 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. William at my bed, health 20, hunger 20, no walk named. Goodnight, row."}
+- 21:17 say: {"text":"Goodnight, row. William at my bed, staying put until light."}
+- 21:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}}]}
+- 21:21 say: {"text":"Good morning, row. William, awake at my bed. Holding here until Billy or Worf names a walk."}
