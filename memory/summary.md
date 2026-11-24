@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 920 done: held at my white bed 444,107,-1065 all day, nobody named a walk. Health 20, hunger 20, pack empty, unarmed. Slept at dusk at the bed; the day has not turned yet.
+I am William (ag_clark_01), at the row with Billy's group. Day 920 done: held at my white bed 444,107,-1065 all day, nobody named a walk. Slept at night beside the bed. Health 20, hunger 20, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
