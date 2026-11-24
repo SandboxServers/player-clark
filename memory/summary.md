@@ -1,11 +1,11 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 920 done: held at my white bed 444,107,-1065 all day, nobody named a walk. Slept at night beside the bed. Health 20, hunger 20, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 927 done: held at my white bed 444,107,-1065 all day, no walk named. Slept at night (sleep verb, not use; use on a bed fails). Health 20, hunger 20, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
 - Eat at hunger 6 or below; ask Billy, Zack, Chapman, Jason, MacDonald.
-- Sleep beside a white bed at night, in Billy's sight.
+- Sleep at a white bed in the row at night, in Billy's sight.
 - Stay off open ground alone. A pillager killed me on day 896 north of the row. A phantom killed Lewis at 418,-1053.
 - Spider eyes poison, they do not feed.
 
