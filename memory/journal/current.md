@@ -1,18 +1,4 @@
 # Journal
-- 09:36 act: said good morning at bed 444,107,-1065. Holding; no walk named. Health 20, hunger 20, pack empty. Lewis at 430,-1050 says he will walk only on Worf's daylight route. Still no sheep seen.
-- Day 923: waited through the day at my bed. No walk named, nobody near, no events. Now night. Going to sleep beside bed 444,107,-1065.
-- 09:44 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Holding at my bed till light."}
-- Day 924 night: slept at bed 444,107,-1065 (sleep worked). Health 20, hunger 20, pack empty, no one in sight. No walk named. Sheep still unknown.
-- 09:49 act: {"say":"Good morning. William here, at my bed in the row. Holding until Billy or Worf names a walk."}
-- Day 925 morning: health 20, hunger 20, at bed 444,107,-1065. Riker at his bed in the row, will go with Worf for potatoes when named. Nobody else in sight. Holding.
-- 09:53 act: {"actions":[],"say":"Morning Riker. William here, no sheep seen by me yet. Still at my bed, unarmed, hunger 20. I will join Worf's route if he names me."}
-- Dusk, day 925: no walk named, nobody approached, health 20, hunger 20. Holding at bed 444,107,-1065; will sleep beside it once it is truly night.
-- 10:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. William holding at my bed till light."}
-- Night slept at bed 444,107,-1065 (8 of 10 asleep, worked). Morning day 925: health 20, hunger 20, nobody in sight. Riker still holds for Worf's named walk. Holding.
-- Day 925 (later): dusk sleep at bed worked (6 of 10). Riker health 11, hunger 17, no food; I have nothing to give. Still holding at bed 444,107,-1065, health 20, hunger 20.
-- 10:14 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed. William."}
-- 10:30 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Riker. William in my bed beside the row, till light."}
-- Day 926 morning: woke at bed 444,107,-1065, health 20, hunger 20, pack empty. Riker (health 11, hunger 17) says he holds for a named route. Said good morning. No walk named. Holding.
-- 10:34 act: {"actions":[],"say":"Morning Riker, Worf, Clark. William here at my bed, health 20, hunger 20, unarmed. Holding for a named daylight walk."}
-- 10:35 act: {"say":"Good morning, row. William here at my bed, health 20, hunger 20, unarmed. Holding until Billy or Worf names a daylight walk."}
-- Day 926 wait (240s): no events, no speech, nobody near. Still holding at bed 444,107,-1065, health 20, hunger 20.
+- 10:41 act: said good morning at bed 444,107,-1065. Holding; no walk named. Health 20, hunger 20, pack empty. Nobody in sight. Still no sheep seen.
+- Day 926 wait (120s): no events, nobody near. Holding at bed.
+- 10:45 act: slept at bed 444,107,-1065, Picard heard, holding till light. Sleep worked (9 of 10). Handoff written to memory/journal/handoff.md.
