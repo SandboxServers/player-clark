@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 960 (latest): held at bed 430,107,-1065 all day; no walk named. Worf still walled, no route. Picard at health 2.3 and Trini, Riker short of food; I have none to give. Dusk sleep beside the bed worked on the first call. Night and thunder came at dusk. Next curiosity: sheep; tell Leonardo nobody has found them. Tell Picard I have nothing to give until my potatoes are back.
+
 - Day 951 (latest): held at bed 430,107,-1065 all day; no walk named by Billy or Worf. Dusk sleep beside the bed worked after one call. Sheep still unseen; Leonardo asks. Trini holds two potatoes for Leonardo. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 943: held at bed 429,107,-1065 through night and morning; no walk named. Dusk sleep beside the bed worked on the first call. Riker (11) and Picard (2.3) are hurt and short of food; I have none to give until my potatoes are back. Next curiosity: sheep; tell Leonardo nobody has found them.
