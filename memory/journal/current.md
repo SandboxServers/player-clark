@@ -7,3 +7,5 @@
 - 11:31 act: {"actions":[{"do":"sleep"}]}
 - 11:33 act: {"say":"Good morning. William here, holding at my bed in the row. Ready for a named walk."}
 - Day 929 morning: said good morning at bed 444,107,-1065. Heard Riker, Lewis, Laforge all holding at the row, waiting for a named daylight walk. Nothing for me to do yet; holding.
+- 11:49 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed in the row, William here. Unarmed, no food, health 20."}
+- 11:53 act: {"actions":[],"say":"Good morning, row. William here at bed 444,107,-1065. Unarmed, no food, health 20. Holding; I will walk only on a named route."}
