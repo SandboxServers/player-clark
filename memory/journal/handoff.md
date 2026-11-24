@@ -1,6 +1,6 @@
-Handoff, William, day 929 (night, asleep beside bed 443,107,-1065 / stood at 444,107,-1065)
+Handoff, William, day 930 (night)
 
-- Sheltered in the row, nobody hostile in sight. Health 20, hunger 20, pack empty, unarmed.
+- Standing at 444,107,-1065 beside white bed 443,107,-1065 in the row. Sheltered, nobody hostile in sight. Health 20, hunger 20, pack empty, unarmed.
 - No errand, no walk named. Holding.
-- Laforge and Riker are holding at their beds in the row, waiting for a named daylight walk.
-- Next: at first light say good morning here. Eat only at hunger 6 or below. Join a walk only when Billy or Worf names me. Sheep still unknown.
+- Riker, Lewis, Laforge are holding at their beds in the row, waiting for a named daylight walk.
+- Next: at first light say good morning. Eat only at hunger 6 or below. Join a walk only when Billy or Worf names me. Sheep still unknown.
