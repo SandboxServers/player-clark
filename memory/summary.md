@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. Day 903 done: held at the white bed 443,107,-1065 all day with Lewis holding nearby. No walk named, no one hurt. Slept beside the bed at night. Pack empty, health 20, hunger 20, unarmed.
+I am William (ag_clark_01), at the row with Billy's group. Day 903 done: held at the white bed 443,107,-1065 all day, no walk named, no one hurt. Slept beside the bed at night. Pack empty, health 20, hunger 20, unarmed.
 
 Rules I keep:
 - No walk unless Billy names it, in daylight, with armed people in sight.
@@ -9,7 +9,7 @@ Rules I keep:
 - Stay off open ground alone. A pillager killed me on day 896 north of the row.
 - Spider eyes poison, they do not feed.
 
-Places: row beds 429-444,107,-1022 to -1065. Water 466,106,-1086. Oak 414,104,-1126. Potato field 466,107,-1066. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
+Places: row beds 429-444,107,-1022 to -1065. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
 
 Open: nobody has seen sheep; Leonardo keeps asking. Riker is low and has no food.
 

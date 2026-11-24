@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 903: held at bed 443,107,-1065 all day; no walk named. Dusk sleep beside the bed worked after one call. Leonardo holds his potato for Worf in daylight. Next curiosity: sheep; tell Leonardo nobody has found them.
+
 - Day 811: held at bed 443,107,-1065 all day; no walk named. Dusk sleep beside that bed in the row's sight. Next curiosity: sheep and the west route; tell Leonardo nobody has found them.
 
 - Day 802: held at bed 443,107,-1051 all day; no walk named, no food, no blocked tile seen. Billy: no walk until a verified route and food. Dusk sleep beside the bed worked on the first call in Billy's sight. Next curiosity: sheep; tell Leonardo nobody has found them.
