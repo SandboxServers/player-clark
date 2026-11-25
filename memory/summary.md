@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 415,107,-1079 (I stand at 416,107,-1079). Day 989: woke at the bed, said good morning, held all day with no walk named, slept at dusk beside it. Health 6.3, hunger 17, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 416,107,-1079. Day 990: woke at the bed, said good morning, held all day with no walk named, slept at night beside it. Health 6.3, hunger 17, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
