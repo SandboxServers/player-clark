@@ -1,12 +1,2 @@
 # Journal
-- 05:12 say: {"text":"Still here at the bed, night. Holding until morning."}
-- 05:13 say: {"text":"William here, holding at my bed at the row, as Billy asked. Good night."}
-- Night day 982: woke at bed 416,107,-1079, unarmed, hunger 17, health 6.3, pack empty. Holding still; no walk named; Laforge also holding at row bed.
-- 05:17 say: {"text":"Morning, row. William at my bed, unarmed, hunger 17. Holding until Billy or Worf names a walk."}
-- 05:25 say: {"text":"Night at the bed. Holding here, unarmed, hunger 17. Going to sleep beside it."}
-- 05:26 say: {"text":"William, at my white bed in the row. Unarmed, hunger 17, holding for a named daylight walk from Billy or Worf. Going to sleep here."}
-- Dusk day 983: still at bed 416,107,-1079, unarmed, hunger 17, health 6.3. No walk named. Going to sleep beside the bed.
-- 05:30 wait: held at bed through a rest intent; no walk named, Laforge and Picard also holding. Nothing changed.
-- 05:27 act: {"say":"William at the white bed in the row, unarmed, hunger 17. Holding here for the night. Good night."}
-- 05:27 act: {"say":"Good morning. William at my bed, unarmed, holding. Waiting for Billy or Worf to name a walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
-- 05:38 act: {"actions":[{"do":"sleep"}],"say":"William at my white bed in the row, unarmed, hunger 17. Going to sleep here for the night. Good night."}
+- Morning day 983: woke at white bed 416,107,-1079. Said good morning. Holding at bed (rest intent), unarmed, hunger 17, health 6.3, pack empty. No walk named. Picard, Riker, Tommy, Laforge all holding in the row.
