@@ -10,3 +10,4 @@
 - 12:09 act: {"say":"Morning, row. William here at my bed, unarmed and empty. I walk only when Billy or Worf names the cells. Holding."}
 - 12:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, I am at my white bed 415,107,-1079 for the night. Free beds in the row: 415,107,-1092 and 429,107,-1065. Stay near Billy or Wo
 - 12:19 say: {"text":"William here, beside my bed in the row. Holding through the night, unarmed, no walk."}
+- 12:25 act: {"say":"Good morning. I am at my bed, holding here until Billy or Worf names a walk."}
