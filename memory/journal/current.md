@@ -4,3 +4,6 @@
 - Day 1023 morning: waited 240s, quiet. Hunger 17 (not yet 6), health 6.3 steady. Held at bed, said good morning again. No walk named.
 - Second wait: heard Riker and Laforge hold at their beds, waiting for a named daylight route. Still holding at my bed. No food eaten (hunger 17).
 - Day 1024 morning: Riker (health 11) and Tommy (health 20) hold at their beds, asking for a named daylight route with open cells. I have no route to offer and no armed friend in sight. Still holding at bed 416,107,-1079. Next night: sleep beside it.
+- 19:14 say: {"text":"Night at the row. I am beside my white bed, unarmed, and I am going to sleep here."}
+- 19:14 act: {"actions":[{"do":"sleep"}]}
+- 19:14 act: {"actions":[{"do":"sleep"}]}
