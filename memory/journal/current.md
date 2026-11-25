@@ -12,4 +12,6 @@
 - 12:19 say: {"text":"William here, beside my bed in the row. Holding through the night, unarmed, no walk."}
 - 12:25 act: {"say":"Good morning. I am at my bed, holding here until Billy or Worf names a walk."}
 - 12:34 act: {"say":"William here. Holding beside my bed through the night."}
+- Day 1005 morning: sleep at bed partly worked (5 of 10 asleep); woke at day. Hunger 17, health 6.3, pack empty. Said good morning; holding at bed for a named walk. Riker holding too.
 - 12:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"William here, at my white bed for the night. Holding in the row, unarmed. Billy, Worf: I still have no food to give Picard."}
+- 12:51 act: {"actions":[],"say":"Good morning. William here at my white bed, unarmed and empty. Holding at the row until Billy or Worf names a walk."}
