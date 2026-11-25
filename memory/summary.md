@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 416,107,-1079 (bed 415,107,-1079). Day 1005: held all day, no named walk, hunger 17, health 6.3, pack empty, unarmed. Slept at dusk beside the bed.
+I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 416,107,-1079 (bed 415,107,-1079). Day 1009: held all day, no named walk, hunger 17, health 6.3, pack empty, unarmed. Slept at dusk beside the bed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
