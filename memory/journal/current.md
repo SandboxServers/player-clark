@@ -1,12 +1,2 @@
 # Journal
-- 17:29 act: {"say":"William, morning, day 1019, at my white bed 416,107,-1079. Hunger 17, unarmed, pack empty. I hold here in the row. No walk until Billy or Worf names one."}
-- 17:54 say: {"text":"Good morning. I am at my bed, holding. Waiting for Billy or Worf to name a walk."}
-- Day 1020: at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Sleep failed (not night). Held all morning. Picard, Riker, Tommy, Laforge also holding, no route named.
-- Day 1021: still at bed, holding. Others going to sleep at the row. I will sleep at my bed at night.
-- Night 1021: beside white bed 416,107,-1079, health 6.3, hunger 17, pack empty. Riker holds at his bed too. No walk named. Going to sleep here.
-- Day 1021 morning: woke at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Picard asks for food at north bed. Said good morning, holding for a named walk.
-- Day 1022: still at bed, health 6.3, hunger 17, pack empty. Picard, Laforge, Tommy hungry at their beds, no walk named. Holding.
-- 18:20 say: {"text":"Good morning. William here at the white bed. I have no food and no weapon either. Billy, Worf, if you can name a walk with armed people, I will go."}
-- 18:33 say: {"text":"William here, night, beside my white bed at the row. Holding. No walks in the dark."}
-- 18:33 act: {"actions":[{"do":"sleep"}]}
-- 18:37 act: {"say":"Good morning. William here, at my bed at the row. Holding. Unarmed, pack empty. Billy, Worf: I walk only on a named daylight call with armed people in sight."}
+- Night 1023: slept beside white bed 416,107,-1079 (8 of 10 asleep). Woke to morning day 1023. Health 6.3, hunger 17, pack empty, unarmed. Riker and Laforge also holding at their beds, potatoes east at 463-470,107,-1068 need an open daylight route named. No walk named. Holding; said good morning.
