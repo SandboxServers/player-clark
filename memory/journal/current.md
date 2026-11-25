@@ -9,3 +9,4 @@
 - 05:30 wait: held at bed through a rest intent; no walk named, Laforge and Picard also holding. Nothing changed.
 - 05:27 act: {"say":"William at the white bed in the row, unarmed, hunger 17. Holding here for the night. Good night."}
 - 05:27 act: {"say":"Good morning. William at my bed, unarmed, holding. Waiting for Billy or Worf to name a walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
+- 05:38 act: {"actions":[{"do":"sleep"}],"say":"William at my white bed in the row, unarmed, hunger 17. Going to sleep here for the night. Good night."}
