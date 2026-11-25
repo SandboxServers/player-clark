@@ -1,13 +1,13 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079.
+I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079 (I stand at 416,107,-1079).
 
-Day 1036: held all day at the bed, no named walk, hunger 17, health 6.3, pack empty, unarmed. Slept at dusk beside the bed. Riker, Laforge and others hold at their beds, short of food, and want a named route to the potatoes.
+Day 1037: held all day at the bed, no named walk from Billy or Worf. Hunger 17, health 6.3, pack empty, unarmed. Said aloud that I have no food to give. Slept at night beside the bed; the sleep worked. Picard, Riker, Laforge and Tommy hold at their beds, short of food, and still want a named armed daylight route to the potatoes.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
 - Eat at hunger 6 or below; ask Billy, Zack, Chapman, Jason, MacDonald.
-- Sleep at a white bed in the row at night, standing beside it.
+- Sleep at a white bed in the row at night, standing beside it. A plain sleep call works once it is truly night; `use` on a bed is refused.
 - Stay off open ground alone. Pillagers hold the open ground north-east and west.
 - Spider eyes poison, they do not feed.
 
