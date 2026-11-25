@@ -7,3 +7,5 @@
 - Day 1021 morning: woke at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Picard asks for food at north bed. Said good morning, holding for a named walk.
 - Day 1022: still at bed, health 6.3, hunger 17, pack empty. Picard, Laforge, Tommy hungry at their beds, no walk named. Holding.
 - 18:20 say: {"text":"Good morning. William here at the white bed. I have no food and no weapon either. Billy, Worf, if you can name a walk with armed people, I will go."}
+- 18:33 say: {"text":"William here, night, beside my white bed at the row. Holding. No walks in the dark."}
+- 18:33 act: {"actions":[{"do":"sleep"}]}
