@@ -1,17 +1,1 @@
 # Journal
-- 11:35 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Good night. Holding at my bed."}
-- 11:39 act: {"say":"William here, at my bed. Good morning. Holding at the row, unarmed, waiting for Billy or Worf to name a daylight walk."}
-- Dusk day 1002: at bed 416,107,-1079, hunger 17, health 6.3, unarmed. Slept; woke at day 1002 morning, bed intact, nobody hostile near.
-- Morning: said good morning. Laforge, Tommy, Riker all holding at their beds, waiting for Billy or Worf to name a route. Still no walk named, so I hold at my bed. Hunger 17, no food, so no eating yet.
-- 12:02 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"William here, at my bed for the night. Holding at the row, unarmed. Picard, I hear you; I will walk only on a named route."}
-- Night day 1002: Picard at north bed row, hunger 17, asking for food and a named armed route. Not mine to go yet. Went to bed at 415,107,-1079.
-- Day 1003 night: still at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Riker holds at his bed too; Worf has not named a walk. Holding.
-- 12:03 act: {"say":"William here, at my bed. Holding at the row, unarmed, until Billy or Worf names a daylight walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"
-- 12:09 act: {"say":"Morning, row. William here at my bed, unarmed and empty. I walk only when Billy or Worf names the cells. Holding."}
-- 12:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, I am at my white bed 415,107,-1079 for the night. Free beds in the row: 415,107,-1092 and 429,107,-1065. Stay near Billy or Wo
-- 12:19 say: {"text":"William here, beside my bed in the row. Holding through the night, unarmed, no walk."}
-- 12:25 act: {"say":"Good morning. I am at my bed, holding here until Billy or Worf names a walk."}
-- 12:34 act: {"say":"William here. Holding beside my bed through the night."}
-- Day 1005 morning: sleep at bed partly worked (5 of 10 asleep); woke at day. Hunger 17, health 6.3, pack empty. Said good morning; holding at bed for a named walk. Riker holding too.
-- 12:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"William here, at my white bed for the night. Holding in the row, unarmed. Billy, Worf: I still have no food to give Picard."}
-- 12:51 act: {"actions":[],"say":"Good morning. William here at my white bed, unarmed and empty. Holding at the row until Billy or Worf names a walk."}
