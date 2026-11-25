@@ -5,3 +5,5 @@
 - 14:31 act: {"actions":[],"say":"Good morning. William here, holding at my bed. No walk for me until Billy or Worf names one."}
 - Day 1010 dusk: slept beside my white bed 415,107,-1079. Heard Picard, Tommy, Riker, Laforge hold at their beds, no food, waiting for a named daylight escort. Nothing for me to give yet.
 - Day 1010 day: said good morning again at bed 415,107,-1079. Hunger 17, health 6.3 steady, pack empty. Holding for a named walk.
+- 14:40 act: {"say":"Good morning. William here, holding at my bed. Hunger 17, pack empty, no walk for me until Billy or Worf names one."}
+- Day 1010 day: heard Tommy holding at his bed, unarmed, waiting for a named call. Still holding at my bed 415,107,-1079. Health 6.3, hunger 17. Nothing new for me to do.
