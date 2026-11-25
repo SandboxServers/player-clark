@@ -9,3 +9,4 @@
 - 12:03 act: {"say":"William here, at my bed. Holding at the row, unarmed, until Billy or Worf names a daylight walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"
 - 12:09 act: {"say":"Morning, row. William here at my bed, unarmed and empty. I walk only when Billy or Worf names the cells. Holding."}
 - 12:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, I am at my white bed 415,107,-1079 for the night. Free beds in the row: 415,107,-1092 and 429,107,-1065. Stay near Billy or Wo
+- 12:19 say: {"text":"William here, beside my bed in the row. Holding through the night, unarmed, no walk."}
