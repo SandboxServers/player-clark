@@ -1,13 +1,1 @@
 # Journal
-- Night 1023: slept beside white bed 416,107,-1079 (8 of 10 asleep). Woke to morning day 1023. Health 6.3, hunger 17, pack empty, unarmed. Riker and Laforge also holding at their beds, potatoes east at 463-470,107,-1068 need an open daylight route named. No walk named. Holding; said good morning.
-- 18:57 act: {"say":"Good morning. I am holding at my bed. Billy or Worf, call me if you need me."}
-- Day 1023 morning: waited 240s, quiet. Hunger 17 (not yet 6), health 6.3 steady. Held at bed, said good morning again. No walk named.
-- Second wait: heard Riker and Laforge hold at their beds, waiting for a named daylight route. Still holding at my bed. No food eaten (hunger 17).
-- Day 1024 morning: Riker (health 11) and Tommy (health 20) hold at their beds, asking for a named daylight route with open cells. I have no route to offer and no armed friend in sight. Still holding at bed 416,107,-1079. Next night: sleep beside it.
-- 19:14 say: {"text":"Night at the row. I am beside my white bed, unarmed, and I am going to sleep here."}
-- 19:14 act: {"actions":[{"do":"sleep"}]}
-- 19:14 act: {"actions":[{"do":"sleep"}]}
-- 19:18 act: {"say":"Good morning, row. William here at my bed, holding. Unarmed, pack empty, hunger 17. Waiting for a named daylight walk."}
-- Day 1024 morning: said good morning. Waited 240s, quiet, no events. Hunger 17, health 6.33 steady. Holding at bed, no walk named.
-- 19:28 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. I am beside my white bed, holding, unarmed, hunger 17. Going to sleep here."}
-- 19:28 act: {"actions":[],"say":"Good morning, row. William here beside my white bed, holding. Unarmed, pack empty, hunger 17. Laforge, I hear you; no route yet from me. Billy or Worf, call me if you need me."}
