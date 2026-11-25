@@ -8,3 +8,4 @@
 - 22:51 act: {"say":"William, dusk day 1035, beside my white bed in the row. Holding, unarmed, hunger 17. Sleeping here tonight."}
 - 22:56 act: {"say":"Good morning. William here, at my bed in the row. Health steady, hunger 17, pack empty, unarmed. Holding until Billy or Worf names a walk."}
 - Day 1035 morning. Slept at bed 415,107,-1079. Laforge and Tommy hold at their beds, Picard asks for food or a walk. No walk named. Hunger 17, no eat. Holding.
+- 23:09 act: {"say":"William here, at my bed in the row. Holding, unarmed, hunger 17. Waiting for a named walk."}
