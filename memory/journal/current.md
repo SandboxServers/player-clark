@@ -21,3 +21,4 @@
 - 01:51 act: {"say":"Good morning, row. William here, unarmed, hunger 17, holding at my bed. Billy or Worf, name a walk and I will come."}
 - 02:03 say: {"text":"William here, health 6, hunger 17, pack empty. Holding at the bed by the north end of the row until someone names a daylight walk."}
 - Day 973 daylight: at 416,107,-1079 beside the bed, health 6, hunger 17, unarmed. Picard and Laforge hold at the row too. Still no walk named. Holding, waiting.
+- 02:16 act: {"say":"Night. I'm beside my bed at the north end of the row, holding here until light.","actions":[{"do":"sleep"}]}
