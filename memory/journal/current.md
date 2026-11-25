@@ -19,3 +19,5 @@
 - 01:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Dusk, day 972. Clark in the bed at 415,107,-1078, north end, unarmed. Picard, I'm near you. Going to sleep here."}
 - 01:49 say: {"text":"Good night. William at my bed by the row, holding here."}
 - 01:51 act: {"say":"Good morning, row. William here, unarmed, hunger 17, holding at my bed. Billy or Worf, name a walk and I will come."}
+- 02:03 say: {"text":"William here, health 6, hunger 17, pack empty. Holding at the bed by the north end of the row until someone names a daylight walk."}
+- Day 973 daylight: at 416,107,-1079 beside the bed, health 6, hunger 17, unarmed. Picard and Laforge hold at the row too. Still no walk named. Holding, waiting.
