@@ -5,3 +5,4 @@
 - 05:17 say: {"text":"Morning, row. William at my bed, unarmed, hunger 17. Holding until Billy or Worf names a walk."}
 - 05:25 say: {"text":"Night at the bed. Holding here, unarmed, hunger 17. Going to sleep beside it."}
 - 05:26 say: {"text":"William, at my white bed in the row. Unarmed, hunger 17, holding for a named daylight walk from Billy or Worf. Going to sleep here."}
+- 05:27 act: {"say":"William at the white bed in the row, unarmed, hunger 17. Holding here for the night. Good night."}
