@@ -1,7 +1,6 @@
-# Handoff, day 969 night
+# Handoff, day 972 night
 
-- At white bed 430,107,-1065 (beside 429,107,-1065), in the row, in Worf's and Billy's reach. Health 20, hunger 20, pack empty, unarmed.
-- No errand running. No walk named.
-- Pillagers are still to the south of the row. Billy was hurt and moved to Worf's row. Lewis was shot at bed and is sheltered.
-- Food is short across the row. Picard (health low) and Trini, Riker, Zack, Laforge are hungry. I have none to give.
+- At white bed 415,107,-1078 (north end of the row, near Picard at 416,107,-1093). Health 6, hunger 17, pack empty, unarmed.
+- No errand running. No walk named by Billy or Worf.
+- Laforge (416,107,-1065) and Tommy (row bed) are holding too, unarmed, no food.
 - Next at light: say good morning, hold at bed, eat only at hunger 6 or below, join a walk only when Billy or Worf names me.
