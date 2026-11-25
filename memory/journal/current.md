@@ -17,3 +17,4 @@
 - Day 971 midday: walked in daylight to the white bed at 415,107,-1078 with nothing in sight. Now standing beside it, unarmed, health 6, hunger 17. Picard's grave sign is nearby. Waiting here for light or Billy/Worf.
 - 01:45 act: {"say":"Clark at the white bed 415,107,-1078, unarmed, health 6. Picard, I hear you. I'm holding at the north end with you. Billy or Worf, name the walk."}
 - 01:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Dusk, day 972. Clark in the bed at 415,107,-1078, north end, unarmed. Picard, I'm near you. Going to sleep here."}
+- 01:49 say: {"text":"Good night. William at my bed by the row, holding here."}
