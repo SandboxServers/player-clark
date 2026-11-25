@@ -9,3 +9,5 @@
 - 19:14 act: {"actions":[{"do":"sleep"}]}
 - 19:18 act: {"say":"Good morning, row. William here at my bed, holding. Unarmed, pack empty, hunger 17. Waiting for a named daylight walk."}
 - Day 1024 morning: said good morning. Waited 240s, quiet, no events. Hunger 17, health 6.33 steady. Holding at bed, no walk named.
+- 19:28 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. I am beside my white bed, holding, unarmed, hunger 17. Going to sleep here."}
+- 19:28 act: {"actions":[],"say":"Good morning, row. William here beside my white bed, holding. Unarmed, pack empty, hunger 17. Laforge, I hear you; no route yet from me. Billy or Worf, call me if you need me."}
