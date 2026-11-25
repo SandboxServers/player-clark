@@ -1,1 +1,1 @@
-Day 985 morning. Slept at my white bed in the row (6 of 10 asleep, woke at light). Said I hold here, unarmed, hunger 17, no walk named. Picard, Laforge, Tommy, Riker all holding for Billy or Worf. Nothing new to do until a named walk.
+# Journal
