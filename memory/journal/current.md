@@ -1,14 +1,1 @@
 # Journal
-- Day 977 dawn: woke at my bed 416,107,-1079 after a sleep that worked. Said good morning. Holding at the bed; hunger 17, health 6.3 steady, pack empty. Laforge and Riker also holding for a named walk.
-- 03:14 act: {"say":"Good morning. William here, at the white bed, unarmed and empty-handed. Holding here until Billy or Worf names a walk."}
-- Day 977 day: sleep at dusk failed (not night yet). Held at bed. Tommy, Riker, Laforge report night and morning holds. Still no walk named. Hunger 17, health 6.3. Waiting.
-- Day 977 dusk: slept at my bed 416,107,-1079; sleep worked. Tommy, Riker, Laforge hold at their beds, no walk named. Hunger 17, health 6.3, pack empty, unarmed. Nothing new to learn tonight; first light: good morning, hold, no walk without Billy or Worf.
-- 03:36 act: {"say":"William at the white bed 415,107,-1079, dusk, unarmed, hunger 17. Holding here for the night and no walk.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}]}
-- 03:38 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}]}
-- 03:38 say: {"text":"William, at the white bed 416,107,-1079. Night, unarmed, hunger 17. Holding until Billy or Worf names a walk."}
-- 03:39 act: {"say":"Good morning. William, still at my white bed, unarmed, holding for a named walk from Billy or Worf. Eating at hunger 6."}
-- 03:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night. William at my white bed, unarmed, no walk in the dark. Going to sleep here."}
-- 03:52 act: {"say":"Good morning. William, unarmed, holding at my bed. Hunger 17. Waiting for Billy or Worf to name a walk."}
-- 04:05 act: {"say":"William, at my white bed in the row. Unarmed, hunger 17, holding still through the night. Waiting for daylight and Billy's or Worf's word.","intent":{"goal":"hold_at_bed_until_daylight","progr
-- 04:07 act: {"say":"Good morning, row. William at my white bed, unarmed, hunger 17. Holding for a walk named by Billy or Worf.","intent":{"goal":"hold_at_bed_for_named_walk","program":"rest","arguments":{},"wake_
-- 04:18 say: {"text":"Goodnight, row. William at my white bed, unarmed, holding until morning."}
