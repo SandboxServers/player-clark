@@ -7,3 +7,5 @@
 - 19:14 say: {"text":"Night at the row. I am beside my white bed, unarmed, and I am going to sleep here."}
 - 19:14 act: {"actions":[{"do":"sleep"}]}
 - 19:14 act: {"actions":[{"do":"sleep"}]}
+- 19:18 act: {"say":"Good morning, row. William here at my bed, holding. Unarmed, pack empty, hunger 17. Waiting for a named daylight walk."}
+- Day 1024 morning: said good morning. Waited 240s, quiet, no events. Hunger 17, health 6.33 steady. Holding at bed, no walk named.
