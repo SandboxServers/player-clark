@@ -1,6 +1,6 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group, now at Worf's row. Day 969 done: held at my white bed 430,107,-1065, slept there at dusk with Lewis beside me. Health 20, hunger 20, pack empty, unarmed.
+I am William (ag_clark_01), at the row with Billy's group, at Worf's row. Day 969 night: at my white bed 430,107,-1065 beside Lewis. Health 20, hunger 20, pack empty, unarmed. Sleep attempt reported no change.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
