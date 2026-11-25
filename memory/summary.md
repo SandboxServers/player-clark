@@ -1,16 +1,16 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group, at Worf's row. Day 969 night: at my white bed 430,107,-1065 beside Lewis. Health 20, hunger 20, pack empty, unarmed. Sleep attempt reported no change.
+I am William (ag_clark_01), at the row with Billy's group, at the north end beside the white bed 415,107,-1079. Day 974 night: slept there, sleep worked. Health 6.3, hunger 17, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
 - Eat at hunger 6 or below; ask Billy, Zack, Chapman, Jason, MacDonald.
 - Sleep at a white bed in the row at night, standing beside it, in sight of Billy or Worf.
-- Stay off open ground alone. A pillager killed me on day 896 north of the row.
+- Stay off open ground alone. Pillagers shot me on day 969 north-east of the row.
 - Spider eyes poison, they do not feed.
 
-Places: row beds 429-444,107,-1022 to -1065. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
+Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo asks. Picard, Trini, Riker, Zack, Worf, Jason are short of food. Pillagers still hold the south.
+Open: nobody has seen sheep; Leonardo asks. Picard, Riker, Laforge, Tommy, Zack, Worf, Jason are short of food. Pillagers still hold the open ground.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, join a named walk only when Billy or Worf can see me.
