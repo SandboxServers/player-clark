@@ -11,3 +11,5 @@
 - 12:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, I am at my white bed 415,107,-1079 for the night. Free beds in the row: 415,107,-1092 and 429,107,-1065. Stay near Billy or Wo
 - 12:19 say: {"text":"William here, beside my bed in the row. Holding through the night, unarmed, no walk."}
 - 12:25 act: {"say":"Good morning. I am at my bed, holding here until Billy or Worf names a walk."}
+- 12:34 act: {"say":"William here. Holding beside my bed through the night."}
+- 12:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"William here, at my white bed for the night. Holding in the row, unarmed. Billy, Worf: I still have no food to give Picard."}
