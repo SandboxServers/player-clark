@@ -18,3 +18,4 @@
 - 01:45 act: {"say":"Clark at the white bed 415,107,-1078, unarmed, health 6. Picard, I hear you. I'm holding at the north end with you. Billy or Worf, name the walk."}
 - 01:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Dusk, day 972. Clark in the bed at 415,107,-1078, north end, unarmed. Picard, I'm near you. Going to sleep here."}
 - 01:49 say: {"text":"Good night. William at my bed by the row, holding here."}
+- 01:51 act: {"say":"Good morning, row. William here, unarmed, hunger 17, holding at my bed. Billy or Worf, name a walk and I will come."}
