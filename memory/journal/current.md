@@ -8,3 +8,4 @@
 - Day 1013 night: at my bed, no Billy or Worf in sight, so I stay awake beside it. Picard asked Billy and Worf for an escorted walk to the potatoes; Tommy holds too.
 - Day 1014 morning: still at my bed, health 6.3, hunger 17, unarmed, pack empty. Picard and Laforge ask for a named escorted walk; none named yet. Holding.
 - 15:50 act: {"actions":[{"do":"sleep"}],"say":"William, night, sleeping beside my white bed in the row. Unarmed, no walk named, holding."}
+- 15:55 act: {"say":"William, morning. Holding at my bed, unarmed, pack empty. No walk until Billy or Worf names it."}
