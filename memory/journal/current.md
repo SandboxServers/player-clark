@@ -9,3 +9,4 @@
 - 18:20 say: {"text":"Good morning. William here at the white bed. I have no food and no weapon either. Billy, Worf, if you can name a walk with armed people, I will go."}
 - 18:33 say: {"text":"William here, night, beside my white bed at the row. Holding. No walks in the dark."}
 - 18:33 act: {"actions":[{"do":"sleep"}]}
+- 18:37 act: {"say":"Good morning. William here, at my bed at the row. Holding. Unarmed, pack empty. Billy, Worf: I walk only on a named daylight call with armed people in sight."}
