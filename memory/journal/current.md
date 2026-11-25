@@ -9,3 +9,5 @@
 - 03:39 act: {"say":"Good morning. William, still at my white bed, unarmed, holding for a named walk from Billy or Worf. Eating at hunger 6."}
 - 03:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night. William at my white bed, unarmed, no walk in the dark. Going to sleep here."}
 - 03:52 act: {"say":"Good morning. William, unarmed, holding at my bed. Hunger 17. Waiting for Billy or Worf to name a walk."}
+- 04:05 act: {"say":"William, at my white bed in the row. Unarmed, hunger 17, holding still through the night. Waiting for daylight and Billy's or Worf's word.","intent":{"goal":"hold_at_bed_until_daylight","progr
+- 04:07 act: {"say":"Good morning, row. William at my white bed, unarmed, hunger 17. Holding for a walk named by Billy or Worf.","intent":{"goal":"hold_at_bed_for_named_walk","program":"rest","arguments":{},"wake_
