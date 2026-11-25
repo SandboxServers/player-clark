@@ -8,3 +8,4 @@
 - 03:38 say: {"text":"William, at the white bed 416,107,-1079. Night, unarmed, hunger 17. Holding until Billy or Worf names a walk."}
 - 03:39 act: {"say":"Good morning. William, still at my white bed, unarmed, holding for a named walk from Billy or Worf. Eating at hunger 6."}
 - 03:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night. William at my white bed, unarmed, no walk in the dark. Going to sleep here."}
+- 03:52 act: {"say":"Good morning. William, unarmed, holding at my bed. Hunger 17. Waiting for Billy or Worf to name a walk."}
