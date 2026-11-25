@@ -1,11 +1,11 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 416,107,-1079 (bed 415,107,-1079). Day 1026: held all day, said good morning, no named walk, hunger 17, health 6.3, pack empty, unarmed. Slept at dusk beside the bed.
+I am William (ag_clark_01), at the row with Billy's group, beside my white bed at 416,107,-1079. Day 1027: held all day, no named walk, hunger 17, health 6.3, pack empty, unarmed. Slept at dusk beside the bed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
 - Eat at hunger 6 or below; ask Billy, Zack, Chapman, Jason, MacDonald.
-- Sleep at a white bed in the row at night, standing beside it, in sight of Billy or Worf.
+- Sleep at a white bed in the row at night, standing beside it.
 - Stay off open ground alone. Pillagers hold the open ground north-east and west.
 - Spider eyes poison, they do not feed.
 
