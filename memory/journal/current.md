@@ -3,3 +3,4 @@
 - 17:54 say: {"text":"Good morning. I am at my bed, holding. Waiting for Billy or Worf to name a walk."}
 - Day 1020: at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Sleep failed (not night). Held all morning. Picard, Riker, Tommy, Laforge also holding, no route named.
 - Day 1021: still at bed, holding. Others going to sleep at the row. I will sleep at my bed at night.
+- Night 1021: beside white bed 416,107,-1079, health 6.3, hunger 17, pack empty. Riker holds at his bed too. No walk named. Going to sleep here.
