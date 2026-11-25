@@ -2,7 +2,9 @@
 
 What I hold to be true about the world and the people in it.
 
-- Day 1031 (latest): held at bed 416,107,-1079 all day; no walk named. Picard, Tommy, Riker, Laforge still hungry and waiting for a named route to the potatoes. Dusk sleep beside the bed worked. Next curiosity: sheep; tell Leonardo nobody has found them.
+- Day 1033 (latest): held at bed 415,107,-1079 all day; no walk named. Hunger 17, pack empty. Night came and dusk sleep beside the white bed worked (9 of 10 asleep). Picard (north bed 416,107,-1093), Tommy, Riker and Laforge hold unarmed and short of food. Next curiosity: sheep; tell Leonardo nobody has found them.
+
+- Day 1031: held at bed 416,107,-1079 all day; no walk named. Picard, Tommy, Riker, Laforge still hungry and waiting for a named route to the potatoes. Dusk sleep beside the bed worked. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 1019 (latest): held at bed 416,107,-1079 all day; no walk named. Dusk sleep beside the bed worked on the first call. Picard, Tommy, Riker, Laforge still short of food; nobody could spare any. Next curiosity: sheep; tell Leonardo nobody has found them.
 
