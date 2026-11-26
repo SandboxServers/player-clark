@@ -21,3 +21,5 @@
 - Day 1096 morning: woke at bed, health 6.3 steady, hunger 17, pack empty. Said good morning. Riker holds at bed 430,107,-1065 waiting for a daylight potato route. No walk named for me; holding.
 - 19:25 act: {"say":"Good morning. William here, at my white bed, unarmed, hunger 17, pack empty. I hold with you. Billy, Worf or Trini: name a daylight walk with armed readers and I will go.","intent":{"goal":"ho
 - 19:31 act: {"say":"Dusk. William at my white bed 416,107,-1079, hunger 17, no food, unarmed. Sleeping here and holding for a named daylight walk.","actions":[{"do":"sleep"}]}
+- 19:36 act: {"actions":[{"do":"note","text":"Day 1097 morning: at my bed 416,107,-1079, health 6.3 steady, hunger 17, pack empty, unarmed. Holding for a named daylight walk."}],"say":"Good morning. William at my 
+- 19:44 act: {"actions":[{"do":"note","text":"Dusk day 1097: still at bed 416,107,-1079, hunger 17, no food, unarmed, no walk named. Going to sleep here."}],"say":"Dusk. William at my white bed, hunger 17, no food
