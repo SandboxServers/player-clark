@@ -16,3 +16,5 @@
 - 19:07 act: {"say":"Good morning. William here, holding at my bed. Hungry, unarmed, waiting for a daylight walk with armed people."}
 - 19:15 act: {"say":"Picard, William here at 416,107,-1079. I have no food and no arms either. I am holding at my bed too. Billy or Worf, please name a walk with armed readers."}
 - 19:20 act: {"say":"Good night. I am at my bed, holding here until Billy, Worf or Trini names a walk."}
+- 19:20 act: {"say":"Good morning. William at the white bed 415,107,-1079, hunger 17, pack empty. Holding here for a named daylight walk with armed readers."}
+- Day 1096 morning: woke at bed, health 6.3 steady, hunger 17, pack empty. Said good morning. Riker holds at bed 430,107,-1065 waiting for a daylight potato route. No walk named for me; holding.
