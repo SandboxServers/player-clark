@@ -8,3 +8,5 @@
 - 21:10 act: {"actions":[],"say":"Morning, row. Still holding at my bed, unarmed and empty-handed. I will walk when Billy, Worf or Trini names the route."}
 - Day 1102 night: slept at bed 416,107,-1079; night skipped. Hunger 17, health 6.3 steady, pack empty. Picard asked for food and escort; no route named for me. Holding.
 - 21:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, no one in danger."}
+- 21:32 say: {"text":"Good morning. William at the bed, unarmed, no food. Billy, Worf or Trini: when you name a daylight route with armed people, I will come."}
+- 21:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row. Still unarmed, no food."}
