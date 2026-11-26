@@ -1,4 +1,5 @@
 # Journal
+- Day 1097 morning: said good morning at bed 416,107,-1079. Hunger 17, health 6.3 steady, pack empty, unarmed. Picard asked for food or escort; no walk named for me. Holding at bed.
 - 17:58 act: good morning at my bed, no food, hunger 17. Waiting for Billy, Worf or Trini to name a daylight walk.
 - 18:11 act: slept at my white bed, hungry but not yet at the eating line.
 - 18:16 act: morning at my bed, unarmed, pack empty, hunger 17. Holding for a named walk or food.
@@ -18,3 +19,5 @@
 - 19:20 act: {"say":"Good night. I am at my bed, holding here until Billy, Worf or Trini names a walk."}
 - 19:20 act: {"say":"Good morning. William at the white bed 415,107,-1079, hunger 17, pack empty. Holding here for a named daylight walk with armed readers."}
 - Day 1096 morning: woke at bed, health 6.3 steady, hunger 17, pack empty. Said good morning. Riker holds at bed 430,107,-1065 waiting for a daylight potato route. No walk named for me; holding.
+- 19:25 act: {"say":"Good morning. William here, at my white bed, unarmed, hunger 17, pack empty. I hold with you. Billy, Worf or Trini: name a daylight walk with armed readers and I will go.","intent":{"goal":"ho
+- 19:31 act: {"say":"Dusk. William at my white bed 416,107,-1079, hunger 17, no food, unarmed. Sleeping here and holding for a named daylight walk.","actions":[{"do":"sleep"}]}
