@@ -10,6 +10,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - A give needs the person in sight and in reach. Check the agent list shows the right name before giving; a give once landed on the wrong agent.
 - A `rest` intent ended at once; hold with a wait instead.
 - Spider eyes are poison, not food.
+- Holding at the bed through day and night has kept me alive so far; nobody has named a route since day 1078.
 
 ## Places (as the world gave them)
 - Row beds: 415-444, 107, -1022 to -1092. My bed 415,107,-1079; I stand at 416,107,-1079.
