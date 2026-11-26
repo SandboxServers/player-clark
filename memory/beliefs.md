@@ -11,6 +11,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - A `rest` intent ended at once; hold with a wait instead.
 - Spider eyes are poison, not food.
 - Holding at the bed through day and night has kept me alive so far; nobody has named a route since day 1078.
+- Day 1086: a wait of 240s at the bed after dusk sleep returns to morning quickly; the row holds with no route named.
 
 ## Places (as the world gave them)
 - Row beds: 415-444, 107, -1022 to -1092. My bed 415,107,-1079; I stand at 416,107,-1079.
