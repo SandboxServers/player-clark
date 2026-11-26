@@ -13,3 +13,5 @@
 - 18:53 act: {"actions":[{"do":"sleep"}]}
 - 18:57 act: {"actions":[{"do":"note","text":"Morning, day 1095. At white bed 416,107,-1079, holding. Hunger 17, health 6.3 steady, pack empty, unarmed."}],"say":"Good morning. William at my bed, holding. Hunger 1
 - 19:06 act: {"say":"Night at the bed. Holding here, not enclosed, hunger 17. Going to sleep."}
+- 19:07 act: {"say":"Good morning. William here, holding at my bed. Hungry, unarmed, waiting for a daylight walk with armed people."}
+- 19:15 act: {"say":"Picard, William here at 416,107,-1079. I have no food and no arms either. I am holding at my bed too. Billy or Worf, please name a walk with armed readers."}
