@@ -6,3 +6,5 @@
 - 21:06 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night, with the row."}
 - Day 1102 morning: slept at bed (partial, 4 of 10 asleep). Light up. Health 6.3 steady, hunger 17, pack empty. Riker and Trini walking for Worf's potatoes; I hold at bed 416,107,-1079 and wait for a named route.
 - 21:10 act: {"actions":[],"say":"Morning, row. Still holding at my bed, unarmed and empty-handed. I will walk when Billy, Worf or Trini names the route."}
+- Day 1102 night: slept at bed 416,107,-1079; night skipped. Hunger 17, health 6.3 steady, pack empty. Picard asked for food and escort; no route named for me. Holding.
+- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, no one in danger."}
