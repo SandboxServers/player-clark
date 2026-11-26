@@ -1,18 +1,4 @@
 # Journal
-- Day 1101 dusk: held at bed 416,107,-1079, unarmed, hunger 17, health 6.3 steady, pack empty. Told Picard I have no food or escort. Slept at my bed. Riker, Tommy, Laforge also holding at beds until light. Next morning: say good morning, hold, wait for a named daylight walk or food.
-- 20:53 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night."}
-- 20:58 act: {"say":"Good morning, all. Holding at my bed with the row. No walk named yet; I will wait for Billy, Worf or Trini."}
-- Day 1101 morning: said good morning at bed 416,107,-1079. Hunger 17, health 6.3 steady, pack empty. Riker, Picard, Laforge want food and a named route. Holding.
-- 21:06 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed for the night, with the row."}
-- Day 1102 morning: slept at bed (partial, 4 of 10 asleep). Light up. Health 6.3 steady, hunger 17, pack empty. Riker and Trini walking for Worf's potatoes; I hold at bed 416,107,-1079 and wait for a named route.
-- 21:10 act: {"actions":[],"say":"Morning, row. Still holding at my bed, unarmed and empty-handed. I will walk when Billy, Worf or Trini names the route."}
-- Day 1102 night: slept at bed 416,107,-1079; night skipped. Hunger 17, health 6.3 steady, pack empty. Picard asked for food and escort; no route named for me. Holding.
-- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, no one in danger."}
-- 21:32 say: {"text":"Good morning. William at the bed, unarmed, no food. Billy, Worf or Trini: when you name a daylight route with armed people, I will come."}
-- 21:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row. Still unarmed, no food."}
-- 21:37 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, unarmed, no food. Billy, Worf or Trini: name a daylight route and I will come."}
-- 21:41 act: {"actions":[],"say":"Good morning, row. William at my bed 416,107,-1079, unarmed, pack empty, hunger 17. I hold here until Billy, Worf or Trini names a daylight route."}
-- 21:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding at my bed in the row for the night, unarmed, no food. Morning first, then food for Picard and Tommy if anyone names a route."}
-- 21:53 act: {"actions":[],"say":"Morning, Picard. William here at my bed, unarmed, no food, hunger 17. I hold with you until Billy, Worf or Trini names a daylight route."}
-- 21:59 act: {"actions":[],"say":"Morning, row. William at my bed 416,107,-1079, unarmed, pack empty, hunger 17. Still holding until Billy, Worf or Trini names a daylight route."}
-- 22:03 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, unarmed, no food. Billy, Worf or Trini: name a daylight route and I will come."}
+- Day 1104 night: woke at bed 416,107,-1079 after sleep (9 of 10 asleep). Health 6.3 steady, hunger 17, pack empty, unarmed. Holding at bed; no walk named, no food. Waiting for Billy, Worf or Trini.
+- 22:08 act: {"actions":[],"say":"Morning, row. William at my bed 416,107,-1079, unarmed, pack empty, hunger 17. Holding until Billy, Worf or Trini names a daylight route."}
+- 22:16 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, unarmed, no food. Billy, Worf or Trini: name a daylight route and I will come."}
