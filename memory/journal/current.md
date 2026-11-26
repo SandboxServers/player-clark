@@ -5,3 +5,4 @@
 - 10:39 act: {"actions":[{"do":"sleep"}]}
 - 10:44 act: {"say":"Picard, William here at my bed. I have no food and no sword, and no named route yet. I am holding too."}
 - 10:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"say":"Good morning, the row. I am holding at my bed, as I was told to."}
+- 10:54 act: {"say":"Tommy, good. I am holding at my bed too, unarmed, and I will sleep here tonight."}
