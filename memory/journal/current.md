@@ -1,7 +1,13 @@
 # Journal
-- 17:58 act: {"say":"Good morning, William here at my bed. No food in my pack, hunger 17. Waiting for Billy, Worf or Trini to name a daylight walk.","actions":[]}
-- 18:11 act: {"actions":[{"do":"sleep"}],"say":"Night. I am at my white bed, hungry but not yet at the eating line, and I will sleep here until morning."}
-- 18:16 act: {"say":"Morning. William at my bed, unarmed, pack empty, hunger 17. Holding until Billy, Worf or Trini names a daylight walk or has food."}
-- Day 1093 morning: waited; heard Riker, Picard, Tommy all hungry at their beds. Nobody has food yet. Holding at bed, hunger 17 (above 6, do not eat).
-- 18:24 act: {"actions":[{"do":"sleep"}],"say":"Night. William at my white bed, hunger 17, unarmed, no food. Holding here until morning."}
-- 18:24 act: {"actions":[{"do":"sleep"}]}
+- 17:58 act: good morning at my bed, no food, hunger 17. Waiting for Billy, Worf or Trini to name a daylight walk.
+- 18:11 act: slept at my white bed, hungry but not yet at the eating line.
+- 18:16 act: morning at my bed, unarmed, pack empty, hunger 17. Holding for a named walk or food.
+- Day 1093 morning: waited; Riker, Picard, Tommy, Laforge all hungry at their beds. Nobody has food yet. Hunger 17, above 6, so I did not eat.
+- Day 1093 night: slept at white bed 416,107,-1079. Sleep worked.
+- 18:28 Day 1094 morning: said good morning. Still unarmed, no food, hunger 17. Holding at bed with Tommy, Picard, Riker for a daylight route or potatoes.
+- 18:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my white bed, hunger 17, no food, unarmed. Sleeping here; holding for a daylight route in the morning."}
+- 18:36 act: {"actions":[{"do":"sleep"}]}
+- 18:40 act: {"say":"William here at my bed, 416,107,-1079. Unarmed, hunger 17, no food. Still holding for a named daylight route. Picard, I hear you."}
+- Day 1094 morning wait: Riker says no walk until two armed readers name an exact route, Worf first when Trini has potatoes. No one named me. Holding at bed, did not move.
+- 18:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my white bed, hunger 17, no food, unarmed. Sleeping here and holding for a named daylight route."}
+- 18:53 act: {"actions":[{"do":"sleep"}]}
