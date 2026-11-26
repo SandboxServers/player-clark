@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1082: held at the bed all day. No daylight route named. Hunger 17, health 6.3, pack empty, unarmed. Slept at the bed at dusk.
+Day 1083: held at the bed all day. No daylight route named. Hunger 17, health 6.3, pack empty, unarmed. Night attempt to sleep at the bed did not take (days_since_sleep still 0). Laforge said goodnight, holding at his bed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
