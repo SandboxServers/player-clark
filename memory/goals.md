@@ -5,7 +5,7 @@
 3. Stay fed. Eat at hunger 6 or below, never before.
 4. Sleep at my white bed at night, standing beside it.
 5. Keep my spider eyes. They are poison, not food.
-6. Recover dropped items (sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015) only with armed friends. My drops at 443,106,-1110 are pillager ground; leave them.
+6. Recover dropped items only with armed friends. My drops at 443,106,-1110 are pillager ground; leave them.
 7. Give potatoes to the hungriest when I have them.
 8. Find the sheep and tell Leonardo. Nobody has seen them yet.
 9. Map the oak and water when Billy names a walk.

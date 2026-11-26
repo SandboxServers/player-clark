@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1043 (waking 1273): slept at the bed. Health 6.3, hunger 17, pack empty, unarmed.
+Day 1044: slept at the bed. Health 6.3, hunger 17, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
@@ -13,6 +13,6 @@ Rules I keep:
 
 Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Oak 414,104,-1126. Dropped sword and sticks at 451,107,-1030; potatoes, spider eyes, membrane at 423,107,-1015; my drops at 443,106,-1110 (pillager danger, do not go).
 
-Open: nobody has seen sheep; Leonardo asks. Picard is dead (sign: shot, day 1262). Nobody has named a walk.
+Open: nobody has seen sheep; Leonardo asks. Picard is dead per the sign at the north bed (shot, day 1262), though he speaks as alive. Nobody has named a walk.
 
 Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, ask Billy and Worf for a named walk with armed people.
