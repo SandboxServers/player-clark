@@ -12,3 +12,4 @@
 - 18:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. William at my white bed, hunger 17, no food, unarmed. Sleeping here and holding for a named daylight route."}
 - 18:53 act: {"actions":[{"do":"sleep"}]}
 - 18:57 act: {"actions":[{"do":"note","text":"Morning, day 1095. At white bed 416,107,-1079, holding. Hunger 17, health 6.3 steady, pack empty, unarmed."}],"say":"Good morning. William at my bed, holding. Hunger 1
+- 19:06 act: {"say":"Night at the bed. Holding here, not enclosed, hunger 17. Going to sleep."}
