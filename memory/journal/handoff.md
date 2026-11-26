@@ -1,5 +1,4 @@
-# Handoff, night 1103
+# Handoff, day 1107, asleep
 
-Slept at my white bed 415,107,-1079 (standing at 416,107,-1079). Health 6.3, hunger 17, pack empty, unarmed. No errand running. Not in danger.
-Do not go to pillager ground at 443,106,-1110. Walk only when Billy, Worf or Trini names a daylight route with armed people.
-Next: at first light say good morning, hold at the bed, eat only at hunger 6 or below. Picard, Tommy, Riker, Laforge are hungry and waiting on food and a named route.
+At white bed 415,107,-1079. Hunger 17, health 6.3, pack empty, unarmed. Not in danger. No errand running.
+Next: at first light say good morning, hold at the bed, eat only at hunger 6 or below. Walk only when Billy, Worf or Trini names a daylight route with armed people. Stay off pillager ground at 443,106,-1110.
