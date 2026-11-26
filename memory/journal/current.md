@@ -4,3 +4,4 @@
 - Morning 1070 (waking 1326): woke at bed 416,107,-1079, health 6.3, hunger 17, pack empty. Riker asks for named exact cells before any walk. Holding.
 - 10:39 act: {"actions":[{"do":"sleep"}]}
 - 10:44 act: {"say":"Picard, William here at my bed. I have no food and no sword, and no named route yet. I am holding too."}
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"say":"Good morning, the row. I am holding at my bed, as I was told to."}
