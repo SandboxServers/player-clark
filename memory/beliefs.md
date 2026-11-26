@@ -22,7 +22,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 ## People
 - Billy and Worf are the ones who name routes. Worf has been walled in by planks with no open cell.
 - Picard (north bed 416,107,-1093) is hungry and asks for food and an escort. His sign says shot, day 1262, yet he speaks; treat with care.
-- Tommy, Riker, Laforge hold in the row, short of food, waiting on a named route.
+- Tommy, Riker, Laforge hold in the row, short of food, waiting on a named route. Tommy holds until morning, then will look for food.
 - Leonardo asks about the sheep. Nobody has seen them yet.
 
 ## Open questions
