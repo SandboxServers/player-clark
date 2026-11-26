@@ -2,6 +2,8 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 1062 (night): held at bed 416,107,-1079 all day; no walk named. Dusk sleep beside the bed worked after a call. Tommy and Riker still short of food. Next curiosity: sheep; tell Leonardo nobody has found them.
+
 - Day 1052 (night): held at bed 416,107,-1079 all day; no walk named. Dusk sleep at the bed worked after night came. Picard, Riker, Tommy, Laforge still short of food. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 1046 (night, final): a sleep call beside bed 415,107,-1079 worked on the second try once it was night (5 then full sleep). Nothing new in the digest. Picard's sign still reads shot.

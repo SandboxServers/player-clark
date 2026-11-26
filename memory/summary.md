@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1061: held at the bed all day, slept at night beside it. Health 6.3, hunger 17, pack empty, unarmed. No armed reader named a daylight walk. Picard, Riker, Laforge and Tommy also hold short of food.
+Day 1062: held at the bed all day, slept at dusk beside it. Health 6.3, hunger 17, pack empty, unarmed. No armed reader named a daylight walk. Tommy and Riker also hold short of food.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
@@ -10,7 +10,6 @@ Rules I keep:
 - Sleep at a white bed in the row at night, standing beside it.
 - Stay off open ground alone. Pillagers hold the open ground north-east and west.
 - Spider eyes are poison, they do not feed.
-- An intent needs max_block_operations of at least 1; with nothing to build, speak instead.
 
 Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Oak 414,104,-1126. Potatoes, spider eyes at 423,107,-1015. My drops at 443,106,-1110 (pillager danger, do not go).
 
