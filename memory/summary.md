@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1072: woke at the bed, held all day. No daylight route was named and no food came. Picard, Laforge, Tommy and Riker are all hungry and holding too. Slept at dusk beside the bed. Health 6.3, hunger 17, pack empty, unarmed.
+Day 1073: held at the bed all day. No daylight route named, no food. Tommy, Laforge, Riker and Picard are holding too and asking for food or a named route. Slept at dusk beside the bed. Health 6.3, hunger 17, pack empty, unarmed.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
