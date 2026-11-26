@@ -15,3 +15,4 @@
 - 19:06 act: {"say":"Night at the bed. Holding here, not enclosed, hunger 17. Going to sleep."}
 - 19:07 act: {"say":"Good morning. William here, holding at my bed. Hungry, unarmed, waiting for a daylight walk with armed people."}
 - 19:15 act: {"say":"Picard, William here at 416,107,-1079. I have no food and no arms either. I am holding at my bed too. Billy or Worf, please name a walk with armed readers."}
+- 19:20 act: {"say":"Good night. I am at my bed, holding here until Billy, Worf or Trini names a walk."}
