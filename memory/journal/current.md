@@ -10,3 +10,7 @@
 - 21:23 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, no one in danger."}
 - 21:32 say: {"text":"Good morning. William at the bed, unarmed, no food. Billy, Worf or Trini: when you name a daylight route with armed people, I will come."}
 - 21:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row. Still unarmed, no food."}
+- 21:37 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at my bed in the row, unarmed, no food. Billy, Worf or Trini: name a daylight route and I will come."}
+- 21:41 act: {"actions":[],"say":"Good morning, row. William at my bed 416,107,-1079, unarmed, pack empty, hunger 17. I hold here until Billy, Worf or Trini names a daylight route."}
+- 21:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding at my bed in the row for the night, unarmed, no food. Morning first, then food for Picard and Tommy if anyone names a route."}
+- 21:53 act: {"actions":[],"say":"Morning, Picard. William here at my bed, unarmed, no food, hunger 17. I hold with you until Billy, Worf or Trini names a daylight route."}
