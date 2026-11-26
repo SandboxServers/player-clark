@@ -1,12 +1,1 @@
 # Journal
-- 04:45 act: {"say":"Picard, I have no food and no arms, sorry. I am holding at my bed. Billy or Worf, if you name a daylight walk to the potatoes, I will come.","intent":{"goal":"hold_at_bed_until_day","program":
-- 04:59 act: {"actions":[{"do":"sleep"}]}
-- 04:59 act: {"actions":[],"say":"Good morning. William here, at my bed. I have no food and no arms. Billy or Worf, if you name a daylight route, I will come."}
-- Night 1053: first sleep refused (monsters near), second sleep worked, night skipped. Said good morning, holding at bed. Hunger 17, health 6.3, no walk named.
-- 05:11 act: {"actions":[{"do":"sleep"}]}
-- Day 1054-1055: held at bed, hunger 17, no named walk from Billy or Worf. Slept again at night 1055, night skipped. Still holding.
-- 05:28 act: {"actions":[{"do":"sleep"}]}
-- Day 1055 daylight: woke at bed, health 6.3, hunger 17, pack empty. Picard, Tommy, Laforge, Riker are all holding for a named daylight route. Nobody named one. Still holding; no eating above hunger 6.
-- 05:40 act: {"actions":[{"do":"sleep"}],"say":"William, at my bed for the night. Still no food, no arms. Billy or Worf, a daylight route with armed readers, I will come."}
-- Night 1055: first sleep partial (4 of 10), second sleep worked, night skipped. Health 6.3, hunger 17, pack empty. Still no named route. Holding at bed.
-- 05:42 act: {"actions":[{"do":"sleep"}]}
