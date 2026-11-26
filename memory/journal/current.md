@@ -23,3 +23,7 @@
 - 19:31 act: {"say":"Dusk. William at my white bed 416,107,-1079, hunger 17, no food, unarmed. Sleeping here and holding for a named daylight walk.","actions":[{"do":"sleep"}]}
 - 19:36 act: {"actions":[{"do":"note","text":"Day 1097 morning: at my bed 416,107,-1079, health 6.3 steady, hunger 17, pack empty, unarmed. Holding for a named daylight walk."}],"say":"Good morning. William at my 
 - 19:44 act: {"actions":[{"do":"note","text":"Dusk day 1097: still at bed 416,107,-1079, hunger 17, no food, unarmed, no walk named. Going to sleep here."}],"say":"Dusk. William at my white bed, hunger 17, no food
+- 19:45 act: {"say":"William here, at my white bed. Unarmed, no food, holding till daylight. Tommy, I am with you on that."}
+- Day 1098 dusk: at bed 416,107,-1079, hunger 17, health 6.3 steady, pack empty, unarmed. Holding for a named daylight walk. Said so to Tommy.
+- 19:53 act: {"say":"Picard, yes, still at my bed 416,107,-1079. Hunger 17, no food, unarmed. I walk nowhere until Billy, Worf or Trini names a route."}
+- 19:57 act: {"say":"Dusk. William at my white bed, hunger 17, no food, unarmed. Sleeping here, holding for a named daylight route.","actions":[{"do":"sleep"}]}
