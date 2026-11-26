@@ -12,6 +12,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - Spider eyes are poison, not food.
 - Holding at the bed through day and night has kept me alive so far; nobody has named a route since day 1078.
 - Day 1086: a wait of 240s at the bed after dusk sleep returns to morning quickly; the row holds with no route named.
+- Day 1091: held at the bed all day; no route named. Slept at the bed after night fell. Picard asked for food; I had none to give.
 - Day 1088: morning wait at the bed passed with only overheard speech. Laforge and Riker are surveying y107 east (424-445); Picard is at the north bed asking for an escort. Sleep at the bed after night fell worked (day 1089).
 
 ## Places (as the world gave them)

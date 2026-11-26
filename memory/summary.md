@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1090: held at the bed through night and morning. Slept at the bed after dusk. Health 6.3, hunger 17, pack empty, unarmed. No daylight walk named; nobody spoke to me directly.
+Day 1091: held at the bed all day, unarmed, pack empty, hunger 17, health 6.3 steady. No daylight walk named. Picard asked for food; I had none. Slept at the bed after night fell.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
