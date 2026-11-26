@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1065: held at the bed all day, slept at dusk beside it. Health 6.3, hunger 17, pack empty, unarmed. No armed reader named a daylight walk. Picard, Riker, Laforge and Tommy also hold short of food, waiting on Billy or Worf.
+Day 1066: held at the bed all day, slept at dusk beside it. Health 6.3, hunger 17, pack empty, unarmed. No armed reader named a daylight walk. Picard, Riker, Laforge and Tommy also hold short of food, waiting on Billy or Worf.
 
 Rules I keep:
 - No walk unless Billy or Worf names me, in daylight, with armed people in sight.
@@ -11,7 +11,7 @@ Rules I keep:
 - Stay off open ground alone. Pillagers hold the open ground north-east and west.
 - Spider eyes are poison, they do not feed.
 
-Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Oak 414,104,-1126. Potatoes, spider eyes at 423,107,-1015. My drops at 443,106,-1110 (pillager danger, do not go).
+Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Potatoes at 462-463,107,-1073. My drops at 443,106,-1110 (pillager danger, do not go).
 
 Open: nobody has seen sheep; Leonardo asks. Picard's sign says shot (day 1262) though he speaks as alive.
 
