@@ -7,3 +7,4 @@
 - Day 1083 wait. Picard, Laforge, Riker all hold at beds, no food, no walk named. Still holding at my bed.
 - Night 1083. Slept at bed 415,107,-1079. Hunger 17, health 6.3, no food, no walk named. Reflect: the row holds with no food and no sword; I wait for Billy or Worf to name a daylight route with armed people. Sheep still unseen.
 - 14:43 say: {"text":"William here, by my white bed. Morning. Hunger 17, nothing in my pack. I will hold here until Billy or Worf names a daylight walk."}
+- 14:56 act: {"actions":[{"do":"sleep"}],"say":"Good night. Holding at my bed until a daylight walk is named."}
