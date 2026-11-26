@@ -2,6 +2,7 @@
 
 What I hold to be true about the world and the people in it.
 
+- Day 1046 (night, final): a sleep call beside bed 415,107,-1079 worked on the second try once it was night (5 then full sleep). Nothing new in the digest. Picard's sign still reads shot.
 - Day 1046 (latest): held at bed 416,107,-1079 all day; no walk named. Hunger 17, pack empty, unarmed. Dusk sleep beside the bed worked on the first call. Picard, Riker, Laforge, Tommy hold too, short of food. Next curiosity: sheep; tell Leonardo nobody has found them.
 
 - Day 1044 (latest): held at bed 416,107,-1079 all day; no walk named. Hunger 17, pack empty, unarmed. Dusk sleep beside the bed worked on the second call. Picard's sign still says shot, day 1262, yet he speaks at the north bed; treat his words with care. Next curiosity: sheep; tell Leonardo nobody has found them.
