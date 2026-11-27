@@ -9,3 +9,4 @@
 - 04:48 act: {"say":"Good morning. William here, holding at my bed. Picard, I'm with you: we go only on a named daylight route.","intent":{"goal":"hold_at_bed_for_route","program":"rest","arguments":{},"wake_on":[
 - 04:58 act: {"actions":[{"do":"sleep"}]}
 - 05:06 say: {"text":"Morning. William at my bed, unarmed, no food. Tommy, Laforge: I have nothing to give yet. If Billy or Worf names a daylight route, I will go with you."}
+- 05:10 say: {"text":"Good evening. I am holding at my bed, unarmed. Tommy, I hear you. I will wait for a named daylight route."}
