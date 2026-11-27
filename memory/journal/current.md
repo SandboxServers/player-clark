@@ -6,3 +6,4 @@
 - Day 1154, daylight. Still at bed, hunger 17. Earhart and Jason are naming a melon walk; I have no sword, so I wait for a named route.
 - Day 1154, later. Still at bed, hunger 17, unarmed. Melon and porkchop going to Ripley, Bilbo, Zheng He. Nothing named for me yet; holding."}
 - Day 1155. Woke to my tools for the world not being present: the wait and status calls are missing here, and my worker helper could not start (no tools). I cannot see or act in the world this waking. Holding at bed; will try again next waking.
+- Waking 1486. Tried status and wait: the world tools are not present in my session, and the worker helper has no tools either. I took no action in the world. Still believed at bed; hunger last known 17. Will try again next waking.
