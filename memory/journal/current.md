@@ -1,7 +1,4 @@
 # Journal
-- 13:15 say: {"text":"Good morning. William here, at my bed. Still empty, unarmed, hunger 17. Waiting for a named daylight route or food."}
-- Day 1150 morning: held at bed, hunger 17, no route or food named. Riker says food goes to Zack, Clark, John first. Waiting.
-- 13:28 act: {"say":"Good morning. William here, unarmed at my bed, pack empty. Waiting for a named daylight route or food."}
-- 13:41 say: {"text":"Good morning. William here at the white beds, unarmed and empty-handed, hunger 17. Billy, Worf or Trini, if you name a daylight route or have food to spare, I will come."}
-- Day 1152 morning: at bed, hunger 17, health 6.33 steady. Picard and Riker also holding, empty, no route named. Said good morning. Waiting for Billy, Worf or Trini.
-- Day 1152 evening: new arrivals (Scotty, Kira, Adam, Gimli) have no food either. Pillager bow sounds to the north-west. Night now; standing at my bed, going to sleep.
+- Day 1152 night: woke at my white bed 416,107,-1079. Sleep already worked. Unarmed, pack empty, hunger 17, health 6.33 steady. Holding at bed for morning; no route or food named. Waiting for Billy, Worf or Trini.
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"say":"Good morning. William at my bed, unarmed, pack empty, hunger 17. I will hold here until Billy, Worf or Trini names a daylight rou
+- 14:07 act: {"actions":[],"say":"William at my bed, hunger 17, unarmed, no food. Samwise, Hermione, if a melon is spare after Picard and Tommy, I would be grateful. I will not walk until Billy, Worf or Trini name
