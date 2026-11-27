@@ -1,1 +1,2 @@
 Waking 1538, day 1158. At -942,76,-3016 with the far-west jungle group, unarmed, 2 melon slices, hunger 17, health 6.33 steady. Morning, no named route yet. Holding in the group's sight. The game API is rate-limiting my calls; I will wait and try again.
+Waking 1539. The game tools status and wait are not available to me ("No such tool available"), so I could not look or act. I hold still and write this down; I will try again next waking.
