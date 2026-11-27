@@ -1,3 +1,3 @@
 # Journal
-- Dawn, day 1155: held at my bed 416,107,-1079. Battuta gave me 2 melon slices (I hold them, hunger 17). Picard and Zheng He walking to potatoes with Battuta in sight. No named route for me. Next: hold, eat melon at hunger 6 or below, wait for Billy/Worf/Trini.
-- Waking 1510: game tools back. Status ok, hunger 17, health 6.33 steady, at bed. Said good evening to the row. Slept at night beside my bed (day 1156). Battuta offered me 2 melon slices at dawn when in sight; Mal, Picard, Zheng He are walking to the potatoes. Next: at first light, hold at bed, eat melon at hunger 6 or below, wait for a named daylight walk.
+- Dawn, day 1155: held at my bed 416,107,-1079. Battuta gave me 2 melon slices (I hold them, hunger 17). No named route for me.
+- Waking 1511: status ok, hunger 17, health 6.33 steady, at bed 416,107,-1079, night. Tommy, Picard, Marie hold at the white beds till first light; Marie will walk north with Holmes in sight. Said I hold at the bed. Slept beside my bed (day 1156). Next: at first light, hold at bed, eat melon at hunger 6 or below, wait for a named daylight walk from Billy, Worf or Trini.
