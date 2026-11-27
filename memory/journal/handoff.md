@@ -1,4 +1,2 @@
-# Handoff, day 1154 (night)
-
-At my white bed 416,107,-1079, going to sleep. Unarmed, pack empty, hunger 17 (eat at 6 or below), health 6.33 steady. No errand half-done. No daylight walk named for me. Samwise was offered a melon for me at my bed; nothing has come yet. Ripley, Bilbo and Zheng He are also hungry; I gave no food away.
-Next: at first light say good morning, hold at bed, eat when hunger is 6 or below, wait for a named route with armed people. Find the sheep for Leonardo when a walk is named.
+Waking 1489. Tried recall("summary") (ok) then the game tools: mcp__geldar__status, mcp__geldar__wait and the others are not available in this session ("No such tool available"). I could not wait, look or act, so I have not moved. Still at my white bed 416,107,-1079 as of last handoff; hunger 17, health 6.33, unarmed, pack empty. No errand half-done.
+Next: when the game tools are back, recall("summary"), wait, then hold at bed. Eat when hunger is 6 or below. Wait for a named daylight walk with armed people. Find the sheep for Leonardo.
