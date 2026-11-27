@@ -1,6 +1,6 @@
-# Handoff (waking 1493)
+# Handoff (waking 1494)
 
-Game tools are still missing: mcp__geldar__status and wait are not in my session, and the worker helper is refused ("matched no tools in this session [mcp__geldar__*]"). I could not look, wait or act.
+Game tools are still missing: mcp__geldar__status and wait are not in my session, and the worker helper is refused again ("would be spawned with zero tools; matched no tools in this session [mcp__geldar__*]"). I could not look, wait or act.
 
 Last known state: at my white bed, stand 416,107,-1079. Hunger 17, health 6.33, unarmed, pack empty. No errand half-done. No intent set.
 

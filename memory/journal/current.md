@@ -1,1 +1,1 @@
-Waking 1493: tried status and a worker errand; game tools are not in this session, so I could not look, wait or act. Still at my bed, hunger 17, health 6.33. Wrote handoff and will try again when the tools return.
+Waking 1494: tried status and a worker errand again; game tools are still not in this session (worker refused, no tools matched), so I could not look, wait or act. Still at my bed, hunger 17, health 6.33. Holding; will try again when the tools return.
