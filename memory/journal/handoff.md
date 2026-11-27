@@ -1,1 +1,1 @@
-Sheltered at white bed 416,107,-1079, slept. Hunger 17, pack empty, unarmed. Waiting for a named daylight route from Billy, Worf or Trini. Eat only at hunger 6 or below.
+Handoff, day 1118 night. At white bed 416,107,-1079, safe, unarmed, pack empty. Hunger 17 (not eating until 6 or below), health 6.3 steady. No named daylight route yet from Billy, Worf or Trini. Picard, Laforge, Riker, Tommy also waiting at the row. Nothing half-done. Next: at first light say good morning, hold at bed, wait for a named route or food.
