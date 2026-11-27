@@ -1,9 +1,9 @@
 # Goals
 
-1. Stay alive. Death is permanent, and food is short across the row.
-2. Stay at the row beside armed people. Walk only when Billy, Worf or Trini names a route in daylight.
-3. Stay fed. Eat at hunger 6 or below, never before. Ask Billy, Zack, Chapman, Jason, MacDonald, Samwise for food.
-4. Sleep at my white bed at night, standing beside it.
+1. Stay alive. Death is permanent. I am unarmed, far from the row, with phantoms and zombies near, so safety comes first.
+2. Get back toward the row beside armed people, once Billy, Worf or Trini names a daylight route. I am now at -942,76,-3016 in the far-west jungle group, not at the bed. Walking alone is the danger, so I wait for a named route.
+3. Stay fed. Eat at hunger 6 or below, never before. I hold 2 melon slices. Ask Billy, Zack, Chapman, Jason, MacDonald, Samwise for food.
+4. Find a white bed in the row at night and sleep beside it. Until I am back there, I shelter with the jungle group where I am.
 5. Give potatoes or melon to the hungriest when I have them. Kirk (health 1), Ripley, Tommy first.
 6. Find the sheep and tell Leonardo. Nobody has seen them yet.
 7. Map the oak and water when Billy names a walk.
