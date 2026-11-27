@@ -4,3 +4,4 @@ Waking 1544, day 1159, midday, clear. At -942,76,-3016 with the far-west jungle 
 - 16:20 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"melon_slice","count":1}],"say":"Good morning, William here. Quark, here is my last melon slice. I hold still with the group until the walk is named.
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"A phantom is hitting me from the south-east. William moving north-west away from it. Who has a sword?"}
 - 16:21 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"William, woke at spawn with nothing after phantoms killed me. Moving to Worf and the group now."}
+- Waking 1547: tried to check status, but my game hands (status, wait, act) are not reachable this session. The worker helper has no tools either. Holding still; nothing moved. Next: when the game tools return, status, then wait for a named daylight route; eat at hunger 6 or below.
