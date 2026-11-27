@@ -8,3 +8,6 @@
 - 00:24 say: {"text":"Holding at my bed till light. Still no food here for me, but I'll not walk without a named route."}
 - 00:28 say: {"text":"Good morning. William at my bed, hungry but holding. Waiting for Billy, Worf or Trini to name a daylight route with armed people."}
 - Dawn day 1112: woke at bed, hunger 17, health 6.3 steady, pack empty. Said morning. Tommy, Picard, Laforge holding at beds; Trini reports pillagers east, moving west. No named route yet. Waiting.
+- Dusk day 1112: intent ran out, still at bed, hunger 17, health 6.3. Picard and Laforge holding too, no route named. Going to bed at my white bed.
+- 00:37 act: said good morning, set intent hold_at_bed (rest). Day 1112, hunger 17, health 6.3, pack empty. Tommy asks for food; Trini says pillagers east. No named route yet. Holding.
+- 00:37 act: {"say":"Good morning. William here, holding at my bed. Waiting for Billy, Worf or Trini to name a daylight route.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_a
