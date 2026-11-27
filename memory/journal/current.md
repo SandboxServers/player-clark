@@ -22,3 +22,8 @@ Waking 1560: recalled summary, read play. Game tools still missing. Worker erran
 - 18:08 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3026}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Atticus. I have 2 planks and 2 sticks; walking to the table at -950,77,
 - 18:11 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3026}}]}
 - 18:20 act: {"actions":[],"say":"Clark at dawn, 2 planks and 2 sticks, no table in my reach; the walk to the table was refused. Balboa or Atticus, if you are at a table, call me and I'll come into sight so you ca
+- 18:24 act: {"say":"William here, at the white beds, healthy, hunger 17. I have 2 planks and 2 sticks. Balboa, I'll walk with you to a table in daylight if someone names the way."}
+- Day 1165 morning: status ok (health 19.3, hunger 17, daylight, 2 planks 2 sticks). Said hello at white beds and offered to walk Balboa to a table. Waiting for a named daylight walk.
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3027}}],"say":"Clark, walking to the table at -950,77,-3027 in daylight with Balboa in sight. Balboa, follow me."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"say":"Phantoms overhead at the table, I took a hit. Going back to the bed field with the group. Balboa, come too when your sword is don
+- 18:27 act: {"actions":[],"say":"Clark back at the bed field, health 17, hunger 17. Phantoms hit me at the table, so I came back. I still hold 2 planks and 2 sticks for a sword. Day 1166 midday note: phantoms hit me on the walk to the table; holding at the beds before dusk, cow hunt waits for morning. Andy, Brunel, if one of you has a 
