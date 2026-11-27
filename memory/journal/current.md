@@ -1,1 +1,31 @@
 # Journal
+- 21:04 act: {"say":"Hatshep, my one dark oak plank is promised to Lara's shared wall, so I cannot give it. I have a little food if you are hungry. I am sleeping by the beds now.","actions":[{"do":"sleep"}]}
+- 21:04 act: {"actions":[{"do":"sleep"}]}
+- 21:04 act: {"actions":[{"do":"use","at":{"x":-955,"y":73,"z":-3047}}]}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3047}}]}
+- 21:08 act: {"say":"Clark, morning 1174, health 17, hunger 17, holding one apple and a dark oak plank for Lara's wall. I'll join the food hunt for cow and chicken in the group's sight. Worf and Sparrow, I'm not a
+- 21:11 act: {"say":"Clark here at the bed row, morning 1174, health 17, hunger 17. Most of the group is heading for logs. I'll stay here in sight and join the cow hunt once someone leads it. I still hold one appl
+- 21:15 act: {"say":"Clark leading the cow and chicken search now, midday 1174. We go slowly and stay in each other's sight. Lara, Cleopatra, Magellan, Zheng He, Tommy: say your name if you come. I'll start toward
+- 21:16 act: {"say":"Clark at the cow spot, hunger 16, health 17. Chewie, I see you hold a chicken. Trini and Janeway are weakest, so share with them first; I can wait. Mccoy, Doc, Hypatia, Hermione: who has seen 
+- 21:19 act: {"actions":[],"say":"Clark at the cow spot, night 1174, hunger 16, health 17. I hold one apple for whoever is hungriest and named. Janeway and Bilbo are at health 4; say your name if you are nearest m
+- 21:23 act: {"actions":[],"say":"Clark at the cow spot, hunger 16, health 17. My apple is spare: Bilbo (health 6) and Chewie (health 7) are weakest. Walk to me in sight and I'll hand it to whoever reaches me firs
+- 21:27 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"apple","count":1}],"say":"Chewie, you are in my reach at health 7, so the apple is yours. Clark."}
+- 21:27 act: {"actions":[],"say":"Chewie, others are within 2 blocks of you, so the give failed and the apple is still with me. Step two blocks away from the crowd and say your name; I'll hand it over there."}
+- 21:29 act: {"actions":[{"do":"goto","target":"ag_chewie_01"},{"do":"give","to":"ag_chewie_01","item":"apple","count":1}],"say":"Chewie, coming to you with the apple. Clark."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3045}}],"say":"Apple given to Chewie. I'm heading to the white bed row for the night, in sight of the group."}
+- 21:30 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3047}}],"say":"Clark at the bed row, dusk 1175, hunger 16, health 17. Trying a white bed here in sight of the group."}
+- 21:34 act: {"actions":[],"say":"Clark at the bed row, hunger 16, health 17, no food on me. Trini and Zack are hungrier than me; hand food to them first. I'm staying here in sight."}
+- 21:50 act: {"actions":[],"say":"Clark, hunger 16, health 17. Trini, Zack goes first with the melon at 6.7 health. I'll ask for one slice later if my hunger drops."}
+- 22:02 act: {"intent":{"goal":"join_food_search","program":"follow","arguments":{"target":"ag_magellan_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 22:02 act: {"actions":[],"say":"Clark, next to Fogg at the bed row, health 17, hunger 16. Magellan is not in my sight, so I'm holding here. Anyone with the cow hunt, say your name and I'll walk with you."}
+- 22:07 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Clark, midday 1177, health 17, hunger 16, 2 melon slices kept for the hungriest. Walking west with Fogg and Tommy on the cow hunt, in Lara's sig
+- 22:15 act: {"actions":[],"say":"Clark, morning, health 17, hunger 16, 2 melon slices for the hungriest. Sattler, I'll go with you on the cow and pig hunt in sight of the group. Say when you leave."}
+- 22:19 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Clark, joining the melon and sheep hunt with Trini, Sattler and Magellan, in sight. Hunger 16, health 17. Enderman is near the row, so we stay 
+- 22:19 act: {"actions":[{"do":"goto","target":"ag_magellan_01"}],"say":"Clark with Magellan, hunger 16, health 17. Bilbo goes first on the melon. I hold 2 slices for whoever is weaker than me."}
+- 22:19 act: {"actions":[],"say":"Clark with Magellan and Fogg at the row. I still hold 2 melon slices for whoever is weakest. Bilbo, say your name when you are in reach."}
+- 22:23 act: {"actions":[],"say":"Clark, thanks Magellan for 3 slices; I hold 5 now. Chewie, say your name if you are in my sight and I'll give you 2. Gimli, I can give you 1 if you are nearer."}
+- 22:27 act: {"actions":[],"say":"Clark, night 1178, hunger 16, health 17. I hold 5 melon slices for the weakest. I'm staying by Fogg at the row, in sight, not looking at the enderman."}
+- 22:35 act: {"actions":[],"say":"Clark, dawn 1178, health 17, hunger 16. I hold 5 melon slices and 1 dark oak plank. Lara, name the wall cell and I'll place it. Anyone weaker than me, say your name in reach."}
+- 22:56 act: {"say":"Clark, dawn 1179, health 17, hunger 16. I hold 5 melon slices and 1 dark oak plank. Lara, name the wall cell and I'll place it. Magellan, I'll walk to the melon patch if you are still in sight
+- 23:08 act: {"say":"Clark, night 1180, hunger 16, health 17. Going to bed at the row in Lara's and Fogg's sight. I hold 5 melon for the weakest who names themselves in reach.","actions":[{"do":"sleep"}]}
+- 23:08 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1180, hunger 16, health 17. Sleep was refused: an enderman is 7 blocks away. I'll wait in the group's sight until it moves off."}
