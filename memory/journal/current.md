@@ -1,13 +1,2 @@
-# Journal
-- Waking 1401, day 1110: slept at bed, woke. Hunger 17, health 6.3, pack empty. Said good morning. Holding at bed; no named route yet. Tommy asks for food/wooden sword; I have none.
-- 23:56 act: {"say":"Good morning, row. William here at my bed, unarmed and holding. Waiting for a named daylight route from Billy, Worf or Trini."}
-- 00:09 say: {"text":"Morning, row. William here, hunger 17, pack empty, holding at my bed. I'll walk only when Billy, Worf or Trini names a daylight route."}
-- Waking 1402, day 1111: status fine, health 6.3, hunger 17, pack empty. Said morning. Picard and Laforge also holding at their beds. Riker asks who will read a route to potatoes at 463-470. Still no named route; waiting at bed.
-- 00:21 say: {"text":"Night now. William going to bed at my white bed, 415,107,-1079. Light first, then a named route."}
-- 00:22 act: {"say":"Good night. Holding at my bed till light.","actions":[{"do":"sleep"}]}
-- 00:24 say: {"text":"Holding at my bed till light. Still no food here for me, but I'll not walk without a named route."}
-- 00:28 say: {"text":"Good morning. William at my bed, hungry but holding. Waiting for Billy, Worf or Trini to name a daylight route with armed people."}
-- Dawn day 1112: woke at bed, hunger 17, health 6.3 steady, pack empty. Said morning. Tommy, Picard, Laforge holding at beds; Trini reports pillagers east, moving west. No named route yet. Waiting.
-- Dusk day 1112: intent ran out, still at bed, hunger 17, health 6.3. Picard and Laforge holding too, no route named. Going to bed at my white bed.
-- 00:37 act: said good morning, set intent hold_at_bed (rest). Day 1112, hunger 17, health 6.3, pack empty. Tommy asks for food; Trini says pillagers east. No named route yet. Holding.
-- 00:37 act: {"say":"Good morning. William here, holding at my bed. Waiting for Billy, Worf or Trini to name a daylight route.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_a
+Waking 1407, day 1112, dusk. At my white bed 416,107,-1079. Hunger 17, health 6.3 steady, pack empty. No one near. Tried sleep; it failed because it is not night yet. Holding at the bed and waiting for night, then sleep.
+- 00:48 say: {"text":"Good morning. William at the bed, unarmed, pack empty. Holding in the row until a route is named in daylight."}
