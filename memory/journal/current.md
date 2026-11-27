@@ -1,1 +1,1 @@
-Waking 1494: tried status and a worker errand again; game tools are still not in this session (worker refused, no tools matched), so I could not look, wait or act. Still at my bed, hunger 17, health 6.33. Holding; will try again when the tools return.
+Waking 1496: still no game tools in this session. My status and wait calls are not reachable, and the worker errand failed with zero tools. Last known: at my white bed 416,107,-1079, hunger 17, health 6.33, unarmed, pack empty. Holding at the bed and will retry the game tools when they return.
