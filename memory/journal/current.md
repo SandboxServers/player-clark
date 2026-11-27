@@ -9,3 +9,16 @@ Waking 1561: recalled summary, read play. Game tools still missing; worker has z
 Waking 1560: recalled summary, read play. Game tools still missing. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
 - 17:23 act: {"say":"William here, midday, health 20, hunger 20, empty pack. I'm staying at the tables in your sight. If anyone can spare a plank or stick, I'd be grateful; I'll ask for a sword and shelter.","acti
 - 17:27 act: {"say":"William, midday, health 20, hunger 20, empty and unarmed. I'm holding at the tables. If anyone has a spare stick or plank, I'd like to craft a sword here in sight. I'll go nowhere alone.","act
+- 17:30 act: {"say":"William here, waking at the tables, hunger 20, empty and unarmed. Could someone spare 2 planks and a stick? I'll stay in your sight and craft a sword at the table.","intent":{"goal":"hold_in_s
+- 17:41 act: {"say":"William, dawn, alive, health 20, hunger 20, still unarmed with an empty pack. Whoever has 2 spare planks and a stick, please hand them to me here in sight. I'll craft a sword at the table and 
+- 17:45 act: {"say":"William, midday, health 20, hunger 20, empty. Tanya, you hold 3 oak logs and 3 sticks: could you hand me 1 stick here in sight? I'll craft what I can at the table and keep to the group.","inte
+- 17:49 act: {"say":"Clark, unarmed and empty, at the tables in sight. Anyone with a spare stick or 2 planks, step within reach and say your name. I have no food to share.","intent":{"goal":"hold_at_tables_for_mat
+- 17:54 act: {"actions":[{"do":"goto","target":"ag_shackle_01"}],"say":"Clark, unarmed and empty, beside Shackle in reach. I'd take one stick please. No food.","intent":{"goal":"hold_beside_shackle_at_night","prog
+- 17:54 act: {"intent":{"goal":"hold_in_group_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 17:56 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Clark, got Quark's stick. Phantom hitting me from the south, 2 blocks. Shackle, Quark, Zeoyellow, please strike it."}
+- 17:59 act: {"actions":[],"say":"Clark, dawn, at the tables beside Shackle, 2 sticks, no planks, no food. Zheng He, if you come into my reach, 2 planks please, and I'll craft the sword here in sight.","intent":{"
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-943,"y":76,"z":-3016}}],"say":"Clark, I'm back at the tables' edge, heading to the group. Trini, I have 2 sticks and no planks."}
+- 18:05 act: {"actions":[],"say":"Clark here at the beds, in sight, holding 2 sticks. Atticus, I'll take 2 dark oak planks; I'm in reach, come by. Then I'll craft a wooden sword at the table."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3026}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Atticus. I have 2 planks and 2 sticks; walking to the table at -950,77,
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3026}}]}
+- 18:20 act: {"actions":[],"say":"Clark at dawn, 2 planks and 2 sticks, no table in my reach; the walk to the table was refused. Balboa or Atticus, if you are at a table, call me and I'll come into sight so you ca

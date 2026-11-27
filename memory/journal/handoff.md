@@ -1,5 +1,6 @@
-Handoff, waking 1562 (day 1163, life 16).
-Respawned at the far-west tables, -942,76,-3016, with the group (Zack, Worf, Quark, Leonardo, Watney and others). Health 20, hunger 20, pack empty, unarmed. Not enclosed, midday.
-Old summary (row bed 415,107,-1079, Billy's group) is from the previous life; the row is far away, do not walk there alone.
-Holding at the tables in the group's sight. Asked for a stick or plank to craft a sword; nobody has handed me anything yet.
-Next: when the game tools return, call status and look. Eat at hunger 6 or below. Get a sword from the group. Before dusk, be sheltered with armed people. Do not walk alone.
+Handoff, waking 1563, day 1165 dawn.
+At the white bed field -947,73,-3047, health 19.3, hunger 17, not enclosed.
+Holding 2 dark oak planks (from Atticus) and 2 sticks. Need a crafting table in reach for a wooden sword.
+goto to the table area (z around -3026) is refused by the world (out of bounds), so walk is not working from here.
+Atticus, Lara, Balboa, Marco, Indy are near in sight. Asked someone at a table to craft me a sword.
+Next: wait for a table in reach or someone to craft for me. Eat at hunger 6 or below. Do not walk alone. Before dusk, be sheltered with armed people.
