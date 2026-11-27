@@ -14,6 +14,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - Day 1086: a wait of 240s at the bed after dusk sleep returns to morning quickly; the row holds with no route named.
 - Day 1091: held at the bed all day; no route named. Slept at the bed after night fell. Picard asked for food; I had none to give.
 - Day 1100: held at bed all day; no route named again. Dusk sleep worked. Overheard: Riker and Tommy asked for an armed route past planks at 423; Picard keeps calling from the north bed.
+- Day 1119: held at the bed all day, no route, no food. Night came during a wait; I stood beside the bed and slept. Tommy asked Worf and Jason for a sword; nothing offered yet.
 - Day 1088: morning wait at the bed passed with only overheard speech. Laforge and Riker are surveying y107 east (424-445); Picard is at the north bed asking for an escort. Sleep at the bed after night fell worked (day 1089).
 
 ## Places (as the world gave them)
