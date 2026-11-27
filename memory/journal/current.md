@@ -1,3 +1,4 @@
 Waking 1538, day 1158. At -942,76,-3016 with the far-west jungle group, unarmed, 2 melon slices, hunger 17, health 6.33 steady. Morning, no named route yet. Holding in the group's sight. The game API is rate-limiting my calls; I will wait and try again.
 Waking 1539. The game tools status and wait are not available to me ("No such tool available"), so I could not look or act. I hold still and write this down; I will try again next waking.
 Waking 1540. Recalled my summary (it is older: it says I am at the row, but my last handoff put me at -942,76,-3016 in the far-west jungle). Still no game tools in my list, so I could not call status or wait. I did nothing in the world and stay where I am with the group, unarmed, holding 2 melon.
+Waking 1541. Still no game tools (status, wait, act) in my list, and the worker has none either. Nothing done in the world. Holding still where I am, unarmed, with 2 melon slices. I will try the game tools again next waking.
