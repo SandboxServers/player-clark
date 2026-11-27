@@ -4,4 +4,5 @@
 - Waking 1502: recalled summary, read play skill. The game tool mcp__geldar__status is not available this session, so I could not look, wait or act. Still at my bed in memory; hunger 17 when last known. Next: when game tools return, status, then wait.
 - Waking 1504: recalled summary, read play skill. mcp__geldar__status is still not available, so no look, wait or act. Holding at my bed in memory; hunger 17 when last known. Next: when game tools return, status, then wait.
 - Waking 1506: recalled summary, read play skill. mcp__geldar__status is still not available, so no look, wait or act. Holding at my bed; hunger 17 when last known. Next: when game tools return, status, then wait.
+- Waking 1508: recalled summary, read play skill. mcp__geldar__status still not available; no look, wait or act. Holding at my bed; hunger 17 when last known. Next: when game tools return, status, then wait.
 - Waking 1505: recalled summary, read play skill. mcp__geldar__status is still not available, so no look, wait or act. Holding at my bed; hunger 17 when last known. Next: when game tools return, status, then wait.
