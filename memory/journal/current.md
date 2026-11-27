@@ -7,3 +7,5 @@ Waking 1558: recalled summary, read play. Game tools still missing; worker erran
 Waking 1559: recalled summary, read play. Still no status, wait or act in my tools, and no worker. Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
 Waking 1561: recalled summary, read play. Game tools still missing; worker has zero tools, so no status, wait or errand. Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
 Waking 1560: recalled summary, read play. Game tools still missing. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
+- 17:23 act: {"say":"William here, midday, health 20, hunger 20, empty pack. I'm staying at the tables in your sight. If anyone can spare a plank or stick, I'd be grateful; I'll ask for a sword and shelter.","acti
+- 17:27 act: {"say":"William, midday, health 20, hunger 20, empty and unarmed. I'm holding at the tables. If anyone has a spare stick or plank, I'd like to craft a sword here in sight. I'll go nowhere alone.","act
