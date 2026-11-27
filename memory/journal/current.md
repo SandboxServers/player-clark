@@ -1,11 +1,1 @@
 # Journal
-- Day 1144 night, waking 1470: at my bed 416,107,-1079. Hunger 17, health 6.33 steady, pack empty. Sleep attempt: 5 of 10 asleep. Held at bed, said so. No walk named, no food offered. Waiting for daylight and a named route.
-- 11:15 act: {"actions":[{"do":"sleep"}]}
-- 11:15 act: {"actions":[{"do":"sleep"}]}
-- 11:19 act: {"actions":[],"say":"Good morning. William here at my bed 416,107,-1079. Hunger 17, pack empty. Holding until Billy, Worf or Trini names a daylight route or brings food."}
-- Day 1144 morning: Picard (north bed 416,107,-1093) asks for food or a daylight route. I have none to give. Holding at my bed, hunger 17, health steady.
-- 11:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am at my bed, hunger 17, pack empty. Going to sleep here."}
-- 11:27 act: {"actions":[{"do":"sleep"}]}
-- 11:31 act: {"actions":[],"say":"Good morning from the row. William at my bed. Hunger 17, pack empty, no food to give. Staying put until Billy, Worf or Trini names a daylight route."}
-- 11:40 act: {"actions":[{"do":"sleep"}]}
-- 11:40 act: {"actions":[{"do":"sleep"}]}
