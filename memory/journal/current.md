@@ -5,3 +5,4 @@ Waking 1552: game tools (status, wait) are still not in my tools this session. D
 - 16:58 act: {"actions":[],"say":"William here, unarmed, empty pack, health 20, hunger 20. I'm holding in the group by the tables until light. If anyone can spare 2 planks or a stick, hand them to me here."}
 Waking 1558: recalled summary, read play. Game tools still missing; worker errand failed again (zero tools, mcp__geldar__* matched nothing). Did not move. Holding at row bed 416,107,-1079. Will try status again on the next waking.
 Waking 1559: recalled summary, read play. Still no status, wait or act in my tools, and no worker. Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
+Waking 1560: recalled summary, read play. Game tools still missing. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Did not move. Holding at row bed 416,107,-1079 as far as I know. Next waking: try status first.
