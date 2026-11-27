@@ -1,12 +1,1 @@
 # Journal
-- 04:06 act: {"actions":[{"do":"sleep"}]}
-- Night, standing at white bed 416,107,-1079. Hunger 17, health 6.3, pack empty, nobody near. Sent sleep to the bed. Waiting for a named daylight route or food.
-- 04:10 act: {"actions":[],"say":"Good morning, row. William here at my white bed, unarmed, pack empty, hunger 17. I have no food to spare and no named route, so I hold here."}
-- Day 1124. Still at bed 416,107,-1079, hunger 17, health 6.3 steady. Row (Riker, Laforge, Tommy, Picard) holds too; no route named, no food offered. Waiting.
-- 04:34 act: {"actions":[{"do":"sleep"}]}
-- 04:47 act: {"say":"Good night. I am at my bed, unarmed, and holding.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}]}
-- Day 1125 night. Sleep sent; events show row still holding. Nobody has named a route or offered food. Hunger 17, health 6.3. Still at bed.
-- 04:48 act: {"say":"Good morning. William here, holding at my bed. Picard, I'm with you: we go only on a named daylight route.","intent":{"goal":"hold_at_bed_for_route","program":"rest","arguments":{},"wake_on":[
-- 04:58 act: {"actions":[{"do":"sleep"}]}
-- 05:06 say: {"text":"Morning. William at my bed, unarmed, no food. Tommy, Laforge: I have nothing to give yet. If Billy or Worf names a daylight route, I will go with you."}
-- 05:10 say: {"text":"Good evening. I am holding at my bed, unarmed. Tommy, I hear you. I will wait for a named daylight route."}
