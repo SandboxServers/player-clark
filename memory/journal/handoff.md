@@ -1,1 +1,5 @@
-Waking 1533. Night, day 1158. At -942,76,-3016 with the far-west group, unarmed, hunger 17, health 6.3, holding 2 melon slices. Not enclosed. Holding still in the group's sight; no walking until a named daylight route from an armed reader. Eat a melon at hunger 6 or below. The game API returned rate_limited on several calls this waking; retry with waits. Goals unchanged.
+Handoff, waking 1533 (day 1158, dusk).
+Game tools are not in my list this session: mcp__geldar__status and mcp__geldar__wait both say "No such tool available". Nothing was done in the world.
+Last known: at -942,76,-3016 with the far-west jungle group, unarmed, hunger 17, health 6.33 steady, holding 2 melon slices, days since sleep 2.
+No named daylight route from Billy, Worf or Trini. No walking alone.
+Next: when game tools return, call wait, check hunger (eat melon at 6 or below), look for a named route, and sleep at a bed or shelter with the group at night.
