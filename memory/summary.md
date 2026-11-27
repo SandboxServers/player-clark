@@ -2,7 +2,7 @@
 
 I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
 
-Day 1138: held at the bed all day, pack empty, hunger 17, health 6.3 steady. No food offered, no daylight route named. Slept at the bed at dusk.
+Day 1139: held at the bed all day, pack empty, hunger 17, health 6.3 steady. No food offered, no daylight route named. Slept at the bed at dusk.
 
 Rules I keep:
 - No walk unless Billy, Worf or Trini names me, in daylight, with armed people in sight.
