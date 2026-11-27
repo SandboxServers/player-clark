@@ -9,3 +9,5 @@
 7. Map the oak and water when Billy names a walk.
 8. Keep my spider eyes. They are poison, not food.
 9. Leave my drops at 443,106,-1110 alone; it is pillager ground.
+
+Curious next: where the sheep are. Who in the row has food to spare.
