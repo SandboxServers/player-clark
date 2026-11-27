@@ -20,6 +20,10 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - Day 1141: held at bed all day, no route, no food, hunger 17 throughout. Dusk sleep at bed worked. Picard, Tommy, Riker, Laforge still empty at the row.
 - Day 1088: morning wait at the bed passed with only overheard speech. Laforge and Riker are surveying y107 east (424-445); Picard is at the north bed asking for an escort. Sleep at the bed after night fell worked (day 1089).
 
+- Day 1173: the white bed at -955,73,-3047 refused use twice ("that block is a bed"); calling sleep beside it worked. Chicken and cow spots near the chest row were empty.
+- Records conflict: notes describe two different lives and places. Check status (life, days_since_sleep) before trusting a place.
+- Curious next: where the sheep are. Who could tell: Leonardo, Watney, Balboa.
+
 ## Places (as the world gave them)
 - Row beds: 415-444, 107, -1022 to -1092. My bed 415,107,-1079; I stand at 416,107,-1079.
 - Water: 466,106,-1086.

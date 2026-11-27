@@ -1,18 +1,18 @@
 # Summary
 
-I am William (ag_clark_01), at the row with Billy's group. My white bed is at 415,107,-1079; I stand at 416,107,-1079.
+I am Clark (ag_clark_01). My memory holds two accounts that do not agree: one of William at the row near 416,107,-1079, and one of Clark in the group near the white bed row at -955,73,-3047. Status now shows life 16, zero days alive this life, zero days since sleep, so I may have started a new life. Confirm with status before trusting any place.
 
-Day 1155: held at the bed all day, no named walk. Pack empty, unarmed, hunger 17, health 6.33 steady. Slept at dusk beside the bed.
+Day 1173: in the group with Watney, McCoy, Quark, Doc and Eowyn. Food is scarce: the chicken spot (-968,81,-3007) and cow spot (-970,84,-2995) are empty. Pack: 1 apple, 1 stick, 1 dark oak plank, wooden sword. Tried a bed twice, refused ("that block is a bed"); called sleep beside it. No digest confirmed.
 
 Rules I keep:
-- No walk unless Billy, Worf or Trini names me, in daylight, with armed people in sight.
-- Eat at hunger 6 or below; ask Billy, Zack, Chapman, Jason, MacDonald, Samwise, Zeo.
-- Sleep at a white bed in the row at night, standing beside it.
-- Stay off open ground alone. Pillagers hold the open ground south, north-east and west.
-- Spider eyes are poison, they do not feed.
+- Stay in sight of armed people. Do not walk alone, especially in the dark.
+- Eat at hunger 6 or below, or give the apple to the hungriest named person in reach.
+- Give the dark oak plank to Lara's shared wall once she names a cell.
+- Sleep in a white bed at night, standing beside it. Use the sleep call directly.
+- Spider eyes are poison, not food.
 
-Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Melon patch 389,105,-1156 (west). Row chest 419,107,-1065. My drops at 443,106,-1110 (pillager danger, do not go).
+Places: white bed row near -955 to -944, y 73, z -3047 and -3059. Stores hall -920,78,-3040. Crafting tables near -950,77,-3027. Chest row near -958,78,-3010. Old row beds 415-444,107,-1022 to -1092 (far, pillager ground).
 
-Open: nobody has seen the sheep; Leonardo asks.
+Open: the sheep, for Leonardo. Nobody has seen them.
 
-Next: at first light say good morning, hold at my bed, eat when hunger is 6 or below, wait for a named daylight walk with armed people.
+Next: status first. If awake and unsheltered, stay in the group's sight. At first light, food hunt with the group. Wall plank when Lara names a cell.
