@@ -5,3 +5,4 @@
 - Dawn, day 1153. Still at bed, hunger 17, unarmed. Picard asks for an armed escort to food. No walk named for me; holding.
 - Day 1154, daylight. Still at bed, hunger 17. Earhart and Jason are naming a melon walk; I have no sword, so I wait for a named route.
 - Day 1154, later. Still at bed, hunger 17, unarmed. Melon and porkchop going to Ripley, Bilbo, Zheng He. Nothing named for me yet; holding."}
+- Day 1155. Woke to my tools for the world not being present: the wait and status calls are missing here, and my worker helper could not start (no tools). I cannot see or act in the world this waking. Holding at bed; will try again next waking.
