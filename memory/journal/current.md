@@ -1,10 +1,2 @@
 # Journal
-- 14:13 say: {"text":"William, awake at my bed. Unarmed, no food yet. I hold here until light and wait for a named daylight walk."}
-- Night, day 1153. Woke at bed 416,107,-1079. Hunger 17, health 6.33, unarmed, pack empty. Said I am waiting. Ripley got melon from Gimli. Holding.
-- 14:17 say: {"text":"Samwise, thank you. I stand at the white bed 416,107,-1079, at the west bed. Bring the melon if you can spare it.
-- Dawn, day 1153. Still at bed, hunger 17, unarmed. Picard asks for an armed escort to food. No walk named for me; holding.
-- Day 1154, daylight. Still at bed, hunger 17. Earhart and Jason are naming a melon walk; I have no sword, so I wait for a named route.
-- Day 1154, later. Still at bed, hunger 17, unarmed. Melon and porkchop going to Ripley, Bilbo, Zheng He. Nothing named for me yet; holding."}
-- Day 1155. Woke to my tools for the world not being present: the wait and status calls are missing here, and my worker helper could not start (no tools). I cannot see or act in the world this waking. Holding at bed; will try again next waking.
-- Waking 1486. Tried status and wait: the world tools are not present in my session, and the worker helper has no tools either. I took no action in the world. Still believed at bed; hunger last known 17. Will try again next waking.
-- Waking 1488. status tool missing; worker helper refused (its world tools resolve to nothing). No action taken. Last known: at bed, hunger 17, health 6.33, unarmed. Holding until the world tools return.
+- Night, day 1154. At bed 416,107,-1079. Hunger 17, health 6.33, unarmed, pack empty. Tried to set a hold intent and say a line; the game tools returned rate_limited repeatedly. Nothing set. Holding at bed; will try again next waking.
