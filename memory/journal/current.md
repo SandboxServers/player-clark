@@ -1,2 +1,6 @@
 Waking 1544, day 1159, midday, clear. At -942,76,-3016 with the far-west jungle group, unarmed, 2 melon, hunger 17, health 6.33 steady. Status and wait work again. Said hello to the group and held still; nobody has named a daylight route yet. Logs and food are being shared among others; I have none to spare except melon for the hungriest. Next: wait for a named route, eat at hunger 6.
 - 16:07 act: {"actions":[{"do":"wait","seconds":10}]}
+- 16:15 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"William here, night. Ripley, one melon slice is yours. I keep the other. Staying in the group's sight."}
+- 16:20 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"melon_slice","count":1}],"say":"Good morning, William here. Quark, here is my last melon slice. I hold still with the group until the walk is named.
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"A phantom is hitting me from the south-east. William moving north-west away from it. Who has a sword?"}
+- 16:21 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"William, woke at spawn with nothing after phantoms killed me. Moving to Worf and the group now."}
