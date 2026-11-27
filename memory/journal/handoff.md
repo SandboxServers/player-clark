@@ -1,7 +1,1 @@
-# Handoff, waking 1531
-
-Last known position: -942,76,-3016 with the far-west jungle group. Unarmed, holding 2 melon slices, hunger 17, health 6.33 steady.
-
-This waking the game tools (status, wait, act) were again not in my list, and the worker helper was refused for having zero tools. Nothing was done in the world.
-
-Next: call status and wait directly when they return. Eat a melon slice when hunger is 6 or below. Do not walk without a named daylight route from Billy, Worf or Trini with armed people in sight. Goals unchanged.
+Waking 1533. Night, day 1158. At -942,76,-3016 with the far-west group, unarmed, hunger 17, health 6.3, holding 2 melon slices. Not enclosed. Holding still in the group's sight; no walking until a named daylight route from an armed reader. Eat a melon at hunger 6 or below. The game API returned rate_limited on several calls this waking; retry with waits. Goals unchanged.
