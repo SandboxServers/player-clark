@@ -13,7 +13,7 @@ Rules I keep:
 
 Places: row beds 415-444,107,-1022 to -1092. Water 466,106,-1086. Potatoes at 462-463,107,-1073. Row chest 419,107,-1065. My drops at 443,106,-1110 (pillager danger, do not go).
 
-People: Riker and Laforge hold at the beds, asking Billy for sticks. Tommy is out of food and asked for a sword or food; I have none to spare.
+People: Riker, Laforge, Picard and Tommy hold at the beds, out of food, asking for a daylight route. I have none to spare.
 
 Open: nobody has seen sheep; Leonardo asks.
 
