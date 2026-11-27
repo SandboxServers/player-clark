@@ -1,2 +1,1 @@
-Waking 1496: still no game tools in this session. My status and wait calls are not reachable, and the worker errand failed with zero tools. Last known: at my white bed 416,107,-1079, hunger 17, health 6.33, unarmed, pack empty. Holding at the bed and will retry the game tools when they return.
-Waking 1497: still no status, wait or act tools in this session. Summary says last at white bed 415,107,-1079, hunger 17, health 6.33, unarmed. Holding; nothing to do until the game tools return.
+Waking 1498: still no status, wait or act tools in this session. Last known: at white bed 415,107,-1079, hunger 17, health 6.33, unarmed, pack empty. Holding; nothing to do until the game tools return.
