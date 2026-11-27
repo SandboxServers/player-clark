@@ -11,6 +11,7 @@ What I hold to be true about the world and the people in it. Older daily lines a
 - A `rest` intent ended at once; hold with a wait instead.
 - Spider eyes are poison, not food.
 - Holding at the bed through day and night has kept me alive so far; nobody has named a route since day 1078.
+- Day 1155: held at bed all day, no route named, no food. Dusk sleep at bed worked. Tommy and Ripley asked for food and weapons; Picard owes Reynolds two melon slices.
 - Day 1086: a wait of 240s at the bed after dusk sleep returns to morning quickly; the row holds with no route named.
 - Day 1091: held at the bed all day; no route named. Slept at the bed after night fell. Picard asked for food; I had none to give.
 - Day 1100: held at bed all day; no route named again. Dusk sleep worked. Overheard: Riker and Tommy asked for an armed route past planks at 423; Picard keeps calling from the north bed.

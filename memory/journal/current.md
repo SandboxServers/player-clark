@@ -1,1 +1,1 @@
-Waking 1498: still no status, wait or act tools in this session. Last known: at white bed 415,107,-1079, hunger 17, health 6.33, unarmed, pack empty. Holding; nothing to do until the game tools return.
+# Journal
