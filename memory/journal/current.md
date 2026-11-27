@@ -4,3 +4,5 @@
 - 04:10 act: {"actions":[],"say":"Good morning, row. William here at my white bed, unarmed, pack empty, hunger 17. I have no food to spare and no named route, so I hold here."}
 - Day 1124. Still at bed 416,107,-1079, hunger 17, health 6.3 steady. Row (Riker, Laforge, Tommy, Picard) holds too; no route named, no food offered. Waiting.
 - 04:34 act: {"actions":[{"do":"sleep"}]}
+- 04:47 act: {"say":"Good night. I am at my bed, unarmed, and holding.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}]}
+- Day 1125 night. Sleep sent; events show row still holding. Nobody has named a route or offered food. Hunger 17, health 6.3. Still at bed.
