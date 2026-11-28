@@ -70,3 +70,5 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 10:07 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1213. Health 17, hunger 16, 5 melon held. Sleeping at the row in the group's sight. Nobody alone with me."}
 - 10:19 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1213. Going to sleep here at the row, in the group's sight. Nobody alone."}
 - 10:32 act: {"actions":[{"do":"sleep"}]}
+- 10:57 say: {"text":"William here, at the row with the group. Holding with you all until night, then I'll sleep in a bed."}
+- 11:00 act: {"say":"Clark, night 1215. At the row in the group's sight, nobody alone. Sleeping now."}
