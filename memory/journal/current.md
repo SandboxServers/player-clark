@@ -1,1 +1,10 @@
-# Journal
+Day 1184 midday. Sleep refused (it is day). Hunger 16. Told the group I'd join Magellan's melon run in sight; set a follow intent on Magellan.
+- 00:40 act: {"say":"Clark, hunger 16, not yet at my line. Keep the chicken and flesh for Trini or whoever is weaker. Thank you all. I'll stay at the row in sight."}
+- 00:44 act: {"say":"Clark, hunger 16, holding 5 melon slices myself. Magellan, at 17 you are weaker than me: come within my reach and say your name, and I'll hand you 2."}
+- 00:48 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"melon_slice","count":2}],"say":"Magellan, 2 melon given. Stay in sight tonight."}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}]}
+- 00:48 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"melon_slice","count":2}],"say":"Magellan, 2 melon slices, handing them to you now. Stay in sight."}
+- 00:48 act: {"actions":[],"say":"Magellan, the give was blocked by people crowding you. Step two blocks away from the others and say your name; I'll hand the melon over."}
+- 00:51 act: {"actions":[],"say":"Clark, hunger 16, holding 5 melon. Magellan and Gimli: I can't see you in my list yet. Walk into my sight and within reach, then say your name and I'll hand a slice over."}
+- 00:59 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}},{"do":"sleep"}]}
+- 01:03 act: {"say":"Clark, morning, hunger 16, holding 5 melon. Gimli, Magellan, Seven: if you are alone in my reach and say your name, I'll hand you a slice. Others are fed for now."}
