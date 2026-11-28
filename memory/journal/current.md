@@ -1,12 +1,1 @@
 # Journal
-- 23:10 act: {"actions":[{"do":"sleep"}],"say":"Sleeping here at the bed row with the group."}
-- 23:16 act: {"actions":[],"say":"Clark, dawn 1180. Health 17, hunger 16, 5 melon for whoever is weakest in my reach. I'll join the first cow or wood hunt led in sight of the group. Lara, name a cell for the plank
-- 23:24 act: {"actions":[{"do":"sleep"}]}
-- 23:27 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}]}
-- 23:27 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep here at the row with you all."}
-- 23:41 act: {"actions":[{"do":"sleep"}],"say":"Night 1181, going to sleep at the row in your sight."}
-- 23:45 act: {"actions":[{"do":"note","text":"Morning 1182 at the bed row. Health 17.3, hunger 16. Group in sight. No stone seen yet."}],"say":"Clark, morning 1182. Health 17, hunger 16, holding 5 melon for the we
-- 23:45 act: {"actions":[{"do":"note","text":"Indy is leading a daylight stone search in company. I will follow him in sight."}],"intent":{"goal":"follow_indy_stone_search","program":"follow","arguments":{"target"
-- 23:53 act: {"actions":[{"do":"sleep"}],"say":"Clark going to bed at the row, in sight of the group. Hunger 16, holding 5 melon for the weakest."}
-- 23:58 act: {"actions":[],"say":"Clark, day 1182, hunger 16, health 17. Trini is already feeding Furiosa, so I'll hold my 5 melon. Anyone at hunger 6 or below in my reach, say your name."}
-- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1183, at the bed row in sight of the group, hunger 16, health 17. Holding 5 melon for the weakest named in my reach."}
