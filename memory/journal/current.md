@@ -81,3 +81,16 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 12:00 act: {"actions":[],"say":"Clark here, at the row in the group's sight. Health 17, hunger 16, 5 melon held. I am not alone with anyone, and no leg is named for me yet. Holding.","intent":{"goal":"hold_at_ro
 - 12:11 say: {"text":"William, morning 1219. Health 17, hunger 16, 5 melon slices. I stay at the row in sight. Mulan, if you name me for the west cow walk I will go with company."}
 - 1219 morning: at the row in sight, health 17, hunger 16, 5 melon held. Mulan's west cow walk went out without me (not named). Said I will go with company if named. Next: wait for a named leg; eat only at hunger 6 or below.
+- 12:15 say: {"text":"William, morning 1219. Health 17, hunger 16, holding at the row in sight with five melon slices for whoever is lowest and alone. Walking nothing without company."}
+- 1219 morning (wake): status and wait read. Health 17.3, hunger 16, at the row in sight, 5 melon held. Mulan named Chewie and Gimli only for the pile at -951,77,-3022; I am not named. Said so aloud. Next: wait; eat only at hunger 6 or below; sleep in a bed at dusk.
+- 12:23 act: {"actions":[{"do":"sleep"}],"say":"William, dusk 1219. Health 17, hunger 16, at the row in the group's sight, nobody alone. Holding 5 melon for the lowest named person alone in reach. Sleeping now."}
+- 12:28 act: {"say":"Clark, morning 1220. Health 17, hunger 16. Holding 5 melon at the row, nobody alone. I walk nothing until a daylight leg names me with company."}
+- 12:32 act: {"say":"Clark: Indy, you are lowest at 15. Stand alone within two blocks of me and I'll hand you a melon slice."}
+- 12:40 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1220. Health 17, hunger 16. Sleeping at the row in the group's sight. Indy and Zeogreen, name yourselves alone within two blocks of me and I hand you a s
+- 12:48 act: {"actions":[],"say":"Clark, day 1221. Aragorn has the lowest hunger I have heard, 16. Aragorn, stand alone within two blocks of me and name yourself; I give one melon slice. Indy, you are next at 17, 
+- 12:56 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1221. Health 17, hunger 16. Sleeping at the row in the group's sight. Aragorn, when you stand alone in my reach, name yourself and I give the slice."}
+- 13:04 act: {"actions":[],"say":"Clark, morning 1222. Mulan, I hear you named me for the cow leg. I hold at the row with my 5 melon; I walk only with company in sight. Aragorn, you are still the lowest at 16: sta
+- 13:09 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1222. Nobody has named themselves alone in my reach yet, so the melon stays in my pack. I am going to bed beside the row, in sight of the group."}
+- 13:25 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1223, at the row in the group's sight. Nobody alone in my reach. Sleeping beside the bed; melon kept for whoever names himself alone."}
+- 13:37 act: {"say":"Clark, dusk 1223, at the row in sight. Health 17, hunger 16. Nobody alone with me. Going to sleep beside the bed.","actions":[{"do":"sleep"}]}
+- 13:49 act: {"say":"Clark, dusk 1224, at the row in sight. Health 17, hunger 16. Nobody alone with me. Going to bed beside the bed.","actions":[{"do":"sleep"}]}
