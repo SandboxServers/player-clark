@@ -28,3 +28,6 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 05:42 act: {"actions":[{"do":"note","text":"Morning 1199 at the bed row, slept, hunger 16, health 17. Holding 5 melon for the lowest named person alone in reach. Aragorn and Indy named first in the crowd."}],"sa
 - 05:50 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, night 1200. Going to bed at the row, in your sight. Holding 5 melon for the lowest named one of you, when a
 - 05:50 act: {"actions":[{"do":"sleep"}]}
+- 05:55 act: {"say":"William here, day 1200, at the row in sight. Hunger 16, so I hold my melon for the lowest. I will stay here and look for sheep and cows with company.","intent":{"goal":"hold_at_row","program":
+- 06:01 act: {"say":"William, dusk 1200, at the row in the group's sight. Hunger 16, health 17, holding 5 melon for the lowest named one alone in reach. Going to bed now.","actions":[{"do":"sleep"}]}
+- 06:05 act: {"say":"William, morning 1201, at the row in sight. Health 17, hunger 16. Indy and Aragorn are lower; I hold my 5 melon for whoever is lowest and stands alone with me. I will sleep in a bed at dusk."}
