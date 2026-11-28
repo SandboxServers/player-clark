@@ -57,3 +57,4 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 07:57 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1206. Health 17, hunger 16. Nobody stands alone with me, so I hold 5 melon. Sleeping at the row bed in
 - 08:05 act: {"actions":[],"say":"Clark, day 1207, health 17, hunger 16. MacGyver, you are lowest at 9.8. If you stand alone within two blocks of me and name yourself, I will hand you a melon slice. I hold 5."}
 - 08:09 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1207. Health 17, hunger 16. Sleeping at the row bed in sight. Holding 5 melon for MacGyver or whoever 
+- 08:22 act: {"say":"William here, at the bed row at dusk. I have 5 melon slices for whoever is weakest. Staying in sight for the night."}
