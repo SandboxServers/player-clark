@@ -8,3 +8,6 @@ Day 1184 midday. Sleep refused (it is day). Hunger 16. Told the group I'd join M
 - 00:51 act: {"actions":[],"say":"Clark, hunger 16, holding 5 melon. Magellan and Gimli: I can't see you in my list yet. Walk into my sight and within reach, then say your name and I'll hand a slice over."}
 - 00:59 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}},{"do":"sleep"}]}
 - 01:03 act: {"say":"Clark, morning, hunger 16, holding 5 melon. Gimli, Magellan, Seven: if you are alone in my reach and say your name, I'll hand you a slice. Others are fed for now."}
+- 01:24 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1186, going to bed at the row in the group's sight. Holding 5 melon for the weakest alone in reach."}
+- 01:36 act: {"say":"Clark, dusk 1187, going to bed at the row in the group's sight. Holding 5 melon for the weakest alone in reach.","actions":[{"do":"sleep"}]}
+- 02:00 act: {"actions":[],"say":"Clark, afternoon 1188, hunger 16. Holding 5 melon. Nemo, if you come alone into my reach with nobody within 2 blocks and say your name, I'll give you 2."}
