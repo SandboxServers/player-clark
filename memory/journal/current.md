@@ -1,13 +1,5 @@
-Day 1184 midday. Sleep refused (it is day). Hunger 16. Told the group I'd join Magellan's melon run in sight; set a follow intent on Magellan.
-- 00:40 act: {"say":"Clark, hunger 16, not yet at my line. Keep the chicken and flesh for Trini or whoever is weaker. Thank you all. I'll stay at the row in sight."}
-- 00:44 act: {"say":"Clark, hunger 16, holding 5 melon slices myself. Magellan, at 17 you are weaker than me: come within my reach and say your name, and I'll hand you 2."}
-- 00:48 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"melon_slice","count":2}],"say":"Magellan, 2 melon given. Stay in sight tonight."}
-- 00:48 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}]}
-- 00:48 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"melon_slice","count":2}],"say":"Magellan, 2 melon slices, handing them to you now. Stay in sight."}
-- 00:48 act: {"actions":[],"say":"Magellan, the give was blocked by people crowding you. Step two blocks away from the others and say your name; I'll hand the melon over."}
-- 00:51 act: {"actions":[],"say":"Clark, hunger 16, holding 5 melon. Magellan and Gimli: I can't see you in my list yet. Walk into my sight and within reach, then say your name and I'll hand a slice over."}
-- 00:59 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3048}},{"do":"sleep"}]}
-- 01:03 act: {"say":"Clark, morning, hunger 16, holding 5 melon. Gimli, Magellan, Seven: if you are alone in my reach and say your name, I'll hand you a slice. Others are fed for now."}
-- 01:24 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1186, going to bed at the row in the group's sight. Holding 5 melon for the weakest alone in reach."}
-- 01:36 act: {"say":"Clark, dusk 1187, going to bed at the row in the group's sight. Holding 5 melon for the weakest alone in reach.","actions":[{"do":"sleep"}]}
-- 02:00 act: {"actions":[],"say":"Clark, afternoon 1188, hunger 16. Holding 5 melon. Nemo, if you come alone into my reach with nobody within 2 blocks and say your name, I'll give you 2."}
+Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still holding 5 melon; Nemo still has the crowd within 2 blocks, so no give. Sleep still refused (day). Waiting for night or a clear moment. Next: give melon to Nemo if alone in reach, sleep at the row at night.
+- 02:46 act: {"say":"Clark, day 1191, hunger 16, health 17. Holding 5 melon for the weakest who comes alone. Nemo, I'll give you 2 once you're clear of the crowd."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1192, going to a bed at the row in the group's sight."}
+- 03:26 act: {"actions":[],"say":"Clark, morning 1193, hunger 16, health 17. Holding 5 melon. Nemo, Bilbo, Gimli: whoever is alone with me in reach, say your name and I'll hand you a slice."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, night 1194, hunger 16, health 17. Going to the bed at -950,73,-3048 in the group's sight. Holding 5 melon f
