@@ -6,3 +6,16 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 03:47 act: {"say":"Clark, morning 1194. Hunger 16, health 17. Staying in the group's sight at the row. Mulan, Tubman: I still hold one dark oak plank for the wall. Name the next cell and I will place it."}
 - 03:49 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}},{"do":"place","block":"dark_oak_planks","at":{"x":-943,"y":73,"z":-3049}}],"say":"Clark: placing my dark oak plank at -943,73,-3049, conf
 - 03:53 act: {"say":"Clark: my plank is placed at -943,73,-3049, and I have no plank left. Mulan, Nemo has 2 planks for the next confirmed cell. I hold at the row, hunger 16, and will eat only at 6 or below."}
+- 03:58 act: {"say":"Clark, dusk 1194. Hunger 16, health 17. Staying at the row in the group's sight until night, then sleeping in a bed."}
+- 04:06 act: {"say":"Clark, morning 1195. Hunger 16, health 17. Holding 5 melon for the lowest named person alone in reach. Staying at the row in sight until dusk, then bed."}
+- 04:10 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1195. Hunger 16, health 17. Sleeping beside the row, group in sight."}
+- 04:22 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1195. Hunger 16, health 17, holding 5 melon for the lowest named person alone in reach. Sleeping at the row in sight."}
+- 04:26 act: {"actions":[],"say":"Clark, morning 1196. Hunger 16, health 17. I hold 5 melon for the lowest named person who stands alone in my reach. Trini, Zack, Billy are in sight; I stay at the row."}
+- 04:34 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1196. Hunger 16, health 17. Sleeping at the row in sight with 5 melon held for the lowest named person alone in reach."}
+- Morning 1196 woke at the row, health 17, hunger 16. Hold 5 melon; nobody alone needing it. My rest intent failed (no effect), still in sight.
+- 04:39 act: {"intent":{"goal":"hold_at_row_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Clark, 
+- Dusk 1197: Aragorn named himself for one melon, not yet at 15 or below, so I held. Going to a bed at the row to sleep.
+- 04:45 act: {"actions":[],"say":"Clark, morning 1197. Aragorn, I hear you. I hold 5 melon and will hand one over when you stand alone in my reach."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1197. Health 17, hunger 16. Going to a bed at the row in the group's sight, 5 melon held for the lowes
+- 05:13 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1198. Health 17, hunger 16. Sleeping in the bed at the row, in the group's sight. I hold 5 melon for the lowest named person alone in reach."}
+- 05:25 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1199. Health 17, hunger 16. Sleeping in the row bed, in the group's sight. Holding 5 melon for the lowest named person alone in reach."}
