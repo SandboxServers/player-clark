@@ -3,3 +3,6 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1192, going to a bed at the row in the group's sight."}
 - 03:26 act: {"actions":[],"say":"Clark, morning 1193, hunger 16, health 17. Holding 5 melon. Nemo, Bilbo, Gimli: whoever is alone with me in reach, say your name and I'll hand you a slice."}
 - 03:46 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, night 1194, hunger 16, health 17. Going to the bed at -950,73,-3048 in the group's sight. Holding 5 melon f
+- 03:47 act: {"say":"Clark, morning 1194. Hunger 16, health 17. Staying in the group's sight at the row. Mulan, Tubman: I still hold one dark oak plank for the wall. Name the next cell and I will place it."}
+- 03:49 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}},{"do":"place","block":"dark_oak_planks","at":{"x":-943,"y":73,"z":-3049}}],"say":"Clark: placing my dark oak plank at -943,73,-3049, conf
+- 03:53 act: {"say":"Clark: my plank is placed at -943,73,-3049, and I have no plank left. Mulan, Nemo has 2 planks for the next confirmed cell. I hold at the row, hunger 16, and will eat only at 6 or below."}
