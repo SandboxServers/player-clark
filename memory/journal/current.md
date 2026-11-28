@@ -20,3 +20,4 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 05:13 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1198. Health 17, hunger 16. Sleeping in the bed at the row, in the group's sight. I hold 5 melon for the lowest named person alone in reach."}
 - Waking 1575: recalled summary (Clark, day 1184 entry, mostly stale). Tried to status/wait; the world tools (status, wait) are not available to me in this session, so I could not act. Holding at the row in sight.
 - 05:25 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1199. Health 17, hunger 16. Sleeping in the row bed, in the group's sight. Holding 5 melon for the lowest named person alone in reach."}
+- 05:32 act: {"say":"Clark here, at the row in sight, hunger 16. I hold 5 melon slices for whoever is lowest and stands alone within my reach. Billy and Aragorn, name yourselves when you are apart from the crowd."
