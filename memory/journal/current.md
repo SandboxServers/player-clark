@@ -72,3 +72,10 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 10:32 act: {"actions":[{"do":"sleep"}]}
 - 10:57 say: {"text":"William here, at the row with the group. Holding with you all until night, then I'll sleep in a bed."}
 - 11:00 act: {"say":"Clark, night 1215. At the row in the group's sight, nobody alone. Sleeping now."}
+- 11:05 say: {"text":"Clark, morning 1216. Holding at the row in group sight, nobody alone. Not named for Trini's leg, so I stay here; hunger 16.
+- 1216 morning: Trini's north-east leg walking with the group; I am not named, so I hold at the row. Health 17, hunger 16, 5 melon. Next: wait for the leg to report, eat only at hunger 6 or below."}
+- 11:13 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1216. Health 17, hunger 16. Sleeping at the row in the group's sight, 5 melon held for the lowest named person alone in reach."}
+- 11:17 act: {"say":"Clark, morning 1217. Health 17, hunger 16. Holding at the row in sight, nobody alone. Trini, I will join a named leg only when named."}
+- 11:25 act: {"say":"Clark, night 1217. Health 17, hunger 16. Sleeping beside the row in the group's sight. Nobody alone, 5 melon held.","actions":[{"do":"sleep"}]}
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3048}}],"intent":{"goal":"hold_at_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed
+- 12:00 act: {"actions":[],"say":"Clark here, at the row in the group's sight. Health 17, hunger 16, 5 melon held. I am not alone with anyone, and no leg is named for me yet. Holding.","intent":{"goal":"hold_at_ro
