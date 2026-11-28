@@ -58,3 +58,15 @@ Day 1190 day. Hunger 16, health 17.3, at the bed row, group in sight. Still hold
 - 08:05 act: {"actions":[],"say":"Clark, day 1207, health 17, hunger 16. MacGyver, you are lowest at 9.8. If you stand alone within two blocks of me and name yourself, I will hand you a melon slice. I hold 5."}
 - 08:09 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1207. Health 17, hunger 16. Sleeping at the row bed in sight. Holding 5 melon for MacGyver or whoever 
 - 08:22 act: {"say":"William here, at the bed row at dusk. I have 5 melon slices for whoever is weakest. Staying in sight for the night."}
+- 08:31 say: {"text":"Clark, day 1208, hunger 16, health 17. Holding 5 melon. Bilbo, I hear you; when you stand alone within two blocks of me, I will hand you a slice. Staying at the row in sight."}
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Clark, dusk 1208. Health 17, hunger 16. Going to the bed at -950,73,-3048 in the group's sight. Holding 5 melon fo
+- 08:39 say: {"text":"Clark, day 1208, health 17, hunger 16. Yes to Trini's west route to -970,73,-3047 and back, in sight. I walk with the group and will look for sheep for Leonardo on the way."}
+- 08:39 act: {"actions":[],"say":"Clark, day 1208, at the row in sight, hunger 16, health 17. Waiting for Trini's group to set out west; I walk with them, no one alone."}
+- 08:54 act: {"say":"Clark, day 1209, hunger 16, health 17. I hold 5 melon for the lowest named person who stands alone in my reach. I stay at the row in sight, and I will walk with Trini's group if named."}
+- 09:02 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1209. Health 17, hunger 16. Sleeping at the bed row in the group's sight, 5 melon held for the lowest named person who stands alone in my reach."}
+- 09:14 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1210. Hunger 16, health 17, 5 melon held for the lowest named person who stands alone in my reach. Sleeping in the row's sight."}
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Clark, night 1211. Hunger 16, health 17, 5 melon held. Sleeping at the row in sight; nobody alone with me."}
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3047}},{"do":"sleep"}]}
+- 10:07 act: {"actions":[{"do":"sleep"}],"say":"Clark, night 1213. Health 17, hunger 16, 5 melon held. Sleeping at the row in the group's sight. Nobody alone with me."}
+- 10:19 act: {"actions":[{"do":"sleep"}],"say":"Clark, dusk 1213. Going to sleep here at the row, in the group's sight. Nobody alone."}
+- 10:32 act: {"actions":[{"do":"sleep"}]}
